@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-18T14:35:21.702768+00:00",
+  "generated_utc": "2026-07-18T15:35:21.729890+00:00",
   "description": "Tutti i segnali validi, capitale illimitato, nessun Telegram",
   "accounts": [
     {
@@ -86,11 +86,11 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 10.0,
-      "closed_trades": 9,
-      "winning_trades": 5,
-      "win_rate_pct": 55.55555555555556,
-      "net_pnl_usdt": 91.61502840001705,
-      "profit_factor": 1.154462293230715,
+      "closed_trades": 10,
+      "winning_trades": 6,
+      "win_rate_pct": 60.0,
+      "net_pnl_usdt": 228.56249120001664,
+      "profit_factor": 1.3853547518768554,
       "open_positions": 0
     },
     {
@@ -99,11 +99,11 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 20.0,
-      "closed_trades": 9,
-      "winning_trades": 5,
-      "win_rate_pct": 55.55555555555556,
-      "net_pnl_usdt": 183.2300568000341,
-      "profit_factor": 1.154462293230715,
+      "closed_trades": 10,
+      "winning_trades": 6,
+      "win_rate_pct": 60.0,
+      "net_pnl_usdt": 457.1249824000333,
+      "profit_factor": 1.3853547518768554,
       "open_positions": 0
     },
     {
@@ -117,7 +117,7 @@
       "win_rate_pct": 0.0,
       "net_pnl_usdt": 0.0,
       "profit_factor": 0.0,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
