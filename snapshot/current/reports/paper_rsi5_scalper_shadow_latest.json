@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-18T19:40:21.718964+00:00",
+  "generated_utc": "2026-07-18T20:45:21.695468+00:00",
   "description": "Tutti i segnali validi, capitale illimitato, nessun Telegram",
   "accounts": [
     {
@@ -86,12 +86,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 10.0,
-      "closed_trades": 12,
+      "closed_trades": 13,
       "winning_trades": 6,
-      "win_rate_pct": 50.0,
-      "net_pnl_usdt": -67.99865159997628,
-      "profit_factor": 0.9235698345845713,
-      "open_positions": 1
+      "win_rate_pct": 46.15384615384615,
+      "net_pnl_usdt": -216.27922299997408,
+      "profit_factor": 0.7916312867867745,
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_20X",
@@ -99,12 +99,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 20.0,
-      "closed_trades": 12,
+      "closed_trades": 13,
       "winning_trades": 6,
-      "win_rate_pct": 50.0,
-      "net_pnl_usdt": -135.99730319995257,
-      "profit_factor": 0.9235698345845713,
-      "open_positions": 1
+      "win_rate_pct": 46.15384615384615,
+      "net_pnl_usdt": -432.55844599994816,
+      "profit_factor": 0.7916312867867745,
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -117,7 +117,7 @@
       "win_rate_pct": 0.0,
       "net_pnl_usdt": -365.034874199991,
       "profit_factor": 0.0,
-      "open_positions": 1
+      "open_positions": 3
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
@@ -130,7 +130,7 @@
       "win_rate_pct": 0.0,
       "net_pnl_usdt": -444.84171419999586,
       "profit_factor": 0.0,
-      "open_positions": 0
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI75_20X",
@@ -143,7 +143,7 @@
       "win_rate_pct": 0.0,
       "net_pnl_usdt": -889.6834283999917,
       "profit_factor": 0.0,
-      "open_positions": 0
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI75_5X_WIDE",
@@ -156,7 +156,7 @@
       "win_rate_pct": 0.0,
       "net_pnl_usdt": -243.35658279999583,
       "profit_factor": 0.0,
-      "open_positions": 0
+      "open_positions": 2
     }
   ]
 }
