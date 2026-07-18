@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-18T13:35:21.706012+00:00",
-  "last_processed_candle": "2026-07-18T13:30:00+00:00",
+  "updated_utc": "2026-07-18T14:35:21.702768+00:00",
+  "last_processed_candle": "2026-07-18T14:30:00+00:00",
   "last_daily_status_date": "2026-07-17",
   "telegram_started_sent": true,
   "accounts": {
@@ -509,7 +509,7 @@
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "balance_usdt": 3788.6,
       "peak_equity_usdt": 3814.0889527095205,
-      "max_drawdown_pct": 1.5659545558670458,
+      "max_drawdown_pct": 1.6424621768707532,
       "open_position": {
         "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:BTC:20260718T115500Z",
         "account": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -578,7 +578,7 @@
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "balance_usdt": 3788.6,
       "peak_equity_usdt": 3814.0889527095205,
-      "max_drawdown_pct": 1.5659545558670458,
+      "max_drawdown_pct": 1.6424621768707532,
       "open_position": {
         "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:BTC:20260718T115500Z",
         "account": "RSI5_SHORT_RSI75_5X_WIDE",
