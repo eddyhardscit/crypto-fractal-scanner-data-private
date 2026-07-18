@@ -1,0 +1,54 @@
+generated_utc=2026-07-18T13:00:56Z
+hostname=kucoin-sol-live-01
+files_copied=50
+
+btc_spot_adaptive_shadow_history.csv | 1863 byte | 2026-07-18 13:00 UTC
+btc_spot_adaptive_shadow_report.md | 884 byte | 2026-07-18 13:00 UTC
+btc_spot_adaptive_shadow_state.json | 785 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_latest.json | 12978 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_latest.md | 2295 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_shadow_latest.json | 4354 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_shadow_report.md | 1382 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_shadow_trades.csv | 10203 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_signals.csv | 10053 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_state.json | 36200 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_storage_status.json | 171 byte | 2026-07-18 13:00 UTC
+paper_rsi5_scalper_trades.csv | 8125 byte | 2026-07-18 13:00 UTC
+paper_shadow_edge_events.csv | 153622 byte | 2026-07-18 13:00 UTC
+paper_shadow_edge_latest.json | 93271 byte | 2026-07-18 13:00 UTC
+paper_shadow_edge_profiles.csv | 15802 byte | 2026-07-18 13:00 UTC
+paper_shadow_edge_report.md | 13863 byte | 2026-07-18 13:00 UTC
+paper_shadow_filter_candidates.csv | 10492 byte | 2026-07-18 13:00 UTC
+paper_trading_capital_allocator_history.csv | 165 byte | 2026-07-18 13:00 UTC
+paper_trading_capital_allocator_latest.json | 898 byte | 2026-07-18 13:00 UTC
+paper_trading_capital_allocator_report.md | 843 byte | 2026-07-18 13:00 UTC
+paper_trading_capital_allocator_state.json | 231 byte | 2026-07-18 13:00 UTC
+paper_trading_capital_allocator_weights.csv | 147 byte | 2026-07-18 13:00 UTC
+paper_trading_comparative_latest.json | 49443 byte | 2026-07-18 13:00 UTC
+paper_trading_comparative_ranking.csv | 13584 byte | 2026-07-18 13:00 UTC
+paper_trading_comparative_report.md | 8951 byte | 2026-07-18 13:00 UTC
+paper_trading_cycle_summary.json | 49667 byte | 2026-07-18 13:00 UTC
+paper_trading_equity.csv | 1073679 byte | 2026-07-18 13:00 UTC
+paper_trading_exit_analysis.csv | 67682 byte | 2026-07-18 13:00 UTC
+paper_trading_exit_analysis.md | 1566 byte | 2026-07-18 13:00 UTC
+paper_trading_live.md | 61748 byte | 2026-07-18 13:00 UTC
+paper_trading_open_positions.csv | 24561 byte | 2026-07-18 13:00 UTC
+paper_trading_report.md | 61748 byte | 2026-07-18 13:00 UTC
+paper_trading_shadow_metrics.csv | 20353 byte | 2026-07-18 13:00 UTC
+paper_trading_signal_diagnostics.json | 592194 byte | 2026-07-18 13:00 UTC
+paper_trading_signal_log.csv | 90433 byte | 2026-07-18 13:00 UTC
+paper_trading_state.json | 219053 byte | 2026-07-18 13:00 UTC
+paper_trading_storage_status.json | 295 byte | 2026-07-18 13:00 UTC
+paper_trading_trade_log_before_repair.csv | 5685 byte | 2026-07-18 13:00 UTC
+paper_trading_trade_log.csv | 113739 byte | 2026-07-18 13:00 UTC
+paper_trading_trade_log_repair_status.json | 2027 byte | 2026-07-18 13:00 UTC
+paper_trading_trade_path.csv | 870090 byte | 2026-07-18 13:00 UTC
+research_all_signals_latest.json | 45183 byte | 2026-07-18 13:00 UTC
+research_all_signals_report.md | 10585 byte | 2026-07-18 13:00 UTC
+research_all_signals_state.json | 252492 byte | 2026-07-18 13:00 UTC
+research_all_signals_trades.csv | 201494 byte | 2026-07-18 13:00 UTC
+sol_spot_adaptive_dashboard.json | 3803 byte | 2026-07-18 13:00 UTC
+sol_spot_adaptive_dashboard.md | 3011 byte | 2026-07-18 13:00 UTC
+sol_spot_adaptive_installation_status.md | 694 byte | 2026-07-18 13:00 UTC
+sol_spot_adaptive_report.md | 790 byte | 2026-07-18 13:00 UTC
+sol_spot_adaptive_state.json | 836 byte | 2026-07-18 13:00 UTC

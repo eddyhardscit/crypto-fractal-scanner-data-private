@@ -1,0 +1,12 @@
+{
+  "action": "upload",
+  "ok": true,
+  "tag": "paper-trading-v1",
+  "asset": "paper-trading-state.zip",
+  "bytes": 573861,
+  "asset_id": 481467748,
+  "permanent_trade_rows": 188,
+  "permanent_trade_asset_id": 481467702,
+  "permanent_signal_rows": 389,
+  "permanent_signal_asset_id": 481467735
+}

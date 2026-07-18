@@ -1,0 +1,1267 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-07-17T15:28:56.085696+00:00",
+  "updated_utc": "2026-07-18T13:00:21.790852+00:00",
+  "last_processed_candle": "2026-07-18T12:55:00+00:00",
+  "last_daily_status_date": "2026-07-17",
+  "telegram_started_sent": true,
+  "accounts": {
+    "RSI5_RSI20_10X": {
+      "name": "RSI5_RSI20_10X",
+      "label": "RSI 20 · leva 10×",
+      "created_utc": "2026-07-17T15:28:56.085696+00:00",
+      "balance_usdt": 3800.0,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 0.0,
+      "open_position": null,
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI20_20X": {
+      "name": "RSI5_RSI20_20X",
+      "label": "RSI 20 · leva 20×",
+      "created_utc": "2026-07-17T15:28:56.085696+00:00",
+      "balance_usdt": 3800.0,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 0.0,
+      "open_position": null,
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI25_10X": {
+      "name": "RSI5_RSI25_10X",
+      "label": "RSI 25 · leva 10×",
+      "created_utc": "2026-07-17T15:28:56.085696+00:00",
+      "balance_usdt": 3786.0199505413984,
+      "peak_equity_usdt": 3811.336010031785,
+      "max_drawdown_pct": 4.666658824438735,
+      "open_position": null,
+      "closed_trades": 2,
+      "winning_trades": 1,
+      "gross_profit_usdt": 134.13940194139596,
+      "gross_loss_usdt": 148.11945139999798,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET_GAP"
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "STOP"
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI25_20X": {
+      "name": "RSI5_RSI25_20X",
+      "label": "RSI 25 · leva 20×",
+      "created_utc": "2026-07-17T15:28:56.085696+00:00",
+      "balance_usdt": 3761.1585733053575,
+      "peak_equity_usdt": 3809.7370649599234,
+      "max_drawdown_pct": 9.270954681758187,
+      "open_position": null,
+      "closed_trades": 2,
+      "winning_trades": 1,
+      "gross_profit_usdt": 257.3974761053539,
+      "gross_loss_usdt": 296.23890279999597,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET_GAP"
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "STOP"
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_SHORT_RSI70_10X": {
+      "name": "RSI5_SHORT_RSI70_10X",
+      "label": "SHORT RSI 70 · leva 10×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "balance_usdt": 4045.283835807044,
+      "peak_equity_usdt": 4198.21834534389,
+      "max_drawdown_pct": 4.670941784441215,
+      "open_position": null,
+      "closed_trades": 6,
+      "winning_trades": 4,
+      "gross_profit_usdt": 541.8449786070391,
+      "gross_loss_usdt": 296.5611427999951,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_SHORT_RSI70_20X": {
+      "name": "RSI5_SHORT_RSI70_20X",
+      "label": "SHORT RSI 70 · leva 20×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "balance_usdt": 4277.907581850201,
+      "peak_equity_usdt": 4583.776600923894,
+      "max_drawdown_pct": 9.279446521761727,
+      "open_position": null,
+      "closed_trades": 6,
+      "winning_trades": 4,
+      "gross_profit_usdt": 1071.029867450192,
+      "gross_loss_usdt": 593.1222855999902,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_SHORT_RSI75_10X": {
+      "name": "RSI5_SHORT_RSI75_10X",
+      "label": "SHORT RSI 75 · leva 10×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "balance_usdt": 3651.7194286000013,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 3.9021202999999662,
+      "open_position": null,
+      "closed_trades": 1,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 148.28057139999865,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_SHORT_RSI75_20X": {
+      "name": "RSI5_SHORT_RSI75_20X",
+      "label": "SHORT RSI 75 · leva 20×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "balance_usdt": 3503.438857200003,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 7.804240599999922,
+      "open_position": null,
+      "closed_trades": 1,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 296.5611427999973,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_RSI20_5X_WIDE": {
+      "name": "RSI5_RSI20_5X_WIDE",
+      "label": "RSI 20 · leva 5× · Wide",
+      "direction": "LONG",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "balance_usdt": 3800.0,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 0.0,
+      "open_position": null,
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI25_5X_WIDE": {
+      "name": "RSI5_RSI25_5X_WIDE",
+      "label": "RSI 25 · leva 5× · Wide",
+      "direction": "LONG",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "balance_usdt": 3800.0,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 0.0,
+      "open_position": null,
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_SHORT_RSI70_5X_WIDE": {
+      "name": "RSI5_SHORT_RSI70_5X_WIDE",
+      "label": "SHORT RSI 70 · leva 5× · Wide",
+      "direction": "SHORT",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "balance_usdt": 3788.6,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 1.5659545558670458,
+      "open_position": {
+        "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:BTC:20260718T115500Z",
+        "account": "RSI5_SHORT_RSI70_5X_WIDE",
+        "account_label": "SHORT RSI 70 · leva 5× · Wide",
+        "book": "OPERATIONAL",
+        "direction": "SHORT",
+        "asset": "BTC",
+        "symbol": "XBTUSDTM",
+        "rsi_trigger": 70.0,
+        "signal_rsi": 77.47799047390176,
+        "previous_rsi": 61.65761554302424,
+        "leverage": 5.0,
+        "opened_at": "2026-07-18T11:55:00+00:00",
+        "opened_candle_time": "2026-07-18T11:55:00+00:00",
+        "entry_price": 64025.89226,
+        "stop_price": 64346.02172129999,
+        "target_price": 63385.6333374,
+        "liquidation_price": 76510.94125070001,
+        "margin_usdt": 3800.0,
+        "notional_usdt": 19000.0,
+        "quantity": 0.29675494287285703,
+        "entry_fee_usdt": 11.399999999999999,
+        "max_holding_hours": 6.0
+      },
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_SHORT_RSI75_5X_WIDE": {
+      "name": "RSI5_SHORT_RSI75_5X_WIDE",
+      "label": "SHORT RSI 75 · leva 5× · Wide",
+      "direction": "SHORT",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "balance_usdt": 3788.6,
+      "peak_equity_usdt": 3800.0,
+      "max_drawdown_pct": 1.5659545558670458,
+      "open_position": {
+        "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:BTC:20260718T115500Z",
+        "account": "RSI5_SHORT_RSI75_5X_WIDE",
+        "account_label": "SHORT RSI 75 · leva 5× · Wide",
+        "book": "OPERATIONAL",
+        "direction": "SHORT",
+        "asset": "BTC",
+        "symbol": "XBTUSDTM",
+        "rsi_trigger": 75.0,
+        "signal_rsi": 77.47799047390176,
+        "previous_rsi": 61.65761554302424,
+        "leverage": 5.0,
+        "opened_at": "2026-07-18T11:55:00+00:00",
+        "opened_candle_time": "2026-07-18T11:55:00+00:00",
+        "entry_price": 64025.89226,
+        "stop_price": 64346.02172129999,
+        "target_price": 63385.6333374,
+        "liquidation_price": 76510.94125070001,
+        "margin_usdt": 3800.0,
+        "notional_usdt": 19000.0,
+        "quantity": 0.29675494287285703,
+        "entry_fee_usdt": 11.399999999999999,
+        "max_holding_hours": 6.0
+      },
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    }
+  },
+  "fixed_sizing_notice_sent": true,
+  "shadow_accounts": {
+    "RSI5_RSI20_10X": {
+      "name": "RSI5_RSI20_10X",
+      "label": "RSI 20 · leva 10×",
+      "direction": "LONG",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "net_pnl_usdt": 0.0,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI20_20X": {
+      "name": "RSI5_RSI20_20X",
+      "label": "RSI 20 · leva 20×",
+      "direction": "LONG",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "net_pnl_usdt": 0.0,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI25_10X": {
+      "name": "RSI5_RSI25_10X",
+      "label": "RSI 25 · leva 10×",
+      "direction": "LONG",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 2,
+      "winning_trades": 1,
+      "gross_profit_usdt": 139.58006583011496,
+      "gross_loss_usdt": 148.11945139999798,
+      "net_pnl_usdt": -8.539385569883024,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET_GAP"
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "STOP"
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI25_20X": {
+      "name": "RSI5_RSI25_20X",
+      "label": "RSI 25 · leva 20×",
+      "direction": "LONG",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 2,
+      "winning_trades": 1,
+      "gross_profit_usdt": 279.1601316602299,
+      "gross_loss_usdt": 296.23890279999597,
+      "net_pnl_usdt": -17.078771139766047,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET_GAP"
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "STOP"
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_SHORT_RSI70_10X": {
+      "name": "RSI5_SHORT_RSI70_10X",
+      "label": "SHORT RSI 70 · leva 10×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 9,
+      "winning_trades": 5,
+      "gross_profit_usdt": 684.7373140000047,
+      "gross_loss_usdt": 593.1222855999877,
+      "net_pnl_usdt": 91.61502840001705,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "STOP"
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_SHORT_RSI70_20X": {
+      "name": "RSI5_SHORT_RSI70_20X",
+      "label": "SHORT RSI 70 · leva 20×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 9,
+      "winning_trades": 5,
+      "gross_profit_usdt": 1369.4746280000095,
+      "gross_loss_usdt": 1186.2445711999753,
+      "net_pnl_usdt": 183.2300568000341,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "TARGET"
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": "STOP"
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_SHORT_RSI75_10X": {
+      "name": "RSI5_SHORT_RSI75_10X",
+      "label": "SHORT RSI 75 · leva 10×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 1,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 148.28057139999865,
+      "net_pnl_usdt": -148.28057139999865,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_SHORT_RSI75_20X": {
+      "name": "RSI5_SHORT_RSI75_20X",
+      "label": "SHORT RSI 75 · leva 20×",
+      "direction": "SHORT",
+      "created_utc": "2026-07-17T17:40:03.301352+00:00",
+      "open_positions": [],
+      "closed_trades": 1,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 296.5611427999973,
+      "net_pnl_usdt": -296.5611427999973,
+      "asset_guards": {
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-18T14:45:00+00:00",
+          "last_close_reason": "STOP"
+        }
+      }
+    },
+    "RSI5_RSI20_5X_WIDE": {
+      "name": "RSI5_RSI20_5X_WIDE",
+      "label": "RSI 20 · leva 5× · Wide",
+      "direction": "LONG",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "open_positions": [],
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "net_pnl_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_RSI25_5X_WIDE": {
+      "name": "RSI5_RSI25_5X_WIDE",
+      "label": "RSI 25 · leva 5× · Wide",
+      "direction": "LONG",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "open_positions": [],
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "net_pnl_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_SHORT_RSI70_5X_WIDE": {
+      "name": "RSI5_SHORT_RSI70_5X_WIDE",
+      "label": "SHORT RSI 70 · leva 5× · Wide",
+      "direction": "SHORT",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "open_positions": [
+        {
+          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:BTC:20260718T115500Z:SHADOW",
+          "account": "RSI5_SHORT_RSI70_5X_WIDE",
+          "account_label": "SHORT RSI 70 · leva 5× · Wide",
+          "book": "SHADOW",
+          "direction": "SHORT",
+          "asset": "BTC",
+          "symbol": "XBTUSDTM",
+          "rsi_trigger": 70.0,
+          "signal_rsi": 77.47799047390176,
+          "previous_rsi": 61.65761554302424,
+          "leverage": 5.0,
+          "opened_at": "2026-07-18T11:55:00+00:00",
+          "opened_candle_time": "2026-07-18T11:55:00+00:00",
+          "entry_price": 64025.89226,
+          "stop_price": 64346.02172129999,
+          "target_price": 63385.6333374,
+          "liquidation_price": 76510.94125070001,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 19000.0,
+          "quantity": 0.29675494287285703,
+          "entry_fee_usdt": 11.399999999999999,
+          "max_holding_hours": 6.0
+        }
+      ],
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "net_pnl_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    },
+    "RSI5_SHORT_RSI75_5X_WIDE": {
+      "name": "RSI5_SHORT_RSI75_5X_WIDE",
+      "label": "SHORT RSI 75 · leva 5× · Wide",
+      "direction": "SHORT",
+      "created_utc": "2026-07-18T09:51:25.156367+00:00",
+      "open_positions": [
+        {
+          "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:BTC:20260718T115500Z:SHADOW",
+          "account": "RSI5_SHORT_RSI75_5X_WIDE",
+          "account_label": "SHORT RSI 75 · leva 5× · Wide",
+          "book": "SHADOW",
+          "direction": "SHORT",
+          "asset": "BTC",
+          "symbol": "XBTUSDTM",
+          "rsi_trigger": 75.0,
+          "signal_rsi": 77.47799047390176,
+          "previous_rsi": 61.65761554302424,
+          "leverage": 5.0,
+          "opened_at": "2026-07-18T11:55:00+00:00",
+          "opened_candle_time": "2026-07-18T11:55:00+00:00",
+          "entry_price": 64025.89226,
+          "stop_price": 64346.02172129999,
+          "target_price": 63385.6333374,
+          "liquidation_price": 76510.94125070001,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 19000.0,
+          "quantity": 0.29675494287285703,
+          "entry_fee_usdt": 11.399999999999999,
+          "max_holding_hours": 6.0
+        }
+      ],
+      "closed_trades": 0,
+      "winning_trades": 0,
+      "gross_profit_usdt": 0.0,
+      "gross_loss_usdt": 0.0,
+      "net_pnl_usdt": 0.0,
+      "asset_guards": {
+        "SOL": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "XRP": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ADA": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "HYPE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "ETH": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        },
+        "BTC": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
+        }
+      }
+    }
+  },
+  "telegram_commands_registered_v1": true,
+  "telegram_command_offset": 206407024
+}
