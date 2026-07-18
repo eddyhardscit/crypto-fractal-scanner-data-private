@@ -1,6 +1,6 @@
 # RSI 5m Fixed TP Scalper — paper trading
 
-Generato: 2026-07-18T22:45:21.664479+00:00
+Generato: 2026-07-18T23:45:21.751274+00:00
 
 > Solo simulazione: nessun ordine reale e nessuna chiave KuCoin privata.
 
@@ -18,25 +18,25 @@ Generato: 2026-07-18T22:45:21.664479+00:00
 | RSI 25 · leva 5× · Wide | LONG | 25 | 5× | 3800.00 | 3800.00 | 0 | 0.0% | 0.00% | — |
 | SHORT RSI 70 · leva 10× | SHORT | 70 | 10× | 3737.39 | 3737.39 | 10 | 50.0% | 10.98% | — |
 | SHORT RSI 70 · leva 20× | SHORT | 70 | 20× | 3662.12 | 3662.12 | 10 | 50.0% | 20.11% | — |
-| SHORT RSI 70 · leva 5× · Wide | SHORT | 70 | 5× | 3549.86 | 3496.37 | 2 | 0.0% | 8.48% | BTC @ 64545.788 |
+| SHORT RSI 70 · leva 5× · Wide | SHORT | 70 | 5× | 3549.86 | 3480.85 | 2 | 0.0% | 8.82% | BTC @ 64545.788 |
 | SHORT RSI 75 · leva 10× | SHORT | 75 | 10× | 3240.70 | 3240.70 | 4 | 0.0% | 14.72% | — |
 | SHORT RSI 75 · leva 20× | SHORT | 75 | 20× | 2745.54 | 2745.54 | 4 | 0.0% | 27.75% | — |
-| SHORT RSI 75 · leva 5× · Wide | SHORT | 75 | 5× | 3549.86 | 3512.79 | 2 | 0.0% | 8.05% | BTC @ 64605.176 |
+| SHORT RSI 75 · leva 5× · Wide | SHORT | 75 | 5× | 3549.86 | 3497.27 | 2 | 0.0% | 8.39% | BTC @ 64605.176 |
 
 ## Mercato monitorato
 
 | Asset | Prezzo | RSI 5m | Turnover 24h | Ultima candela |
 | --- | ---: | ---: | ---: | --- |
-| ADA | 0.16676 | 60.06 | 11,620,498 | 2026-07-18T22:40:00+00:00 |
-| BTC | 64739.7 | 59.07 | 306,747,451 | 2026-07-18T22:40:00+00:00 |
-| ETH | 1861.6 | 58.55 | 211,157,587 | 2026-07-18T22:40:00+00:00 |
-| HYPE | 60.357 | 61.76 | 37,724,089 | 2026-07-18T22:40:00+00:00 |
-| SOL | 75.439 | 51.85 | 32,536,426 | 2026-07-18T22:40:00+00:00 |
-| XRP | 1.09245 | 46.56 | 21,927,268 | 2026-07-18T22:40:00+00:00 |
+| ADA | 0.16663 | 49.66 | 11,054,292 | 2026-07-18T23:40:00+00:00 |
+| BTC | 64796 | 60.33 | 313,859,851 | 2026-07-18T23:40:00+00:00 |
+| ETH | 1860.92 | 51.50 | 212,265,404 | 2026-07-18T23:40:00+00:00 |
+| HYPE | 60.267 | 48.70 | 37,377,578 | 2026-07-18T23:40:00+00:00 |
+| SOL | 75.457 | 50.40 | 33,178,214 | 2026-07-18T23:40:00+00:00 |
+| XRP | 1.09234 | 47.56 | 21,274,954 | 2026-07-18T23:40:00+00:00 |
 
 ## Avvisi
 
-- DOGE: turnover 24h 2,700,523 USDT sotto il minimo
-- AVAX: turnover 24h 2,943,904 USDT sotto il minimo
-- LINK: turnover 24h 2,247,827 USDT sotto il minimo
-- SUI: turnover 24h 2,865,716 USDT sotto il minimo
+- DOGE: turnover 24h 2,765,646 USDT sotto il minimo
+- AVAX: turnover 24h 2,835,205 USDT sotto il minimo
+- LINK: turnover 24h 2,206,350 USDT sotto il minimo
+- SUI: turnover 24h 2,903,432 USDT sotto il minimo
