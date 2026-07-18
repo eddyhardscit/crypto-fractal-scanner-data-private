@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-18T13:08:35+00:00",
+  "generated_utc": "2026-07-18T13:38:34+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
@@ -8,9 +8,9 @@
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-07-18T13:08:25+00:00",
-    "checked_utc": "2026-07-18T13:08:25+00:00",
-    "snapshot_age_minutes": 0.00487435,
+    "snapshot_generated_utc": "2026-07-18T13:38:25+00:00",
+    "checked_utc": "2026-07-18T13:38:25+00:00",
+    "snapshot_age_minutes": 0.00085895,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -48,7 +48,7 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 83,
+    "near_miss": 101,
     "below_score": 415,
     "strategy_filter": 7,
     "stale": 33,
@@ -56,14 +56,35 @@
   },
   "opened": [],
   "closed": [],
-  "trailing_updates": [],
+  "trailing_updates": [
+    {
+      "portfolio": "SHADOW_1H_BALANCED_V2",
+      "trade_id": "cc0cac3a38db07737818",
+      "asset": "HYPE",
+      "side": "SHORT",
+      "stop_price": 59.9600056,
+      "mark_price": 58.798,
+      "old_stop_price": 61.49831072287091,
+      "new_stop_price": 59.9600056
+    },
+    {
+      "portfolio": "SHADOW_RELATIVE_STRENGTH_V2",
+      "trade_id": "d8b7261a4af337ca97ba",
+      "asset": "HYPE",
+      "side": "SHORT",
+      "stop_price": 59.9600056,
+      "mark_price": 58.798,
+      "old_stop_price": 61.49831072287091,
+      "new_stop_price": 59.9600056
+    }
+  ],
   "risk_alerts": [],
   "risk_recoveries": [],
   "telegram_paper": {
     "configured": true,
-    "sent": false,
-    "event_messages": 0,
-    "account_summary_sent": false,
+    "sent": true,
+    "event_messages": 1,
+    "account_summary_sent": true,
     "digest_sent": false,
     "sample_milestone_sent": false,
     "sample_milestones": [],
@@ -1537,10 +1558,9 @@
     }
   },
   "telegram_open_positions": {
-    "configured": false,
-    "sent": false,
-    "messages": 0,
-    "skipped": true
+    "configured": true,
+    "sent": true,
+    "messages": 6
   },
   "telegram_scanner": {
     "sent": false,
@@ -1548,8 +1568,15 @@
     "changed": false
   },
   "live_publication": {
-    "configured": false,
-    "published": false,
-    "reasons": []
+    "configured": true,
+    "published": true,
+    "unchanged": false,
+    "path": "reports/paper_trading_live.md",
+    "branch": "paper-trading-live",
+    "commit_sha": "bf085377c0ecc4dbad1c655c5896ce2bb2f1d0af",
+    "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
+    "reasons": [
+      "market_event"
+    ]
   }
 }
