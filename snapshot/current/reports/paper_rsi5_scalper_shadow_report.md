@@ -1,6 +1,6 @@
 # RSI 5m — registro statistico silenzioso
 
-Generato: 2026-07-18T15:35:21.729890+00:00
+Generato: 2026-07-18T16:40:21.742504+00:00
 
 > Apre virtualmente ogni segnale valido anche quando il conto operativo è occupato.
 > Nessuna notifica Telegram. Ogni trade usa una simulazione indipendente da 3.800 USDT.
