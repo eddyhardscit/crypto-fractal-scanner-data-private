@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-18T21:45:21.796141+00:00",
-  "last_processed_candle": "2026-07-18T21:40:00+00:00",
+  "updated_utc": "2026-07-18T22:45:21.664479+00:00",
+  "last_processed_candle": "2026-07-18T22:40:00+00:00",
   "last_daily_status_date": "2026-07-18",
   "telegram_started_sent": true,
   "accounts": {
@@ -509,7 +509,7 @@
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "balance_usdt": 3549.858010574256,
       "peak_equity_usdt": 3814.0889527095205,
-      "max_drawdown_pct": 8.411744642977977,
+      "max_drawdown_pct": 8.484059428386399,
       "open_position": {
         "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:BTC:20260718T201000Z",
         "account": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -578,7 +578,7 @@
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "balance_usdt": 3549.858010574253,
       "peak_equity_usdt": 3814.0889527095205,
-      "max_drawdown_pct": 7.981311362833905,
+      "max_drawdown_pct": 8.053559673086696,
       "open_position": {
         "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:BTC:20260718T202000Z",
         "account": "RSI5_SHORT_RSI75_5X_WIDE",
@@ -892,8 +892,8 @@
           "last_close_reason": "TARGET"
         },
         "ADA": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-18T22:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "HYPE": {
@@ -966,8 +966,8 @@
           "last_close_reason": "TARGET"
         },
         "ADA": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-18T22:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "HYPE": {
@@ -1226,37 +1226,13 @@
           "quantity": 0.2943646752513918,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ADA:20260718T201500Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "ADA",
-          "symbol": "ADAUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 72.4425732632993,
-          "previous_rsi": 67.482679954969,
-          "leverage": 5.0,
-          "opened_at": "2026-07-18T20:15:00+00:00",
-          "opened_candle_time": "2026-07-18T20:15:00+00:00",
-          "entry_price": 0.16626674,
-          "stop_price": 0.1670980737,
-          "target_price": 0.16460407259999998,
-          "liquidation_price": 0.1986887543,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 114274.20781811203,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 3,
+      "closed_trades": 4,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 365.034874199991,
-      "net_pnl_usdt": -365.034874199991,
+      "gross_loss_usdt": 486.7131655999887,
+      "net_pnl_usdt": -486.7131655999887,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1269,9 +1245,9 @@
           "last_close_reason": null
         },
         "ADA": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-19T00:10:00+00:00",
+          "last_close_reason": "STOP"
         },
         "HYPE": {
           "needs_rearm": false,
