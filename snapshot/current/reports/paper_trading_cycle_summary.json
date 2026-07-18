@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-07-18T12:53:34+00:00",
+  "generated_utc": "2026-07-18T13:08:35+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 37,
+  "signals_generated": 40,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-07-18T12:53:24+00:00",
-    "checked_utc": "2026-07-18T12:53:24+00:00",
-    "snapshot_age_minutes": 0.0166426,
+    "snapshot_generated_utc": "2026-07-18T13:08:25+00:00",
+    "checked_utc": "2026-07-18T13:08:25+00:00",
+    "snapshot_age_minutes": 0.00487435,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -48,10 +48,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 72,
-    "below_score": 238,
-    "strategy_filter": 0,
-    "stale": 243,
+    "near_miss": 83,
+    "below_score": 415,
+    "strategy_filter": 7,
+    "stale": 33,
     "opened": 0
   },
   "opened": [],

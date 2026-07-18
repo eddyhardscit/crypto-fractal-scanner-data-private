@@ -9,6 +9,7 @@ Contiene dati e report di:
 - RSI 5 minuti Paper e Shadow
 - confronto Paper vs Shadow
 - SOL e BTC spot adaptive
+- latest report completo e grafici dello scanner
 
 Sono esclusi file `.env`, chiavi KuCoin, token Telegram,
 chiavi SSH, cache e configurazioni sensibili.
