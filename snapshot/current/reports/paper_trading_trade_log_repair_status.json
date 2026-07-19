@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-07-19T07:53:36+00:00",
+  "generated_utc": "2026-07-19T08:53:36+00:00",
   "path": "reports/paper_trading_trade_log.csv",
   "exists": true,
   "rewritten": false,
   "backup_created": false,
-  "rows_before": 239,
-  "rows_after": 239,
-  "rows_recovered": 239,
+  "rows_before": 241,
+  "rows_after": 241,
+  "rows_recovered": 241,
   "rows_quarantined": 0,
   "duplicates_removed": 0,
   "header_before": [
