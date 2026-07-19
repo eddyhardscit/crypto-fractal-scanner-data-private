@@ -1,14 +1,14 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-19T13:25:21+00:00
+Generato: 2026-07-19T14:26:02+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **306**
-- Trade Shadow/Research chiusi: **680**
-- Eventi Shadow già presi dai Paper: **210**
+- Trade Paper chiusi nei conti confrontati: **312**
+- Trade Shadow/Research chiusi: **682**
+- Eventi Shadow già presi dai Paper: **212**
 - Eventi Shadow saltati dai Paper: **470**
 - Profili con filtro Paper utile: **0**
 - Profili in cui il Paper potrebbe scartare edge: **1**
@@ -22,11 +22,11 @@ Generato: 2026-07-19T13:25:21+00:00
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | Rapida 1H V1 | Rapida 1H V1 | 36 | 92 | 19 | 73 | -0,09R | 0,01R | -0,11R | 0,10R | +0,20R | NESSUN EDGE CHIARO |
-| Bilanciata 1H V1 | Bilanciata 1H V1 | 10 | 83 | 1 | 82 | -1,01R | 0,08R | -1,09R | 0,15R | +1,16R | CAMPIONE INSUFFICIENTE |
-| Forza relativa 1H V1 | Forza relativa 1H V1 | 7 | 52 | 2 | 50 | -1,02R | 0,18R | -1,19R | 0,26R | +1,27R | CAMPIONE INSUFFICIENTE |
+| Bilanciata 1H V1 | Bilanciata 1H V1 | 11 | 84 | 2 | 82 | -0,54R | 0,08R | -0,61R | 0,13R | +0,66R | CAMPIONE INSUFFICIENTE |
+| Forza relativa 1H V1 | Forza relativa 1H V1 | 9 | 52 | 2 | 50 | -1,02R | 0,18R | -1,19R | 0,19R | +1,21R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive | 14 | 40 | 10 | 30 | 0,15R | 0,55R | -0,40R | 0,36R | +0,20R | PAPER SCARTA EDGE |
+| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 15 | 37 | 10 | 27 | 0,26R | 0,40R | -0,14R | 0,47R | +0,20R | NESSUN EDGE CHIARO |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 4 | 36 | 2 | 34 | -1,06R | 0,18R | -1,24R | 0,16R | +1,21R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 14 | 36 | 9 | 27 | 0,30R | 0,40R | -0,10R | 0,50R | +0,20R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_TREND | Combo Trend | 8 | 30 | 6 | 24 | 0,54R | 0,17R | +0,37R | 0,42R | -0,12R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 12 | 28 | 9 | 19 | 0,74R | 0,31R | +0,43R | 0,54R | -0,20R | SELEZIONE POSITIVA |
 | SHADOW_COMBO_SCANNER | Combo Scanner | 10 | 26 | 7 | 19 | -0,12R | 0,65R | -0,77R | 0,11R | +0,24R | CAMPIONE INSUFFICIENTE |
@@ -36,9 +36,9 @@ Generato: 2026-07-19T13:25:21+00:00
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 10 | 15 | 8 | 7 | -0,18R | -0,07R | -0,11R | 0,43R | +0,61R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 12 | 14 | 10 | 4 | 0,16R | 1,21R | -1,05R | -0,01R | -0,17R | CAMPIONE INSUFFICIENTE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 11 | 14 | 7 | 7 | 0,82R | 0,35R | +0,47R | 0,13R | -0,69R | CAMPIONE INSUFFICIENTE |
-| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 16 | 12 | 6 | 6 | 0,65R | 0,19R | +0,46R | -0,14R | -0,79R | CAMPIONE INSUFFICIENTE |
+| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 17 | 12 | 6 | 6 | 0,65R | 0,19R | +0,46R | -0,04R | -0,70R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 5 | 12 | 4 | 8 | -0,31R | 0,04R | -0,35R | 0,12R | +0,43R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 11 | 10 | 4 | 6 | -1,01R | 1,47R | -2,48R | -0,47R | +0,54R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 12 | 10 | 4 | 6 | -1,01R | 1,47R | -2,48R | -0,41R | +0,60R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 12 | 9 | 6 | 3 | 0,47R | 0,96R | -0,49R | 0,15R | -0,33R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 4 | 6 | 3 | 3 | 0,66R | 0,69R | -0,03R | 0,89R | +0,24R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 4 | 5 | 4 | 1 | -0,34R | -1,40R | +1,06R | -0,45R | -0,10R | CAMPIONE INSUFFICIENTE |
@@ -99,10 +99,10 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 9 | 0,00% | 0,00 | -1,08R | -1,14R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 10 | 0,00% | 0,00 | -1,10R | -1,09R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 10 | 0,00% | 0,00 | -1,10R | -1,09R | MEDIA |
-| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 11 | 18,18% | 0,39 | -0,54R | -0,92R | MEDIA |
+| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 12 | 16,67% | 0,39 | -0,50R | -0,87R | MEDIA |
 | SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 10 | 30,00% | 0,51 | -2,05% | -0,75% | MEDIA |
 | SHADOW_SCANNER_TOP5_BTC | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 8 | 25,00% | 0,65 | -0,28R | -0,73R | MEDIA |
-| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 12 | 25,00% | 0,58 | -0,34R | -0,71R | MEDIA |
+| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 13 | 23,08% | 0,58 | -0,32R | -0,68R | MEDIA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 14 | 14,29% | 0,32 | -0,61R | -0,67R | MEDIA |
 | Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 10 | 20,00% | 0,53 | -0,39R | -0,52R | MEDIA |
 | Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | <5 | 9 | 22,22% | 0,60 | -0,32R | -0,46R | MEDIA |
@@ -115,9 +115,9 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 16 | 25,00% | 0,71 | -0,22R | -0,36R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 20 | 30,00% | 0,59 | -0,30R | -0,29R | ALTA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 21 | 28,57% | 0,76 | -0,18R | -0,24R | ALTA |
+| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 5–6 | 27 | 33,33% | 0,68 | -0,22R | -0,21R | ALTA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 5–6 | 29 | 31,03% | 0,80 | -0,15R | -0,21R | ALTA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | MEDIA | 29 | 31,03% | 0,80 | -0,15R | -0,21R | ALTA |
-| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 5–6 | 27 | 33,33% | 0,68 | -0,22R | -0,21R | ALTA |
 | SHADOW_DONCHIAN_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | NORMAL | 14 | 21,43% | 0,63 | -0,31R | -0,19R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 40 | 35,00% | 0,74 | -0,18R | -0,17R | ALTA |
 | SHADOW_DONCHIAN_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | LONG | 9 | 22,22% | 0,66 | -0,28R | -0,15R | MEDIA |

@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **ALT_ROTATION_UP**
 - Famiglia: **ALT_ROTATION**
-- Confidenza: **80,30%**
+- Confidenza: **84,10%**
 - Volatilità: **LOW**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Le altcoin stanno sovraperformando BTC: mediana relativa +1.38%, 73% oltre +1%.
+- Motivo: Le altcoin stanno sovraperformando BTC: mediana relativa +1.81%, 73% oltre +1%.
 - BTC trend score: **3,00**; ADX: **22,85**; breadth sopra EMA50: **83,33%**
-- Mediana alt vs BTC: **1,38%**; dispersione: **42,06%**
+- Mediana alt vs BTC: **1,81%**; dispersione: **47,39%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **173**
-- Trade research chiusi: **596**
+- Posizioni research aperte: **171**
+- Trade research chiusi: **598**
 - Eventi di mercato indipendenti chiusi: **234**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **1736**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **1768**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -27,7 +27,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | MAIN | 11 | 23 | 23 | 34,78% | 1,03 | 0,02R | €4,07 |
 | RSI_EXTREME_SHORT_15M | 0 | 5 | 5 | 20,00% | 0,32 | -0,55R | €-27,64 |
-| Bilanciata 1H V1 | 16 | 83 | 83 | 37,35% | 1,09 | 0,06R | €51,59 |
+| Bilanciata 1H V1 | 15 | 84 | 84 | 36,90% | 1,09 | 0,06R | €50,97 |
 | Bilanciata 1H V2 | 9 | 9 | 9 | 55,56% | 2,35 | 0,63R | €57,05 |
 | Bilanciata 1H V3 Filtered | 4 | 14 | 14 | 50,00% | 1,88 | 0,46R | €64,52 |
 | Rapida 1H V1 | 9 | 92 | 92 | 41,30% | 0,99 | -0,01R | €-7,36 |
@@ -57,7 +57,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Forza relativa 1H V2 | 4 | 14 | 13 | 50,00% | 2,13 | 0,58R | €81,35 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | 8 | 12 | 12 | 33,33% | 0,89 | -0,08R | €-9,16 |
 | SHADOW_SCANNER_TOP5_BTC | 6 | 28 | 28 | 46,43% | 1,80 | 0,45R | €126,01 |
-| SHADOW_SCANNER_TOP5_LONG | 8 | 36 | 36 | 47,22% | 1,68 | 0,38R | €135,02 |
+| SHADOW_SCANNER_TOP5_LONG | 7 | 37 | 37 | 45,95% | 1,67 | 0,36R | €134,40 |
 | SHADOW_SOL_ADAPTIVE_1H | 0 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |
 | SHADOW_SOL_BOLLINGER_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |
 | SHADOW_SOL_DONCHIAN_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |
@@ -75,7 +75,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | RSI_EXTREME_SHORT_15M | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -0,41R | €-4,13 |
 | RSI_EXTREME_SHORT_15M | TREND_UP | 0 | 3 | 3 | 33,33% | 0,50 | -0,42R | €-12,61 |
 | Bilanciata 1H V1 | ALT_ROTATION_UP | 3 | 10 | 10 | 50,00% | 1,83 | 0,44R | €44,06 |
-| Bilanciata 1H V1 | RANGE | 5 | 23 | 23 | 34,78% | 0,98 | -0,02R | €-3,57 |
+| Bilanciata 1H V1 | RANGE | 4 | 24 | 24 | 33,33% | 0,97 | -0,02R | €-4,19 |
 | Bilanciata 1H V1 | RANGE_HIGH_VOL | 0 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-97,25 |
 | Bilanciata 1H V1 | TRANSITION | 5 | 18 | 18 | 44,44% | 1,46 | 0,27R | €49,04 |
 | Bilanciata 1H V1 | TREND_UP | 3 | 23 | 23 | 43,48% | 1,43 | 0,26R | €59,30 |
@@ -158,7 +158,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_SCANNER_TOP5_BTC | TRANSITION | 1 | 10 | 10 | 40,00% | 1,40 | 0,25R | €25,03 |
 | SHADOW_SCANNER_TOP5_BTC | TREND_UP | 1 | 13 | 13 | 38,46% | 1,30 | 0,20R | €25,35 |
 | SHADOW_SCANNER_TOP5_LONG | ALT_ROTATION_UP | 3 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,24 |
-| SHADOW_SCANNER_TOP5_LONG | RANGE | 2 | 4 | 4 | 100,00% | ∞ | 1,95R | €78,15 |
+| SHADOW_SCANNER_TOP5_LONG | RANGE | 1 | 5 | 5 | 80,00% | 125,19 | 1,55R | €77,53 |
 | SHADOW_SCANNER_TOP5_LONG | TRANSITION | 1 | 10 | 10 | 40,00% | 1,27 | 0,17R | €17,03 |
 | SHADOW_SCANNER_TOP5_LONG | TREND_UP | 2 | 20 | 20 | 45,00% | 1,53 | 0,31R | €61,09 |
 | SHADOW_SOL_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
