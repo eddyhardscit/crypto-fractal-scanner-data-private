@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-19T06:55:21.743765+00:00",
-  "last_processed_candle": "2026-07-19T06:50:00+00:00",
+  "updated_utc": "2026-07-19T07:55:21.751040+00:00",
+  "last_processed_candle": "2026-07-19T07:50:00+00:00",
   "last_daily_status_date": "2026-07-18",
   "telegram_started_sent": true,
   "accounts": {
@@ -553,36 +553,13 @@
       "label": "SHORT RSI 70 · leva 5× · Wide",
       "direction": "SHORT",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3436.1894165112894,
+      "balance_usdt": 3458.6426576426857,
       "peak_equity_usdt": 3814.0889527095205,
       "max_drawdown_pct": 11.268436920939845,
-      "open_position": {
-        "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:HYPE:20260719T015000Z",
-        "account": "RSI5_SHORT_RSI70_5X_WIDE",
-        "account_label": "SHORT RSI 70 · leva 5× · Wide",
-        "book": "OPERATIONAL",
-        "direction": "SHORT",
-        "asset": "HYPE",
-        "symbol": "HYPEUSDTM",
-        "rsi_trigger": 70.0,
-        "signal_rsi": 70.2957169236674,
-        "previous_rsi": 60.041853660826035,
-        "leverage": 5.0,
-        "opened_at": "2026-07-19T01:50:00+00:00",
-        "opened_candle_time": "2026-07-19T01:50:00+00:00",
-        "entry_price": 60.8318312,
-        "stop_price": 61.13599035599999,
-        "target_price": 60.223512888,
-        "liquidation_price": 72.694038284,
-        "margin_usdt": 3446.529003521855,
-        "notional_usdt": 17232.645017609277,
-        "quantity": 283.2833514571114,
-        "entry_fee_usdt": 10.339587010565564,
-        "max_holding_hours": 6.0
-      },
-      "closed_trades": 3,
-      "winning_trades": 0,
-      "gross_profit_usdt": 0.0,
+      "open_position": null,
+      "closed_trades": 4,
+      "winning_trades": 1,
+      "gross_profit_usdt": 12.113654120830248,
       "gross_loss_usdt": 353.4709964781443,
       "asset_guards": {
         "SOL": {
@@ -601,9 +578,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
+          "needs_rearm": true,
           "cooldown_until": null,
-          "last_close_reason": null
+          "last_close_reason": "TIME_EXIT"
         },
         "ETH": {
           "needs_rearm": false,
@@ -1420,30 +1397,6 @@
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "open_positions": [
         {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:HYPE:20260719T015000Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "HYPE",
-          "symbol": "HYPEUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 70.2957169236674,
-          "previous_rsi": 60.041853660826035,
-          "leverage": 5.0,
-          "opened_at": "2026-07-19T01:50:00+00:00",
-          "opened_candle_time": "2026-07-19T01:50:00+00:00",
-          "entry_price": 60.8318312,
-          "stop_price": 61.13599035599999,
-          "target_price": 60.223512888,
-          "liquidation_price": 72.694038284,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 312.33647952389765,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0
-        },
-        {
           "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ADA:20260719T020500Z:SHADOW",
           "account": "RSI5_SHORT_RSI70_5X_WIDE",
           "account_label": "SHORT RSI 70 · leva 5× · Wide",
@@ -1492,11 +1445,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 8,
-      "winning_trades": 0,
-      "gross_profit_usdt": 0.0,
+      "closed_trades": 9,
+      "winning_trades": 1,
+      "gross_profit_usdt": 13.35601285006365,
       "gross_loss_usdt": 871.8275603460013,
-      "net_pnl_usdt": -871.8275603460013,
+      "net_pnl_usdt": -858.4715474959377,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1514,9 +1467,9 @@
           "last_close_reason": "STOP"
         },
         "HYPE": {
-          "needs_rearm": false,
+          "needs_rearm": true,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TIME_EXIT"
         },
         "ETH": {
           "needs_rearm": false,

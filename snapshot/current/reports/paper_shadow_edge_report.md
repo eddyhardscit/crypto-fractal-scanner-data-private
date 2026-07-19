@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-19T06:22:31+00:00
+Generato: 2026-07-19T07:22:59+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **277**
-- Trade Shadow/Research chiusi: **586**
+- Trade Shadow/Research chiusi: **587**
 - Eventi Shadow già presi dai Paper: **196**
-- Eventi Shadow saltati dai Paper: **390**
+- Eventi Shadow saltati dai Paper: **391**
 - Profili con filtro Paper utile: **1**
 - Profili in cui il Paper potrebbe scartare edge: **1**
 - Profili con campione ancora insufficiente: **54**
@@ -37,8 +37,8 @@ Generato: 2026-07-19T06:22:31+00:00
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 5 | 12 | 4 | 8 | -0,31R | 0,04R | -0,35R | 0,12R | +0,43R | CAMPIONE INSUFFICIENTE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 9 | 11 | 5 | 6 | 1,55R | 0,04R | +1,51R | 0,27R | -1,28R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 12 | 9 | 6 | 3 | 0,47R | 0,96R | -0,49R | 0,15R | -0,33R | CAMPIONE INSUFFICIENTE |
+| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 11 | 8 | 6 | 2 | 0,65R | -1,08R | +1,73R | -0,18R | -0,84R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 6 | 7 | 6 | 1 | -0,04R | 1,99R | -2,03R | -0,04R | +0,00R | CAMPIONE INSUFFICIENTE |
-| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 11 | 7 | 6 | 1 | 0,65R | -1,01R | +1,67R | -0,18R | -0,84R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 4 | 6 | 3 | 3 | 0,66R | 0,69R | -0,03R | 0,89R | +0,24R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 3 | 4 | 3 | 1 | -0,07R | -1,40R | +1,33R | -0,21R | -0,13R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 7 | 4 | 3 | 1 | -1,01R | 1,99R | -3,00R | -0,31R | +0,70R | CAMPIONE INSUFFICIENTE |
