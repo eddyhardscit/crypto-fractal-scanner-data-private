@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-19T17:05:21.733496+00:00",
-  "last_processed_candle": "2026-07-19T17:00:00+00:00",
-  "last_daily_status_date": "2026-07-18",
+  "updated_utc": "2026-07-19T18:05:21.775504+00:00",
+  "last_processed_candle": "2026-07-19T18:00:00+00:00",
+  "last_daily_status_date": "2026-07-19",
   "telegram_started_sent": true,
   "accounts": {
     "RSI5_RSI20_10X": {
@@ -568,7 +568,7 @@
           "last_close_reason": null
         },
         "XRP": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
@@ -1261,12 +1261,12 @@
       "net_pnl_usdt": -214.05781014470162,
       "asset_guards": {
         "SOL": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
         "XRP": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
@@ -1281,7 +1281,7 @@
           "last_close_reason": "TARGET"
         },
         "ETH": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
