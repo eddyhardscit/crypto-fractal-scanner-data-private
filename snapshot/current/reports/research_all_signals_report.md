@@ -4,21 +4,21 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 ### Regime di mercato osservato
 
-- Regime: **TREND_UP**
-- Famiglia: **TREND_UP**
-- Confidenza: **70,70%**
+- Regime: **TRANSITION**
+- Famiglia: **TRANSITION**
+- Confidenza: **78,00%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 67% sopra EMA50, ADX 22.6.
-- BTC trend score: **3,00**; ADX: **22,57**; breadth sopra EMA50: **66,67%**
-- Mediana alt vs BTC: **0,69%**; dispersione: **24,91%**
+- Motivo: Segnali contrastanti tra trend BTC, breadth e forza delle altcoin.
+- BTC trend score: **3,00**; ADX: **22,57**; breadth sopra EMA50: **33,33%**
+- Mediana alt vs BTC: **0,33%**; dispersione: **28,28%**
 
-- Aperti in questo ciclo: **13**
-- Chiusi in questo ciclo: **14**
-- Posizioni research aperte: **165**
-- Trade research chiusi: **633**
-- Eventi di mercato indipendenti chiusi: **244**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **1860**
+- Aperti in questo ciclo: **0**
+- Chiusi in questo ciclo: **1**
+- Posizioni research aperte: **164**
+- Trade research chiusi: **634**
+- Eventi di mercato indipendenti chiusi: **245**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **1879**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -30,7 +30,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | 13 | 88 | 88 | 36,36% | 1,09 | 0,06R | €49,38 |
 | Bilanciata 1H V2 | 8 | 10 | 10 | 50,00% | 1,86 | 0,46R | €45,94 |
 | Bilanciata 1H V3 Filtered | 4 | 17 | 17 | 47,06% | 1,67 | 0,37R | €63,48 |
-| Rapida 1H V1 | 9 | 94 | 94 | 41,49% | 1,00 | -0,00R | €-2,67 |
+| Rapida 1H V1 | 8 | 95 | 95 | 41,05% | 0,98 | -0,01R | €-14,01 |
 | Rapida 1H V2 | 0 | 2 | 1 | 50,00% | 1,19 | 0,11R | €2,14 |
 | Rapida 1H V3 Filtered | 6 | 14 | 14 | 57,14% | 1,89 | 0,40R | €55,47 |
 | SHADOW_4H_WIDE | 17 | 21 | 21 | 33,33% | 1,36 | 0,25R | €51,60 |
@@ -89,7 +89,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Rapida 1H V1 | RANGE | 2 | 33 | 33 | 42,42% | 1,05 | 0,03R | €8,73 |
 | Rapida 1H V1 | RANGE_HIGH_VOL | 0 | 10 | 10 | 0,00% | 0,00 | -1,10R | €-109,76 |
 | Rapida 1H V1 | TRANSITION | 2 | 17 | 17 | 58,82% | 2,27 | 0,48R | €81,49 |
-| Rapida 1H V1 | TREND_UP | 5 | 26 | 26 | 42,31% | 1,00 | 0,00R | €0,06 |
+| Rapida 1H V1 | TREND_UP | 4 | 27 | 27 | 40,74% | 0,93 | -0,04R | €-11,28 |
 | Rapida 1H V2 | RANGE | 0 | 2 | 1 | 50,00% | 1,19 | 0,11R | €2,14 |
 | Rapida 1H V3 Filtered | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,83 |
 | Rapida 1H V3 Filtered | TRANSITION | 1 | 3 | 3 | 66,67% | 2,93 | 0,65R | €19,60 |
