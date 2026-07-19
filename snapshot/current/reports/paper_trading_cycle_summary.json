@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-07-19T05:53:34+00:00",
+  "generated_utc": "2026-07-19T06:53:35+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 53,
+  "signals_generated": 64,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-07-19T05:53:24+00:00",
-    "checked_utc": "2026-07-19T05:53:24+00:00",
-    "snapshot_age_minutes": 0.01644565,
+    "snapshot_generated_utc": "2026-07-19T06:53:25+00:00",
+    "checked_utc": "2026-07-19T06:53:25+00:00",
+    "snapshot_age_minutes": 0.0071948333333333335,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -18,8 +18,8 @@
   "research_all_signals": {
     "opened_this_cycle": 0,
     "closed_this_cycle": 0,
-    "open_positions": 171,
-    "closed_trades": 518
+    "open_positions": 172,
+    "closed_trades": 519
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 0,
@@ -527,7 +527,7 @@
         "net_pnl_eur": 0.0,
         "average_mfe_net_eur": 0.0,
         "average_mae_net_eur": 0.0,
-        "max_drawdown_pct": 0.10081410728019335
+        "max_drawdown_pct": 0.11285827053931638
       },
       "SHADOW_ETH_ADAPTIVE_1H": {
         "trades": 1,
@@ -596,12 +596,12 @@
           "net_pnl_eur": 57.05264700495521
         },
         "SHADOW_1H_FAST": {
-          "events": 84,
-          "trades": 84,
-          "win_rate_pct": 40.476190476190474,
-          "profit_factor": 0.9367176568416883,
-          "expectancy_r": -0.03970090655595068,
-          "net_pnl_eur": -33.34876150699856
+          "events": 85,
+          "trades": 85,
+          "win_rate_pct": 41.17647058823529,
+          "profit_factor": 0.9649285246252729,
+          "expectancy_r": -0.021743640988625777,
+          "net_pnl_eur": -18.482094840331893
         },
         "SHADOW_1H_FAST_V2": {
           "events": 1,
@@ -790,12 +790,12 @@
           "net_pnl_eur": 81.94497290094836
         },
         "SHADOW_1H_FAST|TREND_UP": {
-          "events": 19,
-          "trades": 19,
-          "win_rate_pct": 36.84210526315789,
-          "profit_factor": 0.7978009009500827,
-          "expectancy_r": -0.138817026285165,
-          "net_pnl_eur": -26.37523499418135
+          "events": 20,
+          "trades": 20,
+          "win_rate_pct": 40.0,
+          "profit_factor": 0.9117724582286661,
+          "expectancy_r": -0.057542841637573436,
+          "net_pnl_eur": -11.508568327514688
         },
         "SHADOW_1H_FAST_V2|RANGE": {
           "events": 1,
@@ -1282,9 +1282,9 @@
       "strategies_ready": 3,
       "qualifying_regime_pairs": 0,
       "asset_diversity": {
-        "unique_events": 212,
+        "unique_events": 213,
         "assets": 21,
-        "max_asset_share_pct": 17.452830188679243,
+        "max_asset_share_pct": 17.370892018779344,
         "largest_asset": "AKE"
       }
     },
