@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-19T03:50:21.756948+00:00",
-  "last_processed_candle": "2026-07-19T03:45:00+00:00",
+  "updated_utc": "2026-07-19T04:55:21.649746+00:00",
+  "last_processed_candle": "2026-07-19T04:50:00+00:00",
   "last_daily_status_date": "2026-07-18",
   "telegram_started_sent": true,
   "accounts": {
@@ -249,8 +249,8 @@
           "last_close_reason": null
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -264,8 +264,8 @@
           "last_close_reason": "TARGET"
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:00:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -323,8 +323,8 @@
           "last_close_reason": null
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -338,8 +338,8 @@
           "last_close_reason": "TARGET"
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:00:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -374,8 +374,8 @@
           "last_close_reason": null
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -394,8 +394,8 @@
           "last_close_reason": null
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -425,8 +425,8 @@
           "last_close_reason": null
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -445,8 +445,8 @@
           "last_close_reason": null
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -680,8 +680,8 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         }
       }
@@ -976,8 +976,8 @@
           "last_close_reason": "TARGET"
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -991,13 +991,13 @@
           "last_close_reason": "STOP"
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:00:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:10:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -1098,8 +1098,8 @@
           "last_close_reason": "TARGET"
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1113,13 +1113,13 @@
           "last_close_reason": "STOP"
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:00:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:10:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -1196,8 +1196,8 @@
           "last_close_reason": null
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1216,8 +1216,8 @@
           "last_close_reason": "TARGET"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -1294,8 +1294,8 @@
           "last_close_reason": null
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1314,8 +1314,8 @@
           "last_close_reason": "TARGET"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -1499,8 +1499,8 @@
       "net_pnl_usdt": -871.8275603460013,
       "asset_guards": {
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1519,8 +1519,8 @@
           "last_close_reason": "STOP"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
@@ -1592,8 +1592,8 @@
       "net_pnl_usdt": -608.3914569999895,
       "asset_guards": {
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1617,8 +1617,8 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-19T04:05:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         }
       }
