@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-19T21:09:58+00:00
+Generato: 2026-07-19T22:08:35+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **70**
-- Scenari virtuali ancora attivi: **1150**
-- Gruppi in attesa dell'uscita originale: **66**
+- Gruppi di trade ancora monitorati: **74**
+- Scenari virtuali ancora attivi: **1226**
+- Gruppi in attesa dell'uscita originale: **70**
 - Gruppi con originale chiuso ma Shadow ancora attive: **4**
-- Confronti completati: **123**
+- Confronti completati: **124**
 
 ## Classifica osservativa complessiva
 
@@ -29,7 +29,7 @@ Generato: 2026-07-19T21:09:58+00:00
 | GB50_R050 | 1 | 8 | €-21,76 | 12,5% | 3 | 0 | COLLECTING |
 | BE_R050 | 1 | 8 | €-31,12 | 0,0% | 4 | 0 | COLLECTING |
 | TIME_6H | 0 | 5 | +€15,38 | 80,0% | 0 | 0 | WAITING_FULL_SAMPLE |
-| TIME_12H | 0 | 4 | +€9,27 | 50,0% | 0 | 0 | WAITING_FULL_SAMPLE |
+| TIME_12H | 0 | 5 | +€9,41 | 60,0% | 0 | 0 | WAITING_FULL_SAMPLE |
 | TIME_24H | 0 | 4 | +€9,27 | 50,0% | 0 | 0 | WAITING_FULL_SAMPLE |
 | TP_R200 | 0 | 5 | +€0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |
 | ATR15_R100 | 0 | 4 | €0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |

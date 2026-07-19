@@ -7,1899 +7,1913 @@
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 35.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ALL|ALL|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 35.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|BANK|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|HYPE|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "ASSET|PEPE|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_BALANCED|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST_V3|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 35.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_1H_FAST|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
+    },
+    "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|TIME_12H": {
+      "eligible_for_mutation": false,
+      "evidence_score": 25.0,
+      "sample_eligible": 0,
+      "status": "INSUFFICIENT_DATA",
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_BOLLINGER_MR_1H|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_COMBO_TREND|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "PORTFOLIO|SHADOW_EMA_TREND_1H|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
+    },
+    "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|TIME_12H": {
+      "eligible_for_mutation": false,
+      "evidence_score": 25.0,
+      "sample_eligible": 0,
+      "status": "INSUFFICIENT_DATA",
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|bollinger_mean_reversion|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|combo_trend|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|confluence_trend|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|ema_trend_following|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout_v3_filtered|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|ATR15_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|ATR20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|ATR30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|BE_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|BE_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB20_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB20_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB30_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB30_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB40_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB40_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB50_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|GB50_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TIME_12H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TIME_24H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TIME_6H": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TP_R050": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TP_R100": {
       "eligible_for_mutation": false,
       "evidence_score": 10.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TP_R150": {
       "eligible_for_mutation": false,
       "evidence_score": 35.2,
       "sample_eligible": 1,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     },
     "STRATEGY|momentum_breakout|block3-v1-r-matrix|TP_R200": {
       "eligible_for_mutation": false,
       "evidence_score": 25.0,
       "sample_eligible": 0,
       "status": "INSUFFICIENT_DATA",
-      "updated_utc": "2026-07-19T21:09:58+00:00"
+      "updated_utc": "2026-07-19T22:08:35+00:00"
     }
   },
   "schema_version": 1,
-  "updated_utc": "2026-07-19T21:09:58+00:00"
+  "updated_utc": "2026-07-19T22:08:35+00:00"
 }
