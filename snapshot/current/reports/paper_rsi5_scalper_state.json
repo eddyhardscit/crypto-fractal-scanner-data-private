@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-19T13:00:21.752324+00:00",
-  "last_processed_candle": "2026-07-19T12:55:00+00:00",
+  "updated_utc": "2026-07-19T14:05:21.741362+00:00",
+  "last_processed_candle": "2026-07-19T14:00:00+00:00",
   "last_daily_status_date": "2026-07-18",
   "telegram_started_sent": true,
   "accounts": {
