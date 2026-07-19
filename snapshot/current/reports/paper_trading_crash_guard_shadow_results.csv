@@ -1,0 +1,1 @@
+generated_utc,signal_id,portfolio,strategy,asset,side,leverage,guard_level,guard_direction,block_reason,opened_at,closed_at,entry_price,exit_price,stop_price,target_price,liquidation_price,close_reason,outcome_r,guard_value_r,would_have_won,would_have_liquidated,holding_hours,full_from_signal

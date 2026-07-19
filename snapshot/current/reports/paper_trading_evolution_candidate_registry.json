@@ -1,0 +1,13 @@
+{
+  "active_candidate_count": 0,
+  "automatic_promotions": 0,
+  "automatic_retirements": 0,
+  "candidate_count": 0,
+  "candidates": [],
+  "engine_version": "block5-controlled-candidate-v1",
+  "generated_utc": "2026-07-19T21:09:36+00:00",
+  "live_modified": false,
+  "orders_sent": false,
+  "paper_only": true,
+  "schema_version": 1
+}

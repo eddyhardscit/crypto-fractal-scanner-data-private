@@ -1,0 +1,19 @@
+{
+  "active_simulations": {},
+  "cooldown_until_utc": "",
+  "created_utc": "2026-07-19T20:21:11+00:00",
+  "engine_version": "block4_5-crash-guard-v1",
+  "market_scope_version": "asset_market_separation_v1",
+  "previous_direction": "NONE",
+  "previous_level": "NORMAL",
+  "schema_version": 1,
+  "seen_blocked_signal_ids": [],
+  "totals": {
+    "avoided_liquidations": 0,
+    "blocked_signals": 0,
+    "completed_simulations": 0,
+    "guard_value_r": 0.0,
+    "missed_profit_r": 0.0
+  },
+  "updated_utc": "2026-07-19T21:09:54+00:00"
+}
