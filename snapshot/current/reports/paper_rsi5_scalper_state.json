@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-19T12:00:21.803343+00:00",
-  "last_processed_candle": "2026-07-19T11:55:00+00:00",
+  "updated_utc": "2026-07-19T13:00:21.752324+00:00",
+  "last_processed_candle": "2026-07-19T12:55:00+00:00",
   "last_daily_status_date": "2026-07-18",
   "telegram_started_sent": true,
   "accounts": {
@@ -110,37 +110,14 @@
       "name": "RSI5_RSI25_10X",
       "label": "RSI 25 · leva 10×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3763.30383083815,
+      "balance_usdt": 3638.445424735177,
       "peak_equity_usdt": 3852.1454489058024,
-      "max_drawdown_pct": 4.666658824438735,
-      "open_position": {
-        "trade_id": "RSI5_RSI25_10X:BTC:20260719T093500Z",
-        "account": "RSI5_RSI25_10X",
-        "account_label": "RSI 25 · leva 10×",
-        "book": "OPERATIONAL",
-        "direction": "LONG",
-        "asset": "BTC",
-        "symbol": "XBTUSDTM",
-        "rsi_trigger": 25.0,
-        "signal_rsi": 23.47764228947733,
-        "previous_rsi": 31.13506405038099,
-        "leverage": 10.0,
-        "opened_at": "2026-07-19T09:35:00+00:00",
-        "opened_candle_time": "2026-07-19T09:35:00+00:00",
-        "entry_price": 64479.8934,
-        "stop_price": 64318.6936665,
-        "target_price": 64802.292867,
-        "liquidation_price": 58354.303527000004,
-        "margin_usdt": 3786.0199505413984,
-        "notional_usdt": 37860.199505413984,
-        "quantity": 0.5871628737124119,
-        "entry_fee_usdt": 22.71611970324839,
-        "max_holding_hours": 6.0
-      },
-      "closed_trades": 2,
+      "max_drawdown_pct": 5.547558548998371,
+      "open_position": null,
+      "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 134.13940194139596,
-      "gross_loss_usdt": 148.11945139999798,
+      "gross_loss_usdt": 295.6939772062197,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -173,9 +150,9 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-19T14:05:00+00:00",
+          "last_close_reason": "STOP"
         }
       }
     },
@@ -183,37 +160,14 @@
       "name": "RSI5_RSI25_20X",
       "label": "RSI 25 · leva 20×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3716.0246704256933,
+      "balance_usdt": 3467.947655144099,
       "peak_equity_usdt": 3892.541127193803,
-      "max_drawdown_pct": 9.270954681758187,
-      "open_position": {
-        "trade_id": "RSI5_RSI25_20X:BTC:20260719T093500Z",
-        "account": "RSI5_RSI25_20X",
-        "account_label": "RSI 25 · leva 20×",
-        "book": "OPERATIONAL",
-        "direction": "LONG",
-        "asset": "BTC",
-        "symbol": "XBTUSDTM",
-        "rsi_trigger": 25.0,
-        "signal_rsi": 23.47764228947733,
-        "previous_rsi": 31.13506405038099,
-        "leverage": 20.0,
-        "opened_at": "2026-07-19T09:35:00+00:00",
-        "opened_candle_time": "2026-07-19T09:35:00+00:00",
-        "entry_price": 64479.8934,
-        "stop_price": 64318.6936665,
-        "target_price": 64802.292867,
-        "liquidation_price": 61578.298197,
-        "margin_usdt": 3761.1585733053575,
-        "notional_usdt": 75223.17146610715,
-        "quantity": 1.166614389379669,
-        "entry_fee_usdt": 45.133902879664284,
-        "max_holding_hours": 6.0
-      },
-      "closed_trades": 2,
+      "max_drawdown_pct": 10.90787375587218,
+      "open_position": null,
+      "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 257.3974761053539,
-      "gross_loss_usdt": 296.23890279999597,
+      "gross_loss_usdt": 589.4498209612548,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -246,9 +200,9 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-19T14:05:00+00:00",
+          "last_close_reason": "STOP"
         }
       }
     },
@@ -555,7 +509,7 @@
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "balance_usdt": 3788.6,
       "peak_equity_usdt": 3833.1848348750514,
-      "max_drawdown_pct": 1.5728060035234774,
+      "max_drawdown_pct": 2.8096803239874677,
       "open_position": {
         "trade_id": "RSI5_RSI25_5X_WIDE:BTC:20260719T093500Z",
         "account": "RSI5_RSI25_5X_WIDE",
@@ -622,36 +576,13 @@
       "label": "SHORT RSI 70 · leva 5× · Wide",
       "direction": "SHORT",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3448.2667296697578,
+      "balance_usdt": 3607.5005831938875,
       "peak_equity_usdt": 3814.0889527095205,
       "max_drawdown_pct": 11.268436920939845,
-      "open_position": {
-        "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:HYPE:20260719T084500Z",
-        "account": "RSI5_SHORT_RSI70_5X_WIDE",
-        "account_label": "SHORT RSI 70 · leva 5× · Wide",
-        "book": "OPERATIONAL",
-        "direction": "SHORT",
-        "asset": "HYPE",
-        "symbol": "HYPEUSDTM",
-        "rsi_trigger": 70.0,
-        "signal_rsi": 70.51288478710833,
-        "previous_rsi": 68.43606638171943,
-        "leverage": 5.0,
-        "opened_at": "2026-07-19T08:45:00+00:00",
-        "opened_candle_time": "2026-07-19T08:45:00+00:00",
-        "entry_price": 61.3267322,
-        "stop_price": 61.633365860999994,
-        "target_price": 60.713464878,
-        "liquidation_price": 73.285444979,
-        "margin_usdt": 3458.6426576426857,
-        "notional_usdt": 17293.21328821343,
-        "quantity": 281.9849137210906,
-        "entry_fee_usdt": 10.375927972928055,
-        "max_holding_hours": 6.0
-      },
-      "closed_trades": 4,
-      "winning_trades": 1,
-      "gross_profit_usdt": 12.113654120830248,
+      "open_position": null,
+      "closed_trades": 5,
+      "winning_trades": 2,
+      "gross_profit_usdt": 160.97157967203208,
       "gross_loss_usdt": 353.4709964781443,
       "asset_guards": {
         "SOL": {
@@ -672,7 +603,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "TIME_EXIT"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
@@ -838,37 +769,12 @@
       "label": "RSI 25 · leva 10×",
       "direction": "LONG",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
-      "open_positions": [
-        {
-          "trade_id": "RSI5_RSI25_10X:BTC:20260719T093500Z:SHADOW",
-          "account": "RSI5_RSI25_10X",
-          "account_label": "RSI 25 · leva 10×",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "BTC",
-          "symbol": "XBTUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 23.47764228947733,
-          "previous_rsi": 31.13506405038099,
-          "leverage": 10.0,
-          "opened_at": "2026-07-19T09:35:00+00:00",
-          "opened_candle_time": "2026-07-19T09:35:00+00:00",
-          "entry_price": 64479.8934,
-          "stop_price": 64318.6936665,
-          "target_price": 64802.292867,
-          "liquidation_price": 58354.303527000004,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 38000.0,
-          "quantity": 0.5893309991111121,
-          "entry_fee_usdt": 22.799999999999997,
-          "max_holding_hours": 6.0
-        }
-      ],
-      "closed_trades": 2,
+      "open_positions": [],
+      "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 139.58006583011496,
-      "gross_loss_usdt": 148.11945139999798,
-      "net_pnl_usdt": -8.539385569883024,
+      "gross_loss_usdt": 296.2389027999968,
+      "net_pnl_usdt": -156.65883696988183,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -901,9 +807,9 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-19T14:05:00+00:00",
+          "last_close_reason": "STOP"
         }
       }
     },
@@ -912,37 +818,12 @@
       "label": "RSI 25 · leva 20×",
       "direction": "LONG",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
-      "open_positions": [
-        {
-          "trade_id": "RSI5_RSI25_20X:BTC:20260719T093500Z:SHADOW",
-          "account": "RSI5_RSI25_20X",
-          "account_label": "RSI 25 · leva 20×",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "BTC",
-          "symbol": "XBTUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 23.47764228947733,
-          "previous_rsi": 31.13506405038099,
-          "leverage": 20.0,
-          "opened_at": "2026-07-19T09:35:00+00:00",
-          "opened_candle_time": "2026-07-19T09:35:00+00:00",
-          "entry_price": 64479.8934,
-          "stop_price": 64318.6936665,
-          "target_price": 64802.292867,
-          "liquidation_price": 61578.298197,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 76000.0,
-          "quantity": 1.1786619982222242,
-          "entry_fee_usdt": 45.599999999999994,
-          "max_holding_hours": 6.0
-        }
-      ],
-      "closed_trades": 2,
+      "open_positions": [],
+      "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 279.1601316602299,
-      "gross_loss_usdt": 296.23890279999597,
-      "net_pnl_usdt": -17.078771139766047,
+      "gross_loss_usdt": 592.4778055999936,
+      "net_pnl_usdt": -313.31767393976367,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -975,9 +856,9 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-19T14:05:00+00:00",
+          "last_close_reason": "STOP"
         }
       }
     },
@@ -1010,37 +891,13 @@
           "quantity": 226410.9222630849,
           "entry_fee_usdt": 22.799999999999997,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_SHORT_RSI70_10X:ETH:20260719T112000Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_10X",
-          "account_label": "SHORT RSI 70 · leva 10×",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "ETH",
-          "symbol": "ETHUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 70.45120317189105,
-          "previous_rsi": 68.96460816169403,
-          "leverage": 10.0,
-          "opened_at": "2026-07-19T11:20:00+00:00",
-          "opened_candle_time": "2026-07-19T11:20:00+00:00",
-          "entry_price": 1875.67479,
-          "stop_price": 1880.363976975,
-          "target_price": 1866.29641605,
-          "liquidation_price": 2053.86389505,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 38000.0,
-          "quantity": 20.259375560514943,
-          "entry_fee_usdt": 22.799999999999997,
-          "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 21,
-      "winning_trades": 8,
-      "gross_profit_usdt": 1007.7900916067019,
+      "closed_trades": 22,
+      "winning_trades": 9,
+      "gross_profit_usdt": 1144.7375544067008,
       "gross_loss_usdt": 1690.815794189538,
-      "net_pnl_usdt": -683.0257025828364,
+      "net_pnl_usdt": -546.0782397828374,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -1070,7 +927,7 @@
         "ETH": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "BTC": {
           "needs_rearm": false,
@@ -1108,37 +965,13 @@
           "quantity": 452821.8445261698,
           "entry_fee_usdt": 45.599999999999994,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_SHORT_RSI70_20X:ETH:20260719T112000Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_20X",
-          "account_label": "SHORT RSI 70 · leva 20×",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "ETH",
-          "symbol": "ETHUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 70.45120317189105,
-          "previous_rsi": 68.96460816169403,
-          "leverage": 20.0,
-          "opened_at": "2026-07-19T11:20:00+00:00",
-          "opened_candle_time": "2026-07-19T11:20:00+00:00",
-          "entry_price": 1875.67479,
-          "stop_price": 1880.363976975,
-          "target_price": 1866.29641605,
-          "liquidation_price": 1960.08015555,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 76000.0,
-          "quantity": 40.51875112102989,
-          "entry_fee_usdt": 45.599999999999994,
-          "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 21,
-      "winning_trades": 8,
-      "gross_profit_usdt": 2015.5801832134039,
+      "closed_trades": 22,
+      "winning_trades": 9,
+      "gross_profit_usdt": 2289.4751088134017,
       "gross_loss_usdt": 3381.631588379076,
-      "net_pnl_usdt": -1366.0514051656728,
+      "net_pnl_usdt": -1092.1564795656748,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -1168,7 +1001,7 @@
         "ETH": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "BTC": {
           "needs_rearm": false,
@@ -1469,30 +1302,6 @@
           "max_holding_hours": 6.0
         },
         {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:HYPE:20260719T084500Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "HYPE",
-          "symbol": "HYPEUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 70.51288478710833,
-          "previous_rsi": 68.43606638171943,
-          "leverage": 5.0,
-          "opened_at": "2026-07-19T08:45:00+00:00",
-          "opened_candle_time": "2026-07-19T08:45:00+00:00",
-          "entry_price": 61.3267322,
-          "stop_price": 61.633365860999994,
-          "target_price": 60.713464878,
-          "liquidation_price": 73.285444979,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 309.8159533111402,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0
-        },
-        {
           "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ETH:20260719T112000Z:SHADOW",
           "account": "RSI5_SHORT_RSI70_5X_WIDE",
           "account_label": "SHORT RSI 70 · leva 5× · Wide",
@@ -1517,11 +1326,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 10,
-      "winning_trades": 1,
-      "gross_profit_usdt": 13.35601285006365,
+      "closed_trades": 11,
+      "winning_trades": 2,
+      "gross_profit_usdt": 176.90575565006284,
       "gross_loss_usdt": 881.6127941947663,
-      "net_pnl_usdt": -868.2567813447026,
+      "net_pnl_usdt": -704.7070385447034,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1541,7 +1350,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "TIME_EXIT"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
