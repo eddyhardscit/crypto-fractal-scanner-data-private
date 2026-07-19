@@ -11,14 +11,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Trend BTC rialzista confermato dalla breadth: score +4.0, 83% sopra EMA50, ADX 21.7.
 - BTC trend score: **4,00**; ADX: **21,72**; breadth sopra EMA50: **83,33%**
-- Mediana alt vs BTC: **0,06%**; dispersione: **14,27%**
+- Mediana alt vs BTC: **0,06%**; dispersione: **19,01%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **170**
-- Trade research chiusi: **516**
-- Eventi di mercato indipendenti chiusi: **210**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **1440**
+- Posizioni research aperte: **171**
+- Trade research chiusi: **518**
+- Eventi di mercato indipendenti chiusi: **212**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **1470**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -30,11 +30,11 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | 16 | 76 | 76 | 35,53% | 1,01 | 0,00R | €3,50 |
 | Bilanciata 1H V2 | 6 | 9 | 9 | 55,56% | 2,35 | 0,63R | €57,05 |
 | Bilanciata 1H V3 Filtered | 7 | 7 | 7 | 42,86% | 1,41 | 0,25R | €17,41 |
-| Rapida 1H V1 | 10 | 84 | 84 | 40,48% | 0,94 | -0,04R | €-33,35 |
+| Rapida 1H V1 | 11 | 84 | 84 | 40,48% | 0,94 | -0,04R | €-33,35 |
 | Rapida 1H V2 | 0 | 2 | 1 | 50,00% | 1,19 | 0,11R | €2,14 |
-| Rapida 1H V3 Filtered | 6 | 6 | 6 | 66,67% | 2,93 | 0,65R | €39,20 |
+| Rapida 1H V3 Filtered | 7 | 7 | 7 | 57,14% | 1,96 | 0,42R | €29,07 |
 | SHADOW_4H_WIDE | 16 | 19 | 19 | 31,58% | 1,25 | 0,18R | €33,87 |
-| SHADOW_BOLLINGER_MR_1H | 2 | 15 | 15 | 40,00% | 0,88 | -0,08R | €-11,81 |
+| SHADOW_BOLLINGER_MR_1H | 1 | 16 | 16 | 43,75% | 1,03 | 0,02R | €3,06 |
 | SHADOW_BTC_ADAPTIVE_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_BTC_BOLLINGER_1H | 0 | 1 | 1 | 100,00% | ∞ | 1,37R | €13,67 |
 | SHADOW_BTC_DONCHIAN_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |
@@ -86,16 +86,16 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Rapida 1H V1 | RANGE | 2 | 33 | 33 | 42,42% | 1,05 | 0,03R | €8,73 |
 | Rapida 1H V1 | RANGE_HIGH_VOL | 0 | 10 | 10 | 0,00% | 0,00 | -1,10R | €-109,76 |
 | Rapida 1H V1 | TRANSITION | 3 | 16 | 16 | 62,50% | 2,29 | 0,51R | €81,94 |
-| Rapida 1H V1 | TREND_UP | 5 | 19 | 19 | 36,84% | 0,80 | -0,14R | €-26,38 |
+| Rapida 1H V1 | TREND_UP | 6 | 19 | 19 | 36,84% | 0,80 | -0,14R | €-26,38 |
 | Rapida 1H V2 | RANGE | 0 | 2 | 1 | 50,00% | 1,19 | 0,11R | €2,14 |
 | Rapida 1H V3 Filtered | TRANSITION | 1 | 3 | 3 | 66,67% | 2,93 | 0,65R | €19,60 |
-| Rapida 1H V3 Filtered | TREND_UP | 5 | 3 | 3 | 66,67% | 2,93 | 0,65R | €19,60 |
+| Rapida 1H V3 Filtered | TREND_UP | 6 | 4 | 4 | 50,00% | 1,47 | 0,24R | €9,47 |
 | SHADOW_4H_WIDE | RANGE | 6 | 11 | 11 | 27,27% | 1,02 | 0,01R | €1,48 |
 | SHADOW_4H_WIDE | TRANSITION | 6 | 4 | 4 | 25,00% | 0,92 | -0,06R | €-2,53 |
 | SHADOW_4H_WIDE | TREND_UP | 4 | 4 | 4 | 50,00% | 2,68 | 0,87R | €34,92 |
 | SHADOW_BOLLINGER_MR_1H | RANGE | 0 | 7 | 7 | 42,86% | 0,98 | -0,01R | €-0,83 |
 | SHADOW_BOLLINGER_MR_1H | TRANSITION | 0 | 3 | 3 | 33,33% | 0,71 | -0,20R | €-6,14 |
-| SHADOW_BOLLINGER_MR_1H | TREND_UP | 2 | 5 | 5 | 40,00% | 0,85 | -0,10R | €-4,84 |
+| SHADOW_BOLLINGER_MR_1H | TREND_UP | 1 | 6 | 6 | 50,00% | 1,31 | 0,17R | €10,03 |
 | SHADOW_BTC_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_BTC_BOLLINGER_1H | RANGE | 0 | 1 | 1 | 100,00% | ∞ | 1,37R | €13,67 |
 | SHADOW_BTC_DONCHIAN_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |
