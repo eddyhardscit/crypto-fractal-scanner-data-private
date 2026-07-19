@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **TREND_UP**
 - Famiglia: **TREND_UP**
-- Confidenza: **77,00%**
+- Confidenza: **82,70%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 92% sopra EMA50, ADX 19.8.
-- BTC trend score: **3,00**; ADX: **19,84**; breadth sopra EMA50: **91,67%**
-- Mediana alt vs BTC: **-0,14%**; dispersione: **13,80%**
+- Motivo: Trend BTC rialzista confermato dalla breadth: score +4.0, 92% sopra EMA50, ADX 20.7.
+- BTC trend score: **4,00**; ADX: **20,73**; breadth sopra EMA50: **91,67%**
+- Mediana alt vs BTC: **-0,85%**; dispersione: **11,12%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **147**
 - Trade research chiusi: **477**
 - Eventi di mercato indipendenti chiusi: **198**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **1359**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **1385**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia

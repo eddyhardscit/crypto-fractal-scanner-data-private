@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-18T23:20:07+00:00
+Generato: 2026-07-19T00:20:14+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **247**
-- Trade Shadow/Research chiusi: **523**
-- Eventi Shadow già presi dai Paper: **172**
-- Eventi Shadow saltati dai Paper: **351**
+- Trade Paper chiusi nei conti confrontati: **250**
+- Trade Shadow/Research chiusi: **526**
+- Eventi Shadow già presi dai Paper: **173**
+- Eventi Shadow saltati dai Paper: **353**
 - Profili con filtro Paper utile: **3**
 - Profili in cui il Paper potrebbe scartare edge: **0**
 - Profili con campione ancora insufficiente: **54**
@@ -35,14 +35,14 @@ Generato: 2026-07-18T23:20:07+00:00
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 9 | 15 | 9 | 6 | 0,03R | -0,24R | +0,27R | 0,01R | -0,02R | CAMPIONE INSUFFICIENTE |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 8 | 12 | 7 | 5 | -0,05R | -0,37R | +0,32R | 0,37R | +0,42R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 5 | 11 | 4 | 7 | -0,31R | 0,20R | -0,51R | 0,12R | +0,43R | CAMPIONE INSUFFICIENTE |
-| Forza relativa 1H V2 | Forza relativa 1H V2 | 7 | 9 | 3 | 6 | 1,12R | 0,04R | +1,08R | 0,04R | -1,08R | CAMPIONE INSUFFICIENTE |
+| Forza relativa 1H V2 | Forza relativa 1H V2 | 8 | 9 | 4 | 5 | 1,39R | -0,39R | +1,78R | 0,03R | -1,35R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 11 | 8 | 5 | 3 | 0,17R | 0,96R | -0,79R | -0,02R | -0,19R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 2 | 5 | 2 | 3 | 1,49R | 0,69R | +0,81R | 1,50R | +0,01R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 3 | 4 | 3 | 1 | -1,04R | 1,99R | -3,02R | -1,03R | +0,00R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 3 | 4 | 3 | 1 | -0,07R | -1,40R | +1,33R | -0,21R | -0,13R | CAMPIONE INSUFFICIENTE |
-| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 6 | 4 | 3 | 1 | 0,65R | -1,01R | +1,67R | -0,17R | -0,82R | CAMPIONE INSUFFICIENTE |
+| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 7 | 4 | 3 | 1 | 0,65R | -1,01R | +1,67R | -0,15R | -0,80R | CAMPIONE INSUFFICIENTE |
 | Rapida 1H V2 | Rapida 1H V2 | 2 | 2 | 2 | 0 | 0,11R | 0,00R | +0,11R | 0,63R | +0,52R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 3 | 2 | 2 | 0 | -1,01R | 0,00R | -1,01R | -0,68R | +0,34R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 4 | 2 | 2 | 0 | -1,01R | 0,00R | -1,01R | -0,35R | +0,66R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SOL_ADAPTIVE_1H | Sol Adaptive 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,18R | -0,57R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SOL_EMA_1H | Sol Ema 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,09R | -0,48R | CAMPIONE INSUFFICIENTE |
 | SHADOW_BTC_ADAPTIVE_1H | Btc Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,09R | +0,02R | CAMPIONE INSUFFICIENTE |
@@ -74,9 +74,9 @@ Generato: 2026-07-18T23:20:07+00:00
 
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 10 | 14 | 9 | 5 | -0,57% | -0,90% | +0,33% | -0,15% | +0,42% | CAMPIONE INSUFFICIENTE |
-| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 10 | 14 | 9 | 5 | -1,13% | -1,80% | +0,67% | -0,30% | +0,83% | CAMPIONE INSUFFICIENTE |
-| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 2 | 4 | 2 | 2 | -3,20% | -3,20% | +0,00% | -3,20% | 0,00% | CAMPIONE INSUFFICIENTE |
+| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 10 | 15 | 9 | 6 | -0,57% | -0,93% | +0,36% | -0,15% | +0,42% | CAMPIONE INSUFFICIENTE |
+| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 10 | 15 | 9 | 6 | -1,13% | -1,85% | +0,72% | -0,30% | +0,83% | CAMPIONE INSUFFICIENTE |
+| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 2 | 5 | 2 | 3 | -3,20% | -2,31% | -0,89% | -3,20% | 0,00% | CAMPIONE INSUFFICIENTE |
 | SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 4 | 4 | 4 | 0 | -3,90% | 0,00% | -3,90% | -3,90% | -0,00% | CAMPIONE INSUFFICIENTE |
 | SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 4 | 4 | 4 | 0 | -7,80% | 0,00% | -7,80% | -7,80% | -0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 10× | RSI 25 · leva 10× | 2 | 2 | 2 | 0 | -0,11% | 0,00% | -0,11% | -0,11% | +0,00% | CAMPIONE INSUFFICIENTE |
@@ -93,8 +93,8 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 
 | Strategia | Azione candidata | Dimensione | Valore | Eventi | WR | PF | Expectancy | Δ vs base | Confidenza |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 8 | 0,00% | 0,00 | -7,80% | -6,43% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 8 | 0,00% | 0,00 | -3,90% | -3,22% | MEDIA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 8 | 0,00% | 0,00 | -7,80% | -6,38% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 8 | 0,00% | 0,00 | -3,90% | -3,19% | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 10 | 0,00% | 0,00 | -1,10R | -1,03R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 10 | 0,00% | 0,00 | -1,10R | -1,03R | MEDIA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 9 | 0,00% | 0,00 | -1,08R | -1,02R | MEDIA |
