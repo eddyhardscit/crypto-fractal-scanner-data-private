@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **RANGE_HIGH_VOL**
 - Famiglia: **RANGE**
-- Confidenza: **80,40%**
+- Confidenza: **71,60%**
 - Volatilità: **HIGH**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 25%, ADX 22.1.
-- BTC trend score: **1,00**; ADX: **22,08**; breadth sopra EMA50: **25,00%**
-- Mediana alt vs BTC: **-0,07%**; dispersione: **34,29%**
+- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 42%, ADX 22.1.
+- BTC trend score: **1,00**; ADX: **22,08**; breadth sopra EMA50: **41,67%**
+- Mediana alt vs BTC: **-0,16%**; dispersione: **33,40%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **148**
+- Posizioni research aperte: **149**
 - Trade research chiusi: **756**
 - Eventi di mercato indipendenti chiusi: **295**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **2257**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **2292**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -46,7 +46,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_TREND | 7 | 40 | 40 | 37,50% | 1,24 | 0,16R | €63,22 |
 | SHADOW_DOGE_DONCHIAN_1H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_DOGE_EMA_1H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
-| SHADOW_DONCHIAN_1H | 7 | 19 | 19 | 26,32% | 0,82 | -0,14R | €-26,97 |
+| SHADOW_DONCHIAN_1H | 8 | 19 | 19 | 26,32% | 0,82 | -0,14R | €-26,97 |
 | SHADOW_EMA_TREND_1H | 10 | 46 | 46 | 34,78% | 1,10 | 0,07R | €31,44 |
 | SHADOW_ETH_ADAPTIVE_1H | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_ETH_BOLLINGER_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |
@@ -143,6 +143,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_DOGE_EMA_1H | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_DONCHIAN_1H | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_DONCHIAN_1H | RANGE | 2 | 6 | 6 | 16,67% | 0,45 | -0,49R | €-29,56 |
+| SHADOW_DONCHIAN_1H | RANGE_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_DONCHIAN_1H | TRANSITION | 3 | 4 | 4 | 25,00% | 0,78 | -0,17R | €-6,95 |
 | SHADOW_DONCHIAN_1H | TREND_UP | 2 | 8 | 8 | 37,50% | 1,36 | 0,25R | €19,66 |
 | SHADOW_EMA_TREND_1H | ALT_ROTATION_UP | 0 | 2 | 2 | 50,00% | 2,16 | 0,59R | €11,73 |
