@@ -1,14 +1,14 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-20T09:33:31+00:00
+Generato: 2026-07-20T10:33:52+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **404**
-- Trade Shadow/Research chiusi: **881**
-- Eventi Shadow già presi dai Paper: **275**
+- Trade Paper chiusi nei conti confrontati: **411**
+- Trade Shadow/Research chiusi: **882**
+- Eventi Shadow già presi dai Paper: **276**
 - Eventi Shadow saltati dai Paper: **606**
 - Profili con filtro Paper utile: **1**
 - Profili in cui il Paper potrebbe scartare edge: **5**
@@ -23,20 +23,20 @@ Generato: 2026-07-20T09:33:31+00:00
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | Rapida 1H V1 | Rapida 1H V1 | 39 | 106 | 21 | 85 | -0,19R | 0,04R | -0,23R | 0,08R | +0,26R | SELEZIONE DA RIVEDERE |
 | Bilanciata 1H V1 | Bilanciata 1H V1 | 18 | 98 | 6 | 92 | -0,20R | 0,05R | -0,25R | 0,21R | +0,41R | CAMPIONE INSUFFICIENTE |
-| Forza relativa 1H V1 | Forza relativa 1H V1 | 14 | 62 | 3 | 59 | -1,03R | 0,21R | -1,24R | -0,00R | +1,03R | CAMPIONE INSUFFICIENTE |
+| Forza relativa 1H V1 | Forza relativa 1H V1 | 15 | 62 | 3 | 59 | -1,03R | 0,21R | -1,24R | 0,14R | +1,18R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive | 14 | 50 | 11 | 39 | 0,04R | 0,41R | -0,38R | 0,36R | +0,32R | PAPER SCARTA EDGE |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 7 | 46 | 3 | 43 | -1,04R | 0,15R | -1,19R | -0,36R | +0,68R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 20 | 45 | 12 | 33 | 0,04R | 0,50R | -0,46R | 0,23R | +0,19R | PAPER SCARTA EDGE |
-| SHADOW_COMBO_TREND | Combo Trend | 12 | 40 | 8 | 32 | 0,14R | 0,16R | -0,02R | 0,02R | -0,12R | NESSUN EDGE CHIARO |
-| SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 14 | 35 | 10 | 25 | 0,56R | 0,50R | +0,06R | 0,41R | -0,15R | NESSUN EDGE CHIARO |
-| SHADOW_COMBO_SCANNER | Combo Scanner | 13 | 33 | 8 | 25 | -0,24R | 0,76R | -1,00R | 0,04R | +0,29R | PAPER SCARTA EDGE |
+| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 21 | 45 | 12 | 33 | 0,04R | 0,50R | -0,46R | 0,31R | +0,27R | PAPER SCARTA EDGE |
+| SHADOW_COMBO_TREND | Combo Trend | 13 | 40 | 8 | 32 | 0,14R | 0,16R | -0,02R | 0,18R | +0,04R | NESSUN EDGE CHIARO |
+| SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 15 | 35 | 10 | 25 | 0,56R | 0,50R | +0,06R | 0,53R | -0,04R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_SCANNER | Combo Scanner | 14 | 33 | 8 | 25 | -0,24R | 0,76R | -1,00R | 0,20R | +0,44R | PAPER SCARTA EDGE |
 | MAIN | Principale 4H | 15 | 27 | 12 | 15 | -0,03R | -0,22R | +0,20R | -0,06R | -0,03R | NESSUN EDGE CHIARO |
 | Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 27 | 25 | 16 | 9 | 0,38R | 0,05R | +0,33R | -0,12R | -0,49R | SELEZIONE POSITIVA |
 | SHADOW_4H_WIDE | Ampia 4H | 11 | 24 | 9 | 15 | 0,25R | -0,01R | +0,25R | 0,26R | +0,01R | FILTRO PAPER UTILE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 18 | 22 | 13 | 9 | 0,34R | 0,30R | +0,04R | 0,20R | -0,14R | NESSUN EDGE CHIARO |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 14 | 22 | 14 | 8 | -0,01R | -0,44R | +0,44R | 0,23R | +0,24R | SELEZIONE POSITIVA |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 16 | 20 | 12 | 8 | 0,84R | 0,17R | +0,67R | 0,36R | -0,48R | SELEZIONE POSITIVA |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 17 | 20 | 7 | 13 | -0,59R | 0,81R | -1,40R | -0,26R | +0,33R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 18 | 20 | 7 | 13 | -0,59R | 0,81R | -1,40R | -0,21R | +0,38R | CAMPIONE INSUFFICIENTE |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 12 | 19 | 8 | 11 | -0,18R | -0,11R | -0,07R | 0,39R | +0,57R | NESSUN EDGE CHIARO |
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 8 | 17 | 6 | 11 | -0,38R | 0,01R | -0,38R | -0,06R | +0,32R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 16 | 15 | 10 | 5 | 0,15R | 0,76R | -0,61R | -0,08R | -0,24R | CAMPIONE INSUFFICIENTE |
@@ -82,7 +82,7 @@ Generato: 2026-07-20T09:33:31+00:00
 | SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 5 | 9 | 5 | 4 | -1,22% | -1,97% | +0,75% | -1,22% | -0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 10× | RSI 25 · leva 10× | 4 | 5 | 4 | 1 | -0,13% | 3,60% | -3,73% | -0,13% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 20× | RSI 25 · leva 20× | 4 | 5 | 4 | 1 | -0,26% | 7,19% | -7,46% | -0,26% | +0,00% | CAMPIONE INSUFFICIENTE |
-| RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 1 | 1 | 1 | 0 | -0,32% | 0,00% | -0,32% | -0,32% | 0,00% | CAMPIONE INSUFFICIENTE |
+| RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 2 | 2 | 2 | 0 | 1,99% | 0,00% | +1,99% | 1,99% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 10× | RSI 20 · leva 10× | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 20× | RSI 20 · leva 20× | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 5× · Wide | RSI 20 · leva 5× · Wide | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |
