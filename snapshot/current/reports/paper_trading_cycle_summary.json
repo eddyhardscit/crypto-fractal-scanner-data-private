@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-07-20T16:23:37+00:00",
+  "generated_utc": "2026-07-20T17:23:38+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 100,
+  "signals_generated": 74,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-07-20T16:23:25+00:00",
-    "checked_utc": "2026-07-20T16:23:25+00:00",
-    "snapshot_age_minutes": 0.010221316666666667,
+    "snapshot_generated_utc": "2026-07-20T17:23:26+00:00",
+    "checked_utc": "2026-07-20T17:23:26+00:00",
+    "snapshot_age_minutes": 0.00256405,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
-    "opened_this_cycle": 13,
-    "closed_this_cycle": 2,
-    "open_positions": 183,
-    "closed_trades": 818
+    "opened_this_cycle": 0,
+    "closed_this_cycle": 0,
+    "open_positions": 180,
+    "closed_trades": 825
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 0,
@@ -50,10 +50,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 131,
-    "below_score": 328,
-    "strategy_filter": 23,
-    "stale": 0,
+    "near_miss": 122,
+    "below_score": 338,
+    "strategy_filter": 17,
+    "stale": 33,
     "opened": 0
   },
   "shadow_exit": {
@@ -62,11 +62,11 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "block3-v1-r-matrix",
     "scenario_definitions": 20,
-    "active_groups": 108,
-    "active_scenarios": 1279,
-    "new_results": 1,
-    "completed_results": 2106,
-    "events_written": 60,
+    "active_groups": 115,
+    "active_scenarios": 1372,
+    "new_results": 3,
+    "completed_results": 2235,
+    "events_written": 0,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -75,8 +75,8 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 2106,
-    "evaluation_rows": 2094,
+    "raw_results": 2235,
+    "evaluation_rows": 2135,
     "history_events": 0,
     "robust_count": 0,
     "eligible_for_mutation": 0,
@@ -141,7 +141,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-07-20T16:23:37+00:00",
+    "updated_utc": "2026-07-20T17:23:37+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -208,11 +208,11 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "HIGH_VOLATILITY",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 131,
-    "performance_rows": 160,
+    "timeline_rows": 132,
+    "performance_rows": 162,
     "preferred": 0,
     "avoid": 0,
-    "memory_records": 80,
+    "memory_records": 81,
     "candidate_blocks": 0,
     "registry_enriched": 0,
     "routing_mode": "ADVISORY_ONLY",
@@ -250,7 +250,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-07-20T16:23:31+00:00",
+    "generated_utc": "2026-07-20T17:23:31+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -263,8 +263,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 35,
-    "audit_last_hash": "d469904cf966cf994eb02a5a6b9339a4e3b6e16e201ba65fad86c372b9e1f43a",
+    "audit_rows": 39,
+    "audit_last_hash": "2543cf4154d06b5d69642af2c03fed84247df5a7ddb03ed8d4e901ed8080176b",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -280,7 +280,81 @@
     "telegram_sent": false
   },
   "opened": [],
-  "closed": [],
+  "closed": [
+    {
+      "trade_id": "6e4bc7d8fe9825a73b07",
+      "experiment_group_id": "e89bd862e66a3e668752",
+      "portfolio": "SHADOW_SCANNER_BOTTOM5_SHORT",
+      "is_main": false,
+      "strategy": "scanner_bottom5_short",
+      "asset": "LAB",
+      "symbol": "LABUSDTM",
+      "side": "SHORT",
+      "timeframe_minutes": 60,
+      "opened_at": "2026-07-15T17:23:15+00:00",
+      "entry_price": 0.22090581,
+      "quantity": 1895.2542252102492,
+      "notional_eur": 418.6726697759925,
+      "margin_eur": 209.33633488799626,
+      "leverage": 2.0,
+      "liquidation_price": 0.33025418595000006,
+      "initial_stop_price": 0.24741450720000002,
+      "stop_price": 0.20334887973572,
+      "target_price": 0.1678884156,
+      "initial_risk_eur": 50.2407203731191,
+      "entry_fee_eur": 0.2512036018655955,
+      "funding_pnl_eur": 0.5480425247367742,
+      "max_favorable_price": 0.17536,
+      "max_adverse_price": 0.24306,
+      "mfe_gross_eur": 86.32088884312326,
+      "mae_gross_eur": -41.987822203610634,
+      "mfe_net_eur": 86.4183166974347,
+      "mae_net_eur": -42.51542210066399,
+      "last_funding_time": "2026-07-20T17:23:15+00:00",
+      "last_processed_candle": "2026-07-18T06:15:00+00:00",
+      "max_holding_hours": 120,
+      "trailing_at_r": 1.0,
+      "trailing_atr_multiple": 1.4,
+      "atr_pct": 10.346679,
+      "signal_score": -9.5,
+      "confidence": "ALTA",
+      "source": "KUCOIN_PUBLIC_API",
+      "eur_usdt_rate": 1.0,
+      "mark_price": 0.22095,
+      "unrealized_pnl_eur": -0.08375128421203998,
+      "unrealized_pnl_pct_margin": -0.04000800160031962,
+      "stop_distance_pct": 11.977600000000006,
+      "target_distance_pct": 24.0152,
+      "mfe_pct": 20.617751067751463,
+      "mae_pct": -10.028794625184368,
+      "excursion_observation_count": 1,
+      "excursion_quality": "MARK_ONLY",
+      "risk_model_version_at_exit": "block4_5_v1",
+      "crash_guard_level_at_exit": "NORMAL",
+      "asset_stress_level_at_exit": "NORMAL",
+      "protective_execution_model": "PAPER_STOP_MARKET_STRESSED_V1",
+      "stop_slippage_pct": 0.0,
+      "liquidation_crossed_intrabar": false,
+      "closed_at": "2026-07-20T17:23:31+00:00",
+      "holding_hours": 120.0046,
+      "exit_price": 0.22103835348599998,
+      "final_stop_price": 0.20334887973572,
+      "gross_pnl_eur": -0.2512036018655486,
+      "exit_fee_eur": 0.25135432402671487,
+      "net_pnl_eur": -0.20571900302108476,
+      "return_on_margin_pct": -0.09827199999997759,
+      "r_multiple": -0.0040946666666657324,
+      "mfe_at_utc": "",
+      "mae_at_utc": "",
+      "capture_ratio_signed": -0.0023805023157456554,
+      "winner_capture_ratio": null,
+      "profit_retained_pct": null,
+      "peak_profit_giveback_eur": 86.62403570045579,
+      "profit_giveback_pct_of_mfe": 100.23805023157458,
+      "lost_after_positive_mfe": true,
+      "close_reason": "TIME_EXIT_NO_CANDLES"
+    }
+  ],
   "trailing_updates": [],
   "risk_alerts": [],
   "risk_recoveries": [],
@@ -390,16 +464,16 @@
         "max_drawdown_pct": 2.077850772981056
       },
       "SHADOW_RELATIVE_STRENGTH": {
-        "trades": 15,
-        "events": 15,
+        "trades": 16,
+        "events": 16,
         "wins": 6,
-        "win_rate_pct": 40.0,
-        "profit_factor": 1.4144953353521457,
-        "expectancy_eur": 6.935187177444957,
-        "expectancy_r": 0.14478489281466045,
-        "net_pnl_eur": 104.02780766167436,
-        "average_mfe_net_eur": 29.553849247342484,
-        "average_mae_net_eur": -22.134056876797285,
+        "win_rate_pct": 37.5,
+        "profit_factor": 1.3733658472495829,
+        "expectancy_eur": 6.031977066856561,
+        "expectancy_r": 0.12645860295016692,
+        "net_pnl_eur": 96.51163306970497,
+        "average_mfe_net_eur": 31.232165641326443,
+        "average_mae_net_eur": -21.773500462096912,
         "max_drawdown_pct": 2.2917446144815856
       },
       "SHADOW_RELATIVE_STRENGTH_V2": {
@@ -494,42 +568,42 @@
         "max_drawdown_pct": 2.2496767273376292
       },
       "SHADOW_SCANNER_TOP5_LONG": {
-        "trades": 21,
-        "events": 21,
+        "trades": 22,
+        "events": 22,
         "wins": 10,
-        "win_rate_pct": 47.61904761904761,
-        "profit_factor": 1.8034714067806719,
-        "expectancy_eur": 15.742480455370004,
-        "expectancy_r": 0.3149490499198243,
-        "net_pnl_eur": 330.59208956277007,
-        "average_mfe_net_eur": 61.90370986305428,
-        "average_mae_net_eur": -27.761738727588057,
+        "win_rate_pct": 45.45454545454545,
+        "profit_factor": 1.770482409570363,
+        "expectancy_eur": 14.678433971976533,
+        "expectancy_r": 0.29388610469541243,
+        "net_pnl_eur": 322.9255473834837,
+        "average_mfe_net_eur": 61.70514944687262,
+        "average_mae_net_eur": -27.258593937088843,
         "max_drawdown_pct": 2.697298509489659
       },
       "SHADOW_SCANNER_BOTTOM5_SHORT": {
-        "trades": 10,
-        "events": 10,
+        "trades": 11,
+        "events": 11,
         "wins": 3,
-        "win_rate_pct": 30.0,
-        "profit_factor": 0.503068310769537,
-        "expectancy_eur": -13.42463791311332,
-        "expectancy_r": -0.2670526896671664,
-        "net_pnl_eur": -134.2463791311332,
-        "average_mfe_net_eur": 39.2854974063792,
-        "average_mae_net_eur": -40.64885949474383,
-        "max_drawdown_pct": 3.2059790765900966
+        "win_rate_pct": 27.27272727272727,
+        "profit_factor": 0.5026855169691852,
+        "expectancy_eur": -12.222918012195844,
+        "expectancy_r": -0.24314741484893904,
+        "net_pnl_eur": -134.45209813415428,
+        "average_mfe_net_eur": 43.57029916011152,
+        "average_mae_net_eur": -40.81854700437294,
+        "max_drawdown_pct": 3.2109097050856774
       },
       "SHADOW_SCANNER_TOP5_BTC": {
-        "trades": 16,
-        "events": 16,
+        "trades": 17,
+        "events": 17,
         "wins": 8,
-        "win_rate_pct": 50.0,
-        "profit_factor": 2.438099831719311,
-        "expectancy_eur": 24.64989029319129,
-        "expectancy_r": 0.4885650361297463,
-        "net_pnl_eur": 394.39824469106065,
-        "average_mfe_net_eur": 76.03392951242053,
-        "average_mae_net_eur": -27.8472501922063,
+        "win_rate_pct": 47.05882352941176,
+        "profit_factor": 2.371384199948163,
+        "expectancy_eur": 22.746035922172453,
+        "expectancy_r": 0.45109440194462963,
+        "net_pnl_eur": 386.6826106769317,
+        "average_mfe_net_eur": 74.96745142364789,
+        "average_mae_net_eur": -27.19737913454551,
         "max_drawdown_pct": 1.6234751314550897
       },
       "SHADOW_GLOBAL_PURE": {
@@ -546,16 +620,16 @@
         "max_drawdown_pct": 1.929101897158754
       },
       "SHADOW_COMBO_TREND": {
-        "trades": 14,
-        "events": 14,
+        "trades": 15,
+        "events": 15,
         "wins": 5,
-        "win_rate_pct": 35.714285714285715,
-        "profit_factor": 1.1750473755421034,
-        "expectancy_eur": 4.6758680650483155,
-        "expectancy_r": 0.09454348159769814,
-        "net_pnl_eur": 65.46215291067642,
-        "average_mfe_net_eur": 70.6343918952075,
-        "average_mae_net_eur": -35.08521047313607,
+        "win_rate_pct": 33.33333333333333,
+        "profit_factor": 1.15195194954039,
+        "expectancy_eur": 3.864298892898634,
+        "expectancy_r": 0.07834486649003584,
+        "net_pnl_eur": 57.96448339347951,
+        "average_mfe_net_eur": 69.67663482464008,
+        "average_mae_net_eur": -33.83452062033661,
         "max_drawdown_pct": 2.1877456469697174
       },
       "SHADOW_COMBO_MEAN_REVERSION": {
@@ -572,43 +646,43 @@
         "max_drawdown_pct": 0.5881164558644644
       },
       "SHADOW_COMBO_SCANNER": {
+        "trades": 17,
+        "events": 17,
+        "wins": 7,
+        "win_rate_pct": 41.17647058823529,
+        "profit_factor": 1.0389812209556355,
+        "expectancy_eur": 1.000224691169232,
+        "expectancy_r": 0.022641600497981713,
+        "net_pnl_eur": 17.003819749876946,
+        "average_mfe_net_eur": 59.03784340648148,
+        "average_mae_net_eur": -37.137213949978,
+        "max_drawdown_pct": 1.6938938006302695
+      },
+      "SHADOW_COMBO_ADAPTIVE": {
         "trades": 16,
         "events": 16,
         "wins": 7,
         "win_rate_pct": 43.75,
-        "profit_factor": 1.0571903990119567,
-        "expectancy_eur": 1.532317234508497,
-        "expectancy_r": 0.03333393459268286,
-        "net_pnl_eur": 24.517075752135952,
-        "average_mfe_net_eur": 59.20364560040669,
-        "average_mae_net_eur": -38.43586485163388,
-        "max_drawdown_pct": 1.6938938006302695
-      },
-      "SHADOW_COMBO_ADAPTIVE": {
-        "trades": 15,
-        "events": 15,
-        "wins": 7,
-        "win_rate_pct": 46.666666666666664,
-        "profit_factor": 2.1570379632586616,
-        "expectancy_eur": 16.941072303721942,
-        "expectancy_r": 0.33448265826921186,
-        "net_pnl_eur": 254.11608455582913,
-        "average_mfe_net_eur": 66.8755826258467,
-        "average_mae_net_eur": -30.14367003272652,
+        "profit_factor": 2.0818377676558173,
+        "expectancy_eur": 15.38642088821587,
+        "expectancy_r": 0.30390452751385283,
+        "net_pnl_eur": 246.18273421145392,
+        "average_mfe_net_eur": 66.19628817603768,
+        "average_mae_net_eur": -29.353152704748506,
         "max_drawdown_pct": 1.2705118015434458
       },
       "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL": {
-        "trades": 20,
-        "events": 20,
+        "trades": 21,
+        "events": 21,
         "wins": 6,
-        "win_rate_pct": 30.0,
-        "profit_factor": 0.3631932504667949,
-        "expectancy_eur": -14.623604645432868,
-        "expectancy_r": -0.29524631045123356,
-        "net_pnl_eur": -292.4720929086574,
-        "average_mfe_net_eur": 37.69441780533578,
-        "average_mae_net_eur": -43.47130028534671,
-        "max_drawdown_pct": 3.0233613762836598
+        "win_rate_pct": 28.57142857142857,
+        "profit_factor": 0.3555064406758904,
+        "expectancy_eur": -14.400128176492967,
+        "expectancy_r": -0.2908091255717551,
+        "net_pnl_eur": -302.4026917063523,
+        "average_mfe_net_eur": 38.031901185654384,
+        "average_mae_net_eur": -42.55997152297656,
+        "max_drawdown_pct": 3.2505802489302273
       },
       "SHADOW_BTC_EMA_1H": {
         "trades": 2,
@@ -830,12 +904,12 @@
           "net_pnl_eur": -7.565072980942951
         },
         "SHADOW_1H_BALANCED": {
-          "events": 105,
-          "trades": 105,
-          "win_rate_pct": 34.285714285714285,
-          "profit_factor": 0.9833703115019858,
-          "expectancy_r": -0.011324326869491738,
-          "net_pnl_eur": -11.890543212966303
+          "events": 106,
+          "trades": 106,
+          "win_rate_pct": 33.9622641509434,
+          "profit_factor": 0.9688552478213897,
+          "expectancy_r": -0.021323318416216184,
+          "net_pnl_eur": -22.602717521189135
         },
         "SHADOW_1H_BALANCED_V2": {
           "events": 15,
@@ -870,12 +944,12 @@
           "net_pnl_eur": 18.18029504768831
         },
         "SHADOW_RELATIVE_STRENGTH": {
-          "events": 64,
-          "trades": 64,
-          "win_rate_pct": 37.5,
-          "profit_factor": 1.2514291226015775,
-          "expectancy_r": 0.16360428691758935,
-          "net_pnl_eur": 104.7067436272572
+          "events": 65,
+          "trades": 65,
+          "win_rate_pct": 36.92307692307693,
+          "profit_factor": 1.220074052591759,
+          "expectancy_r": 0.1446220868872734,
+          "net_pnl_eur": 94.00435647672774
         },
         "SHADOW_RELATIVE_STRENGTH_V2": {
           "events": 20,
@@ -992,12 +1066,12 @@
           "net_pnl_eur": 56.333502262823416
         },
         "SHADOW_1H_BALANCED|TREND_UP_HIGH_VOL": {
-          "events": 3,
-          "trades": 3,
-          "win_rate_pct": 33.33333333333333,
-          "profit_factor": 0.9551173975688996,
-          "expectancy_r": -0.03111895647246395,
-          "net_pnl_eur": -0.9335686941739247
+          "events": 4,
+          "trades": 4,
+          "win_rate_pct": 25.0,
+          "profit_factor": 0.630439464176245,
+          "expectancy_r": -0.2911435750599187,
+          "net_pnl_eur": -11.645743002396756
         },
         "SHADOW_1H_BALANCED_V2|ALT_ROTATION_UP": {
           "events": 2,
@@ -1048,12 +1122,12 @@
           "net_pnl_eur": 94.72666582793956
         },
         "SHADOW_1H_BALANCED_V3|TREND_UP_HIGH_VOL": {
-          "events": 3,
-          "trades": 3,
-          "win_rate_pct": 33.33333333333333,
-          "profit_factor": 0.9519258394219408,
-          "expectancy_r": -0.033443547943611485,
-          "net_pnl_eur": -1.0033064383083463
+          "events": 4,
+          "trades": 4,
+          "win_rate_pct": 25.0,
+          "profit_factor": 0.6292423659774699,
+          "expectancy_r": -0.292642339720945,
+          "net_pnl_eur": -11.705693588837802
         },
         "SHADOW_1H_FAST|ALT_ROTATION_UP": {
           "events": 8,
@@ -1296,12 +1370,12 @@
           "net_pnl_eur": -6.7905563354969
         },
         "SHADOW_COMBO_ADAPTIVE|TRANSITION": {
-          "events": 14,
-          "trades": 14,
-          "win_rate_pct": 50.0,
-          "profit_factor": 1.8683067404485705,
-          "expectancy_r": 0.45370579357080915,
-          "net_pnl_eur": 63.518811099913286
+          "events": 15,
+          "trades": 15,
+          "win_rate_pct": 53.333333333333336,
+          "profit_factor": 2.1296687770136766,
+          "expectancy_r": 0.5509206544186045,
+          "net_pnl_eur": 82.63809816279067
         },
         "SHADOW_COMBO_ADAPTIVE|TREND_UP": {
           "events": 22,
@@ -1326,6 +1400,14 @@
           "profit_factor": 0.607328956386117,
           "expectancy_r": -0.30802861865711245,
           "net_pnl_eur": -12.321144746284503
+        },
+        "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL|TRANSITION": {
+          "events": 1,
+          "trades": 1,
+          "win_rate_pct": 100.0,
+          "profit_factor": Infinity,
+          "expectancy_r": 1.911928706287739,
+          "net_pnl_eur": 19.11928706287739
         },
         "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL|TREND_UP": {
           "events": 14,
@@ -1424,12 +1506,12 @@
           "net_pnl_eur": 11.733333333333327
         },
         "SHADOW_COMBO_TREND|RANGE": {
-          "events": 7,
-          "trades": 7,
-          "win_rate_pct": 14.285714285714285,
-          "profit_factor": 0.3406091326594668,
-          "expectancy_r": -0.6047434651057149,
-          "net_pnl_eur": -42.33204255740003
+          "events": 8,
+          "trades": 8,
+          "win_rate_pct": 12.5,
+          "profit_factor": 0.2907851330467841,
+          "expectancy_r": -0.6666505319675006,
+          "net_pnl_eur": -53.332042557400044
         },
         "SHADOW_COMBO_TREND|TRANSITION": {
           "events": 13,
@@ -1472,12 +1554,12 @@
           "net_pnl_eur": -10.133333333333344
         },
         "SHADOW_DONCHIAN_1H|RANGE": {
-          "events": 6,
-          "trades": 6,
-          "win_rate_pct": 16.666666666666664,
-          "profit_factor": 0.4527060778059868,
-          "expectancy_r": -0.49262769378012045,
-          "net_pnl_eur": -29.557661626807224
+          "events": 7,
+          "trades": 7,
+          "win_rate_pct": 14.285714285714285,
+          "profit_factor": 0.37610244086497896,
+          "expectancy_r": -0.5793951660972463,
+          "net_pnl_eur": -40.55766162680723
         },
         "SHADOW_DONCHIAN_1H|TRANSITION": {
           "events": 6,
@@ -1624,12 +1706,12 @@
           "net_pnl_eur": 103.79822279283817
         },
         "SHADOW_RELATIVE_STRENGTH|TREND_UP_HIGH_VOL": {
-          "events": 2,
-          "trades": 2,
-          "win_rate_pct": 50.0,
-          "profit_factor": 2.0499547675865077,
-          "expectancy_r": 0.5599882319579712,
-          "net_pnl_eur": 11.199764639159422
+          "events": 3,
+          "trades": 3,
+          "win_rate_pct": 33.33333333333333,
+          "profit_factor": 1.0232753408167254,
+          "expectancy_r": 0.016579249620998954,
+          "net_pnl_eur": 0.4973774886299669
         },
         "SHADOW_RELATIVE_STRENGTH_V2|ALT_ROTATION_UP": {
           "events": 1,
@@ -1867,8 +1949,15 @@
     "changed": false
   },
   "live_publication": {
-    "configured": false,
-    "published": false,
-    "reasons": []
+    "configured": true,
+    "published": true,
+    "unchanged": false,
+    "path": "reports/paper_trading_live.md",
+    "branch": "paper-trading-live",
+    "commit_sha": "843d79674fa7ff6b3ea774f5adf5b7e088e8c819",
+    "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
+    "reasons": [
+      "market_event"
+    ]
   }
 }
