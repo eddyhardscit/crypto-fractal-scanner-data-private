@@ -10,15 +10,15 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Volatilità: **HIGH**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Segnali contrastanti tra trend BTC, breadth e forza delle altcoin.
-- BTC trend score: **3,00**; ADX: **21,30**; breadth sopra EMA50: **41,67%**
-- Mediana alt vs BTC: **-0,29%**; dispersione: **18,10%**
+- BTC trend score: **3,00**; ADX: **21,30**; breadth sopra EMA50: **50,00%**
+- Mediana alt vs BTC: **-0,11%**; dispersione: **13,66%**
 
 - Aperti in questo ciclo: **0**
-- Chiusi in questo ciclo: **1**
-- Posizioni research aperte: **151**
-- Trade research chiusi: **788**
-- Eventi di mercato indipendenti chiusi: **309**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **2424**
+- Chiusi in questo ciclo: **2**
+- Posizioni research aperte: **147**
+- Trade research chiusi: **793**
+- Eventi di mercato indipendenti chiusi: **313**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **2438**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -28,11 +28,11 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | MAIN | 10 | 28 | 28 | 32,14% | 0,91 | -0,06R | €-16,99 |
 | RSI_EXTREME_SHORT_15M | 0 | 5 | 5 | 20,00% | 0,32 | -0,55R | €-27,64 |
 | Bilanciata 1H V1 | 15 | 102 | 102 | 35,29% | 1,03 | 0,02R | €20,91 |
-| Bilanciata 1H V2 | 6 | 16 | 15 | 43,75% | 1,44 | 0,27R | €42,44 |
+| Bilanciata 1H V2 | 7 | 16 | 15 | 43,75% | 1,44 | 0,27R | €42,44 |
 | Bilanciata 1H V3 Filtered | 6 | 23 | 23 | 47,83% | 1,73 | 0,40R | €91,26 |
-| Rapida 1H V1 | 7 | 113 | 113 | 39,82% | 0,92 | -0,05R | €-58,09 |
+| Rapida 1H V1 | 4 | 116 | 116 | 38,79% | 0,90 | -0,06R | €-69,67 |
 | Rapida 1H V2 | 0 | 3 | 2 | 33,33% | 0,59 | -0,31R | €-9,29 |
-| Rapida 1H V3 Filtered | 5 | 28 | 28 | 50,00% | 1,38 | 0,20R | €56,24 |
+| Rapida 1H V3 Filtered | 4 | 29 | 29 | 48,28% | 1,29 | 0,16R | €45,38 |
 | SHADOW_4H_WIDE | 15 | 26 | 26 | 30,77% | 1,21 | 0,15R | €38,93 |
 | SHADOW_BOLLINGER_MR_1H | 1 | 22 | 22 | 36,36% | 0,76 | -0,17R | €-36,52 |
 | SHADOW_BTC_ADAPTIVE_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
@@ -54,7 +54,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_ETH_EMA_1H | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_GLOBAL_PURE | 1 | 1 | 1 | 0,00% | 0,00 | -1,10R | €-11,00 |
 | Forza relativa 1H V1 | 13 | 62 | 62 | 37,10% | 1,23 | 0,15R | €93,41 |
-| Forza relativa 1H V2 | 5 | 20 | 19 | 50,00% | 2,11 | 0,57R | €114,66 |
+| Forza relativa 1H V2 | 4 | 21 | 20 | 47,62% | 1,91 | 0,50R | €104,00 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | 7 | 19 | 19 | 26,32% | 0,69 | -0,23R | €-44,08 |
 | SHADOW_SCANNER_TOP5_BTC | 3 | 36 | 36 | 47,22% | 1,95 | 0,50R | €180,21 |
 | SHADOW_SCANNER_TOP5_LONG | 5 | 46 | 46 | 47,83% | 1,78 | 0,41R | €190,29 |
@@ -84,25 +84,25 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 3 | 3 | 3 | 33,33% | 0,96 | -0,03R | €-0,93 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 1 | 2 | 2 | 100,00% | ∞ | 1,94R | €38,87 |
 | Bilanciata 1H V2 | RANGE | 2 | 4 | 4 | 50,00% | 1,79 | 0,44R | €17,51 |
-| Bilanciata 1H V2 | TRANSITION | 3 | 10 | 9 | 30,00% | 0,81 | -0,14R | €-13,94 |
+| Bilanciata 1H V2 | TRANSITION | 4 | 10 | 9 | 30,00% | 0,81 | -0,14R | €-13,94 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | Bilanciata 1H V3 Filtered | RANGE_HIGH_VOL | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | Bilanciata 1H V3 Filtered | TRANSITION | 1 | 5 | 5 | 40,00% | 1,24 | 0,15R | €7,67 |
 | Bilanciata 1H V3 Filtered | TREND_UP | 1 | 14 | 14 | 57,14% | 2,52 | 0,68R | €94,73 |
 | Bilanciata 1H V3 Filtered | TREND_UP_HIGH_VOL | 2 | 3 | 3 | 33,33% | 0,95 | -0,03R | €-1,00 |
 | Rapida 1H V1 | ALT_ROTATION_UP | 0 | 8 | 8 | 50,00% | 1,40 | 0,21R | €16,81 |
-| Rapida 1H V1 | RANGE | 2 | 33 | 33 | 42,42% | 1,05 | 0,03R | €8,73 |
+| Rapida 1H V1 | RANGE | 0 | 35 | 35 | 40,00% | 1,04 | 0,02R | €8,01 |
 | Rapida 1H V1 | RANGE_HIGH_VOL | 1 | 10 | 10 | 0,00% | 0,00 | -1,10R | €-109,76 |
 | Rapida 1H V1 | TRANSITION | 1 | 22 | 22 | 45,45% | 1,21 | 0,11R | €25,12 |
 | Rapida 1H V1 | TREND_UP | 1 | 33 | 33 | 45,45% | 1,14 | 0,08R | €26,60 |
-| Rapida 1H V1 | TREND_UP_HIGH_VOL | 2 | 7 | 7 | 28,57% | 0,53 | -0,37R | €-25,59 |
+| Rapida 1H V1 | TREND_UP_HIGH_VOL | 1 | 8 | 8 | 25,00% | 0,44 | -0,46R | €-36,45 |
 | Rapida 1H V2 | RANGE | 0 | 2 | 1 | 50,00% | 1,19 | 0,11R | €2,14 |
 | Rapida 1H V2 | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,14R | €-11,43 |
 | Rapida 1H V3 Filtered | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,83 |
 | Rapida 1H V3 Filtered | RANGE_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | Rapida 1H V3 Filtered | TRANSITION | 0 | 5 | 5 | 40,00% | 0,91 | -0,06R | €-2,77 |
 | Rapida 1H V3 Filtered | TREND_UP | 1 | 17 | 17 | 58,82% | 2,00 | 0,43R | €72,63 |
-| Rapida 1H V3 Filtered | TREND_UP_HIGH_VOL | 3 | 5 | 5 | 20,00% | 0,34 | -0,57R | €-28,46 |
+| Rapida 1H V3 Filtered | TREND_UP_HIGH_VOL | 2 | 6 | 6 | 16,67% | 0,27 | -0,66R | €-39,31 |
 | SHADOW_4H_WIDE | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |
 | SHADOW_4H_WIDE | RANGE | 6 | 11 | 11 | 27,27% | 1,02 | 0,01R | €1,48 |
 | SHADOW_4H_WIDE | TRANSITION | 5 | 5 | 5 | 20,00% | 0,69 | -0,25R | €-12,67 |
@@ -179,7 +179,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Forza relativa 1H V2 | RANGE | 1 | 2 | 2 | 50,00% | 2,16 | 0,59R | €11,72 |
 | Forza relativa 1H V2 | TRANSITION | 2 | 8 | 8 | 37,50% | 1,26 | 0,17R | €13,67 |
 | Forza relativa 1H V2 | TREND_UP | 0 | 8 | 7 | 62,50% | 3,60 | 0,99R | €78,93 |
-| Forza relativa 1H V2 | TREND_UP_HIGH_VOL | 2 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,67 |
+| Forza relativa 1H V2 | TREND_UP_HIGH_VOL | 1 | 2 | 2 | 0,00% | 0,00 | -1,07R | €-21,33 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | RANGE | 1 | 6 | 6 | 0,00% | 0,00 | -1,09R | €-65,18 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TRANSITION | 4 | 8 | 8 | 50,00% | 1,72 | 0,40R | €31,85 |
