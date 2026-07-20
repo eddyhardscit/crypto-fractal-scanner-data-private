@@ -1,6 +1,6 @@
 # Blocco 11 — Collegamento protetto al live
 
-Generato: 2026-07-20T19:23:36+00:00
+Generato: 2026-07-20T20:23:38+00:00
 
 > Modalità LOCKED_REVIEW_ONLY. Il blocco prepara piani immutabili, ma non può modificare il bot reale o inviare ordini.
 
