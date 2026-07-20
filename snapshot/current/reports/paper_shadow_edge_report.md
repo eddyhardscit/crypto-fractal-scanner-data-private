@@ -1,12 +1,12 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-20T12:34:17+00:00
+Generato: 2026-07-20T13:34:45+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **437**
+- Trade Paper chiusi nei conti confrontati: **442**
 - Trade Shadow/Research chiusi: **940**
 - Eventi Shadow già presi dai Paper: **293**
 - Eventi Shadow saltati dai Paper: **647**
@@ -24,18 +24,18 @@ Generato: 2026-07-20T12:34:17+00:00
 | Rapida 1H V1 | Rapida 1H V1 | 41 | 112 | 23 | 89 | -0,26R | 0,02R | -0,28R | 0,05R | +0,31R | SELEZIONE DA RIVEDERE |
 | Bilanciata 1H V1 | Bilanciata 1H V1 | 19 | 102 | 6 | 96 | -0,20R | 0,03R | -0,23R | 0,14R | +0,34R | CAMPIONE INSUFFICIENTE |
 | Forza relativa 1H V1 | Forza relativa 1H V1 | 15 | 62 | 3 | 59 | -1,03R | 0,21R | -1,24R | 0,14R | +1,18R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE | Combo Adaptive | 14 | 51 | 11 | 40 | 0,04R | 0,45R | -0,41R | 0,36R | +0,32R | PAPER SCARTA EDGE |
+| SHADOW_COMBO_ADAPTIVE | Combo Adaptive | 15 | 51 | 11 | 40 | 0,04R | 0,45R | -0,41R | 0,33R | +0,29R | PAPER SCARTA EDGE |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 8 | 46 | 3 | 43 | -1,04R | 0,15R | -1,19R | -0,04R | +1,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 21 | 46 | 12 | 34 | 0,04R | 0,55R | -0,50R | 0,31R | +0,27R | PAPER SCARTA EDGE |
-| SHADOW_COMBO_TREND | Combo Trend | 13 | 40 | 8 | 32 | 0,14R | 0,16R | -0,02R | 0,18R | +0,04R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_TREND | Combo Trend | 14 | 40 | 8 | 32 | 0,14R | 0,16R | -0,02R | 0,09R | -0,05R | NESSUN EDGE CHIARO |
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 15 | 35 | 10 | 25 | 0,56R | 0,50R | +0,06R | 0,53R | -0,04R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_SCANNER | Combo Scanner | 15 | 33 | 8 | 25 | -0,24R | 0,76R | -1,00R | 0,11R | +0,35R | PAPER SCARTA EDGE |
 | MAIN | Principale 4H | 15 | 28 | 12 | 16 | -0,03R | -0,09R | +0,06R | -0,06R | -0,03R | NESSUN EDGE CHIARO |
 | Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 31 | 27 | 19 | 8 | 0,28R | 0,19R | +0,09R | -0,04R | -0,31R | NESSUN EDGE CHIARO |
 | SHADOW_4H_WIDE | Ampia 4H | 11 | 26 | 9 | 17 | 0,25R | 0,10R | +0,15R | 0,26R | +0,01R | NESSUN EDGE CHIARO |
-| Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 19 | 23 | 14 | 9 | 0,46R | 0,30R | +0,16R | 0,29R | -0,17R | NESSUN EDGE CHIARO |
+| Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 20 | 23 | 14 | 9 | 0,46R | 0,30R | +0,16R | 0,29R | -0,17R | NESSUN EDGE CHIARO |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 14 | 22 | 14 | 8 | -0,01R | -0,44R | +0,44R | 0,23R | +0,24R | SELEZIONE POSITIVA |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 18 | 21 | 7 | 14 | -0,59R | 0,89R | -1,49R | -0,21R | +0,38R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 19 | 21 | 7 | 14 | -0,59R | 0,89R | -1,49R | -0,26R | +0,34R | CAMPIONE INSUFFICIENTE |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 12 | 21 | 9 | 12 | 0,12R | -0,20R | +0,31R | 0,39R | +0,27R | FILTRO PAPER UTILE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 16 | 20 | 12 | 8 | 0,84R | 0,17R | +0,67R | 0,36R | -0,48R | SELEZIONE POSITIVA |
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 9 | 19 | 6 | 13 | -0,38R | -0,16R | -0,21R | -0,17R | +0,20R | CAMPIONE INSUFFICIENTE |
@@ -49,7 +49,7 @@ Generato: 2026-07-20T12:34:17+00:00
 | SHADOW_SOL_EMA_1H | Sol Ema 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,09R | -0,48R | CAMPIONE INSUFFICIENTE |
 | SHADOW_BTC_ADAPTIVE_1H | Btc Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,09R | +0,02R | CAMPIONE INSUFFICIENTE |
 | SHADOW_BTC_BOLLINGER_1H | Btc Bollinger 1H | 1 | 1 | 1 | 0 | 1,37R | 0,00R | +1,37R | 1,37R | +0,01R | CAMPIONE INSUFFICIENTE |
-| SHADOW_ETH_ADAPTIVE_1H | Eth Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,10R | +0,01R | CAMPIONE INSUFFICIENTE |
+| SHADOW_ETH_ADAPTIVE_1H | Eth Adaptive 1H | 2 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -0,52R | +0,59R | CAMPIONE INSUFFICIENTE |
 | SHADOW_ETH_BOLLINGER_1H | Eth Bollinger 1H | 1 | 1 | 1 | 0 | -1,13R | 0,00R | -1,13R | 0,31R | +1,44R | CAMPIONE INSUFFICIENTE |
 | SHADOW_ETH_DONCHIAN_1H | Eth Donchian 1H | 1 | 1 | 1 | 0 | -1,13R | 0,00R | -1,13R | -1,12R | +0,01R | CAMPIONE INSUFFICIENTE |
 | SHADOW_ETH_EMA_1H | Eth Ema 1H | 3 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -0,67R | +0,44R | CAMPIONE INSUFFICIENTE |
