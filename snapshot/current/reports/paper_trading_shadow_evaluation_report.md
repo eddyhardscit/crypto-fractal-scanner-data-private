@@ -1,12 +1,12 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-20T21:23:37+00:00
+Generato: 2026-07-20T22:23:37+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **2290**
+- Risultati Block 3 disponibili: **2291**
 - Valutazioni prodotte: **2142**
 - Candidature al Blocco 5: **0**
 - Mutazioni create automaticamente: **0**
@@ -25,7 +25,7 @@ Generato: 2026-07-20T21:23:37+00:00
 | GB30_R100 | 76 | 0,072 | 0,000 | -0,057 | 34,2% | 56,1 | VALIDATING |
 | TP_R100 | 76 | 0,081 | 0,000 | -0,061 | 34,2% | 55,6 | VALIDATING |
 | TP_R050 | 79 | 0,144 | 0,000 | -0,050 | 43,0% | 54,6 | VALIDATING |
-| TP_R200 | 68 | 0,093 | 0,000 | -0,055 | 26,5% | 51,3 | VALIDATING |
+| TP_R200 | 69 | 0,099 | 0,000 | -0,037 | 27,5% | 54,1 | VALIDATING |
 | TIME_6H | 77 | 0,030 | 0,000 | -0,062 | 44,2% | 50,6 | VALIDATING |
 | TIME_12H | 69 | 0,104 | 0,000 | -0,056 | 31,9% | 49,7 | VALIDATING |
 | GB50_R100 | 76 | 0,030 | 0,000 | -0,082 | 32,9% | 47,0 | VALIDATING |
