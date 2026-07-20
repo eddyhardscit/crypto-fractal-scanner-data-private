@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-07-20T01:30:22+00:00",
+  "generated_utc": "2026-07-20T02:30:27+00:00",
   "paper_only": true,
   "profiles": [
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "MAIN",
       "paper_portfolio": "MAIN",
@@ -27,7 +27,7 @@
       "status": "FILTRO PAPER UTILE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "RSI_EXTREME_LONG_15M",
       "paper_portfolio": "SHADOW_RSI_LONG_5X_RSI25",
@@ -51,7 +51,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "RSI_EXTREME_SHORT_15M",
       "paper_portfolio": "SHADOW_RSI_SHORT_5X_RSI75",
@@ -75,18 +75,18 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
       "paper_label": "Bilanciata 1H V1",
-      "paper_closed_trades": 14,
+      "paper_closed_trades": 15,
       "research_closed_trades": 91,
       "research_taken_by_paper": 4,
       "research_skipped_by_paper": 87,
-      "paper_only_or_research_open": 10,
-      "paper_profit_factor": 2.5937166234940014,
-      "paper_expectancy": 0.38114273163210927,
+      "paper_only_or_research_open": 11,
+      "paper_profit_factor": 1.9655418056146288,
+      "paper_expectancy": 0.2860073776446333,
       "research_profit_factor": 1.0794373121665957,
       "research_expectancy": 0.052107447172241125,
       "taken_profit_factor": 1.8115633779911333,
@@ -94,71 +94,71 @@
       "skipped_profit_factor": 1.0657350041580302,
       "skipped_expectancy": 0.044273214782034415,
       "selection_delta": 0.17822878687720267,
-      "execution_delta": 0.15864072997287218,
+      "execution_delta": 0.06350537598539621,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V2",
       "paper_portfolio": "SHADOW_1H_BALANCED_V2",
       "paper_label": "Bilanciata 1H V2",
-      "paper_closed_trades": 14,
-      "research_closed_trades": 13,
-      "research_taken_by_paper": 8,
+      "paper_closed_trades": 15,
+      "research_closed_trades": 14,
+      "research_taken_by_paper": 9,
       "research_skipped_by_paper": 5,
       "paper_only_or_research_open": 6,
-      "paper_profit_factor": 0.9360303243852115,
-      "paper_expectancy": -0.03267728849886155,
-      "research_profit_factor": 1.5951128043068064,
-      "research_expectancy": 0.34209032876421114,
-      "taken_profit_factor": 1.1221456193200336,
-      "taken_expectancy": 0.08109329558187447,
+      "paper_profit_factor": 0.9651732064882592,
+      "paper_expectancy": -0.015913243073054476,
+      "research_profit_factor": 1.849372027293426,
+      "research_expectancy": 0.4533720811827514,
+      "taken_profit_factor": 1.4798831692610757,
+      "taken_expectancy": 0.28319791414208567,
       "skipped_profit_factor": 2.757252476374303,
       "skipped_expectancy": 0.7596855818559497,
-      "selection_delta": -0.6785922862740752,
-      "execution_delta": -0.11377058408073602,
+      "selection_delta": -0.476487667713864,
+      "execution_delta": -0.29911115721514014,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V3 Filtered",
       "paper_portfolio": "SHADOW_1H_BALANCED_V3",
       "paper_label": "Bilanciata 1H V3 Filtered",
-      "paper_closed_trades": 14,
-      "research_closed_trades": 17,
-      "research_taken_by_paper": 11,
+      "paper_closed_trades": 15,
+      "research_closed_trades": 18,
+      "research_taken_by_paper": 12,
       "research_skipped_by_paper": 6,
       "paper_only_or_research_open": 3,
-      "paper_profit_factor": 1.0721306810520776,
-      "paper_expectancy": 0.05409629140394866,
-      "research_profit_factor": 1.6718397742205515,
-      "research_expectancy": 0.3733851505378509,
-      "taken_profit_factor": 1.5658466709328445,
-      "taken_expectancy": 0.326326134101472,
+      "paper_profit_factor": 1.3007515695440088,
+      "paper_expectancy": 0.17822304792165097,
+      "research_profit_factor": 1.8735561159723293,
+      "research_expectancy": 0.4585202871678475,
+      "taken_profit_factor": 1.8662713178958306,
+      "taken_expectancy": 0.4579504237494985,
       "skipped_profit_factor": 1.8884430377490475,
       "skipped_expectancy": 0.4596600140045455,
-      "selection_delta": -0.1333338799030735,
-      "execution_delta": -0.2722298426975233,
+      "selection_delta": -0.0017095902550469666,
+      "execution_delta": -0.27972737582784757,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
       "paper_label": "Rapida 1H V1",
-      "paper_closed_trades": 38,
+      "paper_closed_trades": 39,
       "research_closed_trades": 99,
       "research_taken_by_paper": 20,
       "research_skipped_by_paper": 79,
-      "paper_only_or_research_open": 18,
-      "paper_profit_factor": 1.2454499055632755,
-      "paper_expectancy": 0.10909779988834271,
+      "paper_only_or_research_open": 19,
+      "paper_profit_factor": 1.1724250857351277,
+      "paper_expectancy": 0.07948279019428187,
       "research_profit_factor": 1.031051210178482,
       "research_expectancy": 0.01855391566555961,
       "taken_profit_factor": 0.7783507345156169,
@@ -166,12 +166,12 @@
       "skipped_profit_factor": 1.1020753640567638,
       "skipped_expectancy": 0.0596645548904694,
       "selection_delta": -0.20349766416330345,
-      "execution_delta": 0.2529309091611768,
+      "execution_delta": 0.2233158994671159,
       "metric_unit": "R",
       "status": "SELEZIONE DA RIVEDERE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V2",
       "paper_portfolio": "SHADOW_1H_FAST_V2",
@@ -195,42 +195,42 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V3 Filtered",
       "paper_portfolio": "SHADOW_1H_FAST_V3",
       "paper_label": "Rapida 1H V3 Filtered",
-      "paper_closed_trades": 21,
-      "research_closed_trades": 18,
-      "research_taken_by_paper": 11,
+      "paper_closed_trades": 23,
+      "research_closed_trades": 19,
+      "research_taken_by_paper": 12,
       "research_skipped_by_paper": 7,
-      "paper_only_or_research_open": 10,
-      "paper_profit_factor": 1.0118897321896432,
-      "paper_expectancy": 0.005410151944917274,
-      "research_profit_factor": 2.202509284318846,
-      "research_expectancy": 0.48799175227577696,
-      "taken_profit_factor": 2.515886650897816,
-      "taken_expectancy": 0.5698463272332934,
+      "paper_only_or_research_open": 11,
+      "paper_profit_factor": 0.8330047225568118,
+      "paper_expectancy": -0.0633531800804921,
+      "research_profit_factor": 2.39018048388229,
+      "research_expectancy": 0.5344586806414835,
+      "taken_profit_factor": 2.847407211896443,
+      "taken_expectancy": 0.6365977492325359,
       "skipped_profit_factor": 1.793665576462634,
       "skipped_expectancy": 0.35936313448539386,
-      "selection_delta": 0.21048319274789956,
-      "execution_delta": -0.5644361752883762,
+      "selection_delta": 0.277234614747142,
+      "execution_delta": -0.6999509293130279,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
       "paper_label": "Ampia 4H",
-      "paper_closed_trades": 10,
+      "paper_closed_trades": 11,
       "research_closed_trades": 23,
       "research_taken_by_paper": 8,
       "research_skipped_by_paper": 15,
-      "paper_only_or_research_open": 2,
-      "paper_profit_factor": 1.5980926468580068,
-      "paper_expectancy": 0.31926637384140527,
+      "paper_only_or_research_open": 3,
+      "paper_profit_factor": 1.4981147102584915,
+      "paper_expectancy": 0.25893976803196694,
       "research_profit_factor": 1.1913598306367263,
       "research_expectancy": 0.1362269558309979,
       "taken_profit_factor": 1.632458637246009,
@@ -238,12 +238,12 @@
       "skipped_profit_factor": 0.9906090466666985,
       "skipped_expectancy": -0.007044678008326585,
       "selection_delta": 0.4119059472880579,
-      "execution_delta": -0.08559489543832605,
+      "execution_delta": -0.14592150124776437,
       "metric_unit": "R",
       "status": "FILTRO PAPER UTILE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BOLLINGER_MR_1H",
       "paper_portfolio": "SHADOW_BOLLINGER_MR_1H",
@@ -267,7 +267,7 @@
       "status": "FILTRO PAPER UTILE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_ADAPTIVE_1H",
       "paper_portfolio": "SHADOW_BTC_ADAPTIVE_1H",
@@ -291,7 +291,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_ADAPTIVE_4H",
       "paper_portfolio": "SHADOW_BTC_ADAPTIVE_4H",
@@ -315,7 +315,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_BOLLINGER_1H",
       "paper_portfolio": "SHADOW_BTC_BOLLINGER_1H",
@@ -339,7 +339,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_BOLLINGER_4H",
       "paper_portfolio": "SHADOW_BTC_BOLLINGER_4H",
@@ -363,7 +363,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_DONCHIAN_1H",
       "paper_portfolio": "SHADOW_BTC_DONCHIAN_1H",
@@ -387,7 +387,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_DONCHIAN_4H",
       "paper_portfolio": "SHADOW_BTC_DONCHIAN_4H",
@@ -411,7 +411,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_EMA_1H",
       "paper_portfolio": "SHADOW_BTC_EMA_1H",
@@ -435,7 +435,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BTC_EMA_4H",
       "paper_portfolio": "SHADOW_BTC_EMA_4H",
@@ -459,7 +459,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE",
@@ -483,18 +483,18 @@
       "status": "PAPER SCARTA EDGE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "paper_label": "Combo Adaptive MFE Trail",
-      "paper_closed_trades": 12,
+      "paper_closed_trades": 14,
       "research_closed_trades": 14,
       "research_taken_by_paper": 6,
       "research_skipped_by_paper": 8,
-      "paper_only_or_research_open": 6,
-      "paper_profit_factor": 0.18317686192157728,
-      "paper_expectancy": -0.4137881339690918,
+      "paper_only_or_research_open": 8,
+      "paper_profit_factor": 0.3151304889123273,
+      "paper_expectancy": -0.29722634025496386,
       "research_profit_factor": 1.9307619032490602,
       "research_expectancy": 0.47548911288589985,
       "taken_profit_factor": 0.3921052631578946,
@@ -502,12 +502,12 @@
       "skipped_profit_factor": 5.669111911664271,
       "skipped_expectancy": 1.217105947550325,
       "selection_delta": -1.7304392808836586,
-      "execution_delta": 0.09954519936424172,
+      "execution_delta": 0.21610699307836967,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_MEAN_REVERSION",
       "paper_portfolio": "SHADOW_COMBO_MEAN_REVERSION",
@@ -531,7 +531,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_SCANNER",
       "paper_portfolio": "SHADOW_COMBO_SCANNER",
@@ -555,31 +555,31 @@
       "status": "PAPER SCARTA EDGE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_TREND",
       "paper_portfolio": "SHADOW_COMBO_TREND",
       "paper_label": "Combo Trend",
-      "paper_closed_trades": 10,
-      "research_closed_trades": 35,
+      "paper_closed_trades": 11,
+      "research_closed_trades": 36,
       "research_taken_by_paper": 7,
-      "research_skipped_by_paper": 28,
-      "paper_only_or_research_open": 3,
-      "paper_profit_factor": 1.2465953904590168,
-      "paper_expectancy": 0.13080208548861755,
-      "research_profit_factor": 1.377717329890584,
-      "research_expectancy": 0.23814274790653783,
+      "research_skipped_by_paper": 29,
+      "paper_only_or_research_open": 4,
+      "paper_profit_factor": 1.0394249492356347,
+      "paper_expectancy": 0.023830297882376804,
+      "research_profit_factor": 1.3123007882206168,
+      "research_expectancy": 0.20097211602024506,
       "taken_profit_factor": 1.4974619929664315,
       "taken_expectancy": 0.30539391751031725,
-      "skipped_profit_factor": 1.3487584847789957,
-      "skipped_expectancy": 0.22132995550559295,
-      "selection_delta": 0.0840639620047243,
-      "execution_delta": -0.1745918320216997,
+      "skipped_profit_factor": 1.2701321300142454,
+      "skipped_expectancy": 0.17576685359160693,
+      "selection_delta": 0.12962706391871032,
+      "execution_delta": -0.28156361962794046,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_DOGE_BOLLINGER_1H",
       "paper_portfolio": "SHADOW_DOGE_BOLLINGER_1H",
@@ -603,7 +603,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_DOGE_DONCHIAN_1H",
       "paper_portfolio": "SHADOW_DOGE_DONCHIAN_1H",
@@ -627,7 +627,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_DOGE_EMA_1H",
       "paper_portfolio": "SHADOW_DOGE_EMA_1H",
@@ -651,55 +651,55 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_DONCHIAN_1H",
       "paper_portfolio": "SHADOW_DONCHIAN_1H",
       "paper_label": "Benchmark Donchian breakout 1H",
       "paper_closed_trades": 11,
-      "research_closed_trades": 18,
+      "research_closed_trades": 19,
       "research_taken_by_paper": 8,
-      "research_skipped_by_paper": 10,
+      "research_skipped_by_paper": 11,
       "paper_only_or_research_open": 3,
       "paper_profit_factor": 2.0799243504286165,
       "paper_expectancy": 0.4267038170677612,
-      "research_profit_factor": 0.6585676498847628,
-      "research_expectancy": -0.2831916915648366,
+      "research_profit_factor": 0.8193220600764741,
+      "research_expectancy": -0.14197107621931876,
       "taken_profit_factor": 0.7740417087149356,
       "taken_expectancy": -0.17995385591472082,
-      "skipped_profit_factor": 0.5726038471420924,
-      "skipped_expectancy": -0.36578196008492914,
-      "selection_delta": 0.1858281041702083,
+      "skipped_profit_factor": 0.8530306802808332,
+      "skipped_expectancy": -0.11434723644084449,
+      "selection_delta": -0.06560661947387633,
       "execution_delta": 0.6066576729824821,
       "metric_unit": "R",
       "status": "NESSUN EDGE CHIARO"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_EMA_TREND_1H",
       "paper_portfolio": "SHADOW_EMA_TREND_1H",
       "paper_label": "Benchmark trend following EMA 1H",
-      "paper_closed_trades": 5,
-      "research_closed_trades": 41,
+      "paper_closed_trades": 6,
+      "research_closed_trades": 42,
       "research_taken_by_paper": 2,
-      "research_skipped_by_paper": 39,
-      "paper_only_or_research_open": 3,
-      "paper_profit_factor": 0.8613580089329685,
-      "paper_expectancy": -0.08406739681125905,
-      "research_profit_factor": 1.1882578865639413,
-      "research_expectancy": 0.1257720456336279,
+      "research_skipped_by_paper": 40,
+      "paper_only_or_research_open": 4,
+      "paper_profit_factor": 0.6486578902434904,
+      "paper_expectancy": -0.24437076037272099,
+      "research_profit_factor": 1.1423815161897828,
+      "research_expectancy": 0.0965869969280653,
       "taken_profit_factor": 0.0,
       "taken_expectancy": -1.0566666666666675,
-      "skipped_profit_factor": 1.2876001917601663,
-      "skipped_expectancy": 0.18640992831569433,
-      "selection_delta": -1.243076594982362,
-      "execution_delta": 0.9725992698554085,
+      "skipped_profit_factor": 1.2339056473410737,
+      "skipped_expectancy": 0.15424968010780196,
+      "selection_delta": -1.2109163467744695,
+      "execution_delta": 0.8122959062939465,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_ETH_ADAPTIVE_1H",
       "paper_portfolio": "SHADOW_ETH_ADAPTIVE_1H",
@@ -723,7 +723,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_ETH_BOLLINGER_1H",
       "paper_portfolio": "SHADOW_ETH_BOLLINGER_1H",
@@ -747,7 +747,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_ETH_DONCHIAN_1H",
       "paper_portfolio": "SHADOW_ETH_DONCHIAN_1H",
@@ -771,18 +771,18 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_ETH_EMA_1H",
       "paper_portfolio": "SHADOW_ETH_EMA_1H",
       "paper_label": "Eth Ema 1H",
-      "paper_closed_trades": 1,
+      "paper_closed_trades": 2,
       "research_closed_trades": 1,
       "research_taken_by_paper": 1,
       "research_skipped_by_paper": 0,
-      "paper_only_or_research_open": 0,
-      "paper_profit_factor": 0.0,
-      "paper_expectancy": -1.0980306755555476,
+      "paper_only_or_research_open": 1,
+      "paper_profit_factor": 0.15697567000140475,
+      "paper_expectancy": -0.4623575225923089,
       "research_profit_factor": 0.0,
       "research_expectancy": -1.111111111111109,
       "taken_profit_factor": 0.0,
@@ -790,12 +790,12 @@
       "skipped_profit_factor": 0.0,
       "skipped_expectancy": 0.0,
       "selection_delta": -1.111111111111109,
-      "execution_delta": 0.013080435555561376,
+      "execution_delta": 0.6487535885188,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_ETH_EMA_4H",
       "paper_portfolio": "SHADOW_ETH_EMA_4H",
@@ -819,7 +819,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_GLOBAL_PURE",
       "paper_portfolio": "SHADOW_GLOBAL_PURE",
@@ -843,18 +843,18 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
       "paper_label": "Forza relativa 1H V1",
-      "paper_closed_trades": 9,
+      "paper_closed_trades": 11,
       "research_closed_trades": 56,
       "research_taken_by_paper": 2,
       "research_skipped_by_paper": 54,
-      "paper_only_or_research_open": 7,
-      "paper_profit_factor": 1.5285721670491648,
-      "paper_expectancy": 0.19388052194060118,
+      "paper_only_or_research_open": 9,
+      "paper_profit_factor": 1.307931873491349,
+      "paper_expectancy": 0.10922226118135257,
       "research_profit_factor": 1.2535566966921987,
       "research_expectancy": 0.16487393192112054,
       "taken_profit_factor": 0.0,
@@ -862,12 +862,12 @@
       "skipped_profit_factor": 1.3275997437159743,
       "skipped_expectancy": 0.2085890719501427,
       "selection_delta": -1.2240239208126211,
-      "execution_delta": 1.2093153708030797,
+      "execution_delta": 1.124657110043831,
       "metric_unit": "R",
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V2",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH_V2",
@@ -891,7 +891,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_BOTTOM5_SHORT",
       "paper_portfolio": "SHADOW_SCANNER_BOTTOM5_SHORT",
@@ -915,7 +915,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_BTC",
@@ -939,18 +939,18 @@
       "status": "NESSUN EDGE CHIARO"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
       "paper_label": "Scanner Top 5 Long 1H",
-      "paper_closed_trades": 16,
+      "paper_closed_trades": 17,
       "research_closed_trades": 42,
       "research_taken_by_paper": 11,
       "research_skipped_by_paper": 31,
-      "paper_only_or_research_open": 5,
-      "paper_profit_factor": 1.8969882746985933,
-      "paper_expectancy": 0.369834141168772,
+      "paper_only_or_research_open": 6,
+      "paper_profit_factor": 1.770520201571248,
+      "paper_expectancy": 0.32129473329699043,
       "research_profit_factor": 1.611237279184569,
       "research_expectancy": 0.33850426980500836,
       "taken_profit_factor": 1.2485248902264443,
@@ -958,12 +958,12 @@
       "skipped_profit_factor": 1.7447872037511842,
       "skipped_expectancy": 0.4084371284094727,
       "selection_delta": -0.26701636921704575,
-      "execution_delta": 0.228413381976345,
+      "execution_delta": 0.17987397410456343,
       "metric_unit": "R",
       "status": "PAPER SCARTA EDGE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_ADAPTIVE_1H",
       "paper_portfolio": "SHADOW_SOL_ADAPTIVE_1H",
@@ -987,7 +987,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_ADAPTIVE_4H",
       "paper_portfolio": "SHADOW_SOL_ADAPTIVE_4H",
@@ -1011,7 +1011,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_BOLLINGER_1H",
       "paper_portfolio": "SHADOW_SOL_BOLLINGER_1H",
@@ -1035,7 +1035,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_BOLLINGER_4H",
       "paper_portfolio": "SHADOW_SOL_BOLLINGER_4H",
@@ -1059,7 +1059,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_DONCHIAN_1H",
       "paper_portfolio": "SHADOW_SOL_DONCHIAN_1H",
@@ -1083,7 +1083,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_DONCHIAN_4H",
       "paper_portfolio": "SHADOW_SOL_DONCHIAN_4H",
@@ -1107,7 +1107,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_EMA_1H",
       "paper_portfolio": "SHADOW_SOL_EMA_1H",
@@ -1131,7 +1131,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SOL_EMA_4H",
       "paper_portfolio": "SHADOW_SOL_EMA_4H",
@@ -1155,7 +1155,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "RSI 20 · leva 10×",
       "paper_portfolio": "RSI5_RSI20_10X",
@@ -1179,7 +1179,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "RSI 20 · leva 20×",
       "paper_portfolio": "RSI5_RSI20_20X",
@@ -1203,7 +1203,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "RSI 20 · leva 5× · Wide",
       "paper_portfolio": "RSI5_RSI20_5X_WIDE",
@@ -1227,7 +1227,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "RSI 25 · leva 10×",
       "paper_portfolio": "RSI5_RSI25_10X",
@@ -1251,7 +1251,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "RSI 25 · leva 20×",
       "paper_portfolio": "RSI5_RSI25_20X",
@@ -1275,7 +1275,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "RSI 25 · leva 5× · Wide",
       "paper_portfolio": "RSI5_RSI25_5X_WIDE",
@@ -1299,7 +1299,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI70_10X",
@@ -1323,7 +1323,7 @@
       "status": "PAPER SCARTA EDGE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI70_20X",
@@ -1347,7 +1347,7 @@
       "status": "PAPER SCARTA EDGE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 5× · Wide",
       "paper_portfolio": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -1371,7 +1371,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 75 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI75_10X",
@@ -1395,7 +1395,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 75 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI75_20X",
@@ -1419,7 +1419,7 @@
       "status": "CAMPIONE INSUFFICIENTE"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 75 · leva 5× · Wide",
       "paper_portfolio": "RSI5_SHORT_RSI75_5X_WIDE",
@@ -1445,7 +1445,7 @@
   ],
   "filter_candidates": [
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI70_20X",
@@ -1462,7 +1462,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI70_10X",
@@ -1479,7 +1479,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 5× · Wide",
       "paper_portfolio": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -1496,7 +1496,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -1513,7 +1513,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -1530,7 +1530,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -1547,7 +1547,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -1564,7 +1564,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI70_20X",
@@ -1581,7 +1581,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_SCANNER",
       "paper_portfolio": "SHADOW_COMBO_SCANNER",
@@ -1598,7 +1598,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_BTC",
@@ -1615,7 +1615,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
@@ -1632,7 +1632,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI70_20X",
@@ -1649,7 +1649,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_SCANNER",
       "paper_portfolio": "SHADOW_COMBO_SCANNER",
@@ -1666,7 +1666,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 5× · Wide",
       "paper_portfolio": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -1683,7 +1683,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
@@ -1700,7 +1700,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -1717,7 +1717,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -1734,7 +1734,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -1751,7 +1751,24 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_DONCHIAN_1H",
+      "paper_portfolio": "SHADOW_DONCHIAN_1H",
+      "action": "RIDURRE / ESCLUDERE IN CHALLENGER",
+      "dimension": "Fascia score",
+      "value": "≥7",
+      "events": 9,
+      "win_rate_pct": 11.11111111111111,
+      "profit_factor": 0.29360743515327126,
+      "expectancy": -0.6647435522077513,
+      "baseline_expectancy": -0.14197107621931876,
+      "delta_expectancy": -0.5227724759884325,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI70_10X",
@@ -1768,7 +1785,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -1785,7 +1802,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI70_10X",
@@ -1802,7 +1819,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -1819,7 +1836,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -1836,24 +1853,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_DONCHIAN_1H",
-      "paper_portfolio": "SHADOW_DONCHIAN_1H",
-      "action": "RIDURRE / ESCLUDERE IN CHALLENGER",
-      "dimension": "Fascia score",
-      "value": "≥7",
-      "events": 9,
-      "win_rate_pct": 11.11111111111111,
-      "profit_factor": 0.29360743515327126,
-      "expectancy": -0.6647435522077513,
-      "baseline_expectancy": -0.2831916915648366,
-      "delta_expectancy": -0.3815518606429147,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "MAIN",
       "paper_portfolio": "MAIN",
@@ -1870,7 +1870,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "MAIN",
       "paper_portfolio": "MAIN",
@@ -1887,7 +1887,41 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_EMA_TREND_1H",
+      "paper_portfolio": "SHADOW_EMA_TREND_1H",
+      "action": "RIDURRE / ESCLUDERE IN CHALLENGER",
+      "dimension": "Fascia score",
+      "value": "5–6",
+      "events": 12,
+      "win_rate_pct": 25.0,
+      "profit_factor": 0.6856392939063004,
+      "expectancy": -0.24914508922104173,
+      "baseline_expectancy": 0.0965869969280653,
+      "delta_expectancy": -0.345732086149107,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_EMA_TREND_1H",
+      "paper_portfolio": "SHADOW_EMA_TREND_1H",
+      "action": "RIDURRE / ESCLUDERE IN CHALLENGER",
+      "dimension": "Confidenza segnale",
+      "value": "MEDIA",
+      "events": 12,
+      "win_rate_pct": 25.0,
+      "profit_factor": 0.6856392939063004,
+      "expectancy": -0.24914508922104173,
+      "baseline_expectancy": 0.0965869969280653,
+      "delta_expectancy": -0.345732086149107,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -1904,7 +1938,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
@@ -1921,7 +1955,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
@@ -1938,7 +1972,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
@@ -1955,7 +1989,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_BOLLINGER_MR_1H",
       "paper_portfolio": "SHADOW_BOLLINGER_MR_1H",
@@ -1972,7 +2006,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -1989,41 +2023,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_EMA_TREND_1H",
-      "paper_portfolio": "SHADOW_EMA_TREND_1H",
-      "action": "RIDURRE / ESCLUDERE IN CHALLENGER",
-      "dimension": "Fascia score",
-      "value": "5–6",
-      "events": 11,
-      "win_rate_pct": 27.27272727272727,
-      "profit_factor": 0.7753128389792218,
-      "expectancy": -0.17179464278659087,
-      "baseline_expectancy": 0.1257720456336279,
-      "delta_expectancy": -0.2975666884202188,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_EMA_TREND_1H",
-      "paper_portfolio": "SHADOW_EMA_TREND_1H",
-      "action": "RIDURRE / ESCLUDERE IN CHALLENGER",
-      "dimension": "Confidenza segnale",
-      "value": "MEDIA",
-      "events": 11,
-      "win_rate_pct": 27.27272727272727,
-      "profit_factor": 0.7753128389792218,
-      "expectancy": -0.17179464278659087,
-      "baseline_expectancy": 0.1257720456336279,
-      "delta_expectancy": -0.2975666884202188,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2040,7 +2040,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2057,7 +2057,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI70_20X",
@@ -2074,7 +2074,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI70_10X",
@@ -2091,7 +2091,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 20×",
       "paper_portfolio": "RSI5_SHORT_RSI70_20X",
@@ -2108,7 +2108,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2125,7 +2125,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -2142,7 +2142,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "RSI5_PAPER_SHADOW",
       "profile": "SHORT RSI 70 · leva 10×",
       "paper_portfolio": "RSI5_SHORT_RSI70_10X",
@@ -2159,7 +2159,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2176,7 +2176,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
@@ -2193,7 +2193,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
@@ -2210,7 +2210,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_BOTTOM5_SHORT",
       "paper_portfolio": "SHADOW_SCANNER_BOTTOM5_SHORT",
@@ -2227,7 +2227,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_EMA_TREND_1H",
       "paper_portfolio": "SHADOW_EMA_TREND_1H",
@@ -2238,13 +2238,30 @@
       "win_rate_pct": 55.55555555555556,
       "profit_factor": 2.6973684210526314,
       "expectancy": 0.7644444444444445,
-      "baseline_expectancy": 0.1257720456336279,
-      "delta_expectancy": 0.6386723988108166,
+      "baseline_expectancy": 0.0965869969280653,
+      "delta_expectancy": 0.6678574475163792,
       "metric_unit": "R",
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_DONCHIAN_1H",
+      "paper_portfolio": "SHADOW_DONCHIAN_1H",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Fascia score",
+      "value": "6–7",
+      "events": 9,
+      "win_rate_pct": 44.44444444444444,
+      "profit_factor": 1.8181043260864866,
+      "expectancy": 0.4872490579669666,
+      "baseline_expectancy": -0.14197107621931876,
+      "delta_expectancy": 0.6292201341862853,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2261,7 +2278,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -2278,7 +2295,24 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_COMBO_TREND",
+      "paper_portfolio": "SHADOW_COMBO_TREND",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Asset",
+      "value": "AKE",
+      "events": 9,
+      "win_rate_pct": 55.55555555555556,
+      "profit_factor": 2.6973684210526314,
+      "expectancy": 0.7644444444444445,
+      "baseline_expectancy": 0.20097211602024506,
+      "delta_expectancy": 0.5634723284241994,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
@@ -2295,7 +2329,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -2312,58 +2346,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_DONCHIAN_1H",
-      "paper_portfolio": "SHADOW_DONCHIAN_1H",
-      "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Fascia score",
-      "value": "6–7",
-      "events": 8,
-      "win_rate_pct": 37.5,
-      "profit_factor": 1.3703637916392069,
-      "expectancy": 0.24815519021283713,
-      "baseline_expectancy": -0.2831916915648366,
-      "delta_expectancy": 0.5313468817776738,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_COMBO_TREND",
-      "paper_portfolio": "SHADOW_COMBO_TREND",
-      "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Asset",
-      "value": "AKE",
-      "events": 9,
-      "win_rate_pct": 55.55555555555556,
-      "profit_factor": 2.6973684210526314,
-      "expectancy": 0.7644444444444445,
-      "baseline_expectancy": 0.23814274790653783,
-      "delta_expectancy": 0.5263016965379066,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "Rapida 1H V3 Filtered",
-      "paper_portfolio": "SHADOW_1H_FAST_V3",
-      "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Fascia score",
-      "value": "6–7",
-      "events": 10,
-      "win_rate_pct": 80.0,
-      "profit_factor": 5.453125467686073,
-      "expectancy": 0.9601786722705963,
-      "baseline_expectancy": 0.48799175227577696,
-      "delta_expectancy": 0.4721869199948193,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
@@ -2380,41 +2363,41 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_EMA_TREND_1H",
-      "paper_portfolio": "SHADOW_EMA_TREND_1H",
+      "profile": "Rapida 1H V3 Filtered",
+      "paper_portfolio": "SHADOW_1H_FAST_V3",
       "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Regime entrata",
-      "value": "TRANSITION",
-      "events": 12,
-      "win_rate_pct": 50.0,
-      "profit_factor": 2.0878611551241866,
-      "expectancy": 0.564198531936975,
-      "baseline_expectancy": 0.1257720456336279,
-      "delta_expectancy": 0.43842648630334713,
+      "dimension": "Fascia score",
+      "value": "6–7",
+      "events": 10,
+      "win_rate_pct": 80.0,
+      "profit_factor": 5.453125467686073,
+      "expectancy": 0.9601786722705963,
+      "baseline_expectancy": 0.5344586806414835,
+      "delta_expectancy": 0.4257199916291128,
       "metric_unit": "R",
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V2",
       "paper_portfolio": "SHADOW_1H_BALANCED_V2",
       "action": "PREFERIRE IN CHALLENGER",
       "dimension": "Lato",
       "value": "LONG",
-      "events": 10,
-      "win_rate_pct": 60.0,
-      "profit_factor": 2.846065062307239,
-      "expectancy": 0.7731761242613083,
-      "baseline_expectancy": 0.34209032876421114,
-      "delta_expectancy": 0.4310857954970972,
+      "events": 11,
+      "win_rate_pct": 63.63636363636363,
+      "profit_factor": 3.299724696508519,
+      "expectancy": 0.8756178277488051,
+      "baseline_expectancy": 0.4533720811827514,
+      "delta_expectancy": 0.42224574656605374,
       "metric_unit": "R",
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
@@ -2431,7 +2414,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -2448,7 +2431,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE",
@@ -2465,7 +2448,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2482,7 +2465,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_SCANNER",
       "paper_portfolio": "SHADOW_COMBO_SCANNER",
@@ -2499,7 +2482,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_BTC",
@@ -2516,7 +2499,24 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_DONCHIAN_1H",
+      "paper_portfolio": "SHADOW_DONCHIAN_1H",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Regime entrata",
+      "value": "TREND_UP",
+      "events": 8,
+      "win_rate_pct": 37.5,
+      "profit_factor": 1.3636480075962343,
+      "expectancy": 0.24578354907877,
+      "baseline_expectancy": -0.14197107621931876,
+      "delta_expectancy": 0.3877546252980888,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2533,7 +2533,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_SCANNER",
       "paper_portfolio": "SHADOW_COMBO_SCANNER",
@@ -2550,7 +2550,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2567,7 +2567,24 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_EMA_TREND_1H",
+      "paper_portfolio": "SHADOW_EMA_TREND_1H",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Regime entrata",
+      "value": "TRANSITION",
+      "events": 13,
+      "win_rate_pct": 46.15384615384615,
+      "profit_factor": 1.774264562505669,
+      "expectancy": 0.4361832602495153,
+      "baseline_expectancy": 0.0965869969280653,
+      "delta_expectancy": 0.33959626332145,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_BTC",
@@ -2584,24 +2601,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_COMBO_TREND",
-      "paper_portfolio": "SHADOW_COMBO_TREND",
-      "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Regime entrata",
-      "value": "TRANSITION",
-      "events": 12,
-      "win_rate_pct": 50.0,
-      "profit_factor": 2.0880428895067475,
-      "expectancy": 0.564292785023741,
-      "baseline_expectancy": 0.23814274790653783,
-      "delta_expectancy": 0.3261500371172032,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V2",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH_V2",
@@ -2618,7 +2618,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_LONG",
@@ -2635,7 +2635,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2652,7 +2652,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -2669,7 +2669,41 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "Bilanciata 1H V2",
+      "paper_portfolio": "SHADOW_1H_BALANCED_V2",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Fascia score",
+      "value": "6–7",
+      "events": 10,
+      "win_rate_pct": 60.0,
+      "profit_factor": 2.7666802433421767,
+      "expectancy": 0.755626814999651,
+      "baseline_expectancy": 0.4533720811827514,
+      "delta_expectancy": 0.3022547338168996,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "Bilanciata 1H V2",
+      "paper_portfolio": "SHADOW_1H_BALANCED_V2",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Confidenza segnale",
+      "value": "BUONA",
+      "events": 10,
+      "win_rate_pct": 60.0,
+      "profit_factor": 2.7666802433421767,
+      "expectancy": 0.755626814999651,
+      "baseline_expectancy": 0.4533720811827514,
+      "delta_expectancy": 0.3022547338168996,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2686,41 +2720,24 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
-      "profile": "Bilanciata 1H V2",
-      "paper_portfolio": "SHADOW_1H_BALANCED_V2",
+      "profile": "SHADOW_COMBO_TREND",
+      "paper_portfolio": "SHADOW_COMBO_TREND",
       "action": "PREFERIRE IN CHALLENGER",
       "dimension": "Fascia score",
-      "value": "6–7",
-      "events": 9,
-      "win_rate_pct": 55.55555555555556,
-      "profit_factor": 2.3224458690683702,
-      "expectancy": 0.6284703652636372,
-      "baseline_expectancy": 0.34209032876421114,
-      "delta_expectancy": 0.28638003649942606,
+      "value": "≥7",
+      "events": 19,
+      "win_rate_pct": 47.368421052631575,
+      "profit_factor": 1.9161599181181044,
+      "expectancy": 0.4939224912859568,
+      "baseline_expectancy": 0.20097211602024506,
+      "delta_expectancy": 0.2929503752657117,
       "metric_unit": "R",
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "Bilanciata 1H V2",
-      "paper_portfolio": "SHADOW_1H_BALANCED_V2",
-      "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Confidenza segnale",
-      "value": "BUONA",
-      "events": 9,
-      "win_rate_pct": 55.55555555555556,
-      "profit_factor": 2.3224458690683702,
-      "expectancy": 0.6284703652636372,
-      "baseline_expectancy": 0.34209032876421114,
-      "delta_expectancy": 0.28638003649942606,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_SCANNER",
       "paper_portfolio": "SHADOW_COMBO_SCANNER",
@@ -2737,7 +2754,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "paper_portfolio": "SHADOW_SCANNER_TOP5_BTC",
@@ -2754,7 +2771,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2771,7 +2788,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2788,24 +2805,24 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
-      "profile": "SHADOW_COMBO_TREND",
-      "paper_portfolio": "SHADOW_COMBO_TREND",
+      "profile": "Bilanciata 1H V3 Filtered",
+      "paper_portfolio": "SHADOW_1H_BALANCED_V3",
       "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Fascia score",
-      "value": "≥7",
-      "events": 19,
-      "win_rate_pct": 47.368421052631575,
-      "profit_factor": 1.9161599181181044,
-      "expectancy": 0.4939224912859568,
-      "baseline_expectancy": 0.23814274790653783,
-      "delta_expectancy": 0.25577974337941894,
+      "dimension": "Regime entrata",
+      "value": "TREND_UP",
+      "events": 12,
+      "win_rate_pct": 58.333333333333336,
+      "profit_factor": 2.6255135213898844,
+      "expectancy": 0.708277770788385,
+      "baseline_expectancy": 0.4585202871678475,
+      "delta_expectancy": 0.24975748362053757,
       "metric_unit": "R",
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
@@ -2822,7 +2839,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V1",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH",
@@ -2839,7 +2856,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "MAIN",
       "paper_portfolio": "MAIN",
@@ -2856,7 +2873,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "MAIN",
       "paper_portfolio": "MAIN",
@@ -2873,7 +2890,24 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
+      "system": "MAIN_PAPER_RESEARCH",
+      "profile": "SHADOW_COMBO_TREND",
+      "paper_portfolio": "SHADOW_COMBO_TREND",
+      "action": "PREFERIRE IN CHALLENGER",
+      "dimension": "Regime entrata",
+      "value": "TRANSITION",
+      "events": 13,
+      "win_rate_pct": 46.15384615384615,
+      "profit_factor": 1.7744190003972766,
+      "expectancy": 0.4362702630988379,
+      "baseline_expectancy": 0.20097211602024506,
+      "delta_expectancy": 0.2352981470785928,
+      "metric_unit": "R",
+      "confidence": "MEDIA"
+    },
+    {
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Forza relativa 1H V2",
       "paper_portfolio": "SHADOW_RELATIVE_STRENGTH_V2",
@@ -2890,24 +2924,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
-      "system": "MAIN_PAPER_RESEARCH",
-      "profile": "Bilanciata 1H V3 Filtered",
-      "paper_portfolio": "SHADOW_1H_BALANCED_V3",
-      "action": "PREFERIRE IN CHALLENGER",
-      "dimension": "Regime entrata",
-      "value": "TREND_UP",
-      "events": 11,
-      "win_rate_pct": 54.54545454545454,
-      "profit_factor": 2.261022307404846,
-      "expectancy": 0.5994105126893482,
-      "baseline_expectancy": 0.3733851505378509,
-      "delta_expectancy": 0.22602536215149732,
-      "metric_unit": "R",
-      "confidence": "MEDIA"
-    },
-    {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE",
@@ -2924,7 +2941,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2941,7 +2958,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -2958,7 +2975,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE",
@@ -2975,7 +2992,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V1",
       "paper_portfolio": "SHADOW_1H_BALANCED",
@@ -2992,7 +3009,7 @@
       "confidence": "ALTA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_4H_WIDE",
       "paper_portfolio": "SHADOW_4H_WIDE",
@@ -3009,24 +3026,24 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Bilanciata 1H V3 Filtered",
       "paper_portfolio": "SHADOW_1H_BALANCED_V3",
       "action": "PREFERIRE IN CHALLENGER",
       "dimension": "Lato",
       "value": "LONG",
-      "events": 15,
-      "win_rate_pct": 53.333333333333336,
-      "profit_factor": 2.1770837988336895,
-      "expectancy": 0.5693454870832999,
-      "baseline_expectancy": 0.3733851505378509,
-      "delta_expectancy": 0.19596033654544903,
+      "events": 16,
+      "win_rate_pct": 56.25,
+      "profit_factor": 2.439760513647786,
+      "expectancy": 0.6528749947579556,
+      "baseline_expectancy": 0.4585202871678475,
+      "delta_expectancy": 0.19435470759010814,
       "metric_unit": "R",
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "Rapida 1H V1",
       "paper_portfolio": "SHADOW_1H_FAST",
@@ -3043,7 +3060,7 @@
       "confidence": "MEDIA"
     },
     {
-      "generated_utc": "2026-07-20T01:30:22+00:00",
+      "generated_utc": "2026-07-20T02:30:27+00:00",
       "system": "MAIN_PAPER_RESEARCH",
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "paper_portfolio": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
@@ -3062,10 +3079,10 @@
   ],
   "summary": {
     "profiles": 60,
-    "paper_closed_trades": 344,
-    "shadow_closed_trades": 794,
-    "shadow_taken_by_paper": 242,
-    "shadow_skipped_by_paper": 552,
+    "paper_closed_trades": 359,
+    "shadow_closed_trades": 800,
+    "shadow_taken_by_paper": 245,
+    "shadow_skipped_by_paper": 555,
     "status_counts": {
       "FILTRO PAPER UTILE": 3,
       "CAMPIONE INSUFFICIENTE": 49,
@@ -3073,7 +3090,7 @@
       "PAPER SCARTA EDGE": 5,
       "NESSUN EDGE CHIARO": 2
     },
-    "filter_candidates": 95
+    "filter_candidates": 96
   },
   "paths": {
     "report": "reports/paper_shadow_edge_report.md",
@@ -3081,5 +3098,5 @@
     "filters_csv": "reports/paper_shadow_filter_candidates.csv",
     "events_csv": "reports/paper_shadow_edge_events.csv"
   },
-  "report_markdown": "# Paper vs Shadow — selezione, trade saltati e filtri candidati\n\nGenerato: 2026-07-20T01:30:22+00:00\n\n> Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.\n\n## Lettura rapida\n\n- Trade Paper chiusi nei conti confrontati: **344**\n- Trade Shadow/Research chiusi: **794**\n- Eventi Shadow già presi dai Paper: **242**\n- Eventi Shadow saltati dai Paper: **552**\n- Profili con filtro Paper utile: **3**\n- Profili in cui il Paper potrebbe scartare edge: **5**\n- Profili con campione ancora insufficiente: **49**\n\n**Δ selezione** = expectancy dei segnali presi meno expectancy dei segnali saltati. Positivo significa che la selezione Paper sta privilegiando segnali migliori.\n**Δ gestione** = risultato effettivo Paper meno risultato Research degli stessi eventi. Positivo suggerisce che trailing, size, costi o gestione dell’uscita stanno migliorando l’esecuzione.\n\n## Conti Paper principali vs Research All Signals\n\n| Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |\n| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |\n| Rapida 1H V1 | Rapida 1H V1 | 38 | 99 | 20 | 79 | -0,14R | 0,06R | -0,20R | 0,11R | +0,25R | SELEZIONE DA RIVEDERE |\n| Bilanciata 1H V1 | Bilanciata 1H V1 | 14 | 91 | 4 | 87 | 0,22R | 0,04R | +0,18R | 0,38R | +0,16R | CAMPIONE INSUFFICIENTE |\n| Forza relativa 1H V1 | Forza relativa 1H V1 | 9 | 56 | 2 | 54 | -1,02R | 0,21R | -1,22R | 0,19R | +1,21R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_ADAPTIVE | Combo Adaptive | 14 | 44 | 11 | 33 | 0,04R | 0,50R | -0,46R | 0,36R | +0,32R | PAPER SCARTA EDGE |\n| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 16 | 42 | 11 | 31 | 0,14R | 0,41R | -0,27R | 0,37R | +0,23R | PAPER SCARTA EDGE |\n| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 5 | 41 | 2 | 39 | -1,06R | 0,19R | -1,24R | -0,08R | +0,97R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_TREND | Combo Trend | 10 | 35 | 7 | 28 | 0,31R | 0,22R | +0,08R | 0,13R | -0,17R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 13 | 33 | 10 | 23 | 0,56R | 0,49R | +0,07R | 0,42R | -0,15R | NESSUN EDGE CHIARO |\n| SHADOW_COMBO_SCANNER | Combo Scanner | 11 | 31 | 8 | 23 | -0,24R | 0,77R | -1,02R | 0,01R | +0,25R | PAPER SCARTA EDGE |\n| MAIN | Principale 4H | 15 | 25 | 11 | 14 | 0,06R | -0,17R | +0,23R | -0,06R | -0,12R | FILTRO PAPER UTILE |\n| SHADOW_4H_WIDE | Ampia 4H | 10 | 23 | 8 | 15 | 0,40R | -0,01R | +0,41R | 0,32R | -0,09R | FILTRO PAPER UTILE |\n| SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 11 | 20 | 11 | 9 | 0,06R | -0,51R | +0,57R | 0,14R | +0,08R | FILTRO PAPER UTILE |\n| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 21 | 18 | 11 | 7 | 0,57R | 0,36R | +0,21R | 0,01R | -0,56R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 11 | 18 | 8 | 10 | -0,18R | -0,37R | +0,19R | 0,43R | +0,61R | NESSUN EDGE CHIARO |\n| Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 14 | 17 | 11 | 6 | 0,33R | 0,46R | -0,13R | 0,05R | -0,27R | CAMPIONE INSUFFICIENTE |\n| Forza relativa 1H V2 | Forza relativa 1H V2 | 12 | 16 | 9 | 7 | 0,76R | 0,35R | +0,41R | 0,30R | -0,46R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 12 | 14 | 6 | 8 | -0,51R | 1,22R | -1,73R | -0,41R | +0,10R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 6 | 14 | 5 | 9 | -0,25R | -0,09R | -0,16R | 0,10R | +0,35R | CAMPIONE INSUFFICIENTE |\n| Bilanciata 1H V2 | Bilanciata 1H V2 | 14 | 13 | 8 | 5 | 0,08R | 0,76R | -0,68R | -0,03R | -0,11R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 4 | 6 | 3 | 3 | 0,66R | 0,69R | -0,03R | 0,89R | +0,24R | CAMPIONE INSUFFICIENTE |\n| RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 4 | 5 | 4 | 1 | -0,34R | -1,40R | +1,06R | -0,45R | -0,10R | CAMPIONE INSUFFICIENTE |\n| Rapida 1H V2 | Rapida 1H V2 | 2 | 2 | 2 | 0 | 0,11R | 0,00R | +0,11R | 0,63R | +0,52R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_ADAPTIVE_1H | Sol Adaptive 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,18R | -0,57R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_EMA_1H | Sol Ema 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,09R | -0,48R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_ADAPTIVE_1H | Btc Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,09R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_BOLLINGER_1H | Btc Bollinger 1H | 1 | 1 | 1 | 0 | 1,37R | 0,00R | +1,37R | 1,37R | +0,01R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_DONCHIAN_1H | Btc Donchian 1H | 1 | 1 | 1 | 0 | -1,12R | 0,00R | -1,12R | -1,10R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_EMA_1H | Btc Ema 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,09R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_ADAPTIVE_1H | Eth Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,10R | +0,01R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_BOLLINGER_1H | Eth Bollinger 1H | 0 | 1 | 0 | 1 | 0,00R | -1,13R | +1,13R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_EMA_1H | Eth Ema 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,10R | +0,01R | CAMPIONE INSUFFICIENTE |\n| SHADOW_GLOBAL_PURE | Global Confluence puro 1H | 3 | 1 | 1 | 0 | -1,10R | 0,00R | -1,10R | -0,47R | +0,63R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_BOLLINGER_1H | Sol Bollinger 1H | 1 | 1 | 1 | 0 | -1,13R | 0,00R | -1,13R | -1,12R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_DONCHIAN_1H | Sol Donchian 1H | 1 | 1 | 1 | 0 | -1,12R | 0,00R | -1,12R | -0,09R | +1,04R | CAMPIONE INSUFFICIENTE |\n| RSI_EXTREME_LONG_15M | Scalp RSI Long 25 · prudente · 5x | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_ADAPTIVE_4H | Btc Adaptive 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_BOLLINGER_4H | Btc Bollinger 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_DONCHIAN_4H | Btc Donchian 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_EMA_4H | Btc Ema 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DOGE_BOLLINGER_1H | Doge Bollinger 1H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DOGE_DONCHIAN_1H | Doge Donchian 1H | 1 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,52R | +0,52R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DOGE_EMA_1H | Doge Ema 1H | 2 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,14R | -0,14R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_DONCHIAN_1H | Eth Donchian 1H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_EMA_4H | Eth Ema 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_ADAPTIVE_4H | Sol Adaptive 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_BOLLINGER_4H | Sol Bollinger 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_DONCHIAN_4H | Sol Donchian 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_EMA_4H | Sol Ema 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n\n## Conti RSI 5m vs Shadow\n\n| Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |\n| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |\n| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 12 | 32 | 11 | 21 | -1,17% | 0,57% | -1,75% | -0,77% | +0,40% | PAPER SCARTA EDGE |\n| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 12 | 32 | 11 | 21 | -2,35% | 1,15% | -3,49% | -1,55% | +0,80% | PAPER SCARTA EDGE |\n| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 8 | 18 | 7 | 11 | -0,55% | -1,33% | +0,78% | 0,06% | +0,61% | CAMPIONE INSUFFICIENTE |\n| SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 8 | 10 | 8 | 2 | -2,96% | 2,45% | -5,41% | -2,96% | 0,00% | CAMPIONE INSUFFICIENTE |\n| SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 8 | 10 | 8 | 2 | -5,93% | 4,90% | -10,83% | -5,93% | -0,00% | CAMPIONE INSUFFICIENTE |\n| SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 5 | 8 | 5 | 3 | -1,22% | -2,74% | +1,52% | -1,22% | -0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 25 · leva 10× | RSI 25 · leva 10× | 3 | 3 | 3 | 0 | -1,37% | 0,00% | -1,37% | -1,37% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 25 · leva 20× | RSI 25 · leva 20× | 3 | 3 | 3 | 0 | -2,75% | 0,00% | -2,75% | -2,75% | +0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 1 | 1 | 1 | 0 | -0,32% | 0,00% | -0,32% | -0,32% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 20 · leva 10× | RSI 20 · leva 10× | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 20 · leva 20× | RSI 20 · leva 20× | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 20 · leva 5× · Wide | RSI 20 · leva 5× · Wide | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |\n\n## Filtri candidati ricavati dallo Shadow\n\nVengono mostrati soltanto contesti con almeno **8 eventi** e una differenza materiale rispetto alla media della strategia. Non sono modifiche automatiche.\n\n| Strategia | Azione candidata | Dimensione | Valore | Eventi | WR | PF | Expectancy | Δ vs base | Confidenza |\n| --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |\n| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 14 | 0,00% | 0,00 | -7,80% | -7,75% | MEDIA |\n| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 14 | 0,00% | 0,00 | -3,90% | -3,88% | MEDIA |\n| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 11 | 0,00% | 0,00 | -3,20% | -2,18% | MEDIA |\n| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 9 | 0,00% | 0,00 | -1,08R | -1,13R | MEDIA |\n| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 9 | 0,00% | 0,00 | -1,08R | -1,13R | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 10 | 0,00% | 0,00 | -1,10R | -1,12R | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 10 | 0,00% | 0,00 | -1,10R | -1,12R | MEDIA |\n| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 13 | 38,46% | 0,72 | -1,07% | -1,02% | MEDIA |\n| SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 9 | 22,22% | 0,55 | -0,38R | -0,89R | MEDIA |\n| SHADOW_SCANNER_TOP5_BTC | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 9 | 22,22% | 0,56 | -0,37R | -0,89R | MEDIA |\n| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 13 | 15,38% | 0,35 | -0,55R | -0,88R | MEDIA |\n| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 8 | 50,00% | 0,78 | -0,88% | -0,82% | MEDIA |\n| SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 8 | 25,00% | 0,64 | -0,29R | -0,81R | MEDIA |\n| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 9 | 11,11% | 0,22 | -1,74% | -0,72% | MEDIA |\n| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 14 | 21,43% | 0,52 | -0,37R | -0,71R | MEDIA |\n| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 14 | 14,29% | 0,32 | -0,61R | -0,66R | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | <5 | 10 | 20,00% | 0,53 | -0,39R | -0,56R | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 10 | 20,00% | 0,53 | -0,39R | -0,55R | MEDIA |\n| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 13 | 38,46% | 0,72 | -0,54% | -0,51% | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ZEC | 8 | 25,00% | 0,44 | -0,45R | -0,47R | MEDIA |\n| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 8 | 50,00% | 0,78 | -0,44% | -0,41% | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE | 16 | 25,00% | 0,69 | -0,24R | -0,41R | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 16 | 25,00% | 0,71 | -0,22R | -0,39R | MEDIA |\n| SHADOW_DONCHIAN_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 9 | 11,11% | 0,29 | -0,66R | -0,38R | MEDIA |\n| MAIN | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 10 | 20,00% | 0,48 | -0,43R | -0,37R | MEDIA |\n| MAIN | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 10 | 20,00% | 0,48 | -0,43R | -0,37R | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 20 | 30,00% | 0,59 | -0,30R | -0,32R | ALTA |\n| SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 9 | 22,22% | 0,77 | -0,18R | -0,32R | MEDIA |\n| SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 9 | 22,22% | 0,78 | -0,18R | -0,31R | MEDIA |\n| SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 9 | 22,22% | 0,78 | -0,18R | -0,31R | MEDIA |\n\n## Metodo di promozione\n\n1. Lo Shadow individua un contesto candidato; 2. si crea un conto Paper challenger separato; 3. il challenger raccoglie almeno 30 eventi futuri; 4. si promuove soltanto se migliora PF, expectancy e drawdown senza dipendere da un singolo asset o regime.\n\nI contatori Paper e Shadow non vengono sommati: molti trade Paper sono un sottoinsieme degli eventi Shadow."
+  "report_markdown": "# Paper vs Shadow — selezione, trade saltati e filtri candidati\n\nGenerato: 2026-07-20T02:30:27+00:00\n\n> Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.\n\n## Lettura rapida\n\n- Trade Paper chiusi nei conti confrontati: **359**\n- Trade Shadow/Research chiusi: **800**\n- Eventi Shadow già presi dai Paper: **245**\n- Eventi Shadow saltati dai Paper: **555**\n- Profili con filtro Paper utile: **3**\n- Profili in cui il Paper potrebbe scartare edge: **5**\n- Profili con campione ancora insufficiente: **49**\n\n**Δ selezione** = expectancy dei segnali presi meno expectancy dei segnali saltati. Positivo significa che la selezione Paper sta privilegiando segnali migliori.\n**Δ gestione** = risultato effettivo Paper meno risultato Research degli stessi eventi. Positivo suggerisce che trailing, size, costi o gestione dell’uscita stanno migliorando l’esecuzione.\n\n## Conti Paper principali vs Research All Signals\n\n| Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |\n| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |\n| Rapida 1H V1 | Rapida 1H V1 | 39 | 99 | 20 | 79 | -0,14R | 0,06R | -0,20R | 0,08R | +0,22R | SELEZIONE DA RIVEDERE |\n| Bilanciata 1H V1 | Bilanciata 1H V1 | 15 | 91 | 4 | 87 | 0,22R | 0,04R | +0,18R | 0,29R | +0,06R | CAMPIONE INSUFFICIENTE |\n| Forza relativa 1H V1 | Forza relativa 1H V1 | 11 | 56 | 2 | 54 | -1,02R | 0,21R | -1,22R | 0,11R | +1,12R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_ADAPTIVE | Combo Adaptive | 14 | 44 | 11 | 33 | 0,04R | 0,50R | -0,46R | 0,36R | +0,32R | PAPER SCARTA EDGE |\n| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 6 | 42 | 2 | 40 | -1,06R | 0,15R | -1,21R | -0,24R | +0,81R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 17 | 42 | 11 | 31 | 0,14R | 0,41R | -0,27R | 0,32R | +0,18R | PAPER SCARTA EDGE |\n| SHADOW_COMBO_TREND | Combo Trend | 11 | 36 | 7 | 29 | 0,31R | 0,18R | +0,13R | 0,02R | -0,28R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 13 | 33 | 10 | 23 | 0,56R | 0,49R | +0,07R | 0,42R | -0,15R | NESSUN EDGE CHIARO |\n| SHADOW_COMBO_SCANNER | Combo Scanner | 11 | 31 | 8 | 23 | -0,24R | 0,77R | -1,02R | 0,01R | +0,25R | PAPER SCARTA EDGE |\n| MAIN | Principale 4H | 15 | 25 | 11 | 14 | 0,06R | -0,17R | +0,23R | -0,06R | -0,12R | FILTRO PAPER UTILE |\n| SHADOW_4H_WIDE | Ampia 4H | 11 | 23 | 8 | 15 | 0,40R | -0,01R | +0,41R | 0,26R | -0,15R | FILTRO PAPER UTILE |\n| SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 11 | 20 | 11 | 9 | 0,06R | -0,51R | +0,57R | 0,14R | +0,08R | FILTRO PAPER UTILE |\n| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered | 23 | 19 | 12 | 7 | 0,64R | 0,36R | +0,28R | -0,06R | -0,70R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 11 | 19 | 8 | 11 | -0,18R | -0,11R | -0,07R | 0,43R | +0,61R | NESSUN EDGE CHIARO |\n| Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 15 | 18 | 12 | 6 | 0,46R | 0,46R | -0,00R | 0,18R | -0,28R | CAMPIONE INSUFFICIENTE |\n| Forza relativa 1H V2 | Forza relativa 1H V2 | 12 | 16 | 9 | 7 | 0,76R | 0,35R | +0,41R | 0,30R | -0,46R | CAMPIONE INSUFFICIENTE |\n| Bilanciata 1H V2 | Bilanciata 1H V2 | 15 | 14 | 9 | 5 | 0,28R | 0,76R | -0,48R | -0,02R | -0,30R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive MFE Trail | 14 | 14 | 6 | 8 | -0,51R | 1,22R | -1,73R | -0,30R | +0,22R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 6 | 14 | 5 | 9 | -0,25R | -0,09R | -0,16R | 0,10R | +0,35R | CAMPIONE INSUFFICIENTE |\n| SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 4 | 6 | 3 | 3 | 0,66R | 0,69R | -0,03R | 0,89R | +0,24R | CAMPIONE INSUFFICIENTE |\n| RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 4 | 5 | 4 | 1 | -0,34R | -1,40R | +1,06R | -0,45R | -0,10R | CAMPIONE INSUFFICIENTE |\n| Rapida 1H V2 | Rapida 1H V2 | 2 | 2 | 2 | 0 | 0,11R | 0,00R | +0,11R | 0,63R | +0,52R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_ADAPTIVE_1H | Sol Adaptive 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,18R | -0,57R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_EMA_1H | Sol Ema 1H | 2 | 2 | 2 | 0 | 0,39R | 0,00R | +0,39R | -0,09R | -0,48R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_ADAPTIVE_1H | Btc Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,09R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_BOLLINGER_1H | Btc Bollinger 1H | 1 | 1 | 1 | 0 | 1,37R | 0,00R | +1,37R | 1,37R | +0,01R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_DONCHIAN_1H | Btc Donchian 1H | 1 | 1 | 1 | 0 | -1,12R | 0,00R | -1,12R | -1,10R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_EMA_1H | Btc Ema 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,09R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_ADAPTIVE_1H | Eth Adaptive 1H | 1 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -1,10R | +0,01R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_BOLLINGER_1H | Eth Bollinger 1H | 0 | 1 | 0 | 1 | 0,00R | -1,13R | +1,13R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_EMA_1H | Eth Ema 1H | 2 | 1 | 1 | 0 | -1,11R | 0,00R | -1,11R | -0,46R | +0,65R | CAMPIONE INSUFFICIENTE |\n| SHADOW_GLOBAL_PURE | Global Confluence puro 1H | 3 | 1 | 1 | 0 | -1,10R | 0,00R | -1,10R | -0,47R | +0,63R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_BOLLINGER_1H | Sol Bollinger 1H | 1 | 1 | 1 | 0 | -1,13R | 0,00R | -1,13R | -1,12R | +0,02R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_DONCHIAN_1H | Sol Donchian 1H | 1 | 1 | 1 | 0 | -1,12R | 0,00R | -1,12R | -0,09R | +1,04R | CAMPIONE INSUFFICIENTE |\n| RSI_EXTREME_LONG_15M | Scalp RSI Long 25 · prudente · 5x | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_ADAPTIVE_4H | Btc Adaptive 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_BOLLINGER_4H | Btc Bollinger 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_DONCHIAN_4H | Btc Donchian 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_BTC_EMA_4H | Btc Ema 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DOGE_BOLLINGER_1H | Doge Bollinger 1H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DOGE_DONCHIAN_1H | Doge Donchian 1H | 1 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,52R | +0,52R | CAMPIONE INSUFFICIENTE |\n| SHADOW_DOGE_EMA_1H | Doge Ema 1H | 2 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,14R | -0,14R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_DONCHIAN_1H | Eth Donchian 1H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_ETH_EMA_4H | Eth Ema 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_ADAPTIVE_4H | Sol Adaptive 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_BOLLINGER_4H | Sol Bollinger 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_DONCHIAN_4H | Sol Donchian 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n| SHADOW_SOL_EMA_4H | Sol Ema 4H | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |\n\n## Conti RSI 5m vs Shadow\n\n| Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |\n| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |\n| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 12 | 32 | 11 | 21 | -1,17% | 0,57% | -1,75% | -0,77% | +0,40% | PAPER SCARTA EDGE |\n| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 12 | 32 | 11 | 21 | -2,35% | 1,15% | -3,49% | -1,55% | +0,80% | PAPER SCARTA EDGE |\n| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 8 | 18 | 7 | 11 | -0,55% | -1,33% | +0,78% | 0,06% | +0,61% | CAMPIONE INSUFFICIENTE |\n| SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 8 | 10 | 8 | 2 | -2,96% | 2,45% | -5,41% | -2,96% | 0,00% | CAMPIONE INSUFFICIENTE |\n| SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 8 | 10 | 8 | 2 | -5,93% | 4,90% | -10,83% | -5,93% | -0,00% | CAMPIONE INSUFFICIENTE |\n| SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 5 | 8 | 5 | 3 | -1,22% | -2,74% | +1,52% | -1,22% | -0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 25 · leva 10× | RSI 25 · leva 10× | 3 | 3 | 3 | 0 | -1,37% | 0,00% | -1,37% | -1,37% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 25 · leva 20× | RSI 25 · leva 20× | 3 | 3 | 3 | 0 | -2,75% | 0,00% | -2,75% | -2,75% | +0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 1 | 1 | 1 | 0 | -0,32% | 0,00% | -0,32% | -0,32% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 20 · leva 10× | RSI 20 · leva 10× | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 20 · leva 20× | RSI 20 · leva 20× | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |\n| RSI 20 · leva 5× · Wide | RSI 20 · leva 5× · Wide | 0 | 0 | 0 | 0 | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | CAMPIONE INSUFFICIENTE |\n\n## Filtri candidati ricavati dallo Shadow\n\nVengono mostrati soltanto contesti con almeno **8 eventi** e una differenza materiale rispetto alla media della strategia. Non sono modifiche automatiche.\n\n| Strategia | Azione candidata | Dimensione | Valore | Eventi | WR | PF | Expectancy | Δ vs base | Confidenza |\n| --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |\n| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 14 | 0,00% | 0,00 | -7,80% | -7,75% | MEDIA |\n| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 14 | 0,00% | 0,00 | -3,90% | -3,88% | MEDIA |\n| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 11 | 0,00% | 0,00 | -3,20% | -2,18% | MEDIA |\n| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 9 | 0,00% | 0,00 | -1,08R | -1,13R | MEDIA |\n| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 9 | 0,00% | 0,00 | -1,08R | -1,13R | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 10 | 0,00% | 0,00 | -1,10R | -1,12R | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 10 | 0,00% | 0,00 | -1,10R | -1,12R | MEDIA |\n| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 13 | 38,46% | 0,72 | -1,07% | -1,02% | MEDIA |\n| SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 9 | 22,22% | 0,55 | -0,38R | -0,89R | MEDIA |\n| SHADOW_SCANNER_TOP5_BTC | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 9 | 22,22% | 0,56 | -0,37R | -0,89R | MEDIA |\n| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 13 | 15,38% | 0,35 | -0,55R | -0,88R | MEDIA |\n| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 8 | 50,00% | 0,78 | -0,88% | -0,82% | MEDIA |\n| SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 8 | 25,00% | 0,64 | -0,29R | -0,81R | MEDIA |\n| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 9 | 11,11% | 0,22 | -1,74% | -0,72% | MEDIA |\n| SHADOW_SCANNER_TOP5_LONG | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 14 | 21,43% | 0,52 | -0,37R | -0,71R | MEDIA |\n| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 14 | 14,29% | 0,32 | -0,61R | -0,66R | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | <5 | 10 | 20,00% | 0,53 | -0,39R | -0,56R | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 10 | 20,00% | 0,53 | -0,39R | -0,55R | MEDIA |\n| SHADOW_DONCHIAN_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 9 | 11,11% | 0,29 | -0,66R | -0,52R | MEDIA |\n| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 13 | 38,46% | 0,72 | -0,54% | -0,51% | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ZEC | 8 | 25,00% | 0,44 | -0,45R | -0,47R | MEDIA |\n| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 8 | 50,00% | 0,78 | -0,44% | -0,41% | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE | 16 | 25,00% | 0,69 | -0,24R | -0,41R | MEDIA |\n| Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 16 | 25,00% | 0,71 | -0,22R | -0,39R | MEDIA |\n| MAIN | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 10 | 20,00% | 0,48 | -0,43R | -0,37R | MEDIA |\n| MAIN | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 10 | 20,00% | 0,48 | -0,43R | -0,37R | MEDIA |\n| SHADOW_EMA_TREND_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 5–6 | 12 | 25,00% | 0,69 | -0,25R | -0,35R | MEDIA |\n| SHADOW_EMA_TREND_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | MEDIA | 12 | 25,00% | 0,69 | -0,25R | -0,35R | MEDIA |\n| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | ALTA | 20 | 30,00% | 0,59 | -0,30R | -0,32R | ALTA |\n| SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 9 | 22,22% | 0,77 | -0,18R | -0,32R | MEDIA |\n\n## Metodo di promozione\n\n1. Lo Shadow individua un contesto candidato; 2. si crea un conto Paper challenger separato; 3. il challenger raccoglie almeno 30 eventi futuri; 4. si promuove soltanto se migliora PF, expectancy e drawdown senza dipendere da un singolo asset o regime.\n\nI contatori Paper e Shadow non vengono sommati: molti trade Paper sono un sottoinsieme degli eventi Shadow."
 }
