@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **TREND_UP_HIGH_VOL**
 - Famiglia: **TREND_UP**
-- Confidenza: **72,70%**
+- Confidenza: **70,30%**
 - Volatilità: **HIGH**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 75% sopra EMA50, ADX 21.3.
-- BTC trend score: **3,00**; ADX: **21,30**; breadth sopra EMA50: **75,00%**
-- Mediana alt vs BTC: **-0,28%**; dispersione: **20,76%**
+- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 67% sopra EMA50, ADX 21.3.
+- BTC trend score: **3,00**; ADX: **21,30**; breadth sopra EMA50: **66,67%**
+- Mediana alt vs BTC: **-0,17%**; dispersione: **23,90%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **152**
+- Posizioni research aperte: **153**
 - Trade research chiusi: **783**
 - Eventi di mercato indipendenti chiusi: **308**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **2354**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **2391**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -27,7 +27,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | MAIN | 10 | 28 | 28 | 32,14% | 0,91 | -0,06R | €-16,99 |
 | RSI_EXTREME_SHORT_15M | 0 | 5 | 5 | 20,00% | 0,32 | -0,55R | €-27,64 |
-| Bilanciata 1H V1 | 14 | 102 | 102 | 35,29% | 1,03 | 0,02R | €20,91 |
+| Bilanciata 1H V1 | 15 | 102 | 102 | 35,29% | 1,03 | 0,02R | €20,91 |
 | Bilanciata 1H V2 | 5 | 16 | 15 | 43,75% | 1,44 | 0,27R | €42,44 |
 | Bilanciata 1H V3 Filtered | 6 | 23 | 23 | 47,83% | 1,73 | 0,40R | €91,26 |
 | Rapida 1H V1 | 8 | 112 | 112 | 40,18% | 0,93 | -0,04R | €-46,66 |
@@ -81,7 +81,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | RANGE_HIGH_VOL | 2 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-97,25 |
 | Bilanciata 1H V1 | TRANSITION | 5 | 22 | 22 | 36,36% | 1,03 | 0,02R | €5,21 |
 | Bilanciata 1H V1 | TREND_UP | 2 | 30 | 30 | 40,00% | 1,31 | 0,19R | €56,33 |
-| Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 2 | 3 | 3 | 33,33% | 0,96 | -0,03R | €-0,93 |
+| Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 3 | 3 | 3 | 33,33% | 0,96 | -0,03R | €-0,93 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 1 | 2 | 2 | 100,00% | ∞ | 1,94R | €38,87 |
 | Bilanciata 1H V2 | RANGE | 2 | 4 | 4 | 50,00% | 1,79 | 0,44R | €17,51 |
 | Bilanciata 1H V2 | TRANSITION | 2 | 10 | 9 | 30,00% | 0,81 | -0,14R | €-13,94 |
