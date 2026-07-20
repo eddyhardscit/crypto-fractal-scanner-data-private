@@ -3,5 +3,5 @@
   "ok": false,
   "release_tag": "paper-rsi5-scalper-v1",
   "asset_name": "paper-rsi5-scalper-state.zip",
-  "error": "Upload stato: 502 {\"message\":\"Error creating policy\",\"request_id\":\"E5B6:D0126:8E7C66:9FADDE:6A5D689B\"}"
+  "error": "Upload stato: 503 {\"message\":\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\",\"request_id\":\"854A:196C5B:988D77:AB5681:6A5D76B2\"}"
 }
