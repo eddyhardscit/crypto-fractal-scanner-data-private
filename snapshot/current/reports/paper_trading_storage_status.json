@@ -1,12 +1,7 @@
 {
-  "action": "upload",
-  "ok": true,
+  "action": "restore",
+  "ok": false,
   "tag": "paper-trading-v1",
   "asset": "paper-trading-state.zip",
-  "bytes": 1119275,
-  "asset_id": 482803521,
-  "permanent_trade_rows": 290,
-  "permanent_trade_asset_id": 482803504,
-  "permanent_signal_rows": 548,
-  "permanent_signal_asset_id": 482803508
+  "error": "503 Server Error: Service Unavailable for url: https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/482831611"
 }

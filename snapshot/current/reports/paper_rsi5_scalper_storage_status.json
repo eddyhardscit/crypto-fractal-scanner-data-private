@@ -1,8 +1,7 @@
 {
   "action": "upload",
-  "ok": true,
+  "ok": false,
   "release_tag": "paper-rsi5-scalper-v1",
   "asset_name": "paper-rsi5-scalper-state.zip",
-  "bytes": 29497,
-  "asset_id": 482807334
+  "error": "Upload stato: 502 {\"message\":\"Error creating policy\",\"request_id\":\"E5B6:D0126:8E7C66:9FADDE:6A5D689B\"}"
 }

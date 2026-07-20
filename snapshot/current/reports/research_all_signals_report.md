@@ -13,8 +13,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - BTC trend score: **3,00**; ADX: **22,53**; breadth sopra EMA50: **75,00%**
 - Mediana alt vs BTC: **0,58%**; dispersione: **30,74%**
 
-- Aperti in questo ciclo: **2**
-- Chiusi in questo ciclo: **8**
+- Aperti in questo ciclo: **0**
+- Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **164**
 - Trade research chiusi: **651**
 - Eventi di mercato indipendenti chiusi: **254**
