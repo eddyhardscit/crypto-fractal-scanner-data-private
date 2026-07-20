@@ -1,0 +1,63 @@
+{
+  "automatic_promotions": 0,
+  "automatic_retirements": 0,
+  "categories": {
+    "ALL_TIME": [
+      {
+        "closed_trades": 39,
+        "evolution_score": 11.03,
+        "expectancy_r": 0.07948279019428187,
+        "family_id": "shadow-1h-fast",
+        "generated_utc": "2026-07-20T05:10:22+00:00",
+        "grade": "E",
+        "hall_eligible": true,
+        "lifecycle_status": "BASELINE",
+        "liquidations": 0,
+        "matched_pairs": 0,
+        "max_drawdown_r": 5.434442266867371,
+        "portfolio": "SHADOW_1H_FAST",
+        "post_promotion_status": "",
+        "profit_factor": 1.1782561689049393,
+        "record_kind": "PAPER_PORTFOLIO",
+        "source_evidence_score": 0,
+        "strategy_id": "portfolio-0a0a90ccde67415644d5",
+        "validation_score": 0.0,
+        "validation_status": "",
+        "win_rate": 0.41025641025641024
+      }
+    ],
+    "BASELINE": [
+      {
+        "closed_trades": 39,
+        "evolution_score": 11.03,
+        "expectancy_r": 0.07948279019428187,
+        "family_id": "shadow-1h-fast",
+        "generated_utc": "2026-07-20T05:10:22+00:00",
+        "grade": "E",
+        "hall_eligible": true,
+        "lifecycle_status": "BASELINE",
+        "liquidations": 0,
+        "matched_pairs": 0,
+        "max_drawdown_r": 5.434442266867371,
+        "portfolio": "SHADOW_1H_FAST",
+        "post_promotion_status": "",
+        "profit_factor": 1.1782561689049393,
+        "record_kind": "PAPER_PORTFOLIO",
+        "source_evidence_score": 0,
+        "strategy_id": "portfolio-0a0a90ccde67415644d5",
+        "validation_score": 0.0,
+        "validation_status": "",
+        "win_rate": 0.41025641025641024
+      }
+    ],
+    "CANDIDATE": [],
+    "EX_MASTER": [],
+    "MASTER": []
+  },
+  "engine_version": "block9-evolution-memory-v1",
+  "generated_utc": "2026-07-20T05:10:22+00:00",
+  "live_modified": false,
+  "orders_sent": false,
+  "paper_only": true,
+  "schema_version": 1
+}
