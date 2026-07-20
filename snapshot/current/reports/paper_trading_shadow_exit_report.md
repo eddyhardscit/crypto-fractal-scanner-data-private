@@ -1,41 +1,41 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-19T23:53:39+00:00
+Generato: 2026-07-20T02:08:36+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **74**
-- Scenari virtuali ancora attivi: **1190**
-- Gruppi in attesa dell'uscita originale: **70**
-- Gruppi con originale chiuso ma Shadow ancora attive: **4**
-- Confronti completati: **186**
+- Gruppi di trade ancora monitorati: **77**
+- Scenari virtuali ancora attivi: **1041**
+- Gruppi in attesa dell'uscita originale: **64**
+- Gruppi con originale chiuso ma Shadow ancora attive: **13**
+- Confronti completati: **415**
 
 ## Classifica osservativa complessiva
 
 | Scenario | Campione completo | Campione totale | Δ medio vs originale | Migliora | Troppo presto | Troppo tardi | Stato dati |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| TP_R150 | 1 | 10 | €-2,54 | 0,0% | 1 | 0 | COLLECTING |
-| GB20_R100 | 1 | 10 | €-8,91 | 0,0% | 3 | 0 | COLLECTING |
-| TP_R100 | 1 | 10 | €-9,96 | 0,0% | 3 | 0 | COLLECTING |
-| GB30_R100 | 1 | 10 | €-10,89 | 0,0% | 3 | 0 | COLLECTING |
-| GB20_R050 | 1 | 11 | €-11,74 | 9,1% | 3 | 0 | COLLECTING |
-| GB50_R100 | 1 | 10 | €-11,80 | 0,0% | 1 | 2 | COLLECTING |
-| GB40_R100 | 1 | 10 | €-12,64 | 0,0% | 2 | 1 | COLLECTING |
-| GB30_R050 | 1 | 11 | €-13,10 | 9,1% | 3 | 0 | COLLECTING |
-| TP_R050 | 1 | 11 | €-13,60 | 9,1% | 3 | 0 | COLLECTING |
-| GB40_R050 | 1 | 11 | €-14,47 | 9,1% | 3 | 0 | COLLECTING |
-| GB50_R050 | 1 | 11 | €-15,83 | 9,1% | 3 | 0 | COLLECTING |
-| BE_R050 | 1 | 11 | €-22,63 | 0,0% | 4 | 0 | COLLECTING |
-| TIME_24H | 0 | 7 | +€18,53 | 71,4% | 0 | 0 | WAITING_FULL_SAMPLE |
-| TIME_12H | 0 | 8 | +€17,46 | 75,0% | 0 | 0 | WAITING_FULL_SAMPLE |
-| TIME_6H | 0 | 9 | +€14,70 | 77,8% | 0 | 1 | WAITING_FULL_SAMPLE |
-| TP_R200 | 0 | 8 | +€0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |
-| ATR15_R100 | 0 | 7 | €0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |
-| ATR20_R100 | 0 | 7 | €0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |
-| ATR30_R100 | 0 | 7 | €0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |
-| BE_R100 | 0 | 7 | €0,00 | 0,0% | 0 | 0 | WAITING_FULL_SAMPLE |
+| TP_R150 | 4 | 21 | +€17,85 | 33,3% | 2 | 1 | COLLECTING |
+| GB20_R100 | 4 | 23 | +€16,19 | 39,1% | 4 | 1 | COLLECTING |
+| GB30_R100 | 4 | 23 | +€12,63 | 39,1% | 4 | 1 | COLLECTING |
+| TP_R100 | 4 | 23 | +€9,14 | 39,1% | 4 | 1 | COLLECTING |
+| GB40_R100 | 4 | 23 | +€8,68 | 39,1% | 3 | 2 | COLLECTING |
+| GB20_R050 | 4 | 24 | +€8,14 | 41,7% | 5 | 0 | COLLECTING |
+| GB50_R100 | 4 | 23 | +€5,70 | 34,8% | 3 | 3 | COLLECTING |
+| GB30_R050 | 4 | 24 | +€5,33 | 41,7% | 5 | 0 | COLLECTING |
+| GB40_R050 | 4 | 24 | +€3,07 | 41,7% | 5 | 0 | COLLECTING |
+| TIME_6H | 4 | 24 | +€1,32 | 50,0% | 7 | 3 | COLLECTING |
+| GB50_R050 | 4 | 24 | +€0,69 | 41,7% | 5 | 0 | COLLECTING |
+| TP_R050 | 4 | 24 | +€0,26 | 41,7% | 5 | 0 | COLLECTING |
+| BE_R050 | 4 | 21 | €-12,84 | 19,0% | 6 | 0 | COLLECTING |
+| TP_R200 | 3 | 16 | +€21,11 | 25,0% | 0 | 1 | COLLECTING |
+| ATR15_R100 | 3 | 20 | €-1,21 | 40,0% | 1 | 2 | COLLECTING |
+| TIME_12H | 2 | 16 | +€18,59 | 62,5% | 3 | 0 | COLLECTING |
+| TIME_24H | 2 | 12 | +€12,75 | 66,7% | 0 | 1 | COLLECTING |
+| ATR20_R100 | 2 | 17 | +€2,64 | 35,3% | 0 | 1 | COLLECTING |
+| BE_R100 | 2 | 16 | +€2,01 | 25,0% | 0 | 1 | COLLECTING |
+| ATR30_R100 | 2 | 17 | +€1,48 | 23,5% | 1 | 1 | COLLECTING |
 
 ## Come leggere il controllo
 
