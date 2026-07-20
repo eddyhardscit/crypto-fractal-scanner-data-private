@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-20T17:23:36+00:00
+Generato: 2026-07-20T18:23:35+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **2235**
-- Valutazioni prodotte: **2135**
+- Risultati Block 3 disponibili: **2246**
+- Valutazioni prodotte: **2139**
 - Candidature al Blocco 5: **0**
 - Mutazioni create automaticamente: **0**
 
@@ -18,17 +18,17 @@ Generato: 2026-07-20T17:23:36+00:00
 | GB20_R100 | 76 | 0,119 | 0,000 | -0,012 | 34,2% | 63,0 | VALIDATING |
 | GB20_R050 | 77 | 0,226 | 0,000 | 0,051 | 41,6% | 61,8 | VALIDATING |
 | GB30_R050 | 77 | 0,194 | 0,000 | 0,023 | 40,3% | 61,8 | VALIDATING |
-| GB50_R050 | 76 | 0,175 | 0,000 | 0,007 | 40,8% | 61,5 | VALIDATING |
+| GB50_R050 | 77 | 0,164 | 0,000 | -0,005 | 40,3% | 60,9 | VALIDATING |
 | GB40_R050 | 77 | 0,155 | 0,000 | -0,011 | 40,3% | 60,1 | VALIDATING |
 | TP_R200 | 6 | 0,472 | 0,250 | -0,017 | 50,0% | 58,7 | INSUFFICIENT_DATA |
 | GB30_R100 | 76 | 0,072 | 0,000 | -0,057 | 34,2% | 56,1 | VALIDATING |
 | TP_R100 | 76 | 0,081 | 0,000 | -0,061 | 34,2% | 55,6 | VALIDATING |
 | TP_R050 | 77 | 0,134 | 0,000 | -0,057 | 41,6% | 53,3 | VALIDATING |
-| GB50_R100 | 75 | 0,040 | 0,000 | -0,073 | 33,3% | 51,6 | VALIDATING |
 | TP_R200 | 68 | 0,093 | 0,000 | -0,055 | 26,5% | 51,3 | VALIDATING |
 | TIME_6H | 75 | 0,031 | 0,000 | -0,063 | 44,0% | 50,2 | VALIDATING |
+| GB50_R100 | 76 | 0,030 | 0,000 | -0,082 | 32,9% | 47,0 | VALIDATING |
 | BE_R050 | 70 | 0,055 | 0,000 | -0,089 | 34,3% | 46,7 | VALIDATING |
-| TIME_12H | 60 | 0,101 | 0,000 | -0,084 | 25,0% | 45,0 | VALIDATING |
+| TIME_12H | 61 | 0,095 | 0,000 | -0,085 | 24,6% | 45,1 | VALIDATING |
 | GB40_R100 | 76 | 0,025 | 0,000 | -0,094 | 34,2% | 44,0 | VALIDATING |
 | TP_R150 | 6 | 0,056 | 0,000 | -0,433 | 16,7% | 28,7 | INSUFFICIENT_DATA |
 | ATR15_R100 | 66 | -0,018 | 0,000 | -0,085 | 31,8% | 27,9 | VALIDATING |
