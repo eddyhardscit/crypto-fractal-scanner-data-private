@@ -7,7 +7,7 @@
       "full_from_signal": true,
       "guard_direction": "NONE",
       "guard_level": "NORMAL",
-      "last_processed_candle": "2026-07-20T06:45:00+00:00",
+      "last_processed_candle": "2026-07-20T08:00:00+00:00",
       "leverage": 3.0,
       "liquidation_price": 0.028665433333333334,
       "max_holding_hours": 72.0,
@@ -42,5 +42,5 @@
     "guard_value_r": 3.030000000000003,
     "missed_profit_r": 0.0
   },
-  "updated_utc": "2026-07-20T07:08:29+00:00"
+  "updated_utc": "2026-07-20T08:23:40+00:00"
 }

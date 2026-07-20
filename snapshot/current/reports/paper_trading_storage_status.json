@@ -74,6 +74,13 @@
     "reports/paper_trading_evolution_live_release_plans.json",
     "reports/paper_trading_evolution_live_release_report.md",
     "reports/paper_trading_evolution_live_release_config_snapshot.json",
+    "reports/paper_trading_evolution_control_tower_state.json",
+    "reports/paper_trading_evolution_control_tower_checks.csv",
+    "reports/paper_trading_evolution_control_tower_incidents.json",
+    "reports/paper_trading_evolution_control_tower_audit_chain.csv",
+    "reports/paper_trading_evolution_recovery_readiness.json",
+    "reports/paper_trading_evolution_control_tower_report.md",
+    "reports/paper_trading_evolution_control_tower_config_snapshot.json",
     "reports/paper_trading_config_snapshot.json",
     "reports/paper_trading_market_cache.json",
     "reports/paper_trading_signal_diagnostics.json",
@@ -89,7 +96,7 @@
     "reports/doge_rejection_short_latest.json",
     "reports/doge_rejection_short_status_state.json"
   ],
-  "asset_id": 483174169,
-  "permanent_trade_rows": 332,
-  "permanent_signal_rows": 626
+  "asset_id": 483233931,
+  "permanent_trade_rows": 348,
+  "permanent_signal_rows": 646
 }

@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-20T07:20:21.768078+00:00",
+  "generated_utc": "2026-07-20T08:20:21.493596+00:00",
   "description": "Tutti i segnali validi, capitale illimitato, nessun Telegram",
   "accounts": [
     {
@@ -47,12 +47,12 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 10.0,
-      "closed_trades": 3,
-      "winning_trades": 1,
-      "win_rate_pct": 33.33333333333333,
-      "net_pnl_usdt": -156.65883696988183,
-      "profit_factor": 0.47117399001558974,
-      "open_positions": 2
+      "closed_trades": 5,
+      "winning_trades": 3,
+      "win_rate_pct": 60.0,
+      "net_pnl_usdt": 116.64632863011215,
+      "profit_factor": 1.3937576311807531,
+      "open_positions": 0
     },
     {
       "account": "RSI5_RSI25_20X",
@@ -60,12 +60,12 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 20.0,
-      "closed_trades": 3,
-      "winning_trades": 1,
-      "win_rate_pct": 33.33333333333333,
-      "net_pnl_usdt": -313.31767393976367,
-      "profit_factor": 0.47117399001558974,
-      "open_positions": 2
+      "closed_trades": 5,
+      "winning_trades": 3,
+      "win_rate_pct": 60.0,
+      "net_pnl_usdt": 233.2926572602243,
+      "profit_factor": 1.3937576311807531,
+      "open_positions": 0
     },
     {
       "account": "RSI5_RSI25_5X_WIDE",
@@ -91,7 +91,7 @@
       "win_rate_pct": 50.0,
       "net_pnl_usdt": -32.28771438281825,
       "profit_factor": 0.9848816047254852,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_20X",
@@ -104,7 +104,7 @@
       "win_rate_pct": 50.0,
       "net_pnl_usdt": -64.5754287656365,
       "profit_factor": 0.9848816047254852,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -117,7 +117,7 @@
       "win_rate_pct": 31.57894736842105,
       "net_pnl_usdt": -687.280854319422,
       "profit_factor": 0.49772139496460965,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",

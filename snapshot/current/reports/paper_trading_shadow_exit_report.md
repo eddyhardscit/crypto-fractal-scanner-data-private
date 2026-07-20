@@ -1,41 +1,41 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-20T07:08:34+00:00
+Generato: 2026-07-20T08:23:44+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **91**
-- Scenari virtuali ancora attivi: **1160**
-- Gruppi in attesa dell'uscita originale: **71**
-- Gruppi con originale chiuso ma Shadow ancora attive: **20**
-- Confronti completati: **941**
+- Gruppi di trade ancora monitorati: **94**
+- Scenari virtuali ancora attivi: **1274**
+- Gruppi in attesa dell'uscita originale: **67**
+- Gruppi con originale chiuso ma Shadow ancora attive: **27**
+- Confronti completati: **1233**
 
 ## Classifica osservativa complessiva
 
 | Scenario | Campione completo | Campione totale | Δ medio vs originale | Migliora | Troppo presto | Troppo tardi | Stato dati |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| GB20_R050 | 27 | 51 | +€12,50 | 43,1% | 11 | 0 | PRELIMINARY_SAMPLE |
-| GB30_R050 | 27 | 51 | +€9,84 | 43,1% | 11 | 0 | PRELIMINARY_SAMPLE |
-| GB40_R050 | 27 | 51 | +€7,67 | 43,1% | 11 | 0 | PRELIMINARY_SAMPLE |
-| TP_R050 | 27 | 51 | +€6,92 | 43,1% | 11 | 0 | PRELIMINARY_SAMPLE |
-| GB20_R100 | 27 | 50 | +€5,96 | 38,0% | 9 | 2 | PRELIMINARY_SAMPLE |
-| GB50_R050 | 27 | 51 | +€5,91 | 43,1% | 11 | 0 | PRELIMINARY_SAMPLE |
-| GB30_R100 | 27 | 50 | +€3,12 | 38,0% | 9 | 2 | PRELIMINARY_SAMPLE |
-| TP_R100 | 27 | 50 | +€2,14 | 38,0% | 9 | 2 | PRELIMINARY_SAMPLE |
-| GB40_R100 | 27 | 50 | +€0,27 | 36,0% | 8 | 3 | PRELIMINARY_SAMPLE |
-| GB50_R100 | 27 | 49 | €-2,23 | 34,7% | 8 | 4 | PRELIMINARY_SAMPLE |
-| TP_R150 | 24 | 45 | +€4,22 | 28,9% | 5 | 3 | PRELIMINARY_SAMPLE |
-| BE_R050 | 24 | 48 | €-3,89 | 25,0% | 9 | 4 | PRELIMINARY_SAMPLE |
-| ATR15_R100 | 23 | 42 | €-3,67 | 33,3% | 2 | 3 | PRELIMINARY_SAMPLE |
-| ATR20_R100 | 23 | 42 | €-4,09 | 31,0% | 0 | 5 | PRELIMINARY_SAMPLE |
-| TIME_6H | 23 | 49 | €-5,52 | 38,8% | 12 | 4 | PRELIMINARY_SAMPLE |
-| ATR30_R100 | 23 | 42 | €-6,62 | 23,8% | 1 | 6 | PRELIMINARY_SAMPLE |
-| BE_R100 | 23 | 42 | €-6,95 | 23,8% | 0 | 7 | PRELIMINARY_SAMPLE |
-| TP_R200 | 22 | 42 | +€9,88 | 33,3% | 2 | 3 | PRELIMINARY_SAMPLE |
-| TIME_12H | 22 | 48 | +€3,64 | 45,8% | 7 | 4 | PRELIMINARY_SAMPLE |
-| TIME_24H | 19 | 37 | +€2,52 | 45,9% | 2 | 3 | PRELIMINARY_SAMPLE |
+| GB20_R050 | 35 | 67 | +€15,24 | 53,7% | 12 | 0 | READY_FOR_BLOCK4_EVALUATION |
+| GB20_R100 | 35 | 66 | +€12,64 | 48,5% | 11 | 2 | READY_FOR_BLOCK4_EVALUATION |
+| GB30_R050 | 35 | 67 | +€12,26 | 53,7% | 12 | 0 | READY_FOR_BLOCK4_EVALUATION |
+| GB40_R050 | 35 | 67 | +€9,65 | 50,7% | 14 | 0 | READY_FOR_BLOCK4_EVALUATION |
+| GB30_R100 | 35 | 66 | +€9,04 | 47,0% | 12 | 2 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R050 | 35 | 67 | +€8,96 | 53,7% | 12 | 0 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R100 | 35 | 66 | +€8,10 | 48,5% | 11 | 2 | READY_FOR_BLOCK4_EVALUATION |
+| GB50_R050 | 35 | 67 | +€7,48 | 49,3% | 15 | 0 | READY_FOR_BLOCK4_EVALUATION |
+| GB40_R100 | 35 | 66 | +€5,44 | 45,5% | 11 | 3 | READY_FOR_BLOCK4_EVALUATION |
+| GB50_R100 | 35 | 66 | +€2,02 | 43,9% | 11 | 5 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R150 | 34 | 58 | +€4,66 | 32,8% | 7 | 6 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_6H | 34 | 68 | €-6,01 | 36,8% | 20 | 7 | READY_FOR_BLOCK4_EVALUATION |
+| ATR15_R100 | 34 | 65 | €-6,86 | 35,4% | 7 | 11 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R050 | 33 | 60 | €-5,55 | 26,7% | 15 | 5 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_12H | 29 | 63 | €-3,29 | 36,5% | 15 | 8 | PRELIMINARY_SAMPLE |
+| ATR20_R100 | 29 | 52 | €-6,95 | 32,7% | 2 | 8 | PRELIMINARY_SAMPLE |
+| ATR30_R100 | 29 | 50 | €-8,72 | 28,0% | 3 | 7 | PRELIMINARY_SAMPLE |
+| BE_R100 | 29 | 50 | €-9,00 | 28,0% | 2 | 8 | PRELIMINARY_SAMPLE |
+| TP_R200 | 28 | 51 | +€1,89 | 29,4% | 4 | 7 | PRELIMINARY_SAMPLE |
+| TIME_24H | 24 | 51 | €-8,25 | 33,3% | 9 | 8 | PRELIMINARY_SAMPLE |
 
 ## Come leggere il controllo
 
