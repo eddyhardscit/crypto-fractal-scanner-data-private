@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-20T06:20:21.758401+00:00",
-  "last_processed_candle": "2026-07-20T06:15:00+00:00",
+  "updated_utc": "2026-07-20T07:20:21.768078+00:00",
+  "last_processed_candle": "2026-07-20T07:15:00+00:00",
   "last_daily_status_date": "2026-07-19",
   "telegram_started_sent": true,
   "accounts": {
@@ -110,10 +110,33 @@
       "name": "RSI5_RSI25_10X",
       "label": "RSI 25 · leva 10×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3638.445424735177,
+      "balance_usdt": 3616.6147521867656,
       "peak_equity_usdt": 3852.1454489058024,
-      "max_drawdown_pct": 5.547558548998371,
-      "open_position": null,
+      "max_drawdown_pct": 6.435604263896757,
+      "open_position": {
+        "trade_id": "RSI5_RSI25_10X:DOGE:20260720T063500Z",
+        "account": "RSI5_RSI25_10X",
+        "account_label": "RSI 25 · leva 10×",
+        "book": "OPERATIONAL",
+        "direction": "LONG",
+        "asset": "DOGE",
+        "symbol": "DOGEUSDTM",
+        "rsi_trigger": 25.0,
+        "signal_rsi": 21.99701695697449,
+        "previous_rsi": 26.12002626264089,
+        "leverage": 10.0,
+        "opened_at": "2026-07-20T06:35:00+00:00",
+        "opened_candle_time": "2026-07-20T06:35:00+00:00",
+        "entry_price": 0.07130425800000001,
+        "stop_price": 0.07112599735500001,
+        "target_price": 0.07166077929,
+        "liquidation_price": 0.06453035349000001,
+        "margin_usdt": 3638.445424735177,
+        "notional_usdt": 36384.454247351765,
+        "quantity": 510270.42799255776,
+        "entry_fee_usdt": 21.83067254841106,
+        "max_holding_hours": 6.0
+      },
       "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 134.13940194139596,
@@ -160,10 +183,33 @@
       "name": "RSI5_RSI25_20X",
       "label": "RSI 25 · leva 20×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3467.947655144099,
+      "balance_usdt": 3426.3322832823696,
       "peak_equity_usdt": 3892.541127193803,
-      "max_drawdown_pct": 10.90787375587218,
-      "open_position": null,
+      "max_drawdown_pct": 12.583169380354848,
+      "open_position": {
+        "trade_id": "RSI5_RSI25_20X:DOGE:20260720T063500Z",
+        "account": "RSI5_RSI25_20X",
+        "account_label": "RSI 25 · leva 20×",
+        "book": "OPERATIONAL",
+        "direction": "LONG",
+        "asset": "DOGE",
+        "symbol": "DOGEUSDTM",
+        "rsi_trigger": 25.0,
+        "signal_rsi": 21.99701695697449,
+        "previous_rsi": 26.12002626264089,
+        "leverage": 20.0,
+        "opened_at": "2026-07-20T06:35:00+00:00",
+        "opened_candle_time": "2026-07-20T06:35:00+00:00",
+        "entry_price": 0.07130425800000001,
+        "stop_price": 0.07112599735500001,
+        "target_price": 0.07166077929,
+        "liquidation_price": 0.06809556639,
+        "margin_usdt": 3467.947655144099,
+        "notional_usdt": 69358.95310288198,
+        "quantity": 972718.2506110921,
+        "entry_fee_usdt": 41.61537186172918,
+        "max_holding_hours": 6.0
+      },
       "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 257.3974761053539,
@@ -499,6 +545,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": null
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     },
@@ -507,10 +558,33 @@
       "label": "RSI 25 · leva 5× · Wide",
       "direction": "LONG",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3787.684068658713,
+      "balance_usdt": 3776.321016452737,
       "peak_equity_usdt": 3833.1848348750514,
       "max_drawdown_pct": 2.8096803239874677,
-      "open_position": null,
+      "open_position": {
+        "trade_id": "RSI5_RSI25_5X_WIDE:DOGE:20260720T063500Z",
+        "account": "RSI5_RSI25_5X_WIDE",
+        "account_label": "RSI 25 · leva 5× · Wide",
+        "book": "OPERATIONAL",
+        "direction": "LONG",
+        "asset": "DOGE",
+        "symbol": "DOGEUSDTM",
+        "rsi_trigger": 25.0,
+        "signal_rsi": 21.99701695697449,
+        "previous_rsi": 26.12002626264089,
+        "leverage": 5.0,
+        "opened_at": "2026-07-20T06:35:00+00:00",
+        "opened_candle_time": "2026-07-20T06:35:00+00:00",
+        "entry_price": 0.07130425800000001,
+        "stop_price": 0.07094773671000001,
+        "target_price": 0.07201730058000001,
+        "liquidation_price": 0.057399927690000005,
+        "margin_usdt": 3787.684068658713,
+        "notional_usdt": 18938.420343293565,
+        "quantity": 265600.13208879565,
+        "entry_fee_usdt": 11.363052205976137,
+        "max_holding_hours": 6.0
+      },
       "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
@@ -545,6 +619,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TIME_EXIT"
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     },
@@ -591,6 +670,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "STOP"
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     },
@@ -637,6 +721,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "STOP"
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     }
@@ -746,7 +835,56 @@
       "label": "RSI 25 · leva 10×",
       "direction": "LONG",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
-      "open_positions": [],
+      "open_positions": [
+        {
+          "trade_id": "RSI5_RSI25_10X:DOGE:20260720T063500Z:SHADOW",
+          "account": "RSI5_RSI25_10X",
+          "account_label": "RSI 25 · leva 10×",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "DOGE",
+          "symbol": "DOGEUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 21.99701695697449,
+          "previous_rsi": 26.12002626264089,
+          "leverage": 10.0,
+          "opened_at": "2026-07-20T06:35:00+00:00",
+          "opened_candle_time": "2026-07-20T06:35:00+00:00",
+          "entry_price": 0.07130425800000001,
+          "stop_price": 0.07112599735500001,
+          "target_price": 0.07166077929,
+          "liquidation_price": 0.06453035349000001,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 38000.0,
+          "quantity": 532927.5006269611,
+          "entry_fee_usdt": 22.799999999999997,
+          "max_holding_hours": 6.0
+        },
+        {
+          "trade_id": "RSI5_RSI25_10X:BTC:20260720T064000Z:SHADOW",
+          "account": "RSI5_RSI25_10X",
+          "account_label": "RSI 25 · leva 10×",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "BTC",
+          "symbol": "XBTUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 22.607622167497695,
+          "previous_rsi": 26.419915166477864,
+          "leverage": 10.0,
+          "opened_at": "2026-07-20T06:40:00+00:00",
+          "opened_candle_time": "2026-07-20T06:40:00+00:00",
+          "entry_price": 63800.95763999999,
+          "stop_price": 63641.4552459,
+          "target_price": 64119.962428199986,
+          "liquidation_price": 57739.866664199995,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 38000.0,
+          "quantity": 0.5956023452565845,
+          "entry_fee_usdt": 22.799999999999997,
+          "max_holding_hours": 6.0
+        }
+      ],
       "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 139.58006583011496,
@@ -795,7 +933,56 @@
       "label": "RSI 25 · leva 20×",
       "direction": "LONG",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
-      "open_positions": [],
+      "open_positions": [
+        {
+          "trade_id": "RSI5_RSI25_20X:DOGE:20260720T063500Z:SHADOW",
+          "account": "RSI5_RSI25_20X",
+          "account_label": "RSI 25 · leva 20×",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "DOGE",
+          "symbol": "DOGEUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 21.99701695697449,
+          "previous_rsi": 26.12002626264089,
+          "leverage": 20.0,
+          "opened_at": "2026-07-20T06:35:00+00:00",
+          "opened_candle_time": "2026-07-20T06:35:00+00:00",
+          "entry_price": 0.07130425800000001,
+          "stop_price": 0.07112599735500001,
+          "target_price": 0.07166077929,
+          "liquidation_price": 0.06809556639,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 76000.0,
+          "quantity": 1065855.0012539222,
+          "entry_fee_usdt": 45.599999999999994,
+          "max_holding_hours": 6.0
+        },
+        {
+          "trade_id": "RSI5_RSI25_20X:BTC:20260720T064000Z:SHADOW",
+          "account": "RSI5_RSI25_20X",
+          "account_label": "RSI 25 · leva 20×",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "BTC",
+          "symbol": "XBTUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 22.607622167497695,
+          "previous_rsi": 26.419915166477864,
+          "leverage": 20.0,
+          "opened_at": "2026-07-20T06:40:00+00:00",
+          "opened_candle_time": "2026-07-20T06:40:00+00:00",
+          "entry_price": 63800.95763999999,
+          "stop_price": 63641.4552459,
+          "target_price": 64119.962428199986,
+          "liquidation_price": 60929.914546199994,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 76000.0,
+          "quantity": 1.191204690513169,
+          "entry_fee_usdt": 45.599999999999994,
+          "max_holding_hours": 6.0
+        }
+      ],
       "closed_trades": 3,
       "winning_trades": 1,
       "gross_profit_usdt": 279.1601316602299,
@@ -1176,6 +1363,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": null
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     },
@@ -1184,7 +1376,56 @@
       "label": "RSI 25 · leva 5× · Wide",
       "direction": "LONG",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "open_positions": [],
+      "open_positions": [
+        {
+          "trade_id": "RSI5_RSI25_5X_WIDE:DOGE:20260720T063500Z:SHADOW",
+          "account": "RSI5_RSI25_5X_WIDE",
+          "account_label": "RSI 25 · leva 5× · Wide",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "DOGE",
+          "symbol": "DOGEUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 21.99701695697449,
+          "previous_rsi": 26.12002626264089,
+          "leverage": 5.0,
+          "opened_at": "2026-07-20T06:35:00+00:00",
+          "opened_candle_time": "2026-07-20T06:35:00+00:00",
+          "entry_price": 0.07130425800000001,
+          "stop_price": 0.07094773671000001,
+          "target_price": 0.07201730058000001,
+          "liquidation_price": 0.057399927690000005,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 19000.0,
+          "quantity": 266463.75031348056,
+          "entry_fee_usdt": 11.399999999999999,
+          "max_holding_hours": 6.0
+        },
+        {
+          "trade_id": "RSI5_RSI25_5X_WIDE:BTC:20260720T064000Z:SHADOW",
+          "account": "RSI5_RSI25_5X_WIDE",
+          "account_label": "RSI 25 · leva 5× · Wide",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "BTC",
+          "symbol": "XBTUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 22.607622167497695,
+          "previous_rsi": 26.419915166477864,
+          "leverage": 5.0,
+          "opened_at": "2026-07-20T06:40:00+00:00",
+          "opened_candle_time": "2026-07-20T06:40:00+00:00",
+          "entry_price": 63800.95763999999,
+          "stop_price": 63481.95285179999,
+          "target_price": 64438.96721639999,
+          "liquidation_price": 51359.77090019999,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 19000.0,
+          "quantity": 0.29780117262829225,
+          "entry_fee_usdt": 11.399999999999999,
+          "max_holding_hours": 6.0
+        }
+      ],
       "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
@@ -1220,6 +1461,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TIME_EXIT"
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     },
@@ -1289,6 +1535,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TIME_EXIT"
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     },
@@ -1333,6 +1584,11 @@
           "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TIME_EXIT"
+        },
+        "DOGE": {
+          "needs_rearm": false,
+          "cooldown_until": null,
+          "last_close_reason": null
         }
       }
     }

@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-20T06:08:35+00:00
+Generato: 2026-07-20T07:08:35+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **743**
-- Valutazioni prodotte: **1234**
+- Risultati Block 3 disponibili: **941**
+- Valutazioni prodotte: **1495**
 - Candidature al Blocco 5: **0**
 - Mutazioni create automaticamente: **0**
 
@@ -15,26 +15,26 @@ Generato: 2026-07-20T06:08:35+00:00
 
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| GB20_R050 | 15 | 0,761 | 0,683 | 0,358 | 73,3% | 81,7 | INSUFFICIENT_DATA |
-| GB50_R050 | 15 | 0,653 | 0,606 | 0,282 | 73,3% | 81,7 | INSUFFICIENT_DATA |
-| GB30_R050 | 15 | 0,708 | 0,597 | 0,312 | 73,3% | 81,7 | INSUFFICIENT_DATA |
-| TP_R100 | 14 | 0,226 | 0,033 | 0,010 | 71,4% | 80,1 | INSUFFICIENT_DATA |
-| GB20_R100 | 14 | 0,211 | 0,033 | -0,008 | 71,4% | 78,9 | INSUFFICIENT_DATA |
-| TP_R050 | 15 | 0,708 | 0,500 | 0,328 | 73,3% | 77,9 | INSUFFICIENT_DATA |
-| GB40_R050 | 15 | 0,656 | 0,512 | 0,244 | 73,3% | 77,9 | INSUFFICIENT_DATA |
-| GB30_R100 | 14 | 0,177 | 0,033 | -0,024 | 71,4% | 76,5 | INSUFFICIENT_DATA |
-| TP_R150 | 11 | 0,061 | 0,033 | 0,016 | 63,6% | 75,8 | INSUFFICIENT_DATA |
-| TIME_12H | 10 | 0,067 | 0,033 | 0,017 | 70,0% | 73,2 | INSUFFICIENT_DATA |
-| TIME_24H | 10 | 0,067 | 0,033 | 0,017 | 70,0% | 73,2 | INSUFFICIENT_DATA |
-| TIME_6H | 10 | 0,067 | 0,033 | 0,017 | 70,0% | 73,2 | INSUFFICIENT_DATA |
-| TP_R200 | 10 | 0,067 | 0,033 | 0,017 | 70,0% | 73,2 | INSUFFICIENT_DATA |
-| GB40_R100 | 14 | 0,143 | 0,033 | -0,063 | 71,4% | 70,8 | INSUFFICIENT_DATA |
-| GB50_R100 | 14 | 0,109 | 0,033 | -0,098 | 71,4% | 65,6 | INSUFFICIENT_DATA |
-| ATR15_R100 | 13 | 0,051 | 0,033 | 0,010 | 53,8% | 62,7 | INSUFFICIENT_DATA |
-| ATR20_R100 | 13 | 0,051 | 0,033 | 0,012 | 53,8% | 62,7 | INSUFFICIENT_DATA |
-| ATR30_R100 | 13 | 0,051 | 0,033 | 0,012 | 53,8% | 62,7 | INSUFFICIENT_DATA |
-| BE_R100 | 13 | 0,051 | 0,033 | 0,010 | 53,8% | 62,7 | INSUFFICIENT_DATA |
-| BE_R050 | 14 | 0,473 | 0,214 | 0,218 | 50,0% | 58,7 | INSUFFICIENT_DATA |
+| GB20_R050 | 22 | 0,585 | 0,417 | 0,251 | 54,5% | 72,8 | INSUFFICIENT_DATA |
+| GB50_R050 | 22 | 0,504 | 0,330 | 0,212 | 54,5% | 72,8 | INSUFFICIENT_DATA |
+| GB30_R050 | 22 | 0,547 | 0,388 | 0,272 | 54,5% | 72,8 | INSUFFICIENT_DATA |
+| TP_R050 | 22 | 0,551 | 0,436 | 0,233 | 54,5% | 69,0 | INSUFFICIENT_DATA |
+| GB40_R050 | 22 | 0,508 | 0,359 | 0,226 | 54,5% | 69,0 | INSUFFICIENT_DATA |
+| BE_R050 | 21 | 0,363 | 0,000 | 0,164 | 38,1% | 54,1 | INSUFFICIENT_DATA |
+| TP_R100 | 22 | 0,096 | 0,000 | -0,089 | 45,5% | 39,6 | INSUFFICIENT_DATA |
+| GB20_R100 | 22 | 0,086 | 0,000 | -0,096 | 45,5% | 34,7 | INSUFFICIENT_DATA |
+| GB30_R100 | 22 | 0,065 | 0,000 | -0,106 | 45,5% | 34,2 | INSUFFICIENT_DATA |
+| GB40_R100 | 22 | 0,043 | 0,000 | -0,124 | 45,5% | 33,7 | INSUFFICIENT_DATA |
+| TP_R200 | 4 | 0,075 | 0,000 | -0,150 | 25,0% | 28,3 | INSUFFICIENT_DATA |
+| GB50_R100 | 22 | 0,022 | 0,000 | -0,151 | 45,5% | 26,6 | INSUFFICIENT_DATA |
+| TIME_24H | 1 | 0,000 | 0,000 | 0,000 | 0,0% | 25,2 | INSUFFICIENT_DATA |
+| TP_R150 | 19 | -0,020 | 0,000 | -0,156 | 36,8% | 16,3 | INSUFFICIENT_DATA |
+| ATR15_R100 | 21 | -0,018 | 0,000 | -0,139 | 33,3% | 12,9 | INSUFFICIENT_DATA |
+| ATR20_R100 | 21 | -0,018 | 0,000 | -0,144 | 33,3% | 12,9 | INSUFFICIENT_DATA |
+| ATR30_R100 | 21 | -0,018 | 0,000 | -0,135 | 33,3% | 12,9 | INSUFFICIENT_DATA |
+| BE_R100 | 21 | -0,018 | 0,000 | -0,138 | 33,3% | 12,9 | INSUFFICIENT_DATA |
+| TIME_12H | 18 | -0,021 | 0,000 | -0,171 | 38,9% | 12,3 | INSUFFICIENT_DATA |
+| TIME_24H | 18 | -0,021 | 0,000 | -0,166 | 38,9% | 12,3 | INSUFFICIENT_DATA |
 
 ## Stati di evidenza
 
