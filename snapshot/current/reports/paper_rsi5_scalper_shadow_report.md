@@ -1,6 +1,6 @@
 # RSI 5m — registro statistico silenzioso
 
-Generato: 2026-07-21T09:45:22.001089+00:00
+Generato: 2026-07-21T10:45:21.787903+00:00
 
 > Apre virtualmente ogni segnale valido anche quando il conto operativo è occupato.
 > Nessuna notifica Telegram. Ogni trade usa una simulazione indipendente da 3.800 USDT.
@@ -16,6 +16,6 @@ Generato: 2026-07-21T09:45:22.001089+00:00
 | SHORT RSI 70 · leva 10× | SHORT | 70 | 10× | 67 | 38.8% | -1987.51 | 0.66 | 0 |
 | SHORT RSI 70 · leva 20× | SHORT | 70 | 20× | 67 | 38.8% | -3975.02 | 0.66 | 0 |
 | SHORT RSI 70 · leva 5× · Wide | SHORT | 70 | 5× | 47 | 29.8% | -1950.34 | 0.49 | 0 |
-| SHORT RSI 75 · leva 10× | SHORT | 75 | 10× | 27 | 37.0% | -794.39 | 0.68 | 1 |
-| SHORT RSI 75 · leva 20× | SHORT | 75 | 20× | 27 | 37.0% | -1588.79 | 0.68 | 1 |
+| SHORT RSI 75 · leva 10× | SHORT | 75 | 10× | 28 | 35.7% | -942.67 | 0.65 | 0 |
+| SHORT RSI 75 · leva 20× | SHORT | 75 | 20× | 28 | 35.7% | -1885.35 | 0.65 | 0 |
 | SHORT RSI 75 · leva 5× · Wide | SHORT | 75 | 5× | 24 | 37.5% | -642.83 | 0.62 | 1 |
