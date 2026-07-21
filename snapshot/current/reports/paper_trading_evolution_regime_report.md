@@ -1,12 +1,12 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-21T03:38:38+00:00
+Generato: 2026-07-21T04:38:38+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
 ## Stato
 
-- Regime corrente: **HIGH_VOLATILITY**
+- Regime corrente: **UNKNOWN**
 - Righe di performance: **162**
 - Strategie preferite nel regime corrente: **0**
 - Strategie da evitare nel regime corrente: **0**
@@ -17,16 +17,16 @@ Generato: 2026-07-21T03:38:38+00:00
 
 | Rank | Portafoglio | Famiglia | Stato | Fitness | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_BOLLINGER_MR_1H | shadow-bollinger-mr-1h | INSUFFICIENT | 70.6 | 2 | 13.28 | 0.660 | 0.11 |
-| 2 | SHADOW_SCANNER_TOP5_BTC | shadow-scanner-top5-btc | INSUFFICIENT | 70.6 | 2 | 14.73 | 1.019 | 0.15 |
-| 3 | SHADOW_COMBO_TREND | shadow-combo-trend | INSUFFICIENT | 57.3 | 3 | 1.79 | 0.322 | 1.22 |
-| 4 | SHADOW_COMBO_SCANNER | shadow-combo-scanner | INSUFFICIENT | 55.4 | 3 | 1.72 | 0.304 | 1.27 |
-| 5 | SHADOW_SCANNER_TOP5_LONG | shadow-scanner-top5-long | INSUFFICIENT | 50.6 | 5 | 1.65 | 0.166 | 1.12 |
-| 6 | SHADOW_RELATIVE_STRENGTH | shadow-relative-strength | INSUFFICIENT | 47.2 | 5 | 1.60 | 0.164 | 1.22 |
-| 7 | SHADOW_1H_FAST_V3 | shadow-1h-fast-v3 | INSUFFICIENT | 25.1 | 8 | 0.72 | -0.157 | 2.31 |
-| 8 | SHADOW_COMBO_ADAPTIVE | shadow-combo-adaptive | INSUFFICIENT | 17.1 | 1 | 0.00 | -0.155 | 0.15 |
-| 9 | SHADOW_1H_BALANCED_V3 | shadow-1h-balanced-v3 | INSUFFICIENT | 16.1 | 4 | 0.61 | -0.310 | 2.16 |
-| 10 | SHADOW_EMA_TREND_1H | shadow-ema-trend-1h | INSUFFICIENT | 13.8 | 1 | 0.00 | -1.057 | 1.06 |
+| 1 | SHADOW_DONCHIAN_1H | shadow-donchian-1h | INSUFFICIENT | 80.8 | 2 | 99.00 | 1.422 | 0.00 |
+| 2 | SHADOW_EMA_TREND_1H | shadow-ema-trend-1h | INSUFFICIENT | 80.4 | 1 | 99.00 | 2.187 | 0.00 |
+| 3 | SHADOW_COMBO_MEAN_REVERSION | shadow-combo-mean-reversion | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.479 | 0.00 |
+| 4 | SHADOW_1H_BALANCED | shadow-1h-balanced | INSUFFICIENT | 79.1 | 8 | 4.76 | 0.528 | 1.05 |
+| 5 | SHADOW_RELATIVE_STRENGTH_V2 | shadow-relative-strength-v2 | INSUFFICIENT | 75.4 | 3 | 3.95 | 1.068 | 1.09 |
+| 6 | SHADOW_1H_BALANCED_V3 | shadow-1h-balanced-v3 | INSUFFICIENT | 72.9 | 5 | 3.25 | 0.489 | 1.09 |
+| 7 | SHADOW_1H_FAST_V3 | shadow-1h-fast-v3 | INSUFFICIENT | 63.1 | 8 | 1.61 | 0.252 | 2.27 |
+| 8 | SHADOW_RELATIVE_STRENGTH | shadow-relative-strength | INSUFFICIENT | 54.3 | 7 | 1.65 | 0.155 | 1.05 |
+| 9 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | shadow-combo-adaptive-mfe-trail | INSUFFICIENT | 47.0 | 7 | 1.25 | 0.071 | 2.03 |
+| 10 | SHADOW_1H_FAST | shadow-1h-fast | INSUFFICIENT | 24.0 | 8 | 0.70 | -0.129 | 2.36 |
 
 ## Sicurezza
 
