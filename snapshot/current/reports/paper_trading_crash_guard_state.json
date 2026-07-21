@@ -31,8 +31,8 @@
   "schema_version": 1,
   "seen_blocked_signal_ids": [
     "9fb3160cf223ef7ce49b",
-    "8c6b182f021d7ed83e03",
     "9f50309c0d7735516f75",
+    "8c6b182f021d7ed83e03",
     "62a0b45c7b8086e1533b"
   ],
   "totals": {
@@ -42,5 +42,5 @@
     "guard_value_r": 3.030000000000003,
     "missed_profit_r": 0.0
   },
-  "updated_utc": "2026-07-20T23:38:31+00:00"
+  "updated_utc": "2026-07-21T00:38:31+00:00"
 }
