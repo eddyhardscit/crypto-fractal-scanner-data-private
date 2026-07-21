@@ -4,11 +4,11 @@
   "categories": {
     "ALL_TIME": [
       {
-        "closed_trades": 41,
+        "closed_trades": 42,
         "evolution_score": 8.69,
-        "expectancy_r": -0.0027078994766465934,
+        "expectancy_r": -0.0028846518856407016,
         "family_id": "shadow-1h-fast-v3",
-        "generated_utc": "2026-07-21T19:53:45+00:00",
+        "generated_utc": "2026-07-21T20:53:45+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -17,20 +17,20 @@
         "max_drawdown_r": 5.362639831345571,
         "portfolio": "SHADOW_1H_FAST_V3",
         "post_promotion_status": "",
-        "profit_factor": 0.9937632920156352,
+        "profit_factor": 0.9931980315110441,
         "record_kind": "PAPER_PORTFOLIO",
         "source_evidence_score": 0,
         "strategy_id": "portfolio-64f18e5c18eb6ebf4e08",
         "validation_score": 0.0,
         "validation_status": "",
-        "win_rate": 0.36585365853658536
+        "win_rate": 0.35714285714285715
       },
       {
-        "closed_trades": 49,
-        "evolution_score": 6.55,
-        "expectancy_r": -0.03632393053589003,
+        "closed_trades": 50,
+        "evolution_score": 6.6,
+        "expectancy_r": -0.03809723763945786,
         "family_id": "shadow-1h-fast",
-        "generated_utc": "2026-07-21T19:53:45+00:00",
+        "generated_utc": "2026-07-21T20:53:45+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -39,22 +39,22 @@
         "max_drawdown_r": 11.237779068406809,
         "portfolio": "SHADOW_1H_FAST",
         "post_promotion_status": "",
-        "profit_factor": 0.9246912053578432,
+        "profit_factor": 0.9198267346302551,
         "record_kind": "PAPER_PORTFOLIO",
         "source_evidence_score": 0,
         "strategy_id": "portfolio-0a0a90ccde67415644d5",
         "validation_score": 0.0,
         "validation_status": "",
-        "win_rate": 0.3469387755102041
+        "win_rate": 0.34
       }
     ],
     "BASELINE": [
       {
-        "closed_trades": 41,
+        "closed_trades": 42,
         "evolution_score": 8.69,
-        "expectancy_r": -0.0027078994766465934,
+        "expectancy_r": -0.0028846518856407016,
         "family_id": "shadow-1h-fast-v3",
-        "generated_utc": "2026-07-21T19:53:45+00:00",
+        "generated_utc": "2026-07-21T20:53:45+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -63,20 +63,20 @@
         "max_drawdown_r": 5.362639831345571,
         "portfolio": "SHADOW_1H_FAST_V3",
         "post_promotion_status": "",
-        "profit_factor": 0.9937632920156352,
+        "profit_factor": 0.9931980315110441,
         "record_kind": "PAPER_PORTFOLIO",
         "source_evidence_score": 0,
         "strategy_id": "portfolio-64f18e5c18eb6ebf4e08",
         "validation_score": 0.0,
         "validation_status": "",
-        "win_rate": 0.36585365853658536
+        "win_rate": 0.35714285714285715
       },
       {
-        "closed_trades": 49,
-        "evolution_score": 6.55,
-        "expectancy_r": -0.03632393053589003,
+        "closed_trades": 50,
+        "evolution_score": 6.6,
+        "expectancy_r": -0.03809723763945786,
         "family_id": "shadow-1h-fast",
-        "generated_utc": "2026-07-21T19:53:45+00:00",
+        "generated_utc": "2026-07-21T20:53:45+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -85,13 +85,13 @@
         "max_drawdown_r": 11.237779068406809,
         "portfolio": "SHADOW_1H_FAST",
         "post_promotion_status": "",
-        "profit_factor": 0.9246912053578432,
+        "profit_factor": 0.9198267346302551,
         "record_kind": "PAPER_PORTFOLIO",
         "source_evidence_score": 0,
         "strategy_id": "portfolio-0a0a90ccde67415644d5",
         "validation_score": 0.0,
         "validation_status": "",
-        "win_rate": 0.3469387755102041
+        "win_rate": 0.34
       }
     ],
     "CANDIDATE": [],
@@ -99,7 +99,7 @@
     "MASTER": []
   },
   "engine_version": "block9-evolution-memory-v1",
-  "generated_utc": "2026-07-21T19:53:45+00:00",
+  "generated_utc": "2026-07-21T20:53:45+00:00",
   "live_modified": false,
   "orders_sent": false,
   "paper_only": true,
