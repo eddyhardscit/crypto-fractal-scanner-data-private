@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-21T01:38:37+00:00
+Generato: 2026-07-21T02:38:36+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **151**
-- Scenari virtuali ancora attivi: **1873**
-- Gruppi in attesa dell'uscita originale: **104**
-- Gruppi con originale chiuso ma Shadow ancora attive: **47**
-- Confronti completati: **2335**
+- Gruppi di trade ancora monitorati: **152**
+- Scenari virtuali ancora attivi: **1896**
+- Gruppi in attesa dell'uscita originale: **106**
+- Gruppi con originale chiuso ma Shadow ancora attive: **46**
+- Confronti completati: **2337**
 
 ## Classifica osservativa complessiva
 
@@ -22,10 +22,10 @@ Generato: 2026-07-21T01:38:37+00:00
 | GB50_R050 | 87 | 124 | +€3,96 | 42,7% | 22 | 7 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R050 | 87 | 124 | +€3,74 | 46,0% | 25 | 0 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_6H | 87 | 131 | €-2,58 | 39,7% | 26 | 11 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_12H | 84 | 128 | +€2,87 | 37,5% | 18 | 15 | READY_FOR_BLOCK4_EVALUATION |
 | GB20_R100 | 83 | 120 | +€7,98 | 39,2% | 23 | 2 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R100 | 83 | 120 | +€5,29 | 40,0% | 22 | 2 | READY_FOR_BLOCK4_EVALUATION |
 | GB30_R100 | 83 | 120 | +€4,85 | 38,3% | 23 | 3 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_12H | 83 | 127 | +€2,77 | 37,0% | 18 | 15 | READY_FOR_BLOCK4_EVALUATION |
 | GB40_R100 | 83 | 120 | +€1,83 | 38,3% | 20 | 5 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R100 | 83 | 120 | +€0,40 | 35,8% | 13 | 16 | READY_FOR_BLOCK4_EVALUATION |
 | ATR15_R100 | 81 | 118 | €-7,73 | 30,5% | 7 | 24 | READY_FOR_BLOCK4_EVALUATION |
@@ -35,7 +35,7 @@ Generato: 2026-07-21T01:38:37+00:00
 | ATR20_R100 | 67 | 101 | €-5,12 | 29,7% | 4 | 15 | READY_FOR_BLOCK4_EVALUATION |
 | ATR30_R100 | 66 | 99 | €-7,16 | 22,2% | 3 | 21 | READY_FOR_BLOCK4_EVALUATION |
 | BE_R100 | 66 | 99 | €-7,57 | 22,2% | 2 | 22 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_24H | 61 | 105 | +€2,90 | 30,5% | 11 | 14 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_24H | 62 | 106 | +€3,87 | 31,1% | 11 | 14 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
