@@ -1,6 +1,6 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-21T00:38:38+00:00
+Generato: 2026-07-21T01:38:38+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
@@ -17,7 +17,7 @@ Generato: 2026-07-21T00:38:38+00:00
 
 | Rank | Portafoglio | Famiglia | Stato | Fitness | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_BOLLINGER_MR_1H | shadow-bollinger-mr-1h | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.427 | 0.00 |
+| 1 | SHADOW_BOLLINGER_MR_1H | shadow-bollinger-mr-1h | INSUFFICIENT | 70.6 | 2 | 13.28 | 0.660 | 0.11 |
 | 2 | SHADOW_SCANNER_TOP5_BTC | shadow-scanner-top5-btc | INSUFFICIENT | 70.6 | 2 | 14.73 | 1.019 | 0.15 |
 | 3 | SHADOW_COMBO_TREND | shadow-combo-trend | INSUFFICIENT | 57.3 | 3 | 1.79 | 0.322 | 1.22 |
 | 4 | SHADOW_COMBO_SCANNER | shadow-combo-scanner | INSUFFICIENT | 55.4 | 3 | 1.72 | 0.304 | 1.27 |
