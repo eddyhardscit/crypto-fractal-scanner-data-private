@@ -1,16 +1,16 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-21T06:42:21+00:00
+Generato: 2026-07-21T07:42:31+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **562**
-- Trade Shadow/Research chiusi: **1205**
-- Eventi Shadow già presi dai Paper: **380**
-- Eventi Shadow saltati dai Paper: **825**
-- Profili con filtro Paper utile: **3**
+- Trade Paper chiusi nei conti confrontati: **563**
+- Trade Shadow/Research chiusi: **1207**
+- Eventi Shadow già presi dai Paper: **381**
+- Eventi Shadow saltati dai Paper: **826**
+- Profili con filtro Paper utile: **4**
 - Profili in cui il Paper potrebbe scartare edge: **5**
 - Profili con campione ancora insufficiente: **72**
 
@@ -32,13 +32,13 @@ Generato: 2026-07-21T06:42:21+00:00
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 17 | 39 | 11 | 28 | 0,51R | 0,45R | +0,05R | 0,45R | -0,05R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_SCANNER | Combo Scanner | 18 | 36 | 8 | 28 | -0,24R | 0,68R | -0,92R | -0,04R | +0,20R | PAPER SCARTA EDGE |
 | MAIN | Principale 4H | 16 | 32 | 12 | 20 | -0,03R | 0,03R | -0,05R | -0,12R | -0,09R | NESSUN EDGE CHIARO |
-| SHADOW_4H_WIDE | Ampia 4H | 11 | 31 | 9 | 22 | 0,25R | -0,16R | +0,41R | 0,26R | +0,01R | FILTRO PAPER UTILE |
+| SHADOW_4H_WIDE | Ampia 4H | 12 | 31 | 9 | 22 | 0,25R | -0,16R | +0,41R | 0,15R | -0,09R | FILTRO PAPER UTILE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 23 | 30 | 16 | 14 | 0,27R | 0,24R | +0,03R | 0,11R | -0,15R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 21 | 29 | 10 | 19 | -0,45R | 0,70R | -1,14R | -0,29R | +0,16R | PAPER SCARTA EDGE |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 15 | 25 | 9 | 16 | 0,12R | -0,41R | +0,53R | 0,21R | +0,10R | FILTRO PAPER UTILE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 18 | 23 | 13 | 10 | 0,70R | -0,07R | +0,76R | 0,19R | -0,51R | FILTRO PAPER UTILE |
-| SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 15 | 22 | 14 | 8 | -0,01R | -0,44R | +0,44R | 0,21R | +0,22R | SELEZIONE POSITIVA |
-| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 12 | 22 | 9 | 13 | -0,61R | -0,17R | -0,44R | -0,31R | +0,30R | SELEZIONE DA RIVEDERE |
+| SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 15 | 23 | 15 | 8 | 0,09R | -0,44R | +0,54R | 0,21R | +0,12R | FILTRO PAPER UTILE |
+| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 12 | 23 | 9 | 14 | -0,61R | -0,16R | -0,45R | -0,31R | +0,30R | SELEZIONE DA RIVEDERE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 16 | 19 | 10 | 9 | 0,15R | 0,61R | -0,46R | -0,08R | -0,24R | PAPER SCARTA EDGE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 7 | 8 | 6 | 2 | 0,23R | 1,54R | -1,31R | 0,56R | +0,34R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 4 | 5 | 4 | 1 | -0,34R | -1,40R | +1,06R | -0,45R | -0,10R | CAMPIONE INSUFFICIENTE |

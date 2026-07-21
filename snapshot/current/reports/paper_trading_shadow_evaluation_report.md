@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-21T06:38:40+00:00
+Generato: 2026-07-21T07:38:41+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **3008**
-- Valutazioni prodotte: **2359**
+- Risultati Block 3 disponibili: **3035**
+- Valutazioni prodotte: **2360**
 - Candidature al Blocco 5: **0**
 - Mutazioni create automaticamente: **0**
 
@@ -30,11 +30,11 @@ Generato: 2026-07-21T06:38:40+00:00
 | GB30_R100 | 111 | 0,071 | 0,000 | -0,042 | 42,3% | 62,9 | VALIDATING |
 | TP_R200 | 106 | 0,046 | 0,000 | -0,056 | 35,8% | 60,4 | VALIDATING |
 | TP_R200 | 6 | 0,472 | 0,250 | -0,017 | 50,0% | 58,7 | INSUFFICIENT_DATA |
+| TIME_24H | 96 | 0,042 | 0,000 | -0,100 | 36,5% | 47,4 | VALIDATING |
 | BE_R050 | 106 | 0,014 | 0,000 | -0,122 | 39,6% | 40,7 | VALIDATING |
 | TP_R150 | 111 | -0,001 | 0,000 | -0,102 | 32,4% | 39,4 | VALIDATING |
-| ATR20_R100 | 102 | -0,099 | 0,000 | -0,209 | 37,3% | 38,8 | VALIDATING |
-| ATR15_R100 | 102 | -0,060 | 0,000 | -0,144 | 38,2% | 38,2 | VALIDATING |
-| TIME_24H | 93 | -0,020 | 0,000 | -0,144 | 34,4% | 33,1 | VALIDATING |
+| ATR20_R100 | 103 | -0,093 | 0,000 | -0,210 | 37,9% | 38,9 | VALIDATING |
+| ATR15_R100 | 103 | -0,051 | 0,000 | -0,133 | 38,8% | 38,5 | VALIDATING |
 
 ## Stati di evidenza
 
