@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-21T10:45:21.787903+00:00",
+  "generated_utc": "2026-07-21T11:50:21.827976+00:00",
   "strategy": "RSI 5m Long Short Fixed TP Scalper",
   "paper_only": true,
   "reinvest_profits": false,
   "sizing_mode": "INITIAL_CAPITAL_CAPPED",
-  "last_processed_candle": "2026-07-21T10:40:00+00:00",
+  "last_processed_candle": "2026-07-21T11:45:00+00:00",
   "accounts": [
     {
       "account": "RSI5_RSI20_10X",
@@ -57,14 +57,37 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 10.0,
-      "balance_usdt": 4041.4890463693723,
-      "equity_usdt": 4041.4890463693723,
+      "balance_usdt": 4018.689046369372,
+      "equity_usdt": 4154.850958037142,
       "closed_trades": 6,
       "winning_trades": 4,
       "win_rate_pct": 66.66666666666666,
       "profit_factor": 1.8166857122049365,
       "max_drawdown_pct": 6.435604263896757,
-      "open_position": null
+      "open_position": {
+        "trade_id": "RSI5_RSI25_10X:SUI:20260721T112500Z",
+        "account": "RSI5_RSI25_10X",
+        "account_label": "RSI 25 · leva 10×",
+        "book": "OPERATIONAL",
+        "direction": "LONG",
+        "asset": "SUI",
+        "symbol": "SUIUSDTM",
+        "rsi_trigger": 25.0,
+        "signal_rsi": 24.787499518692073,
+        "previous_rsi": 26.049421538200505,
+        "leverage": 10.0,
+        "opened_at": "2026-07-21T11:25:00+00:00",
+        "opened_candle_time": "2026-07-21T11:25:00+00:00",
+        "entry_price": 0.76655328,
+        "stop_price": 0.7646368968,
+        "target_price": 0.7703860464,
+        "liquidation_price": 0.6937307184,
+        "margin_usdt": 3800.0,
+        "notional_usdt": 38000.0,
+        "quantity": 49572.54895576208,
+        "entry_fee_usdt": 22.799999999999997,
+        "max_holding_hours": 6.0
+      }
     },
     {
       "account": "RSI5_RSI25_20X",
@@ -72,14 +95,37 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 20.0,
-      "balance_usdt": 4258.038256118775,
-      "equity_usdt": 4258.038256118775,
+      "balance_usdt": 4212.438256118775,
+      "equity_usdt": 4484.7620794543145,
       "closed_trades": 6,
       "winning_trades": 4,
       "win_rate_pct": 66.66666666666666,
       "profit_factor": 1.7770606416875683,
       "max_drawdown_pct": 12.583169380354848,
-      "open_position": null
+      "open_position": {
+        "trade_id": "RSI5_RSI25_20X:SUI:20260721T112500Z",
+        "account": "RSI5_RSI25_20X",
+        "account_label": "RSI 25 · leva 20×",
+        "book": "OPERATIONAL",
+        "direction": "LONG",
+        "asset": "SUI",
+        "symbol": "SUIUSDTM",
+        "rsi_trigger": 25.0,
+        "signal_rsi": 24.787499518692073,
+        "previous_rsi": 26.049421538200505,
+        "leverage": 20.0,
+        "opened_at": "2026-07-21T11:25:00+00:00",
+        "opened_candle_time": "2026-07-21T11:25:00+00:00",
+        "entry_price": 0.76655328,
+        "stop_price": 0.7646368968,
+        "target_price": 0.7703860464,
+        "liquidation_price": 0.7320583824,
+        "margin_usdt": 3800.0,
+        "notional_usdt": 76000.0,
+        "quantity": 99145.09791152416,
+        "entry_fee_usdt": 45.599999999999994,
+        "max_holding_hours": 6.0
+      }
     },
     {
       "account": "RSI5_RSI25_5X_WIDE",
@@ -87,14 +133,37 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 5.0,
-      "balance_usdt": 4065.530633103001,
-      "equity_usdt": 4065.530633103001,
+      "balance_usdt": 4054.130633103001,
+      "equity_usdt": 4122.211588936886,
       "closed_trades": 3,
       "winning_trades": 2,
       "win_rate_pct": 66.66666666666666,
       "profit_factor": 22.559931258536036,
       "max_drawdown_pct": 3.748833043496538,
-      "open_position": null
+      "open_position": {
+        "trade_id": "RSI5_RSI25_5X_WIDE:SUI:20260721T112500Z",
+        "account": "RSI5_RSI25_5X_WIDE",
+        "account_label": "RSI 25 · leva 5× · Wide",
+        "book": "OPERATIONAL",
+        "direction": "LONG",
+        "asset": "SUI",
+        "symbol": "SUIUSDTM",
+        "rsi_trigger": 25.0,
+        "signal_rsi": 24.787499518692073,
+        "previous_rsi": 26.049421538200505,
+        "leverage": 5.0,
+        "opened_at": "2026-07-21T11:25:00+00:00",
+        "opened_candle_time": "2026-07-21T11:25:00+00:00",
+        "entry_price": 0.76655328,
+        "stop_price": 0.7627205136,
+        "target_price": 0.7742188128,
+        "liquidation_price": 0.6170753903999999,
+        "margin_usdt": 3800.0,
+        "notional_usdt": 19000.0,
+        "quantity": 24786.27447788104,
+        "entry_fee_usdt": 11.399999999999999,
+        "max_holding_hours": 6.0
+      }
     },
     {
       "account": "RSI5_SHORT_RSI70_10X",
@@ -133,7 +202,7 @@
       "rsi_trigger": 70.0,
       "leverage": 5.0,
       "balance_usdt": 3294.4862480832444,
-      "equity_usdt": 3282.1902723404146,
+      "equity_usdt": 3250.7220688453117,
       "closed_trades": 18,
       "winning_trades": 7,
       "win_rate_pct": 38.88888888888889,
@@ -200,37 +269,14 @@
       "direction": "SHORT",
       "rsi_trigger": 75.0,
       "leverage": 5.0,
-      "balance_usdt": 3631.996464733425,
-      "equity_usdt": 3721.8660570469256,
-      "closed_trades": 10,
-      "winning_trades": 4,
-      "win_rate_pct": 40.0,
-      "profit_factor": 0.7446701957275672,
+      "balance_usdt": 3716.819035723264,
+      "equity_usdt": 3716.819035723264,
+      "closed_trades": 11,
+      "winning_trades": 5,
+      "win_rate_pct": 45.45454545454545,
+      "profit_factor": 0.8647868098638835,
       "max_drawdown_pct": 10.994200046971512,
-      "open_position": {
-        "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:XRP:20260721T050000Z",
-        "account": "RSI5_SHORT_RSI75_5X_WIDE",
-        "account_label": "SHORT RSI 75 · leva 5× · Wide",
-        "book": "OPERATIONAL",
-        "direction": "SHORT",
-        "asset": "XRP",
-        "symbol": "XRPUSDTM",
-        "rsi_trigger": 75.0,
-        "signal_rsi": 80.08073205850089,
-        "previous_rsi": 63.665744487751674,
-        "leverage": 5.0,
-        "opened_at": "2026-07-21T05:00:00+00:00",
-        "opened_candle_time": "2026-07-21T05:00:00+00:00",
-        "entry_price": 1.13752245,
-        "stop_price": 1.1432100622499999,
-        "target_price": 1.1261472255,
-        "liquidation_price": 1.35933932775,
-        "margin_usdt": 3642.925240454789,
-        "notional_usdt": 18214.626202273947,
-        "quantity": 16012.542172045874,
-        "entry_fee_usdt": 10.928775721364367,
-        "max_holding_hours": 6.0
-      }
+      "open_position": null
     }
   ],
   "shadow_accounts": [
@@ -284,7 +330,7 @@
       "win_rate_pct": 71.42857142857143,
       "net_pnl_usdt": 389.9514942300975,
       "profit_factor": 2.3163412723458876,
-      "open_positions": 0
+      "open_positions": 1
     },
     {
       "account": "RSI5_RSI25_20X",
@@ -297,7 +343,7 @@
       "win_rate_pct": 71.42857142857143,
       "net_pnl_usdt": 779.902988460195,
       "profit_factor": 2.3163412723458876,
-      "open_positions": 0
+      "open_positions": 1
     },
     {
       "account": "RSI5_RSI25_5X_WIDE",
@@ -310,7 +356,7 @@
       "win_rate_pct": 80.0,
       "net_pnl_usdt": 592.5603385768749,
       "profit_factor": 49.11331941989736,
-      "open_positions": 0
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI70_10X",
@@ -395,70 +441,70 @@
     {
       "asset": "DOGE",
       "symbol": "DOGEUSDTM",
-      "price": 0.07356,
-      "rsi": 50.9873958041597,
-      "turnover_24h_usdt": 23160681.684,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 0.0737,
+      "rsi": 58.30862786725235,
+      "turnover_24h_usdt": 22467847.354,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "SOL",
       "symbol": "SOLUSDTM",
-      "price": 78.232,
-      "rsi": 38.541715040874365,
-      "turnover_24h_usdt": 112203322.9442,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 78.371,
+      "rsi": 58.9848726236325,
+      "turnover_24h_usdt": 104449581.5142,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "XRP",
       "symbol": "XRPUSDTM",
-      "price": 1.13191,
-      "rsi": 40.802046957322865,
-      "turnover_24h_usdt": 33541571.6914,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 1.13656,
+      "rsi": 67.15986252313175,
+      "turnover_24h_usdt": 32507334.7134,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "ADA",
       "symbol": "ADAUSDTM",
-      "price": 0.17486,
-      "rsi": 47.990133481767955,
-      "turnover_24h_usdt": 19411692.8484,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 0.17478,
+      "rsi": 52.088789899054255,
+      "turnover_24h_usdt": 19274660.2492,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "SUI",
       "symbol": "SUIUSDTM",
-      "price": 0.7722,
-      "rsi": 43.088708381387136,
-      "turnover_24h_usdt": 10290587.164,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 0.7693,
+      "rsi": 43.58450938127142,
+      "turnover_24h_usdt": 10172493.4264,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "HYPE",
       "symbol": "HYPEUSDTM",
-      "price": 62.892,
-      "rsi": 34.16183525936721,
-      "turnover_24h_usdt": 20728242.9096,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 62.896,
+      "rsi": 50.18695710877921,
+      "turnover_24h_usdt": 16921249.3144,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "ETH",
       "symbol": "ETHUSDTM",
-      "price": 1938.65,
-      "rsi": 45.71064230347114,
-      "turnover_24h_usdt": 666081616.5996,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 1935.56,
+      "rsi": 52.85327777768171,
+      "turnover_24h_usdt": 651425255.6252,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     },
     {
       "asset": "BTC",
       "symbol": "XBTUSDTM",
-      "price": 66300.6,
-      "rsi": 60.79090188595838,
-      "turnover_24h_usdt": 666974419.3304,
-      "candle_time": "2026-07-21T10:40:00+00:00"
+      "price": 66298.2,
+      "rsi": 61.24407166269643,
+      "turnover_24h_usdt": 650590210.3794,
+      "candle_time": "2026-07-21T11:45:00+00:00"
     }
   ],
   "warnings": [
-    "AVAX: turnover 24h 6,545,509 USDT sotto il minimo",
-    "LINK: turnover 24h 7,014,964 USDT sotto il minimo"
+    "AVAX: turnover 24h 6,382,205 USDT sotto il minimo",
+    "LINK: turnover 24h 6,704,450 USDT sotto il minimo"
   ]
 }
