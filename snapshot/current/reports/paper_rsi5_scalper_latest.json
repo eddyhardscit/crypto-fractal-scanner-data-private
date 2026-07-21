@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-21T22:00:21.818126+00:00",
+  "generated_utc": "2026-07-21T23:00:21.739171+00:00",
   "strategy": "RSI 5m Long Short Fixed TP Scalper",
   "paper_only": true,
   "reinvest_profits": false,
   "sizing_mode": "INITIAL_CAPITAL_CAPPED",
-  "last_processed_candle": "2026-07-21T21:55:00+00:00",
+  "last_processed_candle": "2026-07-21T22:55:00+00:00",
   "accounts": [
     {
       "account": "RSI5_RSI20_10X",
@@ -307,7 +307,7 @@
       "win_rate_pct": 62.5,
       "net_pnl_usdt": 241.83204283009974,
       "profit_factor": 1.5442275148972606,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_RSI25_20X",
@@ -320,7 +320,7 @@
       "win_rate_pct": 62.5,
       "net_pnl_usdt": 483.6640856601995,
       "profit_factor": 1.5442275148972606,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_RSI25_5X_WIDE",
@@ -333,7 +333,7 @@
       "win_rate_pct": 66.66666666666666,
       "net_pnl_usdt": 471.0386071768743,
       "profit_factor": 4.5194772348005365,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_10X",
@@ -418,63 +418,63 @@
     {
       "asset": "DOGE",
       "symbol": "DOGEUSDTM",
-      "price": 0.07338,
-      "rsi": 42.86773275651818,
-      "turnover_24h_usdt": 14933086.128,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 0.07309,
+      "rsi": 29.692171937158264,
+      "turnover_24h_usdt": 14418145.986,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     },
     {
       "asset": "SOL",
       "symbol": "SOLUSDTM",
-      "price": 78.013,
-      "rsi": 56.927947412391916,
-      "turnover_24h_usdt": 68106169.323,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 77.948,
+      "rsi": 51.428452160819774,
+      "turnover_24h_usdt": 69457329.0954,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     },
     {
       "asset": "XRP",
       "symbol": "XRPUSDTM",
-      "price": 1.14641,
-      "rsi": 35.29335593139092,
-      "turnover_24h_usdt": 32841241.545,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 1.1417,
+      "rsi": 34.68118271338997,
+      "turnover_24h_usdt": 33566463.5872,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     },
     {
       "asset": "ADA",
       "symbol": "ADAUSDTM",
-      "price": 0.17286,
-      "rsi": 34.62670613910531,
-      "turnover_24h_usdt": 15712662.865,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 0.17298,
+      "rsi": 47.33160799012637,
+      "turnover_24h_usdt": 15516956.858,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     },
     {
       "asset": "HYPE",
       "symbol": "HYPEUSDTM",
-      "price": 60.749,
-      "rsi": 54.24959220064262,
-      "turnover_24h_usdt": 21860449.1224,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 60.789,
+      "rsi": 52.288480987118305,
+      "turnover_24h_usdt": 22320558.3252,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     },
     {
       "asset": "ETH",
       "symbol": "ETHUSDTM",
-      "price": 1923.3,
-      "rsi": 51.12541043425972,
-      "turnover_24h_usdt": 475916692.0066,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 1919.76,
+      "rsi": 43.83334772986528,
+      "turnover_24h_usdt": 468507252.8624,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     },
     {
       "asset": "BTC",
       "symbol": "XBTUSDTM",
-      "price": 66326.7,
-      "rsi": 49.94998591495079,
-      "turnover_24h_usdt": 418524886.2638,
-      "candle_time": "2026-07-21T21:55:00+00:00"
+      "price": 66260.4,
+      "rsi": 46.921713623656096,
+      "turnover_24h_usdt": 418940054.0414,
+      "candle_time": "2026-07-21T22:55:00+00:00"
     }
   ],
   "warnings": [
-    "AVAX: turnover 24h 4,947,567 USDT sotto il minimo",
-    "LINK: turnover 24h 4,280,163 USDT sotto il minimo",
-    "SUI: turnover 24h 6,365,148 USDT sotto il minimo"
+    "AVAX: turnover 24h 4,780,543 USDT sotto il minimo",
+    "LINK: turnover 24h 4,211,876 USDT sotto il minimo",
+    "SUI: turnover 24h 6,177,978 USDT sotto il minimo"
   ]
 }
