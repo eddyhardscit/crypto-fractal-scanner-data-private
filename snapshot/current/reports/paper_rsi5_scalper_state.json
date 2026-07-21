@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-21T16:55:21.929608+00:00",
-  "last_processed_candle": "2026-07-21T16:50:00+00:00",
+  "updated_utc": "2026-07-21T17:55:21.774884+00:00",
+  "last_processed_candle": "2026-07-21T17:50:00+00:00",
   "last_daily_status_date": "2026-07-20",
   "telegram_started_sent": true,
   "accounts": {
@@ -10,14 +10,14 @@
       "name": "RSI5_RSI20_10X",
       "label": "RSI 20 · leva 10×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3800.0,
-      "peak_equity_usdt": 3800.0,
-      "max_drawdown_pct": 0.0,
+      "balance_usdt": 3651.8805485999987,
+      "peak_equity_usdt": 3838.047245786454,
+      "max_drawdown_pct": 4.850557725437998,
       "open_position": null,
-      "closed_trades": 0,
+      "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 0.0,
+      "gross_loss_usdt": 148.11945140000088,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -40,9 +40,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
@@ -65,14 +65,14 @@
       "name": "RSI5_RSI20_20X",
       "label": "RSI 20 · leva 20×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3800.0,
-      "peak_equity_usdt": 3800.0,
-      "max_drawdown_pct": 0.0,
+      "balance_usdt": 3503.7610971999984,
+      "peak_equity_usdt": 3876.0944915729083,
+      "max_drawdown_pct": 9.60589054736429,
       "open_position": null,
-      "closed_trades": 0,
+      "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 0.0,
+      "gross_loss_usdt": 296.23890280000177,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -95,9 +95,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
@@ -501,14 +501,14 @@
       "label": "RSI 20 · leva 5× · Wide",
       "direction": "LONG",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3800.0,
-      "peak_equity_usdt": 3800.0,
-      "max_drawdown_pct": 0.0,
+      "balance_usdt": 3678.4782685999994,
+      "peak_equity_usdt": 3819.023622893227,
+      "max_drawdown_pct": 3.6801383853905834,
       "open_position": null,
-      "closed_trades": 0,
+      "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 0.0,
+      "gross_loss_usdt": 121.52173140000043,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -526,9 +526,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:50:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
@@ -651,8 +651,8 @@
           "last_close_reason": "TARGET"
         },
         "XRP": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T17:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ADA": {
@@ -752,11 +752,11 @@
       "direction": "LONG",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
       "open_positions": [],
-      "closed_trades": 0,
+      "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 0.0,
-      "net_pnl_usdt": 0.0,
+      "gross_loss_usdt": 148.11945140000088,
+      "net_pnl_usdt": -148.11945140000088,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -779,9 +779,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
@@ -806,11 +806,11 @@
       "direction": "LONG",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
       "open_positions": [],
-      "closed_trades": 0,
+      "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 0.0,
-      "net_pnl_usdt": 0.0,
+      "gross_loss_usdt": 296.23890280000177,
+      "net_pnl_usdt": -296.23890280000177,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -833,9 +833,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
@@ -885,11 +885,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 7,
+      "closed_trades": 8,
       "winning_trades": 5,
       "gross_profit_usdt": 686.1903970300943,
-      "gross_loss_usdt": 296.2389027999968,
-      "net_pnl_usdt": 389.9514942300975,
+      "gross_loss_usdt": 444.3583541999946,
+      "net_pnl_usdt": 241.83204283009974,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -912,8 +912,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:30:00+00:00",
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -964,11 +964,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 7,
+      "closed_trades": 8,
       "winning_trades": 5,
       "gross_profit_usdt": 1372.3807940601887,
-      "gross_loss_usdt": 592.4778055999936,
-      "net_pnl_usdt": 779.902988460195,
+      "gross_loss_usdt": 888.7167083999892,
+      "net_pnl_usdt": 483.6640856601995,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -991,8 +991,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:30:00+00:00",
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -1234,11 +1234,11 @@
       "direction": "LONG",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
       "open_positions": [],
-      "closed_trades": 0,
+      "closed_trades": 1,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 0.0,
-      "net_pnl_usdt": 0.0,
+      "gross_loss_usdt": 121.52173140000043,
+      "net_pnl_usdt": -121.52173140000043,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1256,9 +1256,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:50:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
@@ -1313,11 +1313,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 5,
+      "closed_trades": 6,
       "winning_trades": 4,
       "gross_profit_usdt": 604.876269918162,
-      "gross_loss_usdt": 12.315931341287177,
-      "net_pnl_usdt": 592.5603385768749,
+      "gross_loss_usdt": 133.83766274128777,
+      "net_pnl_usdt": 471.0386071768743,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1335,9 +1335,9 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": null
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-21T19:30:00+00:00",
+          "last_close_reason": "STOP"
         },
         "ETH": {
           "needs_rearm": false,
