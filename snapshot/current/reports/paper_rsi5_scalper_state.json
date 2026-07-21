@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-21T18:55:21.694662+00:00",
-  "last_processed_candle": "2026-07-21T18:50:00+00:00",
+  "updated_utc": "2026-07-21T20:00:22.118303+00:00",
+  "last_processed_candle": "2026-07-21T19:55:00+00:00",
   "last_daily_status_date": "2026-07-21",
   "telegram_started_sent": true,
   "accounts": {
@@ -40,8 +40,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -95,8 +95,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -526,8 +526,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:50:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -779,8 +779,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -833,8 +833,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -912,8 +912,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -991,8 +991,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -1256,8 +1256,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:50:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -1335,8 +1335,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-21T19:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ETH": {
