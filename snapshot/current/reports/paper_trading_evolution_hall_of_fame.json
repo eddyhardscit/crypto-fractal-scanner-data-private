@@ -8,7 +8,7 @@
         "evolution_score": 7.54,
         "expectancy_r": -0.037358364495711414,
         "family_id": "shadow-1h-fast-v3",
-        "generated_utc": "2026-07-21T15:53:43+00:00",
+        "generated_utc": "2026-07-21T16:53:44+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -26,11 +26,11 @@
         "win_rate": 0.35
       },
       {
-        "closed_trades": 48,
-        "evolution_score": 5.77,
-        "expectancy_r": -0.06551572748157808,
+        "closed_trades": 49,
+        "evolution_score": 6.55,
+        "expectancy_r": -0.03632393053589003,
         "family_id": "shadow-1h-fast",
-        "generated_utc": "2026-07-21T15:53:43+00:00",
+        "generated_utc": "2026-07-21T16:53:44+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -39,13 +39,13 @@
         "max_drawdown_r": 11.237779068406809,
         "portfolio": "SHADOW_1H_FAST",
         "post_promotion_status": "",
-        "profit_factor": 0.8669412052854654,
+        "profit_factor": 0.9246912053578432,
         "record_kind": "PAPER_PORTFOLIO",
         "source_evidence_score": 0,
         "strategy_id": "portfolio-0a0a90ccde67415644d5",
         "validation_score": 0.0,
         "validation_status": "",
-        "win_rate": 0.3333333333333333
+        "win_rate": 0.3469387755102041
       }
     ],
     "BASELINE": [
@@ -54,7 +54,7 @@
         "evolution_score": 7.54,
         "expectancy_r": -0.037358364495711414,
         "family_id": "shadow-1h-fast-v3",
-        "generated_utc": "2026-07-21T15:53:43+00:00",
+        "generated_utc": "2026-07-21T16:53:44+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -72,11 +72,11 @@
         "win_rate": 0.35
       },
       {
-        "closed_trades": 48,
-        "evolution_score": 5.77,
-        "expectancy_r": -0.06551572748157808,
+        "closed_trades": 49,
+        "evolution_score": 6.55,
+        "expectancy_r": -0.03632393053589003,
         "family_id": "shadow-1h-fast",
-        "generated_utc": "2026-07-21T15:53:43+00:00",
+        "generated_utc": "2026-07-21T16:53:44+00:00",
         "grade": "E",
         "hall_eligible": true,
         "lifecycle_status": "BASELINE",
@@ -85,13 +85,13 @@
         "max_drawdown_r": 11.237779068406809,
         "portfolio": "SHADOW_1H_FAST",
         "post_promotion_status": "",
-        "profit_factor": 0.8669412052854654,
+        "profit_factor": 0.9246912053578432,
         "record_kind": "PAPER_PORTFOLIO",
         "source_evidence_score": 0,
         "strategy_id": "portfolio-0a0a90ccde67415644d5",
         "validation_score": 0.0,
         "validation_status": "",
-        "win_rate": 0.3333333333333333
+        "win_rate": 0.3469387755102041
       }
     ],
     "CANDIDATE": [],
@@ -99,7 +99,7 @@
     "MASTER": []
   },
   "engine_version": "block9-evolution-memory-v1",
-  "generated_utc": "2026-07-21T15:53:43+00:00",
+  "generated_utc": "2026-07-21T16:53:44+00:00",
   "live_modified": false,
   "orders_sent": false,
   "paper_only": true,
