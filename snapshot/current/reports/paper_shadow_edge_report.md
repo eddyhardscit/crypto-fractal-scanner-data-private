@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-21T11:44:02+00:00
+Generato: 2026-07-21T12:44:31+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **593**
-- Trade Shadow/Research chiusi: **1253**
-- Eventi Shadow già presi dai Paper: **399**
-- Eventi Shadow saltati dai Paper: **854**
+- Trade Paper chiusi nei conti confrontati: **595**
+- Trade Shadow/Research chiusi: **1257**
+- Eventi Shadow già presi dai Paper: **400**
+- Eventi Shadow saltati dai Paper: **857**
 - Profili con filtro Paper utile: **5**
 - Profili in cui il Paper potrebbe scartare edge: **5**
 - Profili con campione ancora insufficiente: **72**
@@ -31,17 +31,17 @@ Generato: 2026-07-21T11:44:02+00:00
 | Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 38 | 42 | 25 | 17 | 0,15R | -0,04R | +0,19R | -0,05R | -0,19R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 17 | 39 | 11 | 28 | 0,51R | 0,45R | +0,05R | 0,45R | -0,05R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_SCANNER | Combo Scanner | 18 | 36 | 8 | 28 | -0,24R | 0,68R | -0,92R | -0,04R | +0,20R | PAPER SCARTA EDGE |
-| MAIN | Principale 4H | 16 | 33 | 12 | 21 | -0,03R | -0,02R | -0,00R | -0,12R | -0,09R | NESSUN EDGE CHIARO |
-| SHADOW_4H_WIDE | Ampia 4H | 12 | 32 | 9 | 23 | 0,25R | -0,20R | +0,44R | 0,15R | -0,09R | FILTRO PAPER UTILE |
+| MAIN | Principale 4H | 16 | 34 | 12 | 22 | -0,03R | -0,07R | +0,04R | -0,12R | -0,09R | NESSUN EDGE CHIARO |
+| SHADOW_4H_WIDE | Ampia 4H | 12 | 33 | 9 | 24 | 0,25R | -0,23R | +0,48R | 0,15R | -0,09R | FILTRO PAPER UTILE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 23 | 31 | 16 | 15 | 0,27R | 0,15R | +0,11R | 0,11R | -0,15R | NESSUN EDGE CHIARO |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 21 | 29 | 10 | 19 | -0,45R | 0,70R | -1,14R | -0,29R | +0,16R | PAPER SCARTA EDGE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 22 | 29 | 10 | 19 | -0,45R | 0,70R | -1,14R | -0,28R | +0,17R | PAPER SCARTA EDGE |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 15 | 26 | 10 | 16 | 0,34R | -0,41R | +0,76R | 0,21R | -0,13R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 13 | 24 | 9 | 15 | -0,61R | -0,15R | -0,46R | -0,35R | +0,26R | SELEZIONE DA RIVEDERE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 18 | 23 | 13 | 10 | 0,70R | -0,07R | +0,76R | 0,19R | -0,51R | FILTRO PAPER UTILE |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 15 | 23 | 15 | 8 | 0,09R | -0,44R | +0,54R | 0,21R | +0,12R | FILTRO PAPER UTILE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 16 | 20 | 11 | 9 | 0,04R | 0,61R | -0,57R | -0,08R | -0,12R | PAPER SCARTA EDGE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 7 | 8 | 6 | 2 | 0,23R | 1,54R | -1,31R | 0,56R | +0,34R | CAMPIONE INSUFFICIENTE |
-| RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 4 | 5 | 4 | 1 | -0,34R | -1,40R | +1,06R | -0,45R | -0,10R | CAMPIONE INSUFFICIENTE |
+| RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 5 | 6 | 5 | 1 | -0,35R | -1,40R | +1,05R | -0,64R | -0,29R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 3 | 4 | 3 | 1 | -0,07R | -1,01R | +0,95R | -0,32R | -0,25R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 3 | 4 | 3 | 1 | -0,07R | -1,01R | +0,95R | -0,17R | -0,10R | CAMPIONE INSUFFICIENTE |
 | Rapida 1H V2 | Rapida 1H V2 | 3 | 3 | 3 | 0 | -0,31R | 0,00R | -0,31R | 0,03R | +0,34R | CAMPIONE INSUFFICIENTE |
@@ -113,7 +113,7 @@ Generato: 2026-07-21T11:44:02+00:00
 | SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 18 | 47 | 12 | 35 | -0,73% | -1,22% | +0,48% | -0,72% | +0,01% | SELEZIONE POSITIVA |
 | SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 17 | 28 | 15 | 13 | -1,90% | 0,28% | -2,19% | -1,69% | +0,21% | SELEZIONE DA RIVEDERE |
 | SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 17 | 28 | 15 | 13 | -3,80% | 0,57% | -4,37% | -3,39% | +0,41% | SELEZIONE DA RIVEDERE |
-| SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 11 | 24 | 9 | 15 | -0,05% | -1,10% | +1,04% | -0,15% | -0,10% | SELEZIONE POSITIVA |
+| SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 11 | 25 | 9 | 16 | -0,05% | -1,23% | +1,17% | -0,15% | -0,10% | SELEZIONE POSITIVA |
 | RSI 25 · leva 10× | RSI 25 · leva 10× | 6 | 7 | 6 | 1 | 1,11% | 3,60% | -2,49% | 1,11% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 20× | RSI 25 · leva 20× | 6 | 7 | 6 | 1 | 2,22% | 7,19% | -4,97% | 2,22% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 3 | 5 | 3 | 2 | 2,33% | 4,30% | -1,96% | 2,33% | +0,00% | CAMPIONE INSUFFICIENTE |
@@ -133,7 +133,7 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 10 | 20,00% | 0,16 | -5,26% | -3,70% | MEDIA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 39 | 0,00% | 0,00 | -3,90% | -3,12% | ALTA |
 | SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 18 | 0,00% | 0,00 | -3,90% | -3,02% | MEDIA |
-| SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 13 | 0,00% | 0,00 | -3,20% | -2,50% | MEDIA |
+| SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 14 | 0,00% | 0,00 | -3,20% | -2,40% | MEDIA |
 | SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 31 | 0,00% | 0,00 | -3,20% | -2,11% | ALTA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 12 | 16,67% | 0,18 | -2,65% | -1,87% | MEDIA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 10 | 20,00% | 0,16 | -2,63% | -1,85% | MEDIA |

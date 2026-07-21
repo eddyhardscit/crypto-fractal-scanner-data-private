@@ -1,6 +1,6 @@
 # Blocco 4.5 — Crash Cascade Guard
 
-Generato: 2026-07-21T11:38:33+00:00
+Generato: 2026-07-21T12:38:34+00:00
 
 > Paper-only. In mercato NORMAL/WATCH non riduce i segnali. Le limitazioni iniziano soltanto in STRESS, RECOVERY, CRASH, EXTREME o con dati non affidabili.
 
@@ -19,14 +19,14 @@ Generato: 2026-07-21T11:38:33+00:00
 
 | Scenario | Posizioni interessate | Liquidazioni stimate | Perdita stimata EUR |
 | --- | ---: | ---: | ---: |
-| DOWN_10 | 132 | 0 | 37440.98 |
-| DOWN_20 | 132 | 0 | 74881.96 |
-| DOWN_30 | 132 | 0 | 112322.94 |
-| DOWN_40 | 132 | 53 | 137212.23 |
-| UP_10 | 38 | 2 | 3069.22 |
-| UP_20 | 38 | 3 | 6078.44 |
-| UP_30 | 38 | 3 | 8838.11 |
-| UP_40 | 38 | 19 | 10860.90 |
+| DOWN_10 | 124 | 0 | 35384.47 |
+| DOWN_20 | 124 | 0 | 70768.94 |
+| DOWN_30 | 124 | 0 | 106153.40 |
+| DOWN_40 | 124 | 46 | 130390.29 |
+| UP_10 | 36 | 0 | 2826.72 |
+| UP_20 | 36 | 0 | 5653.44 |
+| UP_30 | 36 | 0 | 8480.17 |
+| UP_40 | 36 | 17 | 10525.30 |
 
 ## Modello di esecuzione
 
