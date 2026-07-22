@@ -11,14 +11,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Le altcoin stanno sottoperformando BTC: mediana relativa -1.41%, 55% sotto -1%.
 - BTC trend score: **3,00**; ADX: **32,17**; breadth sopra EMA50: **66,67%**
-- Mediana alt vs BTC: **-1,41%**; dispersione: **8,43%**
+- Mediana alt vs BTC: **-1,41%**; dispersione: **7,88%**
 
-- Aperti in questo ciclo: **21**
-- Chiusi in questo ciclo: **19**
-- Posizioni research aperte: **373**
-- Trade research chiusi: **1188**
-- Eventi di mercato indipendenti chiusi: **403**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **4699**
+- Aperti in questo ciclo: **0**
+- Chiusi in questo ciclo: **0**
+- Posizioni research aperte: **372**
+- Trade research chiusi: **1189**
+- Eventi di mercato indipendenti chiusi: **404**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **4764**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -29,7 +29,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | RSI_EXTREME_LONG_15M | 0 | 1 | 1 | 100,00% | ∞ | 0,66R | €6,56 |
 | RSI_EXTREME_SHORT_15M | 0 | 7 | 7 | 28,57% | 0,62 | -0,24R | €-16,64 |
 | Bilanciata 1H V1 | 14 | 122 | 122 | 34,43% | 1,00 | -0,00R | €-3,45 |
-| Bilanciata 1H V2 | 5 | 20 | 17 | 45,00% | 1,51 | 0,30R | €59,34 |
+| Bilanciata 1H V2 | 4 | 21 | 18 | 42,86% | 1,51 | 0,28R | €59,19 |
 | Bilanciata 1H V3 Filtered | 11 | 36 | 36 | 41,67% | 1,33 | 0,20R | €72,68 |
 | Rapida 1H V1 | 10 | 140 | 140 | 38,57% | 0,89 | -0,07R | €-94,18 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 4 | 13 | 13 | 23,08% | 0,39 | -0,50R | €-65,41 |
@@ -130,7 +130,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | TREND_UP | 3 | 37 | 37 | 40,54% | 1,32 | 0,19R | €71,46 |
 | Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 4 | 9 | 9 | 33,33% | 0,91 | -0,06R | €-5,65 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 1 | 4 | 3 | 100,00% | ∞ | 1,93R | €77,01 |
-| Bilanciata 1H V2 | RANGE | 1 | 5 | 4 | 40,00% | 1,19 | 0,13R | €6,40 |
+| Bilanciata 1H V2 | RANGE | 0 | 6 | 5 | 33,33% | 1,19 | 0,10R | €6,25 |
 | Bilanciata 1H V2 | TRANSITION | 3 | 11 | 10 | 27,27% | 0,71 | -0,22R | €-24,07 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_DOWN | 2 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,95 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |

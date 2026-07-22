@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-22T04:05:21.790973+00:00",
-  "last_processed_candle": "2026-07-22T04:00:00+00:00",
+  "updated_utc": "2026-07-22T05:10:21.761411+00:00",
+  "last_processed_candle": "2026-07-22T05:05:00+00:00",
   "last_daily_status_date": "2026-07-21",
   "telegram_started_sent": true,
   "accounts": {
@@ -670,10 +670,10 @@
         "mae_net_usdt": -65.92092813707765,
         "mfe_at_utc": "2026-07-22T03:10:00+00:00",
         "mae_at_utc": "2026-07-22T00:40:00+00:00",
-        "excursion_observation_count": 50,
+        "excursion_observation_count": 63,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 66277.9,
-        "unrealized_pnl_usdt": 34.407992042895806
+        "mark_price": 66244.0,
+        "unrealized_pnl_usdt": 42.500189031000716
       },
       "closed_trades": 20,
       "winning_trades": 7,
@@ -761,10 +761,10 @@
         "mae_net_usdt": -56.44484626531043,
         "mfe_at_utc": "2026-07-22T03:10:00+00:00",
         "mae_at_utc": "2026-07-22T00:40:00+00:00",
-        "excursion_observation_count": 48,
+        "excursion_observation_count": 61,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 66277.9,
-        "unrealized_pnl_usdt": 57.20099315302611
+        "mark_price": 66244.0,
+        "unrealized_pnl_usdt": 66.36728855221936
       },
       "closed_trades": 12,
       "winning_trades": 5,
@@ -1381,85 +1381,13 @@
           "quantity": 24786.27447788104,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_RSI25_5X_WIDE:XRP:20260721T220500Z:SHADOW",
-          "account": "RSI5_RSI25_5X_WIDE",
-          "account_label": "RSI 25 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "XRP",
-          "symbol": "XRPUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 23.871243815986375,
-          "previous_rsi": 25.56529142492336,
-          "leverage": 5.0,
-          "opened_at": "2026-07-21T22:05:00+00:00",
-          "opened_candle_time": "2026-07-21T22:05:00+00:00",
-          "entry_price": 1.141818318,
-          "stop_price": 1.1361092264100001,
-          "target_price": 1.15323650118,
-          "liquidation_price": 0.9191637459900001,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 16640.12540390861,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 1.14768,
-          "max_adverse_price": 1.13805,
-          "mfe_gross_usdt": 97.53912355783255,
-          "mae_gross_usdt": -62.70528408180781,
-          "mfe_net_usdt": 74.68060008369787,
-          "mae_net_usdt": -85.46766091135872,
-          "mfe_at_utc": "2026-07-22T00:20:00+00:00",
-          "mae_at_utc": "2026-07-21T23:10:00+00:00",
-          "excursion_observation_count": 71,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 1.13992,
-          "unrealized_pnl_usdt": -54.369296626752174
-        },
-        {
-          "trade_id": "RSI5_RSI25_5X_WIDE:HYPE:20260722T033000Z:SHADOW",
-          "account": "RSI5_RSI25_5X_WIDE",
-          "account_label": "RSI 25 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "HYPE",
-          "symbol": "HYPEUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 24.4600091301225,
-          "previous_rsi": 25.453333880005886,
-          "leverage": 5.0,
-          "opened_at": "2026-07-22T03:30:00+00:00",
-          "opened_candle_time": "2026-07-22T03:30:00+00:00",
-          "entry_price": 60.2650506,
-          "stop_price": 59.963725347,
-          "target_price": 60.867701106000005,
-          "liquidation_price": 48.513365733,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 315.27394088008947,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 60.411,
-          "max_adverse_price": 59.98,
-          "mfe_gross_usdt": 46.014042507084284,
-          "mae_gross_usdt": -89.8690260122357,
-          "mfe_net_usdt": 23.186434081580032,
-          "mae_net_usdt": -112.61510459662834,
-          "mfe_at_utc": "2026-07-22T03:50:00+00:00",
-          "mae_at_utc": "2026-07-22T04:00:00+00:00",
-          "excursion_observation_count": 6,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 60.236,
-          "unrealized_pnl_usdt": -31.953401808644557
         }
       ],
-      "closed_trades": 7,
+      "closed_trades": 9,
       "winning_trades": 5,
       "gross_profit_usdt": 768.1265727181642,
-      "gross_loss_usdt": 133.83766274128777,
-      "net_pnl_usdt": 634.2889099768764,
+      "gross_loss_usdt": 299.55357205637983,
+      "net_pnl_usdt": 468.5730006617843,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1469,7 +1397,7 @@
         "XRP": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": null
+          "last_close_reason": "TIME_EXIT"
         },
         "ADA": {
           "needs_rearm": false,
@@ -1477,8 +1405,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-22T07:05:00+00:00",
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -1540,10 +1468,10 @@
           "mae_net_usdt": -78.9473004338609,
           "mfe_at_utc": "2026-07-22T03:10:00+00:00",
           "mae_at_utc": "2026-07-22T00:40:00+00:00",
-          "excursion_observation_count": 50,
+          "excursion_observation_count": 63,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 66277.9,
-          "unrealized_pnl_usdt": 41.207218434300586
+          "mark_price": 66244.0,
+          "unrealized_pnl_usdt": 50.89848226877584
         },
         {
           "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:SOL:20260722T001000Z:SHADOW",
@@ -1576,10 +1504,10 @@
           "mae_net_usdt": -47.93357634610986,
           "mfe_at_utc": "2026-07-22T03:55:00+00:00",
           "mae_at_utc": "2026-07-22T00:45:00+00:00",
-          "excursion_observation_count": 46,
+          "excursion_observation_count": 59,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.994,
-          "unrealized_pnl_usdt": 83.44313240375799
+          "mark_price": 77.84,
+          "unrealized_pnl_usdt": 120.77156994523237
         }
       ],
       "closed_trades": 52,
@@ -1667,10 +1595,10 @@
           "mae_net_usdt": -59.617033325348046,
           "mfe_at_utc": "2026-07-22T03:10:00+00:00",
           "mae_at_utc": "2026-07-22T00:40:00+00:00",
-          "excursion_observation_count": 48,
+          "excursion_observation_count": 61,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 66277.9,
-          "unrealized_pnl_usdt": 60.41567548998279
+          "mark_price": 66244.0,
+          "unrealized_pnl_usdt": 70.09711453076078
         },
         {
           "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:DOGE:20260722T001000Z:SHADOW",
@@ -1703,10 +1631,10 @@
           "mae_net_usdt": -88.59229257424012,
           "mfe_at_utc": "2026-07-22T03:10:00+00:00",
           "mae_at_utc": "2026-07-22T00:45:00+00:00",
-          "excursion_observation_count": 46,
+          "excursion_observation_count": 59,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 0.07332,
-          "unrealized_pnl_usdt": 50.8835243495355
+          "mark_price": 0.07324,
+          "unrealized_pnl_usdt": 71.54660833824221
         },
         {
           "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:SOL:20260722T001000Z:SHADOW",
@@ -1739,10 +1667,10 @@
           "mae_net_usdt": -47.93357634610986,
           "mfe_at_utc": "2026-07-22T03:55:00+00:00",
           "mae_at_utc": "2026-07-22T00:45:00+00:00",
-          "excursion_observation_count": 46,
+          "excursion_observation_count": 59,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.994,
-          "unrealized_pnl_usdt": 83.44313240375799
+          "mark_price": 77.84,
+          "unrealized_pnl_usdt": 120.77156994523237
         }
       ],
       "closed_trades": 27,
