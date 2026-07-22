@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-22T09:15:21.785992+00:00",
+  "generated_utc": "2026-07-22T10:16:09.553992+00:00",
   "strategy": "RSI 5m Long Short Fixed TP Scalper",
   "paper_only": true,
   "reinvest_profits": false,
   "sizing_mode": "INITIAL_CAPITAL_CAPPED",
-  "last_processed_candle": "2026-07-22T09:10:00+00:00",
+  "last_processed_candle": "2026-07-22T10:10:00+00:00",
   "accounts": [
     {
       "account": "RSI5_RSI20_10X",
@@ -201,49 +201,14 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 5.0,
-      "balance_usdt": 3280.3457694016765,
-      "equity_usdt": 3281.8262144647374,
-      "closed_trades": 21,
+      "balance_usdt": 3184.8617049317336,
+      "equity_usdt": 3184.8617049317336,
+      "closed_trades": 22,
       "winning_trades": 8,
-      "win_rate_pct": 38.095238095238095,
-      "profit_factor": 0.6400824161885967,
+      "win_rate_pct": 36.36363636363637,
+      "profit_factor": 0.5957676835008118,
       "max_drawdown_pct": 20.0429460064511,
-      "open_position": {
-        "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ADA:20260722T085500Z",
-        "account": "RSI5_SHORT_RSI70_5X_WIDE",
-        "account_label": "SHORT RSI 70 · leva 5× · Wide",
-        "book": "OPERATIONAL",
-        "direction": "SHORT",
-        "asset": "ADA",
-        "symbol": "ADAUSDTM",
-        "rsi_trigger": 70.0,
-        "signal_rsi": 70.43902093120626,
-        "previous_rsi": 64.84244897270102,
-        "leverage": 5.0,
-        "opened_at": "2026-07-22T08:55:00+00:00",
-        "opened_candle_time": "2026-07-22T08:55:00+00:00",
-        "entry_price": 0.172395514,
-        "stop_price": 0.17325749156999998,
-        "target_price": 0.17067155886,
-        "liquidation_price": 0.20601263923000002,
-        "margin_usdt": 3290.2164186576497,
-        "notional_usdt": 16451.08209328825,
-        "quantity": 95426.3931327601,
-        "entry_fee_usdt": 9.870649255972948,
-        "max_holding_hours": 6.0,
-        "max_favorable_price": 0.17238,
-        "max_adverse_price": 0.17295,
-        "mfe_gross_usdt": 1.480445063061092,
-        "mae_gross_usdt": -52.91259902261094,
-        "mfe_net_usdt": -9.870649255972948,
-        "mae_net_usdt": -72.68564509397041,
-        "mfe_at_utc": "2026-07-22T09:00:00+00:00",
-        "mae_at_utc": "2026-07-22T09:05:00+00:00",
-        "excursion_observation_count": 3,
-        "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 0.17238,
-        "unrealized_pnl_usdt": -18.25996518184697
-      }
+      "open_position": null
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
@@ -402,12 +367,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 5.0,
-      "closed_trades": 54,
+      "closed_trades": 55,
       "winning_trades": 17,
-      "win_rate_pct": 31.48148148148148,
-      "net_pnl_usdt": -1969.5696794767127,
-      "profit_factor": 0.5407435049671169,
-      "open_positions": 1
+      "win_rate_pct": 30.909090909090907,
+      "net_pnl_usdt": -2091.24797087671,
+      "profit_factor": 0.525824566178389,
+      "open_positions": 0
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
@@ -453,63 +418,63 @@
     {
       "asset": "DOGE",
       "symbol": "DOGEUSDTM",
-      "price": 0.07249,
-      "rsi": 53.90778134618504,
-      "turnover_24h_usdt": 15342061.552,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 0.07245,
+      "rsi": 50.40392635525361,
+      "turnover_24h_usdt": 14772475.838,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     },
     {
       "asset": "SOL",
       "symbol": "SOLUSDTM",
-      "price": 77.353,
-      "rsi": 51.909297862599466,
-      "turnover_24h_usdt": 93023259.025,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 77.472,
+      "rsi": 57.11335555278913,
+      "turnover_24h_usdt": 93652154.1716,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     },
     {
       "asset": "XRP",
       "symbol": "XRPUSDTM",
-      "price": 1.13538,
-      "rsi": 58.2951182660385,
-      "turnover_24h_usdt": 33811473.8568,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 1.13465,
+      "rsi": 52.44151530720947,
+      "turnover_24h_usdt": 33694934.4916,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     },
     {
       "asset": "ADA",
       "symbol": "ADAUSDTM",
-      "price": 0.17238,
-      "rsi": 63.49735528454426,
-      "turnover_24h_usdt": 11127281.3072,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 0.17296,
+      "rsi": 65.95656870007144,
+      "turnover_24h_usdt": 10855920.9706,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     },
     {
       "asset": "HYPE",
       "symbol": "HYPEUSDTM",
-      "price": 58.872,
-      "rsi": 53.67234079939116,
-      "turnover_24h_usdt": 33049376.5456,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 58.979,
+      "rsi": 56.87087435373809,
+      "turnover_24h_usdt": 33290329.1402,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     },
     {
       "asset": "ETH",
       "symbol": "ETHUSDTM",
-      "price": 1923.57,
-      "rsi": 59.566111276696745,
-      "turnover_24h_usdt": 421759699.0346,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 1923.58,
+      "rsi": 57.76931213879814,
+      "turnover_24h_usdt": 407641544.807,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     },
     {
       "asset": "BTC",
       "symbol": "XBTUSDTM",
-      "price": 65965.8,
-      "rsi": 52.61660586991219,
-      "turnover_24h_usdt": 392106630.413,
-      "candle_time": "2026-07-22T09:10:00+00:00"
+      "price": 65888.0,
+      "rsi": 46.807314452726246,
+      "turnover_24h_usdt": 383371512.2814,
+      "candle_time": "2026-07-22T10:10:00+00:00"
     }
   ],
   "warnings": [
-    "AVAX: turnover 24h 4,799,168 USDT sotto il minimo",
-    "LINK: turnover 24h 3,292,221 USDT sotto il minimo",
-    "SUI: turnover 24h 7,530,308 USDT sotto il minimo"
+    "AVAX: turnover 24h 4,795,278 USDT sotto il minimo",
+    "LINK: turnover 24h 3,262,708 USDT sotto il minimo",
+    "SUI: turnover 24h 7,348,615 USDT sotto il minimo"
   ]
 }

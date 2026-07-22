@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-22T09:15:21.785992+00:00",
-  "last_processed_candle": "2026-07-22T09:10:00+00:00",
+  "updated_utc": "2026-07-22T10:16:09.553992+00:00",
+  "last_processed_candle": "2026-07-22T10:10:00+00:00",
   "last_daily_status_date": "2026-07-21",
   "telegram_started_sent": true,
   "accounts": {
@@ -541,8 +541,8 @@
           "last_close_reason": null
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-22T09:35:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -636,49 +636,14 @@
       "label": "SHORT RSI 70 · leva 5× · Wide",
       "direction": "SHORT",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3280.3457694016765,
+      "balance_usdt": 3184.8617049317336,
       "peak_equity_usdt": 3903.1223621164017,
       "max_drawdown_pct": 20.0429460064511,
-      "open_position": {
-        "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ADA:20260722T085500Z",
-        "account": "RSI5_SHORT_RSI70_5X_WIDE",
-        "account_label": "SHORT RSI 70 · leva 5× · Wide",
-        "book": "OPERATIONAL",
-        "direction": "SHORT",
-        "asset": "ADA",
-        "symbol": "ADAUSDTM",
-        "rsi_trigger": 70.0,
-        "signal_rsi": 70.43902093120626,
-        "previous_rsi": 64.84244897270102,
-        "leverage": 5.0,
-        "opened_at": "2026-07-22T08:55:00+00:00",
-        "opened_candle_time": "2026-07-22T08:55:00+00:00",
-        "entry_price": 0.172395514,
-        "stop_price": 0.17325749156999998,
-        "target_price": 0.17067155886,
-        "liquidation_price": 0.20601263923000002,
-        "margin_usdt": 3290.2164186576497,
-        "notional_usdt": 16451.08209328825,
-        "quantity": 95426.3931327601,
-        "entry_fee_usdt": 9.870649255972948,
-        "max_holding_hours": 6.0,
-        "max_favorable_price": 0.17238,
-        "max_adverse_price": 0.17295,
-        "mfe_gross_usdt": 1.480445063061092,
-        "mae_gross_usdt": -52.91259902261094,
-        "mfe_net_usdt": -9.870649255972948,
-        "mae_net_usdt": -72.68564509397041,
-        "mfe_at_utc": "2026-07-22T09:00:00+00:00",
-        "mae_at_utc": "2026-07-22T09:05:00+00:00",
-        "excursion_observation_count": 3,
-        "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 0.17238,
-        "unrealized_pnl_usdt": -18.25996518184697
-      },
-      "closed_trades": 21,
+      "open_position": null,
+      "closed_trades": 22,
       "winning_trades": 8,
       "gross_profit_usdt": 906.6061819582292,
-      "gross_loss_usdt": 1416.3897633005788,
+      "gross_loss_usdt": 1521.744477026495,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -691,8 +656,8 @@
           "last_close_reason": "STOP"
         },
         "ADA": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-22T11:55:00+00:00",
           "last_close_reason": "STOP"
         },
         "HYPE": {
@@ -937,8 +902,8 @@
           "last_close_reason": "STOP"
         },
         "XRP": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-22T09:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ADA": {
@@ -1016,8 +981,8 @@
           "last_close_reason": "STOP"
         },
         "XRP": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-22T09:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ADA": {
@@ -1292,18 +1257,18 @@
           "quantity": 246.4606461135507,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 77.52,
+          "max_favorable_price": 77.567,
           "max_adverse_price": 76.964,
-          "mfe_gross_usdt": 105.6292867224494,
+          "mfe_gross_usdt": 117.21293708978554,
           "mae_gross_usdt": -31.402832516684153,
-          "mfe_net_usdt": 82.76590915041592,
+          "mfe_net_usdt": 94.34260932753168,
           "mae_net_usdt": -54.18399081717414,
-          "mfe_at_utc": "2026-07-22T09:05:00+00:00",
+          "mfe_at_utc": "2026-07-22T10:00:00+00:00",
           "mae_at_utc": "2026-07-22T07:40:00+00:00",
-          "excursion_observation_count": 33,
+          "excursion_observation_count": 45,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.353,
-          "unrealized_pnl_usdt": 41.63167660619314
+          "mark_price": 77.472,
+          "unrealized_pnl_usdt": 70.94289620357311
         }
       ],
       "closed_trades": 3,
@@ -1343,8 +1308,8 @@
           "last_close_reason": null
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-22T09:35:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -1407,18 +1372,18 @@
           "quantity": 245.89596209659214,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 77.52,
+          "max_favorable_price": 77.567,
           "max_adverse_price": 76.964,
-          "mfe_gross_usdt": 61.85498172782094,
+          "mfe_gross_usdt": 73.41209194636005,
           "mae_gross_usdt": -74.86317319788365,
-          "mfe_net_usdt": 39.01786873878425,
+          "mfe_net_usdt": 50.568044691192235,
           "mae_net_usdt": -97.61825529396492,
-          "mfe_at_utc": "2026-07-22T09:05:00+00:00",
+          "mfe_at_utc": "2026-07-22T10:00:00+00:00",
           "mae_at_utc": "2026-07-22T07:40:00+00:00",
-          "excursion_observation_count": 37,
+          "excursion_observation_count": 49,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.353,
-          "unrealized_pnl_usdt": -2.0221181559449537
+          "mark_price": 77.472,
+          "unrealized_pnl_usdt": 27.221944361855762
         },
         {
           "trade_id": "RSI5_RSI25_5X_WIDE:XRP:20260722T062000Z:SHADOW",
@@ -1451,10 +1416,10 @@
           "mae_net_usdt": -70.73517598030853,
           "mfe_at_utc": "2026-07-22T09:05:00+00:00",
           "mae_at_utc": "2026-07-22T07:40:00+00:00",
-          "excursion_observation_count": 34,
+          "excursion_observation_count": 46,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 1.13538,
-          "unrealized_pnl_usdt": 43.2186196009877
+          "mark_price": 1.13465,
+          "unrealized_pnl_usdt": 30.967327881641758
         },
         {
           "trade_id": "RSI5_RSI25_5X_WIDE:BTC:20260722T073500Z:SHADOW",
@@ -1487,10 +1452,10 @@
           "mae_net_usdt": -40.38254600868208,
           "mfe_at_utc": "2026-07-22T08:20:00+00:00",
           "mae_at_utc": "2026-07-22T07:40:00+00:00",
-          "excursion_observation_count": 19,
+          "excursion_observation_count": 31,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 65965.8,
-          "unrealized_pnl_usdt": 53.11088957121366
+          "mark_price": 65888.0,
+          "unrealized_pnl_usdt": 30.626224074718582
         }
       ],
       "closed_trades": 10,
@@ -1546,49 +1511,12 @@
       "label": "SHORT RSI 70 · leva 5× · Wide",
       "direction": "SHORT",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "open_positions": [
-        {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ADA:20260722T085500Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "ADA",
-          "symbol": "ADAUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 70.43902093120626,
-          "previous_rsi": 64.84244897270102,
-          "leverage": 5.0,
-          "opened_at": "2026-07-22T08:55:00+00:00",
-          "opened_candle_time": "2026-07-22T08:55:00+00:00",
-          "entry_price": 0.172395514,
-          "stop_price": 0.17325749156999998,
-          "target_price": 0.17067155886,
-          "liquidation_price": 0.20601263923000002,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 110211.68451053779,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 0.17238,
-          "max_adverse_price": 0.17295,
-          "mfe_gross_usdt": 1.70982407349585,
-          "mae_gross_usdt": -61.11083609750928,
-          "mfe_net_usdt": -11.399999999999999,
-          "mae_net_usdt": -83.94750259916778,
-          "mfe_at_utc": "2026-07-22T09:00:00+00:00",
-          "mae_at_utc": "2026-07-22T09:05:00+00:00",
-          "excursion_observation_count": 3,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 0.17238,
-          "unrealized_pnl_usdt": -21.08915003206005
-        }
-      ],
-      "closed_trades": 54,
+      "open_positions": [],
+      "closed_trades": 55,
       "winning_trades": 17,
       "gross_profit_usdt": 2319.0352739179925,
-      "gross_loss_usdt": 4288.604953394706,
-      "net_pnl_usdt": -1969.5696794767127,
+      "gross_loss_usdt": 4410.283244794703,
+      "net_pnl_usdt": -2091.24797087671,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1601,9 +1529,9 @@
           "last_close_reason": "STOP"
         },
         "ADA": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": "TARGET"
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-22T11:55:00+00:00",
+          "last_close_reason": "STOP"
         },
         "HYPE": {
           "needs_rearm": false,
