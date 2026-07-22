@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-22T13:20:21.910091+00:00",
+  "generated_utc": "2026-07-22T14:20:22.024286+00:00",
   "description": "Tutti i segnali validi, capitale illimitato, nessun Telegram",
   "accounts": [
     {
@@ -73,12 +73,12 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 5.0,
-      "closed_trades": 12,
-      "winning_trades": 6,
-      "win_rate_pct": 50.0,
-      "net_pnl_usdt": 369.96803866926206,
-      "profit_factor": 1.8471374828718676,
-      "open_positions": 2
+      "closed_trades": 13,
+      "winning_trades": 7,
+      "win_rate_pct": 53.84615384615385,
+      "net_pnl_usdt": 376.8773277560061,
+      "profit_factor": 1.862958086690596,
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI70_10X",
@@ -86,11 +86,11 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 10.0,
-      "closed_trades": 78,
+      "closed_trades": 83,
       "winning_trades": 31,
-      "win_rate_pct": 39.743589743589745,
-      "net_pnl_usdt": -2192.4573908994807,
-      "profit_factor": 0.6743402095297149,
+      "win_rate_pct": 37.34939759036144,
+      "net_pnl_usdt": -2933.860247899461,
+      "profit_factor": 0.6074451143627762,
       "open_positions": 0
     },
     {
@@ -99,11 +99,11 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 20.0,
-      "closed_trades": 78,
+      "closed_trades": 83,
       "winning_trades": 31,
-      "win_rate_pct": 39.743589743589745,
-      "net_pnl_usdt": -4384.9147817989615,
-      "profit_factor": 0.6743402095297149,
+      "win_rate_pct": 37.34939759036144,
+      "net_pnl_usdt": -5867.720495798922,
+      "profit_factor": 0.6074451143627762,
       "open_positions": 0
     },
     {
@@ -112,12 +112,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 5.0,
-      "closed_trades": 55,
+      "closed_trades": 60,
       "winning_trades": 17,
-      "win_rate_pct": 30.909090909090907,
-      "net_pnl_usdt": -2091.24797087671,
-      "profit_factor": 0.525824566178389,
-      "open_positions": 3
+      "win_rate_pct": 28.333333333333332,
+      "net_pnl_usdt": -2699.639427876699,
+      "profit_factor": 0.4620812090268969,
+      "open_positions": 0
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
@@ -125,12 +125,12 @@
       "direction": "SHORT",
       "rsi_trigger": 75.0,
       "leverage": 10.0,
-      "closed_trades": 36,
-      "winning_trades": 14,
-      "win_rate_pct": 38.88888888888889,
-      "net_pnl_usdt": -988.0074046919808,
-      "profit_factor": 0.6971320850602019,
-      "open_positions": 0
+      "closed_trades": 38,
+      "winning_trades": 15,
+      "win_rate_pct": 39.473684210526315,
+      "net_pnl_usdt": -999.3405132919715,
+      "profit_factor": 0.7069772046047408,
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI75_20X",
@@ -138,12 +138,12 @@
       "direction": "SHORT",
       "rsi_trigger": 75.0,
       "leverage": 20.0,
-      "closed_trades": 36,
-      "winning_trades": 14,
-      "win_rate_pct": 38.88888888888889,
-      "net_pnl_usdt": -1976.0148093839616,
-      "profit_factor": 0.6971320850602019,
-      "open_positions": 0
+      "closed_trades": 38,
+      "winning_trades": 15,
+      "win_rate_pct": 39.473684210526315,
+      "net_pnl_usdt": -1998.681026583943,
+      "profit_factor": 0.7069772046047408,
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI75_5X_WIDE",
@@ -151,12 +151,12 @@
       "direction": "SHORT",
       "rsi_trigger": 75.0,
       "leverage": 5.0,
-      "closed_trades": 32,
+      "closed_trades": 33,
       "winning_trades": 14,
-      "win_rate_pct": 43.75,
-      "net_pnl_usdt": -190.11645260408255,
-      "profit_factor": 0.9070794904653463,
-      "open_positions": 0
+      "win_rate_pct": 42.42424242424242,
+      "net_pnl_usdt": -311.794744004081,
+      "profit_factor": 0.856162670533421,
+      "open_positions": 2
     }
   ]
 }
