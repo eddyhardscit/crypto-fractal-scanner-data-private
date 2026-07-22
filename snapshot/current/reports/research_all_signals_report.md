@@ -11,14 +11,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 83% sopra EMA50, ADX 30.6.
 - BTC trend score: **3,00**; ADX: **30,62**; breadth sopra EMA50: **83,33%**
-- Mediana alt vs BTC: **0,94%**; dispersione: **9,08%**
+- Mediana alt vs BTC: **0,91%**; dispersione: **7,59%**
 
 - Aperti in questo ciclo: **0**
-- Chiusi in questo ciclo: **1**
-- Posizioni research aperte: **419**
-- Trade research chiusi: **1410**
-- Eventi di mercato indipendenti chiusi: **451**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **5534**
+- Chiusi in questo ciclo: **0**
+- Posizioni research aperte: **418**
+- Trade research chiusi: **1412**
+- Eventi di mercato indipendenti chiusi: **452**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **5655**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -59,8 +59,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | 9 | 9 | 9 | 33,33% | 0,90 | -0,07R | €-6,61 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | 14 | 39 | 39 | 41,03% | 1,29 | 0,18R | €69,70 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 11 | 16 | 16 | 31,25% | 0,81 | -0,14R | €-21,73 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 3 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 3 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 3 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 11 | 13 | 13 | 23,08% | 0,54 | -0,38R | €-48,90 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 11 | 11 | 11 | 18,18% | 0,61 | -0,34R | €-37,01 |
@@ -84,7 +84,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 7 | 5 | 5 | 0,00% | 0,00 | -1,08R | €-53,77 |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 6 | 4 | 4 | 0,00% | 0,00 | -1,08R | €-43,07 |
 | SHADOW_MASTER_ADAPTIVE_V1 | 7 | 5 | 5 | 0,00% | 0,00 | -1,08R | €-53,77 |
-| Forza relativa 1H V1 | 9 | 91 | 91 | 30,77% | 0,99 | -0,01R | €-8,35 |
+| Forza relativa 1H V1 | 10 | 91 | 91 | 30,77% | 0,99 | -0,01R | €-8,35 |
 | Forza relativa 1H V2 | 6 | 29 | 26 | 41,38% | 1,48 | 0,29R | €84,31 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | 4 | 31 | 31 | 22,58% | 0,59 | -0,29R | €-91,39 |
 | SHADOW_SCANNER_TOP5_BTC | 10 | 44 | 44 | 45,45% | 1,79 | 0,44R | €191,50 |
@@ -242,9 +242,9 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP | 5 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,09 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP_HIGH_VOL | 1 | 6 | 6 | 16,67% | 0,36 | -0,56R | €-33,71 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TRANSITION | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TRANSITION | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
@@ -330,7 +330,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Forza relativa 1H V1 | RANGE | 0 | 20 | 20 | 20,00% | 0,55 | -0,36R | €-71,11 |
 | Forza relativa 1H V1 | RANGE_HIGH_VOL | 1 | 2 | 2 | 0,00% | 0,00 | -1,02R | €-20,33 |
 | Forza relativa 1H V1 | TRANSITION | 1 | 13 | 13 | 46,15% | 1,81 | 0,45R | €58,14 |
-| Forza relativa 1H V1 | TREND_UP | 3 | 33 | 33 | 39,39% | 1,60 | 0,32R | €106,06 |
+| Forza relativa 1H V1 | TREND_UP | 4 | 33 | 33 | 39,39% | 1,60 | 0,32R | €106,06 |
 | Forza relativa 1H V1 | TREND_UP_HIGH_VOL | 1 | 8 | 8 | 12,50% | 0,30 | -0,64R | €-51,15 |
 | Forza relativa 1H V2 | ALT_ROTATION_DOWN | 2 | 1 | 1 | 100,00% | ∞ | 2,11R | €21,13 |
 | Forza relativa 1H V2 | ALT_ROTATION_UP | 2 | 2 | 2 | 50,00% | 1,97 | 0,52R | €10,34 |
