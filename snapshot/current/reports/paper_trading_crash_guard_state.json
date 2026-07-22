@@ -31,19 +31,19 @@
   "schema_version": 1,
   "seen_blocked_signal_ids": [
     "9fb3160cf223ef7ce49b",
-    "f85d64e4325709551748",
-    "c7de40fb38c091f1caf0",
-    "0940dd792f4a5756ab34",
-    "9f50309c0d7735516f75",
-    "1237bd21ffade47877af",
-    "bb2e02a583d983fae39e",
-    "8a2a0087e216f2f825fe",
-    "58c590fa3dd5e43dacc2",
-    "0ab9e18cc6de421e30f5",
-    "363318e9d6a45cb1f557",
-    "62a0b45c7b8086e1533b",
     "50bb41ffb7884f62da4b",
+    "bb2e02a583d983fae39e",
+    "f85d64e4325709551748",
+    "62a0b45c7b8086e1533b",
+    "9f50309c0d7735516f75",
+    "8a2a0087e216f2f825fe",
     "8c6b182f021d7ed83e03",
+    "c7de40fb38c091f1caf0",
+    "1237bd21ffade47877af",
+    "0ab9e18cc6de421e30f5",
+    "0940dd792f4a5756ab34",
+    "58c590fa3dd5e43dacc2",
+    "363318e9d6a45cb1f557",
     "8943716f91bec819b4e6"
   ],
   "totals": {
@@ -53,5 +53,5 @@
     "guard_value_r": 14.14000000000001,
     "missed_profit_r": 0.0
   },
-  "updated_utc": "2026-07-22T15:23:35+00:00"
+  "updated_utc": "2026-07-22T16:23:34+00:00"
 }
