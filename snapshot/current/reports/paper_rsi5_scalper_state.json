@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-22T20:30:22.070976+00:00",
-  "last_processed_candle": "2026-07-22T20:25:00+00:00",
+  "updated_utc": "2026-07-22T21:30:21.934603+00:00",
+  "last_processed_candle": "2026-07-22T21:25:00+00:00",
   "last_daily_status_date": "2026-07-22",
   "telegram_started_sent": true,
   "accounts": {
@@ -1343,10 +1343,10 @@
           "mae_net_usdt": -91.95662220780423,
           "mfe_at_utc": "2026-07-22T19:25:00+00:00",
           "mae_at_utc": "2026-07-22T20:05:00+00:00",
-          "excursion_observation_count": 15,
+          "excursion_observation_count": 27,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 0.17446,
-          "unrealized_pnl_usdt": -6.989062127898837
+          "mark_price": 0.17418,
+          "unrealized_pnl_usdt": -37.49023754119836
         }
       ],
       "closed_trades": 13,

@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **TREND_UP**
 - Famiglia: **TREND_UP**
-- Confidenza: **70,90%**
+- Confidenza: **73,30%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 58% sopra EMA50, ADX 30.0.
-- BTC trend score: **3,00**; ADX: **29,96**; breadth sopra EMA50: **58,33%**
-- Mediana alt vs BTC: **0,52%**; dispersione: **8,82%**
+- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 67% sopra EMA50, ADX 30.0.
+- BTC trend score: **3,00**; ADX: **29,96**; breadth sopra EMA50: **66,67%**
+- Mediana alt vs BTC: **0,61%**; dispersione: **8,52%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **389**
-- Trade research chiusi: **1460**
-- Eventi di mercato indipendenti chiusi: **462**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **5715**
+- Posizioni research aperte: **386**
+- Trade research chiusi: **1464**
+- Eventi di mercato indipendenti chiusi: **463**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **5731**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -28,7 +28,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | MAIN | 13 | 39 | 39 | 30,77% | 0,86 | -0,10R | €-39,07 |
 | RSI_EXTREME_LONG_15M | 0 | 2 | 2 | 100,00% | ∞ | 0,97R | €19,43 |
 | RSI_EXTREME_SHORT_15M | 0 | 7 | 7 | 28,57% | 0,62 | -0,24R | €-16,64 |
-| Bilanciata 1H V1 | 14 | 131 | 131 | 33,59% | 0,96 | -0,03R | €-38,98 |
+| Bilanciata 1H V1 | 15 | 131 | 131 | 33,59% | 0,96 | -0,03R | €-38,98 |
 | Bilanciata 1H V2 | 6 | 23 | 20 | 43,48% | 1,53 | 0,30R | €67,85 |
 | Bilanciata 1H V3 Filtered | 10 | 40 | 40 | 40,00% | 1,24 | 0,15R | €60,20 |
 | Rapida 1H V1 | 10 | 152 | 152 | 38,16% | 0,87 | -0,08R | €-124,88 |
@@ -61,10 +61,10 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 8 | 19 | 19 | 26,32% | 0,64 | -0,29R | €-54,42 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 3 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
-| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 11 | 14 | 14 | 21,43% | 0,49 | -0,43R | €-59,66 |
-| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 11 | 12 | 12 | 16,67% | 0,55 | -0,40R | €-47,77 |
-| SHADOW_COMBO_ADAPTIVE_TP3_V1 | 11 | 12 | 12 | 16,67% | 0,55 | -0,40R | €-47,77 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,02 |
+| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 10 | 15 | 15 | 20,00% | 0,45 | -0,47R | €-70,48 |
+| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 10 | 13 | 13 | 15,38% | 0,50 | -0,45R | €-58,60 |
+| SHADOW_COMBO_ADAPTIVE_TP3_V1 | 10 | 13 | 13 | 15,38% | 0,50 | -0,45R | €-58,60 |
 | SHADOW_COMBO_MEAN_REVERSION | 0 | 10 | 10 | 50,00% | 1,43 | 0,23R | €22,73 |
 | SHADOW_COMBO_SCANNER | 9 | 44 | 44 | 45,45% | 1,64 | 0,37R | €162,78 |
 | SHADOW_COMBO_TREND | 15 | 55 | 55 | 36,36% | 1,17 | 0,12R | €64,08 |
@@ -129,7 +129,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | RANGE | 0 | 28 | 28 | 32,14% | 0,91 | -0,06R | €-16,44 |
 | Bilanciata 1H V1 | RANGE_HIGH_VOL | 1 | 10 | 10 | 0,00% | 0,00 | -1,07R | €-107,38 |
 | Bilanciata 1H V1 | TRANSITION | 2 | 26 | 26 | 30,77% | 0,85 | -0,11R | €-27,93 |
-| Bilanciata 1H V1 | TREND_UP | 4 | 39 | 39 | 38,46% | 1,21 | 0,13R | €50,64 |
+| Bilanciata 1H V1 | TREND_UP | 5 | 39 | 39 | 38,46% | 1,21 | 0,13R | €50,64 |
 | Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 4 | 9 | 9 | 33,33% | 0,91 | -0,06R | €-5,65 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 1 | 5 | 4 | 80,00% | 7,13 | 1,32R | €66,22 |
 | Bilanciata 1H V2 | RANGE | 0 | 6 | 5 | 33,33% | 1,19 | 0,10R | €6,25 |
@@ -246,18 +246,18 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,84 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
-| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 2 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
+| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 1 | 2 | 2 | 0,00% | 0,00 | -1,10R | €-21,93 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP | 7 | 7 | 7 | 28,57% | 0,72 | -0,21R | €-14,84 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP_HIGH_VOL | 2 | 6 | 6 | 16,67% | 0,36 | -0,56R | €-33,71 |
-| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 3 | 2 | 2 | 50,00% | 2,71 | 0,91R | €18,27 |
+| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 1,35 | 0,25R | €7,43 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_UP | 3 | 2 | 2 | 50,00% | 2,74 | 0,93R | €18,60 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TREND_UP | 4 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,15 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TREND_UP_HIGH_VOL | 1 | 3 | 3 | 0,00% | 0,00 | -1,05R | €-31,38 |
-| SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_DOWN | 3 | 2 | 2 | 50,00% | 2,71 | 0,91R | €18,27 |
+| SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 1,35 | 0,25R | €7,43 |
 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_UP | 3 | 2 | 2 | 50,00% | 2,74 | 0,93R | €18,60 |
 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | TREND_UP | 4 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,15 |
