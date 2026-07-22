@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-22T03:05:21.773966+00:00",
-  "last_processed_candle": "2026-07-22T03:00:00+00:00",
+  "updated_utc": "2026-07-22T04:05:21.790973+00:00",
+  "last_processed_candle": "2026-07-22T04:00:00+00:00",
   "last_daily_status_date": "2026-07-21",
   "telegram_started_sent": true,
   "accounts": {
@@ -429,7 +429,7 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
@@ -485,7 +485,7 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
@@ -662,18 +662,18 @@
         "quantity": 0.2385647369132001,
         "entry_fee_usdt": 9.518990220473247,
         "max_holding_hours": 6.0,
-        "max_favorable_price": 66226.6,
+        "max_favorable_price": 66130.3,
         "max_adverse_price": 66698.2,
-        "mfe_gross_usdt": 65.65229513300908,
+        "mfe_gross_usdt": 88.62607929775093,
         "mae_gross_usdt": -46.85483479525401,
-        "mfe_net_usdt": 46.65370606914239,
+        "mfe_net_usdt": 69.64127450438309,
         "mae_net_usdt": -65.92092813707765,
-        "mfe_at_utc": "2026-07-22T03:00:00+00:00",
+        "mfe_at_utc": "2026-07-22T03:10:00+00:00",
         "mae_at_utc": "2026-07-22T00:40:00+00:00",
-        "excursion_observation_count": 38,
+        "excursion_observation_count": 50,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 66263.9,
-        "unrealized_pnl_usdt": 37.74990230347068
+        "mark_price": 66277.9,
+        "unrealized_pnl_usdt": 34.407992042895806
       },
       "closed_trades": 20,
       "winning_trades": 7,
@@ -753,18 +753,18 @@
         "quantity": 0.2702300566325343,
         "entry_fee_usdt": 10.793412746872578,
         "max_holding_hours": 6.0,
-        "max_favorable_price": 66226.6,
+        "max_favorable_price": 66130.3,
         "max_adverse_price": 66698.2,
-        "mfe_gross_usdt": 92.60337620743582,
+        "mfe_gross_usdt": 118.62653066114966,
         "mae_gross_usdt": -34.837118500464996,
-        "mfe_net_usdt": 71.07211273941512,
+        "mfe_net_usdt": 97.1108810858012,
         "mae_net_usdt": -56.44484626531043,
-        "mfe_at_utc": "2026-07-22T03:00:00+00:00",
+        "mfe_at_utc": "2026-07-22T03:10:00+00:00",
         "mae_at_utc": "2026-07-22T00:40:00+00:00",
-        "excursion_observation_count": 36,
+        "excursion_observation_count": 48,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 66263.9,
-        "unrealized_pnl_usdt": 60.9864838783573
+        "mark_price": 66277.9,
+        "unrealized_pnl_usdt": 57.20099315302611
       },
       "closed_trades": 12,
       "winning_trades": 5,
@@ -955,11 +955,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 10,
+      "closed_trades": 11,
       "winning_trades": 6,
       "gross_profit_usdt": 822.842979830086,
-      "gross_loss_usdt": 592.4778055999931,
-      "net_pnl_usdt": 230.36517423009295,
+      "gross_loss_usdt": 740.5972569999864,
+      "net_pnl_usdt": 82.24572283009968,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -982,8 +982,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-22T05:55:00+00:00",
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -1034,11 +1034,11 @@
           "max_holding_hours": 6.0
         }
       ],
-      "closed_trades": 10,
+      "closed_trades": 11,
       "winning_trades": 6,
       "gross_profit_usdt": 1645.685959660172,
-      "gross_loss_usdt": 1184.9556111999862,
-      "net_pnl_usdt": 460.7303484601859,
+      "gross_loss_usdt": 1481.1945139999727,
+      "net_pnl_usdt": 164.49144566019936,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -1061,8 +1061,8 @@
           "last_close_reason": null
         },
         "HYPE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-22T05:55:00+00:00",
           "last_close_reason": "STOP"
         },
         "ETH": {
@@ -1233,7 +1233,7 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
@@ -1287,7 +1287,7 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
+          "needs_rearm": false,
           "cooldown_until": null,
           "last_close_reason": "TARGET"
         },
@@ -1413,10 +1413,46 @@
           "mae_net_usdt": -85.46766091135872,
           "mfe_at_utc": "2026-07-22T00:20:00+00:00",
           "mae_at_utc": "2026-07-21T23:10:00+00:00",
-          "excursion_observation_count": 59,
+          "excursion_observation_count": 71,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 1.14049,
-          "unrealized_pnl_usdt": -44.890116069413075
+          "mark_price": 1.13992,
+          "unrealized_pnl_usdt": -54.369296626752174
+        },
+        {
+          "trade_id": "RSI5_RSI25_5X_WIDE:HYPE:20260722T033000Z:SHADOW",
+          "account": "RSI5_RSI25_5X_WIDE",
+          "account_label": "RSI 25 · leva 5× · Wide",
+          "book": "SHADOW",
+          "direction": "LONG",
+          "asset": "HYPE",
+          "symbol": "HYPEUSDTM",
+          "rsi_trigger": 25.0,
+          "signal_rsi": 24.4600091301225,
+          "previous_rsi": 25.453333880005886,
+          "leverage": 5.0,
+          "opened_at": "2026-07-22T03:30:00+00:00",
+          "opened_candle_time": "2026-07-22T03:30:00+00:00",
+          "entry_price": 60.2650506,
+          "stop_price": 59.963725347,
+          "target_price": 60.867701106000005,
+          "liquidation_price": 48.513365733,
+          "margin_usdt": 3800.0,
+          "notional_usdt": 19000.0,
+          "quantity": 315.27394088008947,
+          "entry_fee_usdt": 11.399999999999999,
+          "max_holding_hours": 6.0,
+          "max_favorable_price": 60.411,
+          "max_adverse_price": 59.98,
+          "mfe_gross_usdt": 46.014042507084284,
+          "mae_gross_usdt": -89.8690260122357,
+          "mfe_net_usdt": 23.186434081580032,
+          "mae_net_usdt": -112.61510459662834,
+          "mfe_at_utc": "2026-07-22T03:50:00+00:00",
+          "mae_at_utc": "2026-07-22T04:00:00+00:00",
+          "excursion_observation_count": 6,
+          "excursion_quality": "COMPLETED_5M_OHLC",
+          "mark_price": 60.236,
+          "unrealized_pnl_usdt": -31.953401808644557
         }
       ],
       "closed_trades": 7,
@@ -1496,18 +1532,18 @@
           "quantity": 0.28570656527844096,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 66226.6,
+          "max_favorable_price": 66130.3,
           "max_adverse_price": 66698.2,
-          "mfe_gross_usdt": 78.62558393080207,
+          "mfe_gross_usdt": 106.13912616711676,
           "mae_gross_usdt": -56.1136322545082,
-          "mfe_net_usdt": 55.87275928116054,
+          "mfe_net_usdt": 83.40280964281702,
           "mae_net_usdt": -78.9473004338609,
-          "mfe_at_utc": "2026-07-22T03:00:00+00:00",
+          "mfe_at_utc": "2026-07-22T03:10:00+00:00",
           "mae_at_utc": "2026-07-22T00:40:00+00:00",
-          "excursion_observation_count": 38,
+          "excursion_observation_count": 50,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 66263.9,
-          "unrealized_pnl_usdt": 45.2095102833471
+          "mark_price": 66277.9,
+          "unrealized_pnl_usdt": 41.207218434300586
         },
         {
           "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:SOL:20260722T001000Z:SHADOW",
@@ -1532,61 +1568,25 @@
           "quantity": 242.24710330603753,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 78.019,
+          "max_favorable_price": 77.77,
           "max_adverse_price": 78.536,
-          "mfe_gross_usdt": 100.12324716625632,
+          "mfe_gross_usdt": 160.44277588946196,
           "mae_gross_usdt": -25.118505242964087,
-          "mfe_net_usdt": 77.38332111455608,
+          "mfe_net_usdt": 137.73904155499562,
           "mae_net_usdt": -47.93357634610986,
-          "mfe_at_utc": "2026-07-22T03:00:00+00:00",
+          "mfe_at_utc": "2026-07-22T03:55:00+00:00",
           "mae_at_utc": "2026-07-22T00:45:00+00:00",
-          "excursion_observation_count": 34,
+          "excursion_observation_count": 46,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 78.105,
-          "unrealized_pnl_usdt": 56.53757027970661
-        },
-        {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ADA:20260722T024500Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "ADA",
-          "symbol": "ADAUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 70.50840127665347,
-          "previous_rsi": 61.64126211437932,
-          "leverage": 5.0,
-          "opened_at": "2026-07-22T02:45:00+00:00",
-          "opened_candle_time": "2026-07-22T02:45:00+00:00",
-          "entry_price": 0.17504498400000001,
-          "stop_price": 0.17592020892,
-          "target_price": 0.17329453416,
-          "liquidation_price": 0.20917875588000004,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 108543.52730267323,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 0.17411,
-          "max_adverse_price": 0.17513,
-          "mfe_gross_usdt": 101.48646133156562,
-          "mae_gross_usdt": -9.227936517163343,
-          "mfe_net_usdt": 78.74735320836457,
-          "mae_net_usdt": -32.03347327907364,
-          "mfe_at_utc": "2026-07-22T03:00:00+00:00",
-          "mae_at_utc": "2026-07-22T02:50:00+00:00",
-          "excursion_observation_count": 3,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 0.17415,
-          "unrealized_pnl_usdt": 74.40300707160104
+          "mark_price": 77.994,
+          "unrealized_pnl_usdt": 83.44313240375799
         }
       ],
-      "closed_trades": 51,
-      "winning_trades": 14,
-      "gross_profit_usdt": 1851.5527955899631,
+      "closed_trades": 52,
+      "winning_trades": 15,
+      "gross_profit_usdt": 2015.1025383899641,
       "gross_loss_usdt": 4288.604953394706,
-      "net_pnl_usdt": -2437.0521578047424,
+      "net_pnl_usdt": -2273.502415004741,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1601,7 +1601,7 @@
         "ADA": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "HYPE": {
           "needs_rearm": false,
@@ -1659,18 +1659,18 @@
           "quantity": 0.2854169221411003,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 66226.6,
+          "max_favorable_price": 66130.3,
           "max_adverse_price": 66698.2,
-          "mfe_gross_usdt": 97.80766413020329,
+          "mfe_gross_usdt": 125.2933137323921,
           "mae_gross_usdt": -36.794956351537124,
-          "mfe_net_usdt": 75.06634872868142,
+          "mfe_net_usdt": 102.56848972063153,
           "mae_net_usdt": -59.617033325348046,
-          "mfe_at_utc": "2026-07-22T03:00:00+00:00",
+          "mfe_at_utc": "2026-07-22T03:10:00+00:00",
           "mae_at_utc": "2026-07-22T00:40:00+00:00",
-          "excursion_observation_count": 36,
+          "excursion_observation_count": 48,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 66263.9,
-          "unrealized_pnl_usdt": 64.4139099021042
+          "mark_price": 66277.9,
+          "unrealized_pnl_usdt": 60.41567548998279
         },
         {
           "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:DOGE:20260722T001000Z:SHADOW",
@@ -1695,18 +1695,18 @@
           "quantity": 258133.66965705008,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 0.07335,
+          "max_favorable_price": 0.07319,
           "max_adverse_price": 0.07386,
-          "mfe_gross_usdt": 65.89533065537637,
+          "mfe_gross_usdt": 107.1967178005027,
           "mae_gross_usdt": -65.75284086971828,
-          "mfe_net_usdt": 43.1348678537696,
+          "mfe_net_usdt": 84.46103583118301,
           "mae_net_usdt": -88.59229257424012,
-          "mfe_at_utc": "2026-07-22T01:20:00+00:00",
+          "mfe_at_utc": "2026-07-22T03:10:00+00:00",
           "mae_at_utc": "2026-07-22T00:45:00+00:00",
-          "excursion_observation_count": 34,
+          "excursion_observation_count": 46,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 0.07344,
-          "unrealized_pnl_usdt": 19.88889836647187
+          "mark_price": 0.07332,
+          "unrealized_pnl_usdt": 50.8835243495355
         },
         {
           "trade_id": "RSI5_SHORT_RSI75_5X_WIDE:SOL:20260722T001000Z:SHADOW",
@@ -1731,18 +1731,18 @@
           "quantity": 242.24710330603753,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0,
-          "max_favorable_price": 78.019,
+          "max_favorable_price": 77.77,
           "max_adverse_price": 78.536,
-          "mfe_gross_usdt": 100.12324716625632,
+          "mfe_gross_usdt": 160.44277588946196,
           "mae_gross_usdt": -25.118505242964087,
-          "mfe_net_usdt": 77.38332111455608,
+          "mfe_net_usdt": 137.73904155499562,
           "mae_net_usdt": -47.93357634610986,
-          "mfe_at_utc": "2026-07-22T03:00:00+00:00",
+          "mfe_at_utc": "2026-07-22T03:55:00+00:00",
           "mae_at_utc": "2026-07-22T00:45:00+00:00",
-          "excursion_observation_count": 34,
+          "excursion_observation_count": 46,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 78.105,
-          "unrealized_pnl_usdt": 56.53757027970661
+          "mark_price": 77.994,
+          "unrealized_pnl_usdt": 83.44313240375799
         }
       ],
       "closed_trades": 27,
