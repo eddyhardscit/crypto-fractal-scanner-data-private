@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-22T11:08:33+00:00",
+  "generated_utc": "2026-07-22T12:08:33+00:00",
   "leveraged_open_positions": 156,
   "note": "Somma di portafogli Paper indipendenti; non rappresenta ancora un singolo conto live.",
   "risk_model_version": "block4_5_v1",
@@ -8,8 +8,8 @@
       "affected_positions": 96,
       "direction": "DOWN",
       "estimated_liquidations": 0,
-      "estimated_loss_eur": 16041.949940508879,
-      "margin_at_risk_eur": 72652.30435216974,
+      "estimated_loss_eur": 17143.03148130616,
+      "margin_at_risk_eur": 78579.23551064431,
       "scenario": "DOWN_10",
       "shock_pct": 10.0
     },
@@ -17,8 +17,8 @@
       "affected_positions": 96,
       "direction": "DOWN",
       "estimated_liquidations": 0,
-      "estimated_loss_eur": 32083.899881017758,
-      "margin_at_risk_eur": 72652.30435216974,
+      "estimated_loss_eur": 34286.06296261232,
+      "margin_at_risk_eur": 78579.23551064431,
       "scenario": "DOWN_20",
       "shock_pct": 20.0
     },
@@ -26,17 +26,17 @@
       "affected_positions": 96,
       "direction": "DOWN",
       "estimated_liquidations": 1,
-      "estimated_loss_eur": 48142.083036752985,
-      "margin_at_risk_eur": 72652.30435216974,
+      "estimated_loss_eur": 51445.32765914486,
+      "margin_at_risk_eur": 78579.23551064431,
       "scenario": "DOWN_30",
       "shock_pct": 30.0
     },
     {
       "affected_positions": 96,
       "direction": "DOWN",
-      "estimated_liquidations": 23,
-      "estimated_loss_eur": 61144.82162188565,
-      "margin_at_risk_eur": 72652.30435216974,
+      "estimated_liquidations": 19,
+      "estimated_loss_eur": 65717.75716687003,
+      "margin_at_risk_eur": 78579.23551064431,
       "scenario": "DOWN_40",
       "shock_pct": 40.0
     },
