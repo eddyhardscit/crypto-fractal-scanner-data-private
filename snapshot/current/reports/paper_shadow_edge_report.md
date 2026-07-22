@@ -1,14 +1,14 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-22T09:53:55+00:00
+Generato: 2026-07-22T10:54:21+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **875**
-- Trade Shadow/Research chiusi: **1678**
-- Eventi Shadow già presi dai Paper: **563**
+- Trade Paper chiusi nei conti confrontati: **877**
+- Trade Shadow/Research chiusi: **1679**
+- Eventi Shadow già presi dai Paper: **564**
 - Eventi Shadow saltati dai Paper: **1115**
 - Profili con filtro Paper utile: **5**
 - Profili in cui il Paper potrebbe scartare edge: **5**
@@ -52,7 +52,7 @@ Generato: 2026-07-22T09:53:55+00:00
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 8 | 9 | 7 | 2 | 0,04R | 1,54R | -1,50R | 0,36R | +0,32R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 5 | 8 | 3 | 5 | -0,05R | -0,48R | +0,43R | -0,53R | -0,48R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | Combo Adaptive — 75% a 2R + runner 3R | 6 | 8 | 4 | 4 | -0,07R | -1,04R | +0,96R | 0,06R | +0,13R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_TP3_V1 | Combo Adaptive — target pieno 3R | 5 | 8 | 4 | 4 | -0,07R | -1,04R | +0,96R | -0,30R | -0,23R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_TP3_V1 | Combo Adaptive — target pieno 3R | 6 | 8 | 4 | 4 | -0,07R | -1,04R | +0,96R | 0,00R | +0,08R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 6 | 7 | 6 | 1 | -0,04R | -1,40R | +1,36R | -0,59R | -0,54R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | Rapida V3 — Long Only | 7 | 7 | 4 | 3 | -0,49R | -1,11R | +0,62R | -0,16R | +0,33R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | Rapida V3 — qualità completa + profit lock | 6 | 6 | 5 | 1 | -0,62R | -1,09R | +0,47R | -0,48R | +0,14R | CAMPIONE INSUFFICIENTE |
@@ -110,7 +110,7 @@ Generato: 2026-07-22T09:53:55+00:00
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 34 | 75 | 29 | 46 | -1,48% | -0,55% | -0,93% | -0,96% | +0,53% | SELEZIONE DA RIVEDERE |
 | SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 34 | 75 | 29 | 46 | -2,97% | -1,11% | -1,86% | -1,91% | +1,06% | SELEZIONE DA RIVEDERE |
-| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 21 | 54 | 13 | 41 | -0,39% | -1,14% | +0,75% | -0,63% | -0,24% | SELEZIONE POSITIVA |
+| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 22 | 55 | 14 | 41 | -0,59% | -1,14% | +0,55% | -0,75% | -0,16% | SELEZIONE POSITIVA |
 | SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 19 | 34 | 17 | 17 | -1,69% | -0,26% | -1,44% | -1,53% | +0,16% | SELEZIONE DA RIVEDERE |
 | SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 19 | 34 | 17 | 17 | -3,39% | -0,52% | -2,87% | -3,06% | +0,33% | SELEZIONE DA RIVEDERE |
 | SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 13 | 30 | 10 | 20 | 0,38% | -0,87% | +1,25% | -0,04% | -0,42% | FILTRO PAPER UTILE |
@@ -137,7 +137,7 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 45 | 0,00% | 0,00 | -3,90% | -2,99% | ALTA |
 | SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 22 | 0,00% | 0,00 | -3,90% | -2,93% | ALTA |
 | SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 16 | 0,00% | 0,00 | -3,20% | -2,75% | MEDIA |
-| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 35 | 0,00% | 0,00 | -3,20% | -2,24% | ALTA |
+| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 36 | 0,00% | 0,00 | -3,20% | -2,20% | ALTA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 12 | 16,67% | 0,13 | -2,84% | -1,93% | MEDIA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 13 | 15,38% | 0,17 | -2,75% | -1,83% | MEDIA |
 | SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 9 | 22,22% | 0,18 | -2,49% | -1,51% | MEDIA |
@@ -149,9 +149,9 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | Bilanciata 1H V3 Filtered | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 13 | 15,38% | 0,33 | -0,60R | -0,78R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | PEPE | 10 | 10,00% | 0,14 | -0,85R | -0,76R | MEDIA |
 | SHADOW_COMBO_TREND | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE | 8 | 12,50% | 0,29 | -0,67R | -0,75R | MEDIA |
-| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 10 | 20,00% | 0,34 | -1,70% | -0,74% | MEDIA |
 | Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 12 | 8,33% | 0,19 | -0,77R | -0,73R | MEDIA |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 10 | 20,00% | 0,45 | -0,46R | -0,71R | MEDIA |
+| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 10 | 20,00% | 0,34 | -1,70% | -0,70% | MEDIA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 23 | 13,04% | 0,27 | -0,68R | -0,68R | ALTA |
 | Forza relativa 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | <5 | 23 | 8,70% | 0,21 | -0,71R | -0,67R | ALTA |
 | SHADOW_SCANNER_TOP5_BTC | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 13 | 23,08% | 0,64 | -0,27R | -0,66R | MEDIA |

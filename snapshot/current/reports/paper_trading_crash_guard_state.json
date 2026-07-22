@@ -30,21 +30,21 @@
   "previous_level": "NORMAL",
   "schema_version": 1,
   "seen_blocked_signal_ids": [
-    "9fb3160cf223ef7ce49b",
-    "58c590fa3dd5e43dacc2",
     "50bb41ffb7884f62da4b",
     "c7de40fb38c091f1caf0",
-    "1237bd21ffade47877af",
-    "f85d64e4325709551748",
-    "363318e9d6a45cb1f557",
-    "8943716f91bec819b4e6",
-    "9f50309c0d7735516f75",
+    "62a0b45c7b8086e1533b",
     "0940dd792f4a5756ab34",
     "8a2a0087e216f2f825fe",
-    "bb2e02a583d983fae39e",
+    "9fb3160cf223ef7ce49b",
+    "1237bd21ffade47877af",
+    "9f50309c0d7735516f75",
     "0ab9e18cc6de421e30f5",
     "8c6b182f021d7ed83e03",
-    "62a0b45c7b8086e1533b"
+    "8943716f91bec819b4e6",
+    "f85d64e4325709551748",
+    "bb2e02a583d983fae39e",
+    "363318e9d6a45cb1f557",
+    "58c590fa3dd5e43dacc2"
   ],
   "totals": {
     "avoided_liquidations": 0,
@@ -53,5 +53,5 @@
     "guard_value_r": 14.14000000000001,
     "missed_profit_r": 0.0
   },
-  "updated_utc": "2026-07-22T10:08:34+00:00"
+  "updated_utc": "2026-07-22T11:08:33+00:00"
 }

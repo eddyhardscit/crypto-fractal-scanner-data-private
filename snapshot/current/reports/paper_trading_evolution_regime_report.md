@@ -1,6 +1,6 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-22T10:08:47+00:00
+Generato: 2026-07-22T11:08:46+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
@@ -23,10 +23,10 @@ Generato: 2026-07-22T10:08:47+00:00
 | 4 | SHADOW_DOGE_DONCHIAN_1H | shadow-doge-donchian-1h | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.524 | 0.00 |
 | 5 | SHADOW_ETH_BOLLINGER_1H | shadow-eth-bollinger-1h | INSUFFICIENT | 76.6 | 1 | 99.00 | 0.309 | 0.00 |
 | 6 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | shadow-combo-adaptive-runner25-v1 | INSUFFICIENT | 75.5 | 3 | 2.67 | 0.574 | 1.03 |
-| 7 | SHADOW_COMBO_ADAPTIVE | shadow-combo-adaptive | OBSERVING | 74.7 | 17 | 2.08 | 0.346 | 1.10 |
-| 8 | SHADOW_COMBO_MEAN_REVERSION | shadow-combo-mean-reversion | INSUFFICIENT | 73.2 | 6 | 2.17 | 0.413 | 1.10 |
-| 9 | SHADOW_1H_FAST_V2 | shadow-1h-fast-v2 | INSUFFICIENT | 70.6 | 2 | 11.45 | 0.628 | 0.12 |
-| 10 | SHADOW_SCANNER_TOP5_BTC | shadow-scanner-top5-btc | OBSERVING | 69.1 | 17 | 1.87 | 0.328 | 3.09 |
+| 7 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | shadow-combo-adaptive-tp3-v1 | INSUFFICIENT | 75.5 | 3 | 2.35 | 0.465 | 1.03 |
+| 8 | SHADOW_COMBO_ADAPTIVE | shadow-combo-adaptive | OBSERVING | 74.7 | 17 | 2.08 | 0.346 | 1.10 |
+| 9 | SHADOW_COMBO_MEAN_REVERSION | shadow-combo-mean-reversion | INSUFFICIENT | 73.2 | 6 | 2.17 | 0.413 | 1.10 |
+| 10 | SHADOW_1H_FAST_V2 | shadow-1h-fast-v2 | INSUFFICIENT | 70.6 | 2 | 11.45 | 0.628 | 0.12 |
 
 ## Sicurezza
 
