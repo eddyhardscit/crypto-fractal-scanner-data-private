@@ -1,12 +1,12 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-23T20:10:47+00:00
+Generato: 2026-07-23T21:11:02+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **1150**
+- Trade Paper chiusi nei conti confrontati: **1151**
 - Trade Shadow/Research chiusi: **2327**
 - Eventi Shadow già presi dai Paper: **762**
 - Eventi Shadow saltati dai Paper: **1565**
@@ -57,7 +57,7 @@ Generato: 2026-07-23T20:10:47+00:00
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | Rapida V3 — Long + no HIGH + score <7,5 | 13 | 15 | 12 | 3 | -0,24R | -0,25R | +0,01R | -0,33R | -0,09R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 8 | 14 | 3 | 11 | -0,04R | -0,47R | +0,43R | -0,35R | -0,30R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | Master Adaptive Expanded V1 | 7 | 13 | 5 | 8 | -0,49R | -0,68R | +0,19R | -0,65R | -0,16R | CAMPIONE INSUFFICIENTE |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 18 | 13 | 4 | 9 | -1,07R | -0,73R | -0,34R | -0,36R | +0,71R | CAMPIONE INSUFFICIENTE |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 19 | 13 | 4 | 9 | -1,07R | -0,73R | -0,34R | -0,32R | +0,75R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | Master Adaptive No Alt V1 | 5 | 13 | 3 | 10 | -1,08R | -0,76R | -0,33R | -1,09R | -0,01R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | Master Adaptive Runner25 V1 | 5 | 13 | 3 | 10 | -1,08R | -0,66R | -0,43R | -1,09R | -0,01R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | Master Adaptive Strict3 V1 | 9 | 13 | 7 | 6 | -1,06R | -0,56R | -0,49R | -0,83R | +0,23R | CAMPIONE INSUFFICIENTE |
