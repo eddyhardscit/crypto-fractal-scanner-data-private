@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-23T12:23:36+00:00",
+  "generated_utc": "2026-07-23T12:38:34+00:00",
   "leveraged_open_positions": 174,
   "note": "Somma di portafogli Paper indipendenti; non rappresenta ancora un singolo conto live.",
   "risk_model_version": "block4_5_v1",
@@ -34,7 +34,7 @@
     {
       "affected_positions": 134,
       "direction": "DOWN",
-      "estimated_liquidations": 45,
+      "estimated_liquidations": 46,
       "estimated_loss_eur": 70309.39407375811,
       "margin_at_risk_eur": 82199.23399490563,
       "scenario": "DOWN_40",
