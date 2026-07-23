@@ -3,10 +3,10 @@
   "ok": true,
   "tag": "paper-trading-v1",
   "asset": "paper-trading-state.zip",
-  "bytes": 8394838,
-  "asset_id": 487401952,
-  "permanent_trade_rows": 919,
-  "permanent_trade_asset_id": 487401904,
-  "permanent_signal_rows": 1649,
-  "permanent_signal_asset_id": 487401925
+  "bytes": 8529244,
+  "asset_id": 487457037,
+  "permanent_trade_rows": 923,
+  "permanent_trade_asset_id": 487456960,
+  "permanent_signal_rows": 1671,
+  "permanent_signal_asset_id": 487457006
 }
