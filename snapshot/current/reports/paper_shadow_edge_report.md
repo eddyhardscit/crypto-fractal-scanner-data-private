@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-23T07:04:22+00:00
+Generato: 2026-07-23T08:05:21+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **1011**
-- Trade Shadow/Research chiusi: **1923**
+- Trade Paper chiusi nei conti confrontati: **1015**
+- Trade Shadow/Research chiusi: **1926**
 - Eventi Shadow già presi dai Paper: **662**
-- Eventi Shadow saltati dai Paper: **1261**
+- Eventi Shadow saltati dai Paper: **1264**
 - Profili con filtro Paper utile: **9**
 - Profili in cui il Paper potrebbe scartare edge: **7**
 - Profili con campione ancora insufficiente: **68**
@@ -21,8 +21,8 @@ Generato: 2026-07-23T07:04:22+00:00
 
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| Rapida 1H V1 | Rapida 1H V1 — madre | 54 | 155 | 31 | 124 | -0,28R | -0,03R | -0,25R | -0,08R | +0,20R | SELEZIONE DA RIVEDERE |
-| Bilanciata 1H V1 | Bilanciata 1H V1 | 31 | 132 | 9 | 123 | -0,49R | -0,00R | -0,49R | 0,14R | +0,63R | SELEZIONE DA RIVEDERE |
+| Rapida 1H V1 | Rapida 1H V1 — madre | 55 | 155 | 31 | 124 | -0,28R | -0,03R | -0,25R | -0,10R | +0,18R | SELEZIONE DA RIVEDERE |
+| Bilanciata 1H V1 | Bilanciata 1H V1 | 31 | 133 | 9 | 124 | -0,49R | -0,01R | -0,49R | 0,14R | +0,63R | SELEZIONE DA RIVEDERE |
 | Forza relativa 1H V1 | Forza relativa 1H V1 | 22 | 93 | 6 | 87 | -0,72R | 0,01R | -0,73R | -0,06R | +0,65R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 20 | 74 | 12 | 62 | 0,19R | 0,16R | +0,04R | 0,24R | +0,04R | NESSUN EDGE CHIARO |
 | Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 47 | 66 | 30 | 36 | 0,11R | -0,14R | +0,25R | -0,00R | -0,11R | FILTRO PAPER UTILE |
@@ -36,15 +36,15 @@ Generato: 2026-07-23T07:04:22+00:00
 | MAIN | Principale 4H | 17 | 39 | 13 | 26 | -0,10R | -0,10R | -0,01R | -0,17R | -0,07R | NESSUN EDGE CHIARO |
 | SHADOW_4H_WIDE | Ampia 4H | 12 | 38 | 9 | 29 | 0,25R | -0,23R | +0,48R | 0,15R | -0,09R | FILTRO PAPER UTILE |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 17 | 33 | 11 | 22 | 0,53R | -0,28R | +0,81R | 0,19R | -0,34R | FILTRO PAPER UTILE |
-| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 19 | 32 | 12 | 20 | -0,71R | -0,08R | -0,63R | -0,30R | +0,41R | SELEZIONE DA RIVEDERE |
+| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 19 | 33 | 12 | 21 | -0,71R | -0,09R | -0,63R | -0,30R | +0,41R | SELEZIONE DA RIVEDERE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 24 | 31 | 17 | 14 | 0,29R | 0,10R | +0,18R | 0,05R | -0,24R | NESSUN EDGE CHIARO |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 20 | 29 | 20 | 9 | 0,17R | -0,24R | +0,41R | 0,12R | -0,05R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 17 | 24 | 7 | 17 | 0,33R | -0,48R | +0,82R | -0,03R | -0,36R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 20 | 23 | 13 | 10 | 0,18R | 0,44R | -0,26R | 0,01R | -0,17R | PAPER SCARTA EDGE |
-| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 22 | 23 | 12 | 11 | 0,15R | -0,60R | +0,76R | -0,13R | -0,29R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 23 | 23 | 12 | 11 | 0,15R | -0,60R | +0,76R | -0,18R | -0,33R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 20 | 23 | 16 | 7 | 0,01R | -1,06R | +1,06R | -0,18R | -0,19R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 19 | 23 | 13 | 10 | 0,06R | -0,81R | +0,88R | -0,16R | -0,22R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 16 | 21 | 6 | 15 | -0,11R | -0,67R | +0,56R | -0,17R | -0,07R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 17 | 21 | 6 | 15 | -0,11R | -0,67R | +0,56R | -0,23R | -0,12R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 18 | 21 | 12 | 9 | 0,16R | -0,78R | +0,94R | -0,11R | -0,27R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 10 | 20 | 6 | 14 | -0,06R | -0,43R | +0,37R | -0,38R | -0,31R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 8 | 17 | 7 | 10 | -0,21R | -0,76R | +0,55R | -0,21R | +0,00R | CAMPIONE INSUFFICIENTE |
@@ -71,7 +71,7 @@ Generato: 2026-07-23T07:04:22+00:00
 | Rapida 1H V2 | Rapida 1H V2 | 5 | 5 | 5 | 0 | -0,62R | 0,00R | -0,62R | -0,22R | +0,41R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | Top 5 + BTC — BTC 2–3 | 2 | 5 | 2 | 3 | 0,53R | -1,04R | +1,57R | 0,04R | -0,48R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | Top 5 + BTC — BTC≤3 | 2 | 5 | 2 | 3 | 0,53R | -1,04R | +1,57R | 0,04R | -0,48R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 3 | 4 | 1 | 3 | -1,02R | 0,59R | -1,61R | -0,41R | +0,61R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 4 | 4 | 1 | 3 | -1,02R | 0,59R | -1,61R | -0,58R | +0,44R | CAMPIONE INSUFFICIENTE |
 | SHADOW_BTC_EMA_1H | Btc Ema 1H | 4 | 4 | 4 | 0 | -0,36R | 0,00R | -0,36R | -0,32R | +0,04R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | Combo Adaptive — Quality7 + Regime + parziale 1R | 3 | 3 | 3 | 0 | -1,07R | 0,00R | -1,07R | -1,07R | -0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | Combo Adaptive — Quality7 + Regime | 3 | 3 | 3 | 0 | -1,07R | 0,00R | -1,07R | -1,07R | -0,00R | CAMPIONE INSUFFICIENTE |
@@ -116,7 +116,7 @@ Generato: 2026-07-23T07:04:22+00:00
 | SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 17 | 36 | 14 | 22 | 0,43% | -0,40% | +0,83% | 0,10% | -0,33% | FILTRO PAPER UTILE |
 | RSI 25 · leva 10× | RSI 25 · leva 10× | 6 | 17 | 6 | 11 | 1,11% | -1,17% | +2,28% | 1,11% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 20× | RSI 25 · leva 20× | 6 | 17 | 6 | 11 | 2,22% | -2,35% | +4,57% | 2,22% | +0,00% | CAMPIONE INSUFFICIENTE |
-| RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 3 | 14 | 3 | 11 | 2,33% | -0,03% | +2,36% | 2,33% | +0,00% | CAMPIONE INSUFFICIENTE |
+| RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 3 | 15 | 3 | 12 | 2,33% | -0,29% | +2,62% | 2,33% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 10× | RSI 20 · leva 10× | 4 | 4 | 4 | 0 | -2,02% | 0,00% | -2,02% | -2,02% | -0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 20× | RSI 20 · leva 20× | 4 | 4 | 4 | 0 | -4,05% | 0,00% | -4,05% | -4,05% | -0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 5× · Wide | RSI 20 · leva 5× · Wide | 3 | 4 | 3 | 1 | -3,20% | -0,17% | -3,03% | -3,20% | 0,00% | CAMPIONE INSUFFICIENTE |
