@@ -11,14 +11,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Segnali contrastanti tra trend BTC, breadth e forza delle altcoin.
 - BTC trend score: **3,00**; ADX: **29,34**; breadth sopra EMA50: **50,00%**
-- Mediana alt vs BTC: **0,64%**; dispersione: **12,08%**
+- Mediana alt vs BTC: **0,49%**; dispersione: **9,20%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **418**
 - Trade research chiusi: **1489**
 - Eventi di mercato indipendenti chiusi: **470**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **5902**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **5955**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
