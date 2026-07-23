@@ -1,4 +1,4 @@
-generated_utc=2026-07-23T07:38:13Z
+generated_utc=2026-07-23T07:38:40Z
 hostname=kucoin-sol-live-01
 files_copied=209
 operational_files=107
@@ -39,7 +39,7 @@ reports/paper_trading_crash_guard_state.json | 13249 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_crash_guard_stress_test.json | 2292 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_cycle_summary.json | 8858 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_equity.csv | 8895015 byte | 2026-07-23 07:38 UTC
-reports/paper_trading_evolution_candidate_registry.json | 895 byte | 2026-07-23 07:38 UTC
+reports/paper_trading_evolution_candidate_registry.json | 334 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_evolution_candidate_report.md | 972 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_evolution_candidate_state.json | 338 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_evolution_candidate_validation_history.csv | 166 byte | 2026-07-23 07:38 UTC
@@ -97,7 +97,7 @@ reports/paper_trading_shadow_metrics.csv | 46042 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_signal_diagnostics.json | 1038016 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_signal_log.csv | 348356 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_state.json | 779451 byte | 2026-07-23 07:38 UTC
-reports/paper_trading_storage_status.json | 297 byte | 2026-07-23 07:38 UTC
+reports/paper_trading_storage_status.json | 5789 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_trade_log_before_repair.csv | 5685 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_trade_log.csv | 747025 byte | 2026-07-23 07:38 UTC
 reports/paper_trading_trade_log_repair_status.json | 4595 byte | 2026-07-23 07:38 UTC
@@ -141,7 +141,7 @@ scanner/classic_visual_SOL.png | 314051 byte | 2026-07-23 07:38 UTC
 scanner/daily_change_report.md | 3468 byte | 2026-07-23 07:38 UTC
 scanner/data_quality_coherence_report.md | 3679 byte | 2026-07-23 07:38 UTC
 scanner/decision_report.md | 3839 byte | 2026-07-23 07:38 UTC
-scanner/doge_rejection_short_report.md | 1605 byte | 2026-07-23 07:38 UTC
+scanner/doge_rejection_short_report.md | 1632 byte | 2026-07-23 07:38 UTC
 scanner/exchange_microstructure_BTC.png | 142297 byte | 2026-07-23 07:38 UTC
 scanner/exchange_microstructure_DOGE.png | 142529 byte | 2026-07-23 07:38 UTC
 scanner/exchange_microstructure_report.md | 8139 byte | 2026-07-23 07:38 UTC
@@ -158,12 +158,12 @@ scanner/extreme_cases_DOGE_negative_spike_before_dump.png | 152043 byte | 2026-0
 scanner/extreme_cases_DOGE_negative_spike_vs_low.png | 100868 byte | 2026-07-23 07:38 UTC
 scanner/extreme_cases_DOGE_negative_top_cases.png | 309106 byte | 2026-07-23 07:38 UTC
 scanner/extreme_cases_path_report.md | 1243 byte | 2026-07-23 07:38 UTC
-scanner/forecast_30d_history.md | 11964 byte | 2026-07-23 07:38 UTC
+scanner/forecast_30d_history.md | 12796 byte | 2026-07-23 07:38 UTC
 scanner/fractal_path_accuracy_report.md | 5856 byte | 2026-07-23 07:38 UTC
 scanner/fractal_path_tracker.md | 6937 byte | 2026-07-23 07:38 UTC
 scanner/global_confluence_report.md | 12586 byte | 2026-07-23 07:38 UTC
 scanner/global_weight_calibration_report.md | 13450 byte | 2026-07-23 07:38 UTC
-scanner/latest_report.md | 187899 byte | 2026-07-23 07:38 UTC
+scanner/latest_report.md | 272474 byte | 2026-07-23 07:38 UTC
 scanner/liquidation_report.md | 6129 byte | 2026-07-23 07:38 UTC
 scanner/macro_cycle_followup_fix_status.md | 594 byte | 2026-07-23 07:38 UTC
 scanner/macro_cycle_relative_strength_installation_status.md | 475 byte | 2026-07-23 07:38 UTC
@@ -175,26 +175,26 @@ scanner/module_signal_tracker.md | 22531 byte | 2026-07-23 07:38 UTC
 scanner/module_signal_tracker_report.md | 22531 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_capital_allocator_report.md | 843 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_comparative_report.md | 9726 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_crash_guard_report.md | 1384 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_crash_guard_report.md | 1385 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_evolution_candidate_report.md | 972 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_evolution_candidate_validation_report.md | 1059 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_evolution_control_tower_report.md | 811 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_evolution_live_release_report.md | 1431 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_evolution_memory_report.md | 1135 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_evolution_memory_report.md | 1211 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_evolution_post_promotion_report.md | 1017 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_evolution_promotion_report.md | 858 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_evolution_regime_report.md | 2021 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_exit_analysis.md | 1566 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_live.md | 70939 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_report.md | 70939 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_evolution_regime_report.md | 2007 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_exit_analysis.md | 1576 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_live.md | 69383 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_report.md | 69383 byte | 2026-07-23 07:38 UTC
 scanner/paper_trading_shadow_evaluation_report.md | 2802 byte | 2026-07-23 07:38 UTC
-scanner/paper_trading_shadow_exit_report.md | 3148 byte | 2026-07-23 07:38 UTC
+scanner/paper_trading_shadow_exit_report.md | 3163 byte | 2026-07-23 07:38 UTC
 scanner/price_coherence_sync_report.md | 453 byte | 2026-07-23 07:38 UTC
 scanner/relative_strength_btc_report.md | 5190 byte | 2026-07-23 07:38 UTC
 scanner/relative_strength_DOGEBTC.png | 320356 byte | 2026-07-23 07:38 UTC
 scanner/relative_strength_SOLBTC.png | 332392 byte | 2026-07-23 07:38 UTC
 scanner/report_health_audit.md | 1178 byte | 2026-07-23 07:38 UTC
-scanner/research_all_signals_report.md | 31059 byte | 2026-07-23 07:38 UTC
+scanner/research_all_signals_report.md | 38080 byte | 2026-07-23 07:38 UTC
 scanner/risk_calibration_report.md | 3227 byte | 2026-07-23 07:38 UTC
 scanner/rsi_multitimeframe_divergence_report.md | 5174 byte | 2026-07-23 07:38 UTC
 scanner/rsi_top_cycle_report.md | 3798 byte | 2026-07-23 07:38 UTC
@@ -208,7 +208,7 @@ scanner/scanner_forecast_history_SOL.png | 170818 byte | 2026-07-23 07:38 UTC
 scanner/scanner_forecast_path_report.md | 4002 byte | 2026-07-23 07:38 UTC
 scanner/scanner_forecast_SOL.png | 145018 byte | 2026-07-23 07:38 UTC
 scanner/scanner_forecast_tracker_report.md | 7028 byte | 2026-07-23 07:38 UTC
-scanner/sol_btc_fractal_history.md | 8549 byte | 2026-07-23 07:38 UTC
+scanner/sol_btc_fractal_history.md | 8977 byte | 2026-07-23 07:38 UTC
 scanner/sol_onchain_metrics_report.md | 6674 byte | 2026-07-23 07:38 UTC
 scanner/sol_spot_adaptive_dashboard.md | 3011 byte | 2026-07-23 07:38 UTC
 scanner/sol_spot_adaptive_installation_status.md | 694 byte | 2026-07-23 07:38 UTC
