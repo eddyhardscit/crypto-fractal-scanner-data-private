@@ -1,18 +1,18 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-23T08:05:21+00:00
+Generato: 2026-07-23T12:08:03+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **1015**
-- Trade Shadow/Research chiusi: **1926**
-- Eventi Shadow già presi dai Paper: **662**
-- Eventi Shadow saltati dai Paper: **1264**
-- Profili con filtro Paper utile: **9**
-- Profili in cui il Paper potrebbe scartare edge: **7**
-- Profili con campione ancora insufficiente: **68**
+- Trade Paper chiusi nei conti confrontati: **1019**
+- Trade Shadow/Research chiusi: **1954**
+- Eventi Shadow già presi dai Paper: **664**
+- Eventi Shadow saltati dai Paper: **1290**
+- Profili con filtro Paper utile: **10**
+- Profili in cui il Paper potrebbe scartare edge: **6**
+- Profili con campione ancora insufficiente: **67**
 
 **Δ selezione** = expectancy dei segnali presi meno expectancy dei segnali saltati. Positivo significa che la selezione Paper sta privilegiando segnali migliori.
 **Δ gestione** = risultato effettivo Paper meno risultato Research degli stessi eventi. Positivo suggerisce che trailing, size, costi o gestione dell’uscita stanno migliorando l’esecuzione.
@@ -21,17 +21,17 @@ Generato: 2026-07-23T08:05:21+00:00
 
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| Rapida 1H V1 | Rapida 1H V1 — madre | 55 | 155 | 31 | 124 | -0,28R | -0,03R | -0,25R | -0,10R | +0,18R | SELEZIONE DA RIVEDERE |
-| Bilanciata 1H V1 | Bilanciata 1H V1 | 31 | 133 | 9 | 124 | -0,49R | -0,01R | -0,49R | 0,14R | +0,63R | SELEZIONE DA RIVEDERE |
+| Rapida 1H V1 | Rapida 1H V1 — madre | 55 | 156 | 32 | 124 | -0,31R | -0,03R | -0,28R | -0,10R | +0,21R | SELEZIONE DA RIVEDERE |
+| Bilanciata 1H V1 | Bilanciata 1H V1 | 31 | 134 | 9 | 125 | -0,49R | -0,01R | -0,48R | 0,14R | +0,63R | SELEZIONE DA RIVEDERE |
 | Forza relativa 1H V1 | Forza relativa 1H V1 | 22 | 93 | 6 | 87 | -0,72R | 0,01R | -0,73R | -0,06R | +0,65R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 20 | 74 | 12 | 62 | 0,19R | 0,16R | +0,04R | 0,24R | +0,04R | NESSUN EDGE CHIARO |
-| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 47 | 66 | 30 | 36 | 0,11R | -0,14R | +0,25R | -0,00R | -0,11R | FILTRO PAPER UTILE |
+| SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 20 | 75 | 12 | 63 | 0,19R | 0,14R | +0,06R | 0,24R | +0,04R | NESSUN EDGE CHIARO |
+| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 48 | 66 | 30 | 36 | 0,11R | -0,14R | +0,25R | -0,00R | -0,11R | FILTRO PAPER UTILE |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 15 | 64 | 7 | 57 | -0,31R | 0,08R | -0,38R | -0,07R | +0,24R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 28 | 58 | 14 | 44 | 0,09R | 0,38R | -0,29R | 0,36R | +0,27R | PAPER SCARTA EDGE |
+| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 28 | 59 | 14 | 45 | 0,09R | 0,35R | -0,25R | 0,36R | +0,27R | PAPER SCARTA EDGE |
 | SHADOW_COMBO_TREND | Combo Trend | 17 | 57 | 8 | 49 | 0,14R | 0,07R | +0,08R | -0,06R | -0,20R | NESSUN EDGE CHIARO |
-| SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 20 | 45 | 13 | 32 | 0,26R | 0,46R | -0,20R | 0,41R | +0,15R | PAPER SCARTA EDGE |
-| SHADOW_COMBO_SCANNER | Combo Scanner | 21 | 44 | 10 | 34 | -0,27R | 0,56R | -0,83R | -0,09R | +0,18R | PAPER SCARTA EDGE |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 27 | 42 | 11 | 31 | -0,50R | 0,30R | -0,81R | -0,24R | +0,27R | PAPER SCARTA EDGE |
+| SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 20 | 46 | 13 | 33 | 0,26R | 0,41R | -0,15R | 0,41R | +0,15R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_SCANNER | Combo Scanner | 21 | 45 | 10 | 35 | -0,27R | 0,51R | -0,78R | -0,09R | +0,18R | PAPER SCARTA EDGE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 27 | 43 | 11 | 32 | -0,50R | 0,26R | -0,76R | -0,24R | +0,27R | PAPER SCARTA EDGE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 29 | 41 | 18 | 23 | 0,28R | -0,01R | +0,29R | 0,20R | -0,09R | FILTRO PAPER UTILE |
 | MAIN | Principale 4H | 17 | 39 | 13 | 26 | -0,10R | -0,10R | -0,01R | -0,17R | -0,07R | NESSUN EDGE CHIARO |
 | SHADOW_4H_WIDE | Ampia 4H | 12 | 38 | 9 | 29 | 0,25R | -0,23R | +0,48R | 0,15R | -0,09R | FILTRO PAPER UTILE |
@@ -39,39 +39,39 @@ Generato: 2026-07-23T08:05:21+00:00
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 19 | 33 | 12 | 21 | -0,71R | -0,09R | -0,63R | -0,30R | +0,41R | SELEZIONE DA RIVEDERE |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 24 | 31 | 17 | 14 | 0,29R | 0,10R | +0,18R | 0,05R | -0,24R | NESSUN EDGE CHIARO |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 20 | 29 | 20 | 9 | 0,17R | -0,24R | +0,41R | 0,12R | -0,05R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 17 | 24 | 7 | 17 | 0,33R | -0,48R | +0,82R | -0,03R | -0,36R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 17 | 26 | 7 | 19 | 0,33R | -0,55R | +0,88R | -0,03R | -0,36R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 23 | 25 | 13 | 12 | 0,06R | -0,65R | +0,70R | -0,18R | -0,23R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 20 | 24 | 16 | 8 | 0,01R | -1,07R | +1,07R | -0,18R | -0,19R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 19 | 24 | 13 | 11 | 0,06R | -0,84R | +0,91R | -0,16R | -0,22R | FILTRO PAPER UTILE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 20 | 23 | 13 | 10 | 0,18R | 0,44R | -0,26R | 0,01R | -0,17R | PAPER SCARTA EDGE |
-| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 23 | 23 | 12 | 11 | 0,15R | -0,60R | +0,76R | -0,18R | -0,33R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 20 | 23 | 16 | 7 | 0,01R | -1,06R | +1,06R | -0,18R | -0,19R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 19 | 23 | 13 | 10 | 0,06R | -0,81R | +0,88R | -0,16R | -0,22R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 17 | 21 | 6 | 15 | -0,11R | -0,67R | +0,56R | -0,23R | -0,12R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 18 | 21 | 12 | 9 | 0,16R | -0,78R | +0,94R | -0,11R | -0,27R | FILTRO PAPER UTILE |
-| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 10 | 20 | 6 | 14 | -0,06R | -0,43R | +0,37R | -0,38R | -0,31R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 8 | 17 | 7 | 10 | -0,21R | -0,76R | +0,55R | -0,21R | +0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_SCORE_6_75_V1 | Rapida V1 — score 6–7,5 | 19 | 15 | 12 | 3 | 0,16R | -1,06R | +1,21R | -0,11R | -0,26R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 17 | 22 | 6 | 16 | -0,11R | -0,70R | +0,59R | -0,23R | -0,12R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 18 | 22 | 12 | 10 | 0,16R | -0,82R | +0,98R | -0,11R | -0,27R | FILTRO PAPER UTILE |
+| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 10 | 21 | 6 | 15 | -0,06R | -0,48R | +0,42R | -0,38R | -0,31R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 8 | 18 | 7 | 11 | -0,21R | -0,79R | +0,59R | -0,21R | +0,00R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_SCORE_6_75_V1 | Rapida V1 — score 6–7,5 | 19 | 16 | 12 | 4 | 0,16R | -1,08R | +1,24R | -0,11R | -0,26R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | Combo Adaptive — 75% a 2R + runner 3R | 8 | 14 | 4 | 10 | -0,07R | -0,66R | +0,58R | -0,22R | -0,15R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | Combo Adaptive — target pieno 3R | 8 | 14 | 4 | 10 | -0,07R | -0,66R | +0,58R | -0,09R | -0,01R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 5 | 12 | 3 | 9 | -0,05R | -0,41R | +0,36R | -0,53R | -0,48R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | Rapida V3 — Long Only | 10 | 10 | 7 | 3 | -0,38R | -1,11R | +0,73R | -0,20R | +0,18R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 5 | 13 | 3 | 10 | -0,05R | -0,48R | +0,43R | -0,53R | -0,48R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | Rapida V3 — Long Only | 10 | 11 | 7 | 4 | -0,38R | -1,12R | +0,74R | -0,20R | +0,18R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | Rapida V3 — qualità completa + profit lock | 9 | 10 | 8 | 2 | -0,48R | -1,12R | +0,64R | -0,56R | -0,08R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | Rapida V3 — Long + no HIGH + score <7,5 | 9 | 10 | 8 | 2 | -0,48R | -1,12R | +0,64R | -0,33R | +0,14R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 9 | 10 | 8 | 2 | -0,10R | 1,54R | -1,64R | 0,20R | +0,30R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | Rapida V3 — qualità completa + profit lock | 9 | 9 | 8 | 1 | -0,48R | -1,09R | +0,61R | -0,56R | -0,08R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | Rapida V3 — Long + no HIGH + score <7,5 | 9 | 9 | 8 | 1 | -0,48R | -1,09R | +0,61R | -0,33R | +0,14R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 6 | 8 | 2 | 6 | 0,49R | -0,52R | +1,01R | -0,28R | -0,77R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 6 | 9 | 2 | 7 | 0,49R | -0,61R | +1,10R | -0,28R | -0,77R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 6 | 7 | 6 | 1 | -0,04R | -1,40R | +1,36R | -0,59R | -0,54R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | Master Adaptive Expanded V1 | 6 | 7 | 5 | 2 | -0,49R | -1,05R | +0,55R | -0,58R | -0,09R | CAMPIONE INSUFFICIENTE |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 10 | 7 | 3 | 4 | -1,08R | -1,06R | -0,03R | -0,62R | +0,47R | CAMPIONE INSUFFICIENTE |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 13 | 7 | 3 | 4 | -1,08R | -1,06R | -0,03R | -0,39R | +0,70R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | Master Adaptive No Alt V1 | 4 | 7 | 3 | 4 | -1,08R | -1,05R | -0,03R | -1,08R | -0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | Master Adaptive Runner25 V1 | 4 | 7 | 3 | 4 | -1,08R | -1,06R | -0,03R | -1,08R | -0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | Master Adaptive Strict3 V1 | 5 | 7 | 4 | 3 | -1,07R | -1,05R | -0,02R | -1,12R | -0,05R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_V1 | Master Adaptive V1 | 4 | 7 | 3 | 4 | -1,08R | -1,06R | -0,03R | -1,08R | -0,00R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | Top 5 + BTC — BTC 2–3 | 2 | 6 | 2 | 4 | 0,53R | -1,06R | +1,58R | 0,04R | -0,48R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | Top 5 + BTC — BTC≤3 | 2 | 6 | 2 | 4 | 0,53R | -1,06R | +1,58R | 0,04R | -0,48R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | Top 5 + BTC — Guard + MFE | 7 | 6 | 5 | 1 | -1,06R | -1,08R | +0,02R | -0,83R | +0,22R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | Top 5 + BTC — Guard | 5 | 6 | 5 | 1 | -1,06R | -1,08R | +0,02R | -1,13R | -0,07R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | Top 5 + BTC — 75% a 2,2R + runner 3R | 6 | 6 | 2 | 4 | 0,93R | -1,05R | +1,98R | -0,05R | -0,98R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_TP3_V1 | Top 5 + BTC — target pieno 3R | 6 | 6 | 2 | 4 | 0,93R | -1,05R | +1,98R | -0,05R | -0,98R | CAMPIONE INSUFFICIENTE |
 | Rapida 1H V2 | Rapida 1H V2 | 5 | 5 | 5 | 0 | -0,62R | 0,00R | -0,62R | -0,22R | +0,41R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | Top 5 + BTC — BTC 2–3 | 2 | 5 | 2 | 3 | 0,53R | -1,04R | +1,57R | 0,04R | -0,48R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | Top 5 + BTC — BTC≤3 | 2 | 5 | 2 | 3 | 0,53R | -1,04R | +1,57R | 0,04R | -0,48R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 4 | 4 | 1 | 3 | -1,02R | 0,59R | -1,61R | -0,58R | +0,44R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 4 | 5 | 1 | 4 | -1,02R | 0,17R | -1,19R | -0,58R | +0,44R | CAMPIONE INSUFFICIENTE |
 | SHADOW_BTC_EMA_1H | Btc Ema 1H | 4 | 4 | 4 | 0 | -0,36R | 0,00R | -0,36R | -0,32R | +0,04R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | Combo Adaptive — Quality7 + Regime + parziale 1R | 3 | 3 | 3 | 0 | -1,07R | 0,00R | -1,07R | -1,07R | -0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | Combo Adaptive — Quality7 + Regime | 3 | 3 | 3 | 0 | -1,07R | 0,00R | -1,07R | -1,07R | -0,00R | CAMPIONE INSUFFICIENTE |
@@ -108,8 +108,8 @@ Generato: 2026-07-23T08:05:21+00:00
 
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 43 | 88 | 36 | 52 | -1,33% | -0,36% | -0,97% | -1,05% | +0,28% | SELEZIONE DA RIVEDERE |
-| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 43 | 88 | 36 | 52 | -2,66% | -0,72% | -1,93% | -2,10% | +0,56% | SELEZIONE DA RIVEDERE |
+| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 43 | 89 | 36 | 53 | -1,33% | -0,43% | -0,90% | -1,05% | +0,28% | SELEZIONE DA RIVEDERE |
+| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 43 | 89 | 36 | 53 | -2,66% | -0,86% | -1,80% | -2,10% | +0,56% | SELEZIONE DA RIVEDERE |
 | SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 28 | 65 | 19 | 46 | -0,19% | -1,04% | +0,86% | -0,53% | -0,35% | SELEZIONE POSITIVA |
 | SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 23 | 41 | 21 | 20 | -1,40% | 0,32% | -1,72% | -1,29% | +0,11% | PAPER SCARTA EDGE |
 | SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 23 | 41 | 21 | 20 | -2,80% | 0,64% | -3,44% | -2,58% | +0,22% | PAPER SCARTA EDGE |
@@ -129,33 +129,33 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
 | RSI 25 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 9 | 0,00% | 0,00 | -7,80% | -7,06% | MEDIA |
 | SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 24 | 0,00% | 0,00 | -7,80% | -6,68% | ALTA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 51 | 0,00% | 0,00 | -7,80% | -6,29% | ALTA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 13 | 15,38% | 0,11 | -5,85% | -4,33% | MEDIA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 52 | 0,00% | 0,00 | -7,80% | -6,22% | ALTA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 13 | 15,38% | 0,11 | -5,85% | -4,26% | MEDIA |
 | SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 9 | 22,22% | 0,18 | -4,98% | -3,86% | MEDIA |
 | RSI 25 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 9 | 0,00% | 0,00 | -3,90% | -3,53% | MEDIA |
 | SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 24 | 0,00% | 0,00 | -3,90% | -3,34% | ALTA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 51 | 0,00% | 0,00 | -3,90% | -3,14% | ALTA |
 | SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 18 | 0,00% | 0,00 | -3,20% | -3,12% | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 16 | 25,00% | 0,31 | -4,05% | -2,54% | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 8 | 25,00% | 0,31 | -4,05% | -2,54% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 52 | 0,00% | 0,00 | -3,90% | -3,11% | ALTA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 16 | 25,00% | 0,31 | -4,05% | -2,46% | MEDIA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 8 | 25,00% | 0,31 | -4,05% | -2,46% | MEDIA |
 | SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 41 | 0,00% | 0,00 | -3,20% | -2,41% | ALTA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 13 | 15,38% | 0,11 | -2,93% | -2,17% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 13 | 15,38% | 0,11 | -2,93% | -2,13% | MEDIA |
 | RSI 25 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 9 | 33,33% | 0,46 | -2,80% | -2,07% | MEDIA |
 | SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 9 | 22,22% | 0,18 | -2,49% | -1,93% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 16 | 25,00% | 0,31 | -2,03% | -1,27% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 8 | 25,00% | 0,31 | -2,03% | -1,27% | MEDIA |
-| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 10 | 0,00% | 0,00 | -1,07R | -1,04R | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 16 | 25,00% | 0,31 | -2,03% | -1,23% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 8 | 25,00% | 0,31 | -2,03% | -1,23% | MEDIA |
 | RSI 25 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 9 | 33,33% | 0,46 | -1,40% | -1,03% | MEDIA |
+| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 10 | 0,00% | 0,00 | -1,07R | -1,03R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 11 | 0,00% | 0,00 | -1,09R | -1,01R | MEDIA |
 | SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 23 | 39,13% | 0,59 | -1,93% | -0,81% | ALTA |
-| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | PEPE | 10 | 10,00% | 0,14 | -0,85R | -0,77R | MEDIA |
+| Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | PEPE | 10 | 10,00% | 0,14 | -0,85R | -0,76R | MEDIA |
 | Bilanciata 1H V3 Filtered | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 14 | 14,29% | 0,30 | -0,63R | -0,75R | MEDIA |
 | SHADOW_COMBO_TREND | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE | 8 | 12,50% | 0,29 | -0,67R | -0,74R | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 18 | 38,89% | 0,53 | -2,22% | -0,71% | MEDIA |
-| SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 18 | 27,78% | 0,62 | -0,30R | -0,67R | MEDIA |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 12 | 16,67% | 0,36 | -0,56R | -0,65R | MEDIA |
-| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 23 | 13,04% | 0,27 | -0,68R | -0,65R | ALTA |
+| SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 19 | 26,32% | 0,58 | -0,34R | -0,68R | MEDIA |
+| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 23 | 13,04% | 0,27 | -0,68R | -0,64R | ALTA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 18 | 38,89% | 0,53 | -2,22% | -0,64% | MEDIA |
 | SHADOW_DONCHIAN_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE | 8 | 12,50% | 0,32 | -0,64R | -0,63R | MEDIA |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | SHORT | 12 | 16,67% | 0,36 | -0,56R | -0,63R | MEDIA |
 | SHADOW_EMA_TREND_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE | 9 | 11,11% | 0,29 | -0,59R | -0,62R | MEDIA |
 
 ## Metodo di promozione
