@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-23T03:35:21.781009+00:00",
-  "last_processed_candle": "2026-07-23T03:30:00+00:00",
+  "updated_utc": "2026-07-23T07:35:22.003179+00:00",
+  "last_processed_candle": "2026-07-23T07:30:00+00:00",
   "last_daily_status_date": "2026-07-22",
   "telegram_started_sent": true,
   "accounts": {
@@ -277,13 +277,13 @@
       "label": "SHORT RSI 70 · leva 10×",
       "direction": "SHORT",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
-      "balance_usdt": 2263.4828507719744,
+      "balance_usdt": 2345.056070115272,
       "peak_equity_usdt": 4198.21834534389,
-      "max_drawdown_pct": 46.280265803761274,
+      "max_drawdown_pct": 46.51602423485626,
       "open_position": null,
-      "closed_trades": 42,
-      "winning_trades": 14,
-      "gross_profit_usdt": 2019.5775339771033,
+      "closed_trades": 43,
+      "winning_trades": 15,
+      "gross_profit_usdt": 2101.1507533204012,
       "gross_loss_usdt": 3556.094683205126,
       "asset_guards": {
         "DOGE": {
@@ -309,7 +309,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
@@ -333,13 +333,13 @@
       "label": "SHORT RSI 70 · leva 20×",
       "direction": "SHORT",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
-      "balance_usdt": 1266.799659525122,
+      "balance_usdt": 1358.1075538661055,
       "peak_equity_usdt": 4583.776600923894,
-      "max_drawdown_pct": 72.48673905022949,
+      "max_drawdown_pct": 72.80561511049606,
       "open_position": null,
-      "closed_trades": 42,
-      "winning_trades": 14,
-      "gross_profit_usdt": 3564.9800959494955,
+      "closed_trades": 43,
+      "winning_trades": 15,
+      "gross_profit_usdt": 3656.2879902904792,
       "gross_loss_usdt": 6098.180436424371,
       "asset_guards": {
         "DOGE": {
@@ -365,7 +365,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
@@ -636,48 +636,13 @@
       "label": "SHORT RSI 70 · leva 5× · Wide",
       "direction": "SHORT",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3003.8953215905003,
+      "balance_usdt": 3221.5752510651014,
       "peak_equity_usdt": 3903.1223621164017,
       "max_drawdown_pct": 26.288371778080084,
-      "open_position": {
-        "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:BTC:20260722T214000Z",
-        "account": "RSI5_SHORT_RSI70_5X_WIDE",
-        "account_label": "SHORT RSI 70 · leva 5× · Wide",
-        "book": "OPERATIONAL",
-        "direction": "SHORT",
-        "asset": "BTC",
-        "symbol": "XBTUSDTM",
-        "rsi_trigger": 70.0,
-        "signal_rsi": 71.80476468677338,
-        "previous_rsi": 65.99961201758887,
-        "leverage": 5.0,
-        "opened_at": "2026-07-22T21:40:00+00:00",
-        "opened_candle_time": "2026-07-22T21:40:00+00:00",
-        "entry_price": 66067.08394000001,
-        "stop_price": 66397.4193597,
-        "target_price": 65406.41310060001,
-        "liquidation_price": 78950.16530830001,
-        "margin_usdt": 3012.9341239623873,
-        "notional_usdt": 15064.670619811935,
-        "quantity": 0.22802081946727332,
-        "entry_fee_usdt": 9.03880237188716,
-        "max_holding_hours": 6.0,
-        "max_favorable_price": 65540.7,
-        "max_adverse_price": 66267.9,
-        "mfe_gross_usdt": 120.02649735321528,
-        "mae_gross_usdt": -45.79024256338521,
-        "mfe_net_usdt": 102.02090850785288,
-        "mae_net_usdt": -63.895321452697566,
-        "mfe_at_utc": "2026-07-23T03:25:00+00:00",
-        "mae_at_utc": "2026-07-23T00:25:00+00:00",
-        "excursion_observation_count": 70,
-        "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65635.8,
-        "unrealized_pnl_usdt": 80.32311770855507
-      },
-      "closed_trades": 26,
-      "winning_trades": 9,
-      "gross_profit_usdt": 1030.9302432223842,
+      "open_position": null,
+      "closed_trades": 28,
+      "winning_trades": 11,
+      "gross_profit_usdt": 1239.5713703250983,
       "gross_loss_usdt": 1817.9961192599958,
       "asset_guards": {
         "SOL": {
@@ -698,7 +663,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "TIME_EXIT"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
@@ -918,49 +883,13 @@
           "quantity": 49572.54895576208,
           "entry_fee_usdt": 22.799999999999997,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_RSI25_10X:SOL:20260723T022000Z:SHADOW",
-          "account": "RSI5_RSI25_10X",
-          "account_label": "RSI 25 · leva 10×",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "SOL",
-          "symbol": "SOLUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 23.950031292399117,
-          "previous_rsi": 27.015687010859224,
-          "leverage": 10.0,
-          "opened_at": "2026-07-23T02:20:00+00:00",
-          "opened_candle_time": "2026-07-23T02:20:00+00:00",
-          "entry_price": 77.5195008,
-          "stop_price": 77.32570204800001,
-          "target_price": 77.907098304,
-          "liquidation_price": 70.155148224,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 38000.0,
-          "quantity": 490.1992351323294,
-          "entry_fee_usdt": 22.799999999999997,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 77.742,
-          "max_adverse_price": 77.354,
-          "mfe_gross_usdt": 109.0689376575559,
-          "mae_gross_usdt": -81.12836557379048,
-          "mfe_net_usdt": 63.40349629496137,
-          "mae_net_usdt": -126.6796885544462,
-          "mfe_at_utc": "2026-07-23T02:55:00+00:00",
-          "mae_at_utc": "2026-07-23T02:25:00+00:00",
-          "excursion_observation_count": 14,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.591,
-          "unrealized_pnl_usdt": -10.572176159322506
         }
       ],
-      "closed_trades": 16,
+      "closed_trades": 17,
       "winning_trades": 8,
       "gross_profit_usdt": 1096.1481454300815,
-      "gross_loss_usdt": 1184.9556111999761,
-      "net_pnl_usdt": -88.8074657698948,
+      "gross_loss_usdt": 1333.0750625999738,
+      "net_pnl_usdt": -236.9269171698924,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -968,8 +897,8 @@
           "last_close_reason": "STOP"
         },
         "SOL": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-23T08:20:00+00:00",
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1033,49 +962,13 @@
           "quantity": 99145.09791152416,
           "entry_fee_usdt": 45.599999999999994,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_RSI25_20X:SOL:20260723T022000Z:SHADOW",
-          "account": "RSI5_RSI25_20X",
-          "account_label": "RSI 25 · leva 20×",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "SOL",
-          "symbol": "SOLUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 23.950031292399117,
-          "previous_rsi": 27.015687010859224,
-          "leverage": 20.0,
-          "opened_at": "2026-07-23T02:20:00+00:00",
-          "opened_candle_time": "2026-07-23T02:20:00+00:00",
-          "entry_price": 77.5195008,
-          "stop_price": 77.32570204800001,
-          "target_price": 77.907098304,
-          "liquidation_price": 74.031123264,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 76000.0,
-          "quantity": 980.3984702646588,
-          "entry_fee_usdt": 45.599999999999994,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 77.742,
-          "max_adverse_price": 77.354,
-          "mfe_gross_usdt": 218.1378753151118,
-          "mae_gross_usdt": -162.25673114758095,
-          "mfe_net_usdt": 126.80699258992274,
-          "mae_net_usdt": -253.3593771088924,
-          "mfe_at_utc": "2026-07-23T02:55:00+00:00",
-          "mae_at_utc": "2026-07-23T02:25:00+00:00",
-          "excursion_observation_count": 14,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.591,
-          "unrealized_pnl_usdt": -21.144352318645012
         }
       ],
-      "closed_trades": 16,
+      "closed_trades": 17,
       "winning_trades": 8,
       "gross_profit_usdt": 2192.296290860163,
-      "gross_loss_usdt": 2369.9112223999523,
-      "net_pnl_usdt": -177.6149315397896,
+      "gross_loss_usdt": 2666.1501251999475,
+      "net_pnl_usdt": -473.8538343397848,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -1083,8 +976,8 @@
           "last_close_reason": "STOP"
         },
         "SOL": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-23T08:20:00+00:00",
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -1125,11 +1018,11 @@
       "direction": "SHORT",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
       "open_positions": [],
-      "closed_trades": 87,
-      "winning_trades": 34,
-      "gross_profit_usdt": 4950.740219289968,
+      "closed_trades": 88,
+      "winning_trades": 35,
+      "gross_profit_usdt": 5087.687682089968,
       "gross_loss_usdt": 7622.038650189422,
-      "net_pnl_usdt": -2671.2984308994546,
+      "net_pnl_usdt": -2534.3509680994553,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -1154,7 +1047,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
@@ -1179,11 +1072,11 @@
       "direction": "SHORT",
       "created_utc": "2026-07-17T17:40:03.301352+00:00",
       "open_positions": [],
-      "closed_trades": 87,
-      "winning_trades": 34,
-      "gross_profit_usdt": 9901.480438579936,
+      "closed_trades": 88,
+      "winning_trades": 35,
+      "gross_profit_usdt": 10175.375364179936,
       "gross_loss_usdt": 15244.077300378844,
-      "net_pnl_usdt": -5342.596861798909,
+      "net_pnl_usdt": -5068.7019361989105,
       "asset_guards": {
         "DOGE": {
           "needs_rearm": false,
@@ -1208,7 +1101,7 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
@@ -1418,54 +1311,18 @@
           "quantity": 24786.27447788104,
           "entry_fee_usdt": 11.399999999999999,
           "max_holding_hours": 6.0
-        },
-        {
-          "trade_id": "RSI5_RSI25_5X_WIDE:SOL:20260723T022000Z:SHADOW",
-          "account": "RSI5_RSI25_5X_WIDE",
-          "account_label": "RSI 25 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "LONG",
-          "asset": "SOL",
-          "symbol": "SOLUSDTM",
-          "rsi_trigger": 25.0,
-          "signal_rsi": 23.950031292399117,
-          "previous_rsi": 27.015687010859224,
-          "leverage": 5.0,
-          "opened_at": "2026-07-23T02:20:00+00:00",
-          "opened_candle_time": "2026-07-23T02:20:00+00:00",
-          "entry_price": 77.5195008,
-          "stop_price": 77.131903296,
-          "target_price": 78.294695808,
-          "liquidation_price": 62.403198144,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 245.0996175661647,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 77.742,
-          "max_adverse_price": 77.354,
-          "mfe_gross_usdt": 54.53446882877795,
-          "mae_gross_usdt": -40.56418278689524,
-          "mfe_net_usdt": 31.701748147480686,
-          "mae_net_usdt": -63.3398442772231,
-          "mfe_at_utc": "2026-07-23T02:55:00+00:00",
-          "mae_at_utc": "2026-07-23T02:25:00+00:00",
-          "excursion_observation_count": 14,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 77.591,
-          "unrealized_pnl_usdt": -5.286088079661253
         }
       ],
-      "closed_trades": 14,
+      "closed_trades": 15,
       "winning_trades": 7,
       "gross_profit_usdt": 813.6045959380717,
-      "gross_loss_usdt": 558.2489995820648,
-      "net_pnl_usdt": 255.3555963560068,
+      "gross_loss_usdt": 679.7707309820627,
+      "net_pnl_usdt": 133.83386495600894,
       "asset_guards": {
         "SOL": {
-          "needs_rearm": false,
-          "cooldown_until": null,
-          "last_close_reason": "TIME_EXIT"
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-23T09:10:00+00:00",
+          "last_close_reason": "STOP"
         },
         "XRP": {
           "needs_rearm": false,
@@ -1509,85 +1366,12 @@
       "label": "SHORT RSI 70 · leva 5× · Wide",
       "direction": "SHORT",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "open_positions": [
-        {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:BTC:20260722T214000Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "BTC",
-          "symbol": "XBTUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 71.80476468677338,
-          "previous_rsi": 65.99961201758887,
-          "leverage": 5.0,
-          "opened_at": "2026-07-22T21:40:00+00:00",
-          "opened_candle_time": "2026-07-22T21:40:00+00:00",
-          "entry_price": 66067.08394000001,
-          "stop_price": 66397.4193597,
-          "target_price": 65406.41310060001,
-          "liquidation_price": 78950.16530830001,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 0.2875864782719211,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 65540.7,
-          "max_adverse_price": 66267.9,
-          "mfe_gross_usdt": 151.3809035235023,
-          "mae_gross_usdt": -57.75198347583786,
-          "mfe_net_usdt": 128.6717320656164,
-          "mae_net_usdt": -80.58663466592336,
-          "mfe_at_utc": "2026-07-23T03:25:00+00:00",
-          "mae_at_utc": "2026-07-23T00:25:00+00:00",
-          "excursion_observation_count": 70,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 65635.8,
-          "unrealized_pnl_usdt": 101.30584829750484
-        },
-        {
-          "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:ETH:20260722T214500Z:SHADOW",
-          "account": "RSI5_SHORT_RSI70_5X_WIDE",
-          "account_label": "SHORT RSI 70 · leva 5× · Wide",
-          "book": "SHADOW",
-          "direction": "SHORT",
-          "asset": "ETH",
-          "symbol": "ETHUSDTM",
-          "rsi_trigger": 70.0,
-          "signal_rsi": 71.05939254913616,
-          "previous_rsi": 67.4569709234447,
-          "leverage": 5.0,
-          "opened_at": "2026-07-22T21:45:00+00:00",
-          "opened_candle_time": "2026-07-22T21:45:00+00:00",
-          "entry_price": 1936.0527120000002,
-          "stop_price": 1945.7329755599999,
-          "target_price": 1916.6921848800002,
-          "liquidation_price": 2313.58299084,
-          "margin_usdt": 3800.0,
-          "notional_usdt": 19000.0,
-          "quantity": 9.813782384247396,
-          "entry_fee_usdt": 11.399999999999999,
-          "max_holding_hours": 6.0,
-          "max_favorable_price": 1919.41,
-          "max_adverse_price": 1940.63,
-          "mfe_gross_usdt": 163.32795385170348,
-          "mae_gross_usdt": -44.92050834202654,
-          "mfe_net_usdt": 140.6259506240145,
-          "mae_net_usdt": -67.74746064703176,
-          "mfe_at_utc": "2026-07-23T03:10:00+00:00",
-          "mae_at_utc": "2026-07-23T00:25:00+00:00",
-          "excursion_observation_count": 69,
-          "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 1922.81,
-          "unrealized_pnl_usdt": 107.23907040151082
-        }
-      ],
-      "closed_trades": 62,
-      "winning_trades": 19,
-      "gross_profit_usdt": 2646.134759517993,
+      "open_positions": [],
+      "closed_trades": 65,
+      "winning_trades": 22,
+      "gross_profit_usdt": 3057.445716170208,
       "gross_loss_usdt": 5018.674701794692,
-      "net_pnl_usdt": -2372.539942276698,
+      "net_pnl_usdt": -1961.2289856244834,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -1607,12 +1391,12 @@
         "HYPE": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "TIME_EXIT"
+          "last_close_reason": "TARGET"
         },
         "ETH": {
           "needs_rearm": false,
           "cooldown_until": null,
-          "last_close_reason": "STOP"
+          "last_close_reason": "TIME_EXIT"
         },
         "BTC": {
           "needs_rearm": false,
