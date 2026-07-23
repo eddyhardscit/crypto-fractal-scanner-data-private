@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-07-23T15:38:33+00:00",
+  "generated_utc": "2026-07-23T16:38:32+00:00",
   "current_regime": {
-    "generated_utc": "2026-07-23T15:38:25+00:00",
+    "generated_utc": "2026-07-23T16:38:24+00:00",
     "regime": "RANGE",
     "regime_family": "RANGE",
     "confidence_pct": 80.4,
@@ -10,51 +10,51 @@
     "features": {
       "btc_timeframe_minutes": 240,
       "market_timeframe_minutes": 60,
-      "btc_trend_score": 1.0,
-      "btc_adx": 24.919,
-      "btc_atr_pct": 0.8858,
-      "btc_volatility_ratio": 0.8916,
-      "btc_return_24h_pct": -1.3381,
-      "breadth_above_ema20_pct": 16.667,
-      "breadth_above_ema50_pct": 16.667,
+      "btc_trend_score": 0.0,
+      "btc_adx": 24.377,
+      "btc_atr_pct": 0.9242,
+      "btc_volatility_ratio": 0.933,
+      "btc_return_24h_pct": -1.6364,
+      "breadth_above_ema20_pct": 25.0,
+      "breadth_above_ema50_pct": 25.0,
       "breadth_above_ema200_pct": 25.0,
       "breadth_breakout_up_pct": 0.0,
-      "breadth_breakout_down_pct": 25.0,
-      "alt_relative_median_pct": -0.5683,
+      "breadth_breakout_down_pct": 8.333,
+      "alt_relative_median_pct": -1.0292,
       "alt_outperform_share_pct": 36.364,
-      "alt_underperform_share_pct": 27.273,
-      "cross_asset_dispersion_pct": 12.2379,
-      "market_volatility_ratio": 1.0107,
+      "alt_underperform_share_pct": 54.545,
+      "cross_asset_dispersion_pct": 12.302,
+      "market_volatility_ratio": 1.0185,
       "assets_used": 12
     },
-    "reason": "Direzione poco definita: score BTC +1.0, breadth EMA50 17%, ADX 24.9."
+    "reason": "Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 24.4."
   },
-  "opened_this_cycle": 3,
-  "closed_this_cycle": 0,
-  "open_positions": 392,
-  "closed_trades": 1647,
+  "opened_this_cycle": 0,
+  "closed_this_cycle": 1,
+  "open_positions": 379,
+  "closed_trades": 1695,
   "metrics": [
     {
       "profile": "MAIN",
       "regime": "ALL",
       "open": 13,
-      "closed": 40,
-      "independent_events": 40,
-      "win_rate_pct": 30.0,
-      "profit_factor": 0.8289151325044687,
-      "expectancy_r": -0.12301208776253944,
-      "net_pnl_eur": -49.2048351050158
+      "closed": 43,
+      "independent_events": 43,
+      "win_rate_pct": 32.55813953488372,
+      "profit_factor": 0.9310249221600118,
+      "expectancy_r": -0.04784642625436958,
+      "net_pnl_eur": -20.573963289378938
     },
     {
       "profile": "RSI_EXTREME_LONG_15M",
       "regime": "ALL",
-      "open": 3,
-      "closed": 5,
-      "independent_events": 5,
-      "win_rate_pct": 40.0,
-      "profit_factor": 0.5062321063950623,
-      "expectancy_r": -0.37910725749310165,
-      "net_pnl_eur": -18.955362874655087
+      "open": 2,
+      "closed": 6,
+      "independent_events": 6,
+      "win_rate_pct": 33.33333333333333,
+      "profit_factor": 0.37993079153012654,
+      "expectancy_r": -0.5286197244464874,
+      "net_pnl_eur": -31.71718346678925
     },
     {
       "profile": "RSI_EXTREME_SHORT_15M",
@@ -70,13 +70,13 @@
     {
       "profile": "SHADOW_1H_BALANCED",
       "regime": "ALL",
-      "open": 14,
-      "closed": 137,
-      "independent_events": 137,
-      "win_rate_pct": 32.846715328467155,
-      "profit_factor": 0.9312170366031578,
-      "expectancy_r": -0.04716321223346405,
-      "net_pnl_eur": -64.61360075984578
+      "open": 13,
+      "closed": 139,
+      "independent_events": 139,
+      "win_rate_pct": 33.093525179856115,
+      "profit_factor": 0.9403512286210856,
+      "expectancy_r": -0.040781995929841754,
+      "net_pnl_eur": -56.68697434248006
     },
     {
       "profile": "SHADOW_1H_BALANCED_V2",
@@ -92,24 +92,24 @@
     {
       "profile": "SHADOW_1H_BALANCED_V3",
       "regime": "ALL",
-      "open": 11,
-      "closed": 46,
-      "independent_events": 46,
-      "win_rate_pct": 36.95652173913043,
-      "profit_factor": 1.0802229137776445,
-      "expectancy_r": 0.053398417566113056,
-      "net_pnl_eur": 24.56327208041199
+      "open": 10,
+      "closed": 47,
+      "independent_events": 47,
+      "win_rate_pct": 36.17021276595745,
+      "profit_factor": 1.0428851011061842,
+      "expectancy_r": 0.028938318316784842,
+      "net_pnl_eur": 13.601009608888864
     },
     {
       "profile": "SHADOW_1H_FAST",
       "regime": "ALL",
-      "open": 10,
-      "closed": 159,
-      "independent_events": 159,
-      "win_rate_pct": 37.735849056603776,
-      "profit_factor": 0.860603896052269,
-      "expectancy_r": -0.08792967727024667,
-      "net_pnl_eur": -139.80818685969223
+      "open": 9,
+      "closed": 161,
+      "independent_events": 161,
+      "win_rate_pct": 37.88819875776397,
+      "profit_factor": 0.8730560352022845,
+      "expectancy_r": -0.07917803170579,
+      "net_pnl_eur": -127.47663104632193
     },
     {
       "profile": "SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1",
@@ -125,7 +125,7 @@
     {
       "profile": "SHADOW_1H_FAST_NOHIGH_CAP75_V1",
       "regime": "ALL",
-      "open": 8,
+      "open": 9,
       "closed": 26,
       "independent_events": 26,
       "win_rate_pct": 34.61538461538461,
@@ -137,17 +137,17 @@
       "profile": "SHADOW_1H_FAST_NO_PEPE_V1",
       "regime": "ALL",
       "open": 8,
-      "closed": 28,
-      "independent_events": 28,
-      "win_rate_pct": 32.142857142857146,
-      "profit_factor": 0.620715826936949,
-      "expectancy_r": -0.2768941514796028,
-      "net_pnl_eur": -77.53036241428879
+      "closed": 29,
+      "independent_events": 29,
+      "win_rate_pct": 34.48275862068966,
+      "profit_factor": 0.6871082427945313,
+      "expectancy_r": -0.22054804773400097,
+      "net_pnl_eur": -63.95893384286028
     },
     {
       "profile": "SHADOW_1H_FAST_SCORE_6_75_V1",
       "regime": "ALL",
-      "open": 4,
+      "open": 5,
       "closed": 18,
       "independent_events": 18,
       "win_rate_pct": 38.88888888888889,
@@ -159,39 +159,39 @@
       "profile": "SHADOW_1H_FAST_TP2_V1",
       "regime": "ALL",
       "open": 10,
-      "closed": 24,
-      "independent_events": 24,
-      "win_rate_pct": 20.833333333333336,
-      "profit_factor": 0.4641403953774489,
-      "expectancy_r": -0.45731273475400885,
-      "net_pnl_eur": -109.75505634096211
+      "closed": 25,
+      "independent_events": 25,
+      "win_rate_pct": 24.0,
+      "profit_factor": 0.5548121029354682,
+      "expectancy_r": -0.36473451107813426,
+      "net_pnl_eur": -91.18362776953356
     },
     {
       "profile": "SHADOW_1H_FAST_V2",
       "regime": "ALL",
-      "open": 2,
-      "closed": 5,
-      "independent_events": 4,
-      "win_rate_pct": 20.0,
-      "profit_factor": 0.30310508757739213,
-      "expectancy_r": -0.6240647163878787,
-      "net_pnl_eur": -31.203235819393935
+      "open": 1,
+      "closed": 6,
+      "independent_events": 5,
+      "win_rate_pct": 33.33333333333333,
+      "profit_factor": 0.606210175154782,
+      "expectancy_r": -0.2938634541327571,
+      "net_pnl_eur": -17.63180724796543
     },
     {
       "profile": "SHADOW_1H_FAST_V3",
       "regime": "ALL",
-      "open": 7,
-      "closed": 69,
-      "independent_events": 69,
-      "win_rate_pct": 40.57971014492754,
-      "profit_factor": 0.9354185975358844,
-      "expectancy_r": -0.03990485481700147,
-      "net_pnl_eur": -27.53434982373102
+      "open": 6,
+      "closed": 71,
+      "independent_events": 71,
+      "win_rate_pct": 40.845070422535215,
+      "profit_factor": 0.964445472037277,
+      "expectancy_r": -0.02141238593008551,
+      "net_pnl_eur": -15.202794010360718
     },
     {
       "profile": "SHADOW_1H_FAST_V3_CAP75_V1",
       "regime": "ALL",
-      "open": 5,
+      "open": 6,
       "closed": 24,
       "independent_events": 24,
       "win_rate_pct": 33.33333333333333,
@@ -202,7 +202,7 @@
     {
       "profile": "SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1",
       "regime": "ALL",
-      "open": 1,
+      "open": 2,
       "closed": 11,
       "independent_events": 11,
       "win_rate_pct": 27.27272727272727,
@@ -213,7 +213,7 @@
     {
       "profile": "SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1",
       "regime": "ALL",
-      "open": 1,
+      "open": 2,
       "closed": 11,
       "independent_events": 11,
       "win_rate_pct": 27.27272727272727,
@@ -236,45 +236,45 @@
       "profile": "SHADOW_1H_FAST_V3_NOHIGH_V1",
       "regime": "ALL",
       "open": 6,
-      "closed": 25,
-      "independent_events": 25,
-      "win_rate_pct": 32.0,
-      "profit_factor": 0.6166005776277588,
-      "expectancy_r": -0.27846808862013733,
-      "net_pnl_eur": -69.61702215503433
+      "closed": 26,
+      "independent_events": 26,
+      "win_rate_pct": 34.61538461538461,
+      "profit_factor": 0.6913420376038022,
+      "expectancy_r": -0.21555997532156088,
+      "net_pnl_eur": -56.045593583605836
     },
     {
       "profile": "SHADOW_1H_FAST_V3_NO_ESPORTS_V1",
       "regime": "ALL",
       "open": 6,
-      "closed": 26,
-      "independent_events": 26,
-      "win_rate_pct": 30.76923076923077,
-      "profit_factor": 0.5798325325359833,
-      "expectancy_r": -0.3120429766035394,
-      "net_pnl_eur": -81.13117391692025
+      "closed": 27,
+      "independent_events": 27,
+      "win_rate_pct": 33.33333333333333,
+      "profit_factor": 0.6501171407503935,
+      "expectancy_r": -0.25022127905737684,
+      "net_pnl_eur": -67.55974534549175
     },
     {
       "profile": "SHADOW_4H_WIDE",
       "regime": "ALL",
-      "open": 19,
-      "closed": 38,
-      "independent_events": 38,
-      "win_rate_pct": 23.684210526315788,
-      "profit_factor": 0.845576365086256,
-      "expectancy_r": -0.12053269610093027,
-      "net_pnl_eur": -45.80242451835353
+      "open": 18,
+      "closed": 39,
+      "independent_events": 39,
+      "win_rate_pct": 23.076923076923077,
+      "profit_factor": 0.8167272711138099,
+      "expectancy_r": -0.14430577592359928,
+      "net_pnl_eur": -56.27925261020374
     },
     {
       "profile": "SHADOW_BOLLINGER_MR_1H",
       "regime": "ALL",
       "open": 2,
-      "closed": 29,
-      "independent_events": 29,
-      "win_rate_pct": 44.827586206896555,
-      "profit_factor": 1.068731045347459,
-      "expectancy_r": 0.041007716770171454,
-      "net_pnl_eur": 11.892237863349717
+      "closed": 30,
+      "independent_events": 30,
+      "win_rate_pct": 43.333333333333336,
+      "profit_factor": 1.003031608986586,
+      "expectancy_r": 0.0018630151000545991,
+      "net_pnl_eur": 0.558904530016374
     },
     {
       "profile": "SHADOW_BTC_ADAPTIVE_1H",
@@ -368,12 +368,12 @@
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "regime": "ALL",
       "open": 13,
-      "closed": 79,
-      "independent_events": 79,
-      "win_rate_pct": 39.24050632911392,
-      "profit_factor": 1.188655857085962,
-      "expectancy_r": 0.12123169265490974,
-      "net_pnl_eur": 95.77303719737868
+      "closed": 81,
+      "independent_events": 81,
+      "win_rate_pct": 39.50617283950617,
+      "profit_factor": 1.1999521926511136,
+      "expectancy_r": 0.1280242760675859,
+      "net_pnl_eur": 103.69966361474455
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1",
@@ -390,23 +390,23 @@
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "regime": "ALL",
       "open": 12,
-      "closed": 47,
-      "independent_events": 47,
-      "win_rate_pct": 36.17021276595745,
-      "profit_factor": 1.0416969567560357,
-      "expectancy_r": 0.028103778391169825,
-      "net_pnl_eur": 13.208775843849805
+      "closed": 49,
+      "independent_events": 49,
+      "win_rate_pct": 36.734693877551024,
+      "profit_factor": 1.0644878101198334,
+      "expectancy_r": 0.043133474002481,
+      "net_pnl_eur": 21.135402261215674
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1",
       "regime": "ALL",
       "open": 9,
-      "closed": 25,
-      "independent_events": 25,
-      "win_rate_pct": 24.0,
-      "profit_factor": 0.5597051687404833,
-      "expectancy_r": -0.3587213304750357,
-      "net_pnl_eur": -89.68033261875891
+      "closed": 26,
+      "independent_events": 26,
+      "win_rate_pct": 26.923076923076923,
+      "profit_factor": 0.6524421145474115,
+      "expectancy_r": -0.2722747835764227,
+      "net_pnl_eur": -70.79144372986991
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1",
@@ -444,35 +444,35 @@
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_REGIME_V1",
       "regime": "ALL",
-      "open": 5,
-      "closed": 22,
-      "independent_events": 22,
-      "win_rate_pct": 13.636363636363635,
-      "profit_factor": 0.2824220201671834,
-      "expectancy_r": -0.6613193306370768,
-      "net_pnl_eur": -145.4902527401569
+      "open": 4,
+      "closed": 23,
+      "independent_events": 23,
+      "win_rate_pct": 13.043478260869565,
+      "profit_factor": 0.2677489667390988,
+      "expectancy_r": -0.680875495005513,
+      "net_pnl_eur": -156.601363851268
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_RUNNER25_V1",
       "regime": "ALL",
       "open": 10,
-      "closed": 19,
-      "independent_events": 19,
-      "win_rate_pct": 10.526315789473683,
-      "profit_factor": 0.32026371335443954,
-      "expectancy_r": -0.6501711180394438,
-      "net_pnl_eur": -123.53251242749434
+      "closed": 20,
+      "independent_events": 20,
+      "win_rate_pct": 15.0,
+      "profit_factor": 0.479224505722158,
+      "expectancy_r": -0.47321811769302713,
+      "net_pnl_eur": -94.64362353860542
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_TP3_V1",
       "regime": "ALL",
       "open": 10,
-      "closed": 19,
-      "independent_events": 19,
-      "win_rate_pct": 10.526315789473683,
-      "profit_factor": 0.32026371335443954,
-      "expectancy_r": -0.6501711180394438,
-      "net_pnl_eur": -123.53251242749434
+      "closed": 20,
+      "independent_events": 20,
+      "win_rate_pct": 15.0,
+      "profit_factor": 0.479224505722158,
+      "expectancy_r": -0.47321811769302713,
+      "net_pnl_eur": -94.64362353860542
     },
     {
       "profile": "SHADOW_COMBO_MEAN_REVERSION",
@@ -488,79 +488,79 @@
     {
       "profile": "SHADOW_COMBO_SCANNER",
       "regime": "ALL",
-      "open": 9,
-      "closed": 47,
-      "independent_events": 47,
-      "win_rate_pct": 44.680851063829785,
-      "profit_factor": 1.589260345740981,
-      "expectancy_r": 0.3443921787233044,
-      "net_pnl_eur": 161.8643239999531
+      "open": 8,
+      "closed": 49,
+      "independent_events": 49,
+      "win_rate_pct": 44.89795918367347,
+      "profit_factor": 1.6013974511224527,
+      "expectancy_r": 0.3505937763618751,
+      "net_pnl_eur": 171.7909504173188
     },
     {
       "profile": "SHADOW_COMBO_TREND",
       "regime": "ALL",
-      "open": 13,
-      "closed": 60,
-      "independent_events": 60,
-      "win_rate_pct": 33.33333333333333,
-      "profit_factor": 1.025164464995473,
-      "expectancy_r": 0.017679145687791744,
-      "net_pnl_eur": 10.607487412675072
+      "open": 12,
+      "closed": 62,
+      "independent_events": 62,
+      "win_rate_pct": 33.87096774193548,
+      "profit_factor": 1.0479690381011304,
+      "expectancy_r": 0.03345395369753799,
+      "net_pnl_eur": 20.741451292473577
     },
     {
       "profile": "SHADOW_DOGE_BOLLINGER_1H",
-      "regime": "ALL",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
-    },
-    {
-      "profile": "SHADOW_DOGE_DONCHIAN_1H",
       "regime": "ALL",
       "open": 1,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": -1.124999999999994,
-      "net_pnl_eur": -11.24999999999994
+      "expectancy_r": -1.1333333333333342,
+      "net_pnl_eur": -11.333333333333343
     },
     {
-      "profile": "SHADOW_DOGE_EMA_1H",
+      "profile": "SHADOW_DOGE_DONCHIAN_1H",
       "regime": "ALL",
       "open": 1,
       "closed": 2,
       "independent_events": 2,
       "win_rate_pct": 50.0,
-      "profit_factor": 1.7000000000000062,
-      "expectancy_r": 0.3888888888888916,
-      "net_pnl_eur": 7.777777777777832
+      "profit_factor": 1.6666666666666725,
+      "expectancy_r": 0.3750000000000012,
+      "net_pnl_eur": 7.500000000000025
+    },
+    {
+      "profile": "SHADOW_DOGE_EMA_1H",
+      "regime": "ALL",
+      "open": 1,
+      "closed": 3,
+      "independent_events": 3,
+      "win_rate_pct": 66.66666666666666,
+      "profit_factor": 3.4000000000000195,
+      "expectancy_r": 0.8888888888888943,
+      "net_pnl_eur": 26.66666666666683
     },
     {
       "profile": "SHADOW_DONCHIAN_1H",
       "regime": "ALL",
-      "open": 10,
-      "closed": 33,
-      "independent_events": 33,
-      "win_rate_pct": 30.303030303030305,
-      "profit_factor": 0.9890686021564661,
-      "expectancy_r": -0.008157807729770756,
-      "net_pnl_eur": -2.6920765508243427
+      "open": 9,
+      "closed": 35,
+      "independent_events": 35,
+      "win_rate_pct": 31.428571428571427,
+      "profit_factor": 1.040608399406946,
+      "expectancy_r": 0.029833963797069058,
+      "net_pnl_eur": 10.441887328974177
     },
     {
       "profile": "SHADOW_EMA_TREND_1H",
       "regime": "ALL",
-      "open": 14,
-      "closed": 68,
-      "independent_events": 68,
-      "win_rate_pct": 32.35294117647059,
-      "profit_factor": 1.0226619770348586,
-      "expectancy_r": 0.015471284110926086,
-      "net_pnl_eur": 10.52047319542976
+      "open": 13,
+      "closed": 69,
+      "independent_events": 69,
+      "win_rate_pct": 31.88405797101449,
+      "profit_factor": 0.9992726531616345,
+      "expectancy_r": -0.0005008158330025555,
+      "net_pnl_eur": -0.34556292477174116
     },
     {
       "profile": "SHADOW_ETH_ADAPTIVE_1H",
@@ -621,12 +621,12 @@
       "profile": "SHADOW_GLOBAL_PURE",
       "regime": "ALL",
       "open": 1,
-      "closed": 2,
-      "independent_events": 2,
-      "win_rate_pct": 50.0,
-      "profit_factor": 1.2886270108492364,
-      "expectancy_r": 0.1587448559670801,
-      "net_pnl_eur": 3.174897119341603
+      "closed": 3,
+      "independent_events": 3,
+      "win_rate_pct": 66.66666666666666,
+      "profit_factor": 3.4704451926674187,
+      "expectancy_r": 0.9058299039780541,
+      "net_pnl_eur": 27.174897119341622
     },
     {
       "profile": "SHADOW_MASTER_ADAPTIVE_EXPANDED_V1",
@@ -697,13 +697,13 @@
     {
       "profile": "SHADOW_RELATIVE_STRENGTH",
       "regime": "ALL",
-      "open": 7,
-      "closed": 97,
-      "independent_events": 97,
-      "win_rate_pct": 28.865979381443296,
-      "profit_factor": 0.8929278812272928,
-      "expectancy_r": -0.07500575532962653,
-      "net_pnl_eur": -72.75558266973773
+      "open": 8,
+      "closed": 98,
+      "independent_events": 98,
+      "win_rate_pct": 29.591836734693878,
+      "profit_factor": 0.923669406620523,
+      "expectancy_r": -0.05292519773556009,
+      "net_pnl_eur": -51.86669378084889
     },
     {
       "profile": "SHADOW_RELATIVE_STRENGTH_V2",
@@ -719,46 +719,46 @@
     {
       "profile": "SHADOW_SCANNER_BOTTOM5_SHORT",
       "regime": "ALL",
-      "open": 4,
-      "closed": 35,
-      "independent_events": 35,
-      "win_rate_pct": 22.857142857142858,
-      "profit_factor": 0.6164562337867089,
-      "expectancy_r": -0.2718391500152615,
-      "net_pnl_eur": -95.14370250534152
+      "open": 5,
+      "closed": 36,
+      "independent_events": 36,
+      "win_rate_pct": 25.0,
+      "profit_factor": 0.6926012165155673,
+      "expectancy_r": -0.21181892671236813,
+      "net_pnl_eur": -76.25481361645252
     },
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "regime": "ALL",
-      "open": 8,
-      "closed": 47,
-      "independent_events": 47,
-      "win_rate_pct": 42.5531914893617,
-      "profit_factor": 1.578772988639154,
-      "expectancy_r": 0.3380860158506951,
-      "net_pnl_eur": 158.9004274498267
+      "open": 7,
+      "closed": 48,
+      "independent_events": 48,
+      "win_rate_pct": 41.66666666666667,
+      "profit_factor": 1.518155271467214,
+      "expectancy_r": 0.30820451037146573,
+      "net_pnl_eur": 147.93816497830358
     },
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
       "regime": "ALL",
-      "open": 6,
-      "closed": 7,
-      "independent_events": 7,
-      "win_rate_pct": 14.285714285714285,
-      "profit_factor": 0.33171689096743007,
-      "expectancy_r": -0.6112903152190368,
-      "net_pnl_eur": -42.79032206533257
+      "open": 5,
+      "closed": 8,
+      "independent_events": 8,
+      "win_rate_pct": 12.5,
+      "profit_factor": 0.282666087332179,
+      "expectancy_r": -0.6737679147055458,
+      "net_pnl_eur": -53.90143317644366
     },
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1",
       "regime": "ALL",
-      "open": 6,
-      "closed": 7,
-      "independent_events": 7,
-      "win_rate_pct": 14.285714285714285,
-      "profit_factor": 0.33171689096743007,
-      "expectancy_r": -0.6112903152190368,
-      "net_pnl_eur": -42.79032206533257
+      "open": 5,
+      "closed": 8,
+      "independent_events": 8,
+      "win_rate_pct": 12.5,
+      "profit_factor": 0.282666087332179,
+      "expectancy_r": -0.6737679147055458,
+      "net_pnl_eur": -53.90143317644366
     },
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1",
@@ -840,35 +840,35 @@
     {
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "regime": "ALL",
-      "open": 8,
-      "closed": 60,
-      "independent_events": 60,
-      "win_rate_pct": 43.333333333333336,
-      "profit_factor": 1.4538487294541873,
-      "expectancy_r": 0.2650798342609616,
-      "net_pnl_eur": 159.04790055657693
+      "open": 7,
+      "closed": 61,
+      "independent_events": 61,
+      "win_rate_pct": 42.62295081967213,
+      "profit_factor": 1.409750058514172,
+      "expectancy_r": 0.24276334112303907,
+      "net_pnl_eur": 148.0856380850538
     },
     {
       "profile": "SHADOW_SOL_ADAPTIVE_1H",
       "regime": "ALL",
       "open": 1,
-      "closed": 2,
-      "independent_events": 2,
-      "win_rate_pct": 50.0,
-      "profit_factor": 1.7000000000000062,
-      "expectancy_r": 0.3888888888888916,
-      "net_pnl_eur": 7.777777777777832
+      "closed": 3,
+      "independent_events": 3,
+      "win_rate_pct": 33.33333333333333,
+      "profit_factor": 0.8557318535010604,
+      "expectancy_r": -0.10614948979150991,
+      "net_pnl_eur": -3.184484693745297
     },
     {
       "profile": "SHADOW_SOL_ADAPTIVE_4H",
       "regime": "ALL",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.0516563778999823,
+      "net_pnl_eur": -10.516563778999824
     },
     {
       "profile": "SHADOW_SOL_BOLLINGER_1H",
@@ -906,35 +906,35 @@
     {
       "profile": "SHADOW_SOL_DONCHIAN_4H",
       "regime": "ALL",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.0563524139084828,
+      "net_pnl_eur": -10.563524139084828
     },
     {
       "profile": "SHADOW_SOL_EMA_1H",
       "regime": "ALL",
-      "open": 1,
-      "closed": 2,
-      "independent_events": 2,
-      "win_rate_pct": 50.0,
-      "profit_factor": 1.7000000000000062,
-      "expectancy_r": 0.3888888888888916,
-      "net_pnl_eur": 7.777777777777832
+      "open": 0,
+      "closed": 3,
+      "independent_events": 3,
+      "win_rate_pct": 33.33333333333333,
+      "profit_factor": 0.8557318535010604,
+      "expectancy_r": -0.10614948979150991,
+      "net_pnl_eur": -3.184484693745297
     },
     {
       "profile": "SHADOW_SOL_EMA_4H",
       "regime": "ALL",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.0563524139084828,
+      "net_pnl_eur": -10.563524139084828
     }
   ],
   "regime_matrix": [
@@ -963,7 +963,7 @@
     {
       "profile": "MAIN",
       "regime": "RANGE",
-      "open": 0,
+      "open": 3,
       "closed": 14,
       "independent_events": 14,
       "win_rate_pct": 28.57142857142857,
@@ -985,24 +985,24 @@
     {
       "profile": "MAIN",
       "regime": "TRANSITION",
-      "open": 2,
-      "closed": 6,
-      "independent_events": 6,
-      "win_rate_pct": 33.33333333333333,
-      "profit_factor": 0.9730200430054677,
-      "expectancy_r": -0.01836213673583979,
-      "net_pnl_eur": -1.1017282041503922
+      "open": 1,
+      "closed": 7,
+      "independent_events": 7,
+      "win_rate_pct": 42.857142857142854,
+      "profit_factor": 1.4490934635042543,
+      "expectancy_r": 0.26198227454682754,
+      "net_pnl_eur": 18.33875921827792
     },
     {
       "profile": "MAIN",
       "regime": "TREND_UP",
-      "open": 4,
-      "closed": 13,
-      "independent_events": 13,
-      "win_rate_pct": 30.76923076923077,
-      "profit_factor": 0.8561546627144218,
-      "expectancy_r": -0.10270349117121687,
-      "net_pnl_eur": -13.351453852258198
+      "open": 2,
+      "closed": 15,
+      "independent_events": 15,
+      "win_rate_pct": 33.33333333333333,
+      "profit_factor": 0.9597942560488315,
+      "expectancy_r": -0.027740463060330962,
+      "net_pnl_eur": -4.161069459049649
     },
     {
       "profile": "MAIN",
@@ -1018,13 +1018,13 @@
     {
       "profile": "RSI_EXTREME_LONG_15M",
       "regime": "RANGE",
-      "open": 3,
-      "closed": 3,
-      "independent_events": 3,
+      "open": 2,
+      "closed": 4,
+      "independent_events": 4,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": -1.2796405706781477,
-      "net_pnl_eur": -38.389217120344426
+      "expectancy_r": -1.2787759428119647,
+      "net_pnl_eur": -51.1510377124786
     },
     {
       "profile": "RSI_EXTREME_LONG_15M",
@@ -1118,12 +1118,12 @@
       "profile": "SHADOW_1H_BALANCED",
       "regime": "RANGE",
       "open": 4,
-      "closed": 28,
-      "independent_events": 28,
-      "win_rate_pct": 32.142857142857146,
-      "profit_factor": 0.9139864391451917,
-      "expectancy_r": -0.05872917806899463,
-      "net_pnl_eur": -16.4441698593185
+      "closed": 29,
+      "independent_events": 29,
+      "win_rate_pct": 34.48275862068966,
+      "profit_factor": 1.012787449340515,
+      "expectancy_r": 0.008430065619208104,
+      "net_pnl_eur": 2.4447190295703463
     },
     {
       "profile": "SHADOW_1H_BALANCED",
@@ -1161,13 +1161,13 @@
     {
       "profile": "SHADOW_1H_BALANCED",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 4,
-      "closed": 9,
-      "independent_events": 9,
-      "win_rate_pct": 33.33333333333333,
-      "profit_factor": 0.9112139869716044,
-      "expectancy_r": -0.06281533066730488,
-      "net_pnl_eur": -5.653379760057444
+      "open": 3,
+      "closed": 10,
+      "independent_events": 10,
+      "win_rate_pct": 30.0,
+      "profit_factor": 0.7773790698574811,
+      "expectancy_r": -0.16615642231580569,
+      "net_pnl_eur": -16.615642231580573
     },
     {
       "profile": "SHADOW_1H_BALANCED_V2",
@@ -1271,13 +1271,13 @@
     {
       "profile": "SHADOW_1H_BALANCED_V3",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 4,
-      "closed": 10,
-      "independent_events": 10,
-      "win_rate_pct": 30.0,
-      "profit_factor": 0.7752103806176721,
-      "expectancy_r": -0.1682444145760958,
-      "net_pnl_eur": -16.82444145760958
+      "open": 3,
+      "closed": 11,
+      "independent_events": 11,
+      "win_rate_pct": 27.27272727272727,
+      "profit_factor": 0.6761740994373621,
+      "expectancy_r": -0.2526063993557519,
+      "net_pnl_eur": -27.78670392913271
     },
     {
       "profile": "SHADOW_1H_FAST",
@@ -1305,12 +1305,12 @@
       "profile": "SHADOW_1H_FAST",
       "regime": "RANGE",
       "open": 5,
-      "closed": 35,
-      "independent_events": 35,
-      "win_rate_pct": 40.0,
-      "profit_factor": 1.0417067153706046,
-      "expectancy_r": 0.022880002110383452,
-      "net_pnl_eur": 8.008000738634202
+      "closed": 36,
+      "independent_events": 36,
+      "win_rate_pct": 41.66666666666667,
+      "profit_factor": 1.112388490644466,
+      "expectancy_r": 0.05994285919461865,
+      "net_pnl_eur": 21.579429310062707
     },
     {
       "profile": "SHADOW_1H_FAST",
@@ -1348,13 +1348,13 @@
     {
       "profile": "SHADOW_1H_FAST",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 20,
-      "independent_events": 20,
-      "win_rate_pct": 30.0,
-      "profit_factor": 0.5940958867687868,
-      "expectancy_r": -0.2865447734850327,
-      "net_pnl_eur": -57.30895469700655
+      "open": 0,
+      "closed": 21,
+      "independent_events": 21,
+      "win_rate_pct": 28.57142857142857,
+      "profit_factor": 0.5889241377832738,
+      "expectancy_r": -0.2788039402622131,
+      "net_pnl_eur": -58.54882745506475
     },
     {
       "profile": "SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1",
@@ -1425,7 +1425,7 @@
     {
       "profile": "SHADOW_1H_FAST_NOHIGH_CAP75_V1",
       "regime": "RANGE",
-      "open": 5,
+      "open": 6,
       "closed": 0,
       "independent_events": 0,
       "win_rate_pct": 0.0,
@@ -1481,12 +1481,12 @@
       "profile": "SHADOW_1H_FAST_NO_PEPE_V1",
       "regime": "RANGE",
       "open": 4,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 100.0,
+      "profit_factor": Infinity,
+      "expectancy_r": 1.3571428571428505,
+      "net_pnl_eur": 13.571428571428505
     },
     {
       "profile": "SHADOW_1H_FAST_NO_PEPE_V1",
@@ -1535,7 +1535,7 @@
     {
       "profile": "SHADOW_1H_FAST_SCORE_6_75_V1",
       "regime": "RANGE",
-      "open": 3,
+      "open": 4,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 100.0,
@@ -1591,12 +1591,12 @@
       "profile": "SHADOW_1H_FAST_TP2_V1",
       "regime": "RANGE",
       "open": 6,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 100.0,
+      "profit_factor": Infinity,
+      "expectancy_r": 1.8571428571428552,
+      "net_pnl_eur": 18.57142857142855
     },
     {
       "profile": "SHADOW_1H_FAST_TP2_V1",
@@ -1634,13 +1634,13 @@
     {
       "profile": "SHADOW_1H_FAST_V2",
       "regime": "RANGE",
-      "open": 2,
-      "closed": 2,
-      "independent_events": 1,
-      "win_rate_pct": 50.0,
-      "profit_factor": 1.1874999999999938,
-      "expectancy_r": 0.10714285714285443,
-      "net_pnl_eur": 2.1428571428570873
+      "open": 1,
+      "closed": 3,
+      "independent_events": 2,
+      "win_rate_pct": 66.66666666666666,
+      "profit_factor": 2.3749999999999787,
+      "expectancy_r": 0.5238095238095198,
+      "net_pnl_eur": 15.714285714285593
     },
     {
       "profile": "SHADOW_1H_FAST_V2",
@@ -1679,12 +1679,12 @@
       "profile": "SHADOW_1H_FAST_V3",
       "regime": "RANGE",
       "open": 5,
-      "closed": 1,
-      "independent_events": 1,
+      "closed": 2,
+      "independent_events": 2,
       "win_rate_pct": 100.0,
       "profit_factor": Infinity,
-      "expectancy_r": 1.476958147066354,
-      "net_pnl_eur": 14.76958147066354
+      "expectancy_r": 1.4170505021046023,
+      "net_pnl_eur": 28.341010042092044
     },
     {
       "profile": "SHADOW_1H_FAST_V3",
@@ -1722,13 +1722,13 @@
     {
       "profile": "SHADOW_1H_FAST_V3",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 19,
-      "independent_events": 19,
-      "win_rate_pct": 26.31578947368421,
-      "profit_factor": 0.49546674508410354,
-      "expectancy_r": -0.37406462688524583,
-      "net_pnl_eur": -71.07227910819671
+      "open": 0,
+      "closed": 20,
+      "independent_events": 20,
+      "win_rate_pct": 25.0,
+      "profit_factor": 0.4911438432185584,
+      "expectancy_r": -0.3615607593312745,
+      "net_pnl_eur": -72.31215186625491
     },
     {
       "profile": "SHADOW_1H_FAST_V3_CAP75_V1",
@@ -1755,7 +1755,7 @@
     {
       "profile": "SHADOW_1H_FAST_V3_CAP75_V1",
       "regime": "RANGE",
-      "open": 4,
+      "open": 5,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 100.0,
@@ -1810,7 +1810,7 @@
     {
       "profile": "SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1",
       "regime": "RANGE",
-      "open": 0,
+      "open": 1,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 100.0,
@@ -1865,7 +1865,7 @@
     {
       "profile": "SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1",
       "regime": "RANGE",
-      "open": 0,
+      "open": 1,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 100.0,
@@ -1976,12 +1976,12 @@
       "profile": "SHADOW_1H_FAST_V3_NOHIGH_V1",
       "regime": "RANGE",
       "open": 5,
-      "closed": 1,
-      "independent_events": 1,
+      "closed": 2,
+      "independent_events": 2,
       "win_rate_pct": 100.0,
       "profit_factor": Infinity,
-      "expectancy_r": 1.476958147066354,
-      "net_pnl_eur": 14.76958147066354
+      "expectancy_r": 1.4170505021046023,
+      "net_pnl_eur": 28.341010042092044
     },
     {
       "profile": "SHADOW_1H_FAST_V3_NOHIGH_V1",
@@ -2031,12 +2031,12 @@
       "profile": "SHADOW_1H_FAST_V3_NO_ESPORTS_V1",
       "regime": "RANGE",
       "open": 5,
-      "closed": 1,
-      "independent_events": 1,
+      "closed": 2,
+      "independent_events": 2,
       "win_rate_pct": 100.0,
       "profit_factor": Infinity,
-      "expectancy_r": 1.476958147066354,
-      "net_pnl_eur": 14.76958147066354
+      "expectancy_r": 1.4170505021046023,
+      "net_pnl_eur": 28.341010042092044
     },
     {
       "profile": "SHADOW_1H_FAST_V3_NO_ESPORTS_V1",
@@ -2107,13 +2107,13 @@
     {
       "profile": "SHADOW_4H_WIDE",
       "regime": "TREND_UP",
-      "open": 6,
-      "closed": 10,
-      "independent_events": 10,
-      "win_rate_pct": 40.0,
-      "profit_factor": 1.8109402859118098,
-      "expectancy_r": 0.4991484878850672,
-      "net_pnl_eur": 49.91484878850672
+      "open": 5,
+      "closed": 11,
+      "independent_events": 11,
+      "win_rate_pct": 36.36363636363637,
+      "profit_factor": 1.5475324458143624,
+      "expectancy_r": 0.35852746087869564,
+      "net_pnl_eur": 39.43802069665651
     },
     {
       "profile": "SHADOW_4H_WIDE",
@@ -2152,12 +2152,12 @@
       "profile": "SHADOW_BOLLINGER_MR_1H",
       "regime": "RANGE",
       "open": 1,
-      "closed": 7,
-      "independent_events": 7,
-      "win_rate_pct": 42.857142857142854,
-      "profit_factor": 0.9809613518194292,
-      "expectancy_r": -0.011821183949739269,
-      "net_pnl_eur": -0.8274828764817475
+      "closed": 8,
+      "independent_events": 8,
+      "win_rate_pct": 37.5,
+      "profit_factor": 0.7780737461611485,
+      "expectancy_r": -0.15201020262268863,
+      "net_pnl_eur": -12.16081620981509
     },
     {
       "profile": "SHADOW_BOLLINGER_MR_1H",
@@ -2382,13 +2382,13 @@
     {
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "regime": "RANGE",
-      "open": 3,
-      "closed": 13,
-      "independent_events": 13,
-      "win_rate_pct": 30.76923076923077,
-      "profit_factor": 0.7987430762458032,
-      "expectancy_r": -0.1506501748160775,
-      "net_pnl_eur": -19.584522726090075
+      "open": 4,
+      "closed": 14,
+      "independent_events": 14,
+      "win_rate_pct": 35.714285714285715,
+      "profit_factor": 0.9928514404924502,
+      "expectancy_r": -0.004968813122864822,
+      "net_pnl_eur": -0.6956338372010755
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE",
@@ -2426,13 +2426,13 @@
     {
       "profile": "SHADOW_COMBO_ADAPTIVE",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 4,
-      "closed": 8,
-      "independent_events": 8,
-      "win_rate_pct": 25.0,
-      "profit_factor": 0.6143612977589994,
-      "expectancy_r": -0.30694052469261535,
-      "net_pnl_eur": -24.55524197540923
+      "open": 3,
+      "closed": 9,
+      "independent_events": 9,
+      "win_rate_pct": 22.22222222222222,
+      "profit_factor": 0.5241267375576498,
+      "expectancy_r": -0.3946389382992484,
+      "net_pnl_eur": -35.517504446932364
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1",
@@ -2514,13 +2514,13 @@
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "regime": "RANGE",
-      "open": 3,
-      "closed": 1,
-      "independent_events": 1,
+      "open": 4,
+      "closed": 2,
+      "independent_events": 2,
       "win_rate_pct": 100.0,
       "profit_factor": Infinity,
-      "expectancy_r": 1.8888888888888922,
-      "net_pnl_eur": 18.88888888888892
+      "expectancy_r": 1.888888888888896,
+      "net_pnl_eur": 37.77777777777792
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
@@ -2558,13 +2558,13 @@
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 4,
-      "closed": 10,
-      "independent_events": 10,
-      "win_rate_pct": 20.0,
-      "profit_factor": 0.45626499424246153,
-      "expectancy_r": -0.46618425182179823,
-      "net_pnl_eur": -46.618425182179834
+      "open": 3,
+      "closed": 11,
+      "independent_events": 11,
+      "win_rate_pct": 18.181818181818183,
+      "profit_factor": 0.40454095981231175,
+      "expectancy_r": -0.5234607968518451,
+      "net_pnl_eur": -57.58068765370296
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1",
@@ -2592,12 +2592,12 @@
       "profile": "SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1",
       "regime": "RANGE",
       "open": 4,
-      "closed": 1,
-      "independent_events": 1,
+      "closed": 2,
+      "independent_events": 2,
       "win_rate_pct": 100.0,
       "profit_factor": Infinity,
-      "expectancy_r": 1.8888888888888922,
-      "net_pnl_eur": 18.88888888888892
+      "expectancy_r": 1.888888888888896,
+      "net_pnl_eur": 37.77777777777792
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1",
@@ -2745,13 +2745,13 @@
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_REGIME_V1",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 7,
-      "independent_events": 7,
-      "win_rate_pct": 14.285714285714285,
-      "profit_factor": 0.30076977627358503,
-      "expectancy_r": -0.6393972188387477,
-      "net_pnl_eur": -44.75780531871234
+      "open": 0,
+      "closed": 8,
+      "independent_events": 8,
+      "win_rate_pct": 12.5,
+      "profit_factor": 0.25628319524902893,
+      "expectancy_r": -0.6983614553727928,
+      "net_pnl_eur": -55.86891642982343
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_RUNNER25_V1",
@@ -2779,12 +2779,12 @@
       "profile": "SHADOW_COMBO_ADAPTIVE_RUNNER25_V1",
       "regime": "RANGE",
       "open": 4,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 100.0,
+      "profit_factor": Infinity,
+      "expectancy_r": 2.88888888888889,
+      "net_pnl_eur": 28.8888888888889
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_RUNNER25_V1",
@@ -2845,12 +2845,12 @@
       "profile": "SHADOW_COMBO_ADAPTIVE_TP3_V1",
       "regime": "RANGE",
       "open": 4,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 100.0,
+      "profit_factor": Infinity,
+      "expectancy_r": 2.88888888888889,
+      "net_pnl_eur": 28.8888888888889
     },
     {
       "profile": "SHADOW_COMBO_ADAPTIVE_TP3_V1",
@@ -2966,12 +2966,12 @@
       "profile": "SHADOW_COMBO_SCANNER",
       "regime": "RANGE",
       "open": 1,
-      "closed": 3,
-      "independent_events": 3,
-      "win_rate_pct": 66.66666666666666,
-      "profit_factor": 4.102179009875408,
-      "expectancy_r": 1.077763685110649,
-      "net_pnl_eur": 32.33291055331947
+      "closed": 4,
+      "independent_events": 4,
+      "win_rate_pct": 75.0,
+      "profit_factor": 6.1063621020182755,
+      "expectancy_r": 1.3305449860552077,
+      "net_pnl_eur": 53.221799442208315
     },
     {
       "profile": "SHADOW_COMBO_SCANNER",
@@ -3009,13 +3009,13 @@
     {
       "profile": "SHADOW_COMBO_SCANNER",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 3,
-      "closed": 6,
-      "independent_events": 6,
-      "win_rate_pct": 50.0,
-      "profit_factor": 2.052584711252574,
-      "expectancy_r": 0.547063859274257,
-      "net_pnl_eur": 32.82383155645542
+      "open": 2,
+      "closed": 7,
+      "independent_events": 7,
+      "win_rate_pct": 42.857142857142854,
+      "profit_factor": 1.5187068332560163,
+      "expectancy_r": 0.31230812978474704,
+      "net_pnl_eur": 21.86156908493229
     },
     {
       "profile": "SHADOW_COMBO_TREND",
@@ -3043,12 +3043,12 @@
       "profile": "SHADOW_COMBO_TREND",
       "regime": "RANGE",
       "open": 3,
-      "closed": 8,
-      "independent_events": 8,
-      "win_rate_pct": 12.5,
-      "profit_factor": 0.2907851330467841,
-      "expectancy_r": -0.6666505319675006,
-      "net_pnl_eur": -53.332042557400044
+      "closed": 9,
+      "independent_events": 9,
+      "win_rate_pct": 22.22222222222222,
+      "profit_factor": 0.5700452455764701,
+      "expectancy_r": -0.3592449173044449,
+      "net_pnl_eur": -32.33204255740004
     },
     {
       "profile": "SHADOW_COMBO_TREND",
@@ -3086,46 +3086,46 @@
     {
       "profile": "SHADOW_COMBO_TREND",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 4,
-      "closed": 7,
-      "independent_events": 7,
-      "win_rate_pct": 28.57142857142857,
-      "profit_factor": 0.8207975755598448,
-      "expectancy_r": -0.1336994097147361,
-      "net_pnl_eur": -9.358958680031524
+      "open": 3,
+      "closed": 8,
+      "independent_events": 8,
+      "win_rate_pct": 25.0,
+      "profit_factor": 0.679434740978507,
+      "expectancy_r": -0.25281243500291284,
+      "net_pnl_eur": -20.224994800233027
     },
     {
       "profile": "SHADOW_DOGE_BOLLINGER_1H",
-      "regime": "RANGE",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
-    },
-    {
-      "profile": "SHADOW_DOGE_DONCHIAN_1H",
       "regime": "RANGE",
       "open": 1,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": -1.124999999999994,
-      "net_pnl_eur": -11.24999999999994
+      "expectancy_r": -1.1333333333333342,
+      "net_pnl_eur": -11.333333333333343
     },
     {
-      "profile": "SHADOW_DOGE_EMA_1H",
+      "profile": "SHADOW_DOGE_DONCHIAN_1H",
       "regime": "RANGE",
       "open": 1,
       "closed": 2,
       "independent_events": 2,
       "win_rate_pct": 50.0,
-      "profit_factor": 1.7000000000000062,
-      "expectancy_r": 0.3888888888888916,
-      "net_pnl_eur": 7.777777777777832
+      "profit_factor": 1.6666666666666725,
+      "expectancy_r": 0.3750000000000012,
+      "net_pnl_eur": 7.500000000000025
+    },
+    {
+      "profile": "SHADOW_DOGE_EMA_1H",
+      "regime": "RANGE",
+      "open": 1,
+      "closed": 3,
+      "independent_events": 3,
+      "win_rate_pct": 66.66666666666666,
+      "profit_factor": 3.4000000000000195,
+      "expectancy_r": 0.8888888888888943,
+      "net_pnl_eur": 26.66666666666683
     },
     {
       "profile": "SHADOW_DONCHIAN_1H",
@@ -3153,12 +3153,12 @@
       "profile": "SHADOW_DONCHIAN_1H",
       "regime": "RANGE",
       "open": 3,
-      "closed": 8,
-      "independent_events": 8,
-      "win_rate_pct": 12.5,
-      "profit_factor": 0.3234173462472219,
-      "expectancy_r": -0.6393421480861342,
-      "net_pnl_eur": -51.147371846890735
+      "closed": 9,
+      "independent_events": 9,
+      "win_rate_pct": 22.22222222222222,
+      "profit_factor": 0.6408917951529245,
+      "expectancy_r": -0.3016374649654524,
+      "net_pnl_eur": -27.147371846890714
     },
     {
       "profile": "SHADOW_DONCHIAN_1H",
@@ -3196,13 +3196,13 @@
     {
       "profile": "SHADOW_DONCHIAN_1H",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 3,
-      "closed": 3,
-      "independent_events": 3,
-      "win_rate_pct": 66.66666666666666,
-      "profit_factor": 4.465215534195428,
-      "expectancy_r": 1.2504375039586029,
-      "net_pnl_eur": 37.51312511875809
+      "open": 2,
+      "closed": 4,
+      "independent_events": 4,
+      "win_rate_pct": 50.0,
+      "profit_factor": 2.2284485003243617,
+      "expectancy_r": 0.6661772249639146,
+      "net_pnl_eur": 26.64708899855659
     },
     {
       "profile": "SHADOW_EMA_TREND_1H",
@@ -3273,13 +3273,13 @@
     {
       "profile": "SHADOW_EMA_TREND_1H",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 4,
-      "closed": 7,
-      "independent_events": 7,
-      "win_rate_pct": 42.857142857142854,
-      "profit_factor": 1.5571320661478214,
-      "expectancy_r": 0.3281159689663132,
-      "net_pnl_eur": 22.96811782764192
+      "open": 3,
+      "closed": 8,
+      "independent_events": 8,
+      "win_rate_pct": 37.5,
+      "profit_factor": 1.2323228203256753,
+      "expectancy_r": 0.15127602134300522,
+      "net_pnl_eur": 12.10208170744042
     },
     {
       "profile": "SHADOW_ETH_ADAPTIVE_1H",
@@ -3406,12 +3406,12 @@
       "profile": "SHADOW_GLOBAL_PURE",
       "regime": "RANGE",
       "open": 1,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 100.0,
+      "profit_factor": Infinity,
+      "expectancy_r": 2.400000000000002,
+      "net_pnl_eur": 24.00000000000002
     },
     {
       "profile": "SHADOW_GLOBAL_PURE",
@@ -3680,13 +3680,13 @@
     {
       "profile": "SHADOW_RELATIVE_STRENGTH",
       "regime": "RANGE",
-      "open": 1,
-      "closed": 20,
-      "independent_events": 20,
-      "win_rate_pct": 20.0,
-      "profit_factor": 0.5478301080621023,
-      "expectancy_r": -0.3555369949134397,
-      "net_pnl_eur": -71.10739898268794
+      "open": 2,
+      "closed": 21,
+      "independent_events": 21,
+      "win_rate_pct": 23.809523809523807,
+      "profit_factor": 0.6806619478807857,
+      "expectancy_r": -0.23913576235142428,
+      "net_pnl_eur": -50.218510093799104
     },
     {
       "profile": "SHADOW_RELATIVE_STRENGTH",
@@ -3823,13 +3823,13 @@
     {
       "profile": "SHADOW_SCANNER_BOTTOM5_SHORT",
       "regime": "RANGE",
-      "open": 2,
-      "closed": 8,
-      "independent_events": 8,
-      "win_rate_pct": 12.5,
-      "profit_factor": 0.24932032366686188,
-      "expectancy_r": -0.7109079992386689,
-      "net_pnl_eur": -56.8726399390935
+      "open": 3,
+      "closed": 9,
+      "independent_events": 9,
+      "win_rate_pct": 22.22222222222222,
+      "profit_factor": 0.49864064733372576,
+      "expectancy_r": -0.4220416783356057,
+      "net_pnl_eur": -37.9837510502045
     },
     {
       "profile": "SHADOW_SCANNER_BOTTOM5_SHORT",
@@ -3933,68 +3933,68 @@
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 3,
+      "open": 2,
+      "closed": 7,
+      "independent_events": 7,
+      "win_rate_pct": 42.857142857142854,
+      "profit_factor": 1.5187068332560163,
+      "expectancy_r": 0.31230812978474704,
+      "net_pnl_eur": 21.86156908493229
+    },
+    {
+      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
+      "regime": "ALT_ROTATION_DOWN",
+      "open": 2,
+      "closed": 0,
+      "independent_events": 0,
+      "win_rate_pct": 0.0,
+      "profit_factor": 0.0,
+      "expectancy_r": 0.0,
+      "net_pnl_eur": 0
+    },
+    {
+      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
+      "regime": "ALT_ROTATION_UP",
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 0.0,
+      "profit_factor": 0.0,
+      "expectancy_r": -1.0861019134535936,
+      "net_pnl_eur": -10.861019134535937
+    },
+    {
+      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
+      "regime": "TRANSITION",
+      "open": 1,
+      "closed": 0,
+      "independent_events": 0,
+      "win_rate_pct": 0.0,
+      "profit_factor": 0.0,
+      "expectancy_r": 0.0,
+      "net_pnl_eur": 0
+    },
+    {
+      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
+      "regime": "TREND_UP",
+      "open": 2,
+      "closed": 1,
+      "independent_events": 1,
+      "win_rate_pct": 0.0,
+      "profit_factor": 0.0,
+      "expectancy_r": -1.1111111111111012,
+      "net_pnl_eur": -11.111111111111011
+    },
+    {
+      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
+      "regime": "TREND_UP_HIGH_VOL",
+      "open": 0,
       "closed": 6,
       "independent_events": 6,
-      "win_rate_pct": 50.0,
-      "profit_factor": 2.052584711252574,
-      "expectancy_r": 0.547063859274257,
-      "net_pnl_eur": 32.82383155645542
-    },
-    {
-      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
-      "regime": "ALT_ROTATION_DOWN",
-      "open": 2,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
-    },
-    {
-      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
-      "regime": "ALT_ROTATION_UP",
-      "open": 0,
-      "closed": 1,
-      "independent_events": 1,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": -1.0861019134535936,
-      "net_pnl_eur": -10.861019134535937
-    },
-    {
-      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
-      "regime": "TRANSITION",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
-    },
-    {
-      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
-      "regime": "TREND_UP",
-      "open": 2,
-      "closed": 1,
-      "independent_events": 1,
-      "win_rate_pct": 0.0,
-      "profit_factor": 0.0,
-      "expectancy_r": -1.1111111111111012,
-      "net_pnl_eur": -11.111111111111011
-    },
-    {
-      "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1",
-      "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 5,
-      "independent_events": 5,
-      "win_rate_pct": 20.0,
-      "profit_factor": 0.5050135102890572,
-      "expectancy_r": -0.41636383639371244,
-      "net_pnl_eur": -20.818191819685623
+      "win_rate_pct": 16.666666666666664,
+      "profit_factor": 0.39947759967976915,
+      "expectancy_r": -0.5321550488466119,
+      "net_pnl_eur": -31.92930293079671
     },
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1",
@@ -4043,13 +4043,13 @@
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 5,
-      "independent_events": 5,
-      "win_rate_pct": 20.0,
-      "profit_factor": 0.5050135102890572,
-      "expectancy_r": -0.41636383639371244,
-      "net_pnl_eur": -20.818191819685623
+      "open": 0,
+      "closed": 6,
+      "independent_events": 6,
+      "win_rate_pct": 16.666666666666664,
+      "profit_factor": 0.39947759967976915,
+      "expectancy_r": -0.5321550488466119,
+      "net_pnl_eur": -31.92930293079671
     },
     {
       "profile": "SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1",
@@ -4505,18 +4505,18 @@
     {
       "profile": "SHADOW_SCANNER_TOP5_LONG",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 3,
-      "closed": 6,
-      "independent_events": 6,
-      "win_rate_pct": 50.0,
-      "profit_factor": 1.8292948199374715,
-      "expectancy_r": 0.43838731654349705,
-      "net_pnl_eur": 26.30323899260982
+      "open": 2,
+      "closed": 7,
+      "independent_events": 7,
+      "win_rate_pct": 42.857142857142854,
+      "profit_factor": 1.3594429941394939,
+      "expectancy_r": 0.21915680744409563,
+      "net_pnl_eur": 15.340976521086692
     },
     {
       "profile": "SHADOW_SOL_ADAPTIVE_1H",
       "regime": "RANGE",
-      "open": 0,
+      "open": 1,
       "closed": 1,
       "independent_events": 1,
       "win_rate_pct": 0.0,
@@ -4538,24 +4538,24 @@
     {
       "profile": "SHADOW_SOL_ADAPTIVE_1H",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.096226247152313,
+      "net_pnl_eur": -10.962262471523129
     },
     {
       "profile": "SHADOW_SOL_ADAPTIVE_4H",
       "regime": "TREND_UP",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.0516563778999823,
+      "net_pnl_eur": -10.516563778999824
     },
     {
       "profile": "SHADOW_SOL_BOLLINGER_1H",
@@ -4604,13 +4604,13 @@
     {
       "profile": "SHADOW_SOL_DONCHIAN_4H",
       "regime": "TREND_UP",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.0563524139084828,
+      "net_pnl_eur": -10.563524139084828
     },
     {
       "profile": "SHADOW_SOL_EMA_1H",
@@ -4637,25 +4637,25 @@
     {
       "profile": "SHADOW_SOL_EMA_1H",
       "regime": "TREND_UP_HIGH_VOL",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.096226247152313,
+      "net_pnl_eur": -10.962262471523129
     },
     {
       "profile": "SHADOW_SOL_EMA_4H",
       "regime": "TREND_UP",
-      "open": 1,
-      "closed": 0,
-      "independent_events": 0,
+      "open": 0,
+      "closed": 1,
+      "independent_events": 1,
       "win_rate_pct": 0.0,
       "profit_factor": 0.0,
-      "expectancy_r": 0.0,
-      "net_pnl_eur": 0
+      "expectancy_r": -1.0563524139084828,
+      "net_pnl_eur": -10.563524139084828
     }
   ],
-  "report_markdown": "## 🔬 Research All Signals\n\nRegistro parallelo senza limite globale di quattro posizioni. Considera soltanto segnali validi con dati freschi; non modifica i conti paper e non genera ordini reali.\n\n### Regime di mercato osservato\n\n- Regime: **RANGE**\n- Famiglia: **RANGE**\n- Confidenza: **80,40%**\n- Volatilità: **NORMAL**\n- Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**\n- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 17%, ADX 24.9.\n- BTC trend score: **1,00**; ADX: **24,92**; breadth sopra EMA50: **16,67%**\n- Mediana alt vs BTC: **-0,57%**; dispersione: **12,24%**\n\n- Aperti in questo ciclo: **3**\n- Chiusi in questo ciclo: **0**\n- Posizioni research aperte: **392**\n- Trade research chiusi: **1647**\n- Eventi di mercato indipendenti chiusi: **510**\n- Segnali sovrapposti saltati sullo stesso asset/profilo: **6838**\n- Posizioni Research V1 senza regime scartate durante la migrazione: **28**\n\n### Risultati complessivi per strategia\n\n| Profilo | Aperte | Chiuse | Eventi indip. | Win rate | PF | Expectancy R | P&L norm. |\n| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |\n| MAIN | 13 | 40 | 40 | 30,00% | 0,83 | -0,12R | €-49,20 |\n| RSI_EXTREME_LONG_15M | 3 | 5 | 5 | 40,00% | 0,51 | -0,38R | €-18,96 |\n| RSI_EXTREME_SHORT_15M | 0 | 7 | 7 | 28,57% | 0,62 | -0,24R | €-16,64 |\n| Bilanciata 1H V1 | 14 | 137 | 137 | 32,85% | 0,93 | -0,05R | €-64,61 |\n| Bilanciata 1H V2 | 8 | 26 | 23 | 42,31% | 1,43 | 0,25R | €64,97 |\n| Bilanciata 1H V3 Filtered | 11 | 46 | 46 | 36,96% | 1,08 | 0,05R | €24,56 |\n| Rapida 1H V1 | 10 | 159 | 159 | 37,74% | 0,86 | -0,09R | €-139,81 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | 3 | 6 | 6 | 50,00% | 1,36 | 0,19R | €11,49 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 8 | 26 | 26 | 34,62% | 0,70 | -0,21R | €-55,12 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | 8 | 28 | 28 | 32,14% | 0,62 | -0,28R | €-77,53 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | 4 | 18 | 18 | 38,89% | 0,82 | -0,12R | €-21,19 |\n| SHADOW_1H_FAST_TP2_V1 | 10 | 24 | 24 | 20,83% | 0,46 | -0,46R | €-109,76 |\n| Rapida 1H V2 | 2 | 5 | 4 | 20,00% | 0,30 | -0,62R | €-31,20 |\n| Rapida 1H V3 Filtered | 7 | 69 | 69 | 40,58% | 0,94 | -0,04R | €-27,53 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | 5 | 24 | 24 | 33,33% | 0,65 | -0,25R | €-59,22 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | 1 | 11 | 11 | 27,27% | 0,48 | -0,41R | €-45,62 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | 1 | 11 | 11 | 27,27% | 0,48 | -0,41R | €-45,62 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | 2 | 13 | 13 | 23,08% | 0,38 | -0,52R | €-68,15 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | 6 | 25 | 25 | 32,00% | 0,62 | -0,28R | €-69,62 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 6 | 26 | 26 | 30,77% | 0,58 | -0,31R | €-81,13 |\n| SHADOW_4H_WIDE | 19 | 38 | 38 | 23,68% | 0,85 | -0,12R | €-45,80 |\n| SHADOW_BOLLINGER_MR_1H | 2 | 29 | 29 | 44,83% | 1,07 | 0,04R | €11,89 |\n| SHADOW_BTC_ADAPTIVE_1H | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_ADAPTIVE_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_BOLLINGER_1H | 0 | 2 | 2 | 100,00% | ∞ | 1,37R | €27,33 |\n| SHADOW_BTC_BOLLINGER_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_DONCHIAN_1H | 2 | 2 | 2 | 0,00% | 0,00 | -1,12R | €-22,50 |\n| SHADOW_BTC_DONCHIAN_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_EMA_1H | 1 | 4 | 4 | 25,00% | 0,57 | -0,36R | €-14,44 |\n| SHADOW_BTC_EMA_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE | 13 | 79 | 79 | 39,24% | 1,19 | 0,12R | €95,77 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | 5 | 15 | 15 | 20,00% | 0,44 | -0,48R | €-71,91 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | 12 | 47 | 47 | 36,17% | 1,04 | 0,03R | €13,21 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 9 | 25 | 25 | 24,00% | 0,56 | -0,36R | €-89,68 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 3 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,02 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 5 | 22 | 22 | 13,64% | 0,28 | -0,66R | €-145,49 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 10 | 19 | 19 | 10,53% | 0,32 | -0,65R | €-123,53 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | 10 | 19 | 19 | 10,53% | 0,32 | -0,65R | €-123,53 |\n| SHADOW_COMBO_MEAN_REVERSION | 4 | 11 | 11 | 45,45% | 1,18 | 0,10R | €11,40 |\n| SHADOW_COMBO_SCANNER | 9 | 47 | 47 | 44,68% | 1,59 | 0,34R | €161,86 |\n| SHADOW_COMBO_TREND | 13 | 60 | 60 | 33,33% | 1,03 | 0,02R | €10,61 |\n| SHADOW_DOGE_BOLLINGER_1H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_DOGE_DONCHIAN_1H | 1 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_DOGE_EMA_1H | 1 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_DONCHIAN_1H | 10 | 33 | 33 | 30,30% | 0,99 | -0,01R | €-2,69 |\n| SHADOW_EMA_TREND_1H | 14 | 68 | 68 | 32,35% | 1,02 | 0,02R | €10,52 |\n| SHADOW_ETH_ADAPTIVE_1H | 0 | 3 | 3 | 33,33% | 0,85 | -0,11R | €-3,33 |\n| SHADOW_ETH_BOLLINGER_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_ETH_DONCHIAN_1H | 0 | 3 | 3 | 33,33% | 0,84 | -0,12R | €-3,61 |\n| SHADOW_ETH_EMA_1H | 1 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_ETH_EMA_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_GLOBAL_PURE | 1 | 2 | 2 | 50,00% | 1,29 | 0,16R | €3,17 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 5 | 10 | 10 | 10,00% | 0,19 | -0,79R | €-78,53 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,74 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,60 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,74 |\n| SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 3 | 10 | 10 | 0,00% | 0,00 | -1,07R | €-107,43 |\n| SHADOW_MASTER_ADAPTIVE_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,74 |\n| Forza relativa 1H V1 | 7 | 97 | 97 | 28,87% | 0,89 | -0,08R | €-72,76 |\n| Forza relativa 1H V2 | 6 | 31 | 28 | 38,71% | 1,32 | 0,20R | €63,38 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | 4 | 35 | 35 | 22,86% | 0,62 | -0,27R | €-95,14 |\n| SHADOW_SCANNER_TOP5_BTC | 8 | 47 | 47 | 42,55% | 1,58 | 0,34R | €158,90 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | 6 | 7 | 7 | 14,29% | 0,33 | -0,61R | €-42,79 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | 6 | 7 | 7 | 14,29% | 0,33 | -0,61R | €-42,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | 4 | 3 | 3 | 0,00% | 0,00 | -1,04R | €-31,06 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | 4 | 3 | 3 | 0,00% | 0,00 | -1,04R | €-31,06 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | 4 | 6 | 6 | 0,00% | 0,00 | -1,06R | €-63,64 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | 4 | 6 | 6 | 0,00% | 0,00 | -1,06R | €-63,64 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | 7 | 10 | 10 | 20,00% | 0,49 | -0,44R | €-43,75 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | 6 | 9 | 9 | 11,11% | 0,34 | -0,63R | €-56,46 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | 6 | 9 | 9 | 11,11% | 0,34 | -0,63R | €-56,46 |\n| SHADOW_SCANNER_TOP5_LONG | 8 | 60 | 60 | 43,33% | 1,45 | 0,27R | €159,05 |\n| SHADOW_SOL_ADAPTIVE_1H | 1 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_SOL_ADAPTIVE_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_BOLLINGER_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_SOL_BOLLINGER_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_DONCHIAN_1H | 0 | 2 | 2 | 0,00% | 0,00 | -1,12R | €-22,33 |\n| SHADOW_SOL_DONCHIAN_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_EMA_1H | 1 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_SOL_EMA_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n\n### Matrice strategia × regime all’entrata\n\n| Profilo | Regime entrata | Aperte | Chiuse | Eventi indip. | Win rate | PF | Expectancy R | P&L norm. |\n| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |\n| MAIN | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| MAIN | ALT_ROTATION_UP | 3 | 3 | 3 | 0,00% | 0,00 | -1,01R | €-30,40 |\n| MAIN | RANGE | 0 | 14 | 14 | 28,57% | 0,77 | -0,17R | €-23,82 |\n| MAIN | RANGE_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |\n| MAIN | TRANSITION | 2 | 6 | 6 | 33,33% | 0,97 | -0,02R | €-1,10 |\n| MAIN | TREND_UP | 4 | 13 | 13 | 30,77% | 0,86 | -0,10R | €-13,35 |\n| MAIN | TREND_UP_HIGH_VOL | 3 | 3 | 3 | 33,33% | 0,98 | -0,01R | €-0,40 |\n| RSI_EXTREME_LONG_15M | RANGE | 3 | 3 | 3 | 0,00% | 0,00 | -1,28R | €-38,39 |\n| RSI_EXTREME_LONG_15M | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,29R | €12,88 |\n| RSI_EXTREME_LONG_15M | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 0,66R | €6,56 |\n| RSI_EXTREME_SHORT_15M | ALT_ROTATION_DOWN | 0 | 1 | 1 | 100,00% | ∞ | 1,47R | €14,67 |\n| RSI_EXTREME_SHORT_15M | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,90 |\n| RSI_EXTREME_SHORT_15M | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -0,41R | €-4,13 |\n| RSI_EXTREME_SHORT_15M | TREND_UP | 0 | 4 | 4 | 25,00% | 0,44 | -0,41R | €-16,27 |\n| Bilanciata 1H V1 | ALT_ROTATION_DOWN | 2 | 6 | 6 | 33,33% | 0,88 | -0,08R | €-5,07 |\n| Bilanciata 1H V1 | ALT_ROTATION_UP | 0 | 14 | 14 | 50,00% | 1,84 | 0,44R | €61,99 |\n| Bilanciata 1H V1 | RANGE | 4 | 28 | 28 | 32,14% | 0,91 | -0,06R | €-16,44 |\n| Bilanciata 1H V1 | RANGE_HIGH_VOL | 0 | 11 | 11 | 0,00% | 0,00 | -1,07R | €-118,08 |\n| Bilanciata 1H V1 | TRANSITION | 1 | 28 | 28 | 28,57% | 0,80 | -0,14R | €-39,78 |\n| Bilanciata 1H V1 | TREND_UP | 3 | 41 | 41 | 39,02% | 1,23 | 0,14R | €58,42 |\n| Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 4 | 9 | 9 | 33,33% | 0,91 | -0,06R | €-5,65 |\n| Bilanciata 1H V2 | ALT_ROTATION_UP | 0 | 6 | 5 | 66,67% | 3,52 | 0,92R | €55,11 |\n| Bilanciata 1H V2 | RANGE | 3 | 7 | 6 | 42,86% | 1,75 | 0,36R | €25,14 |\n| Bilanciata 1H V2 | TRANSITION | 5 | 13 | 12 | 30,77% | 0,84 | -0,12R | €-15,27 |\n| Bilanciata 1H V3 Filtered | ALT_ROTATION_DOWN | 1 | 4 | 4 | 50,00% | 1,82 | 0,43R | €17,15 |\n| Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,05R | €-20,99 |\n| Bilanciata 1H V3 Filtered | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| Bilanciata 1H V3 Filtered | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| Bilanciata 1H V3 Filtered | TRANSITION | 1 | 7 | 7 | 28,57% | 0,74 | -0,20R | €-14,18 |\n| Bilanciata 1H V3 Filtered | TREND_UP | 1 | 20 | 20 | 45,00% | 1,54 | 0,31R | €61,36 |\n| Bilanciata 1H V3 Filtered | TREND_UP_HIGH_VOL | 4 | 10 | 10 | 30,00% | 0,78 | -0,17R | €-16,82 |\n| Rapida 1H V1 | ALT_ROTATION_DOWN | 2 | 9 | 9 | 33,33% | 0,64 | -0,26R | €-23,06 |\n| Rapida 1H V1 | ALT_ROTATION_UP | 1 | 12 | 12 | 50,00% | 1,35 | 0,19R | €22,41 |\n| Rapida 1H V1 | RANGE | 5 | 35 | 35 | 40,00% | 1,04 | 0,02R | €8,01 |\n| Rapida 1H V1 | RANGE_HIGH_VOL | 0 | 11 | 11 | 0,00% | 0,00 | -1,09R | €-119,90 |\n| Rapida 1H V1 | TRANSITION | 1 | 24 | 24 | 45,83% | 1,32 | 0,16R | €39,24 |\n| Rapida 1H V1 | TREND_UP | 0 | 48 | 48 | 41,67% | 0,97 | -0,02R | €-9,20 |\n| Rapida 1H V1 | TREND_UP_HIGH_VOL | 1 | 20 | 20 | 30,00% | 0,59 | -0,29R | €-57,31 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | ALT_ROTATION_DOWN | 2 | 1 | 1 | 0,00% | 0,00 | -1,02R | €-10,20 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,82 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TREND_UP | 0 | 3 | 3 | 33,33% | 0,68 | -0,23R | €-7,03 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_DOWN | 2 | 8 | 8 | 37,50% | 0,78 | -0,15R | €-11,63 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | RANGE | 5 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,82 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TREND_UP | 0 | 16 | 16 | 25,00% | 0,44 | -0,45R | €-72,21 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | ALT_ROTATION_DOWN | 2 | 8 | 8 | 37,50% | 0,78 | -0,15R | €-11,63 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 0,83 | -0,12R | €-5,83 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | RANGE | 4 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,82 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | TREND_UP | 0 | 14 | 14 | 21,43% | 0,36 | -0,54R | €-74,90 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | ALT_ROTATION_DOWN | 0 | 5 | 5 | 60,00% | 1,93 | 0,40R | €20,14 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 1,23 | 0,13R | €5,07 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE | 3 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | TREND_UP | 0 | 8 | 8 | 12,50% | 0,18 | -0,76R | €-61,17 |\n| SHADOW_1H_FAST_TP2_V1 | ALT_ROTATION_DOWN | 3 | 6 | 6 | 16,67% | 0,35 | -0,57R | €-34,33 |\n| SHADOW_1H_FAST_TP2_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 25,00% | 0,55 | -0,37R | €-14,93 |\n| SHADOW_1H_FAST_TP2_V1 | RANGE | 6 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_TP2_V1 | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,98R | €19,82 |\n| SHADOW_1H_FAST_TP2_V1 | TREND_UP | 1 | 13 | 13 | 15,38% | 0,32 | -0,62R | €-80,32 |\n| Rapida 1H V2 | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,10R | €-21,92 |\n| Rapida 1H V2 | RANGE | 2 | 2 | 1 | 50,00% | 1,19 | 0,11R | €2,14 |\n| Rapida 1H V2 | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,14R | €-11,43 |\n| Rapida 1H V3 Filtered | ALT_ROTATION_DOWN | 0 | 9 | 9 | 33,33% | 0,66 | -0,24R | €-21,76 |\n| Rapida 1H V3 Filtered | ALT_ROTATION_UP | 0 | 5 | 5 | 60,00% | 1,92 | 0,41R | €20,43 |\n| Rapida 1H V3 Filtered | RANGE | 5 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| Rapida 1H V3 Filtered | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |\n| Rapida 1H V3 Filtered | TRANSITION | 1 | 5 | 5 | 40,00% | 0,91 | -0,06R | €-2,77 |\n| Rapida 1H V3 Filtered | TREND_UP | 0 | 29 | 29 | 48,28% | 1,27 | 0,15R | €43,00 |\n| Rapida 1H V3 Filtered | TREND_UP_HIGH_VOL | 1 | 19 | 19 | 26,32% | 0,50 | -0,37R | €-71,07 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | ALT_ROTATION_DOWN | 0 | 8 | 8 | 37,50% | 0,80 | -0,13R | €-10,34 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 1,23 | 0,13R | €5,07 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | TREND_UP | 0 | 11 | 11 | 18,18% | 0,29 | -0,62R | €-68,73 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,63 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | RANGE | 0 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | TREND_UP | 0 | 7 | 7 | 14,29% | 0,20 | -0,75R | €-52,65 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,63 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | RANGE | 0 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | TREND_UP | 0 | 7 | 7 | 14,29% | 0,20 | -0,75R | €-52,65 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,63 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 1,23 | 0,13R | €5,07 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | RANGE | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | TREND_UP | 0 | 6 | 6 | 0,00% | 0,00 | -1,11R | €-66,36 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | ALT_ROTATION_DOWN | 0 | 8 | 8 | 37,50% | 0,80 | -0,13R | €-10,34 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | ALT_ROTATION_UP | 0 | 2 | 2 | 50,00% | 1,27 | 0,15R | €3,00 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | RANGE | 5 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | TREND_UP | 0 | 14 | 14 | 21,43% | 0,35 | -0,55R | €-77,05 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | ALT_ROTATION_DOWN | 0 | 8 | 8 | 37,50% | 0,80 | -0,13R | €-10,34 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | ALT_ROTATION_UP | 0 | 5 | 5 | 40,00% | 0,83 | -0,12R | €-5,83 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE | 5 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_UP | 0 | 12 | 12 | 16,67% | 0,26 | -0,66R | €-79,74 |\n| SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_4H_WIDE | ALT_ROTATION_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_4H_WIDE | RANGE | 2 | 15 | 15 | 26,67% | 0,98 | -0,01R | €-1,81 |\n| SHADOW_4H_WIDE | TRANSITION | 3 | 7 | 7 | 14,29% | 0,46 | -0,47R | €-33,10 |\n| SHADOW_4H_WIDE | TREND_UP | 6 | 10 | 10 | 40,00% | 1,81 | 0,50R | €49,91 |\n| SHADOW_4H_WIDE | TREND_UP_HIGH_VOL | 4 | 4 | 4 | 0,00% | 0,00 | -1,01R | €-40,53 |\n| SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_DOWN | 1 | 2 | 2 | 50,00% | 1,24 | 0,13R | €2,66 |\n| SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,02R | €-20,30 |\n| SHADOW_BOLLINGER_MR_1H | RANGE | 1 | 7 | 7 | 42,86% | 0,98 | -0,01R | €-0,83 |\n| SHADOW_BOLLINGER_MR_1H | RANGE_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,49R | €14,87 |\n| SHADOW_BOLLINGER_MR_1H | TRANSITION | 0 | 3 | 3 | 33,33% | 0,71 | -0,20R | €-6,14 |\n| SHADOW_BOLLINGER_MR_1H | TREND_UP | 0 | 12 | 12 | 50,00% | 1,28 | 0,15R | €18,32 |\n| SHADOW_BOLLINGER_MR_1H | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,31 | 0,17R | €3,31 |\n| SHADOW_BTC_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_ADAPTIVE_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_ADAPTIVE_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_BOLLINGER_1H | RANGE | 0 | 1 | 1 | 100,00% | ∞ | 1,37R | €13,67 |\n| SHADOW_BTC_BOLLINGER_1H | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,37R | €13,67 |\n| SHADOW_BTC_BOLLINGER_4H | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_DONCHIAN_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_BTC_DONCHIAN_1H | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_BTC_DONCHIAN_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_DONCHIAN_4H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_EMA_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_EMA_1H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_EMA_1H | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_BTC_EMA_4H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE | ALT_ROTATION_DOWN | 2 | 4 | 4 | 50,00% | 1,77 | 0,42R | €16,61 |\n| SHADOW_COMBO_ADAPTIVE | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 1,22 | 0,14R | €6,88 |\n| SHADOW_COMBO_ADAPTIVE | RANGE | 3 | 13 | 13 | 30,77% | 0,80 | -0,15R | €-19,58 |\n| SHADOW_COMBO_ADAPTIVE | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| SHADOW_COMBO_ADAPTIVE | TRANSITION | 1 | 18 | 18 | 44,44% | 1,48 | 0,28R | €50,23 |\n| SHADOW_COMBO_ADAPTIVE | TREND_UP | 2 | 29 | 29 | 44,83% | 1,52 | 0,30R | €87,02 |\n| SHADOW_COMBO_ADAPTIVE | TREND_UP_HIGH_VOL | 4 | 8 | 8 | 25,00% | 0,61 | -0,31R | €-24,56 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 66,67% | 3,50 | 0,90R | €27,00 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | TREND_UP | 2 | 6 | 6 | 0,00% | 0,00 | -1,09R | €-65,26 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | TREND_UP_HIGH_VOL | 0 | 6 | 6 | 16,67% | 0,36 | -0,56R | €-33,65 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | ALT_ROTATION_DOWN | 2 | 4 | 4 | 50,00% | 1,77 | 0,42R | €16,61 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | ALT_ROTATION_UP | 1 | 6 | 6 | 33,33% | 0,90 | -0,07R | €-4,23 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE | 3 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TRANSITION | 0 | 3 | 3 | 33,33% | 0,87 | -0,09R | €-2,74 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_UP | 2 | 21 | 21 | 42,86% | 1,42 | 0,25R | €52,12 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_UP_HIGH_VOL | 4 | 10 | 10 | 20,00% | 0,46 | -0,47R | €-46,62 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | ALT_ROTATION_DOWN | 2 | 4 | 4 | 50,00% | 1,77 | 0,42R | €16,61 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 66,67% | 3,50 | 0,90R | €27,00 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TRANSITION | 0 | 2 | 2 | 0,00% | 0,00 | -1,09R | €-21,86 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP | 2 | 8 | 8 | 0,00% | 0,00 | -1,07R | €-85,56 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP_HIGH_VOL | 0 | 7 | 7 | 14,29% | 0,30 | -0,64R | €-44,76 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,84 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 1 | 3 | 3 | 0,00% | 0,00 | -1,09R | €-32,68 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP | 3 | 12 | 12 | 16,67% | 0,36 | -0,57R | €-68,05 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP_HIGH_VOL | 1 | 7 | 7 | 14,29% | 0,30 | -0,64R | €-44,76 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 1,35 | 0,25R | €7,43 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_UP | 2 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | RANGE | 4 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TRANSITION | 0 | 2 | 2 | 0,00% | 0,00 | -1,09R | €-21,86 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TREND_UP | 2 | 7 | 7 | 0,00% | 0,00 | -1,06R | €-74,11 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 0,00% | 0,00 | -1,06R | €-42,49 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 1,35 | 0,25R | €7,43 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_UP | 2 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | RANGE | 4 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | TRANSITION | 0 | 2 | 2 | 0,00% | 0,00 | -1,09R | €-21,86 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | TREND_UP | 2 | 7 | 7 | 0,00% | 0,00 | -1,06R | €-74,11 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 0,00% | 0,00 | -1,06R | €-42,49 |\n| SHADOW_COMBO_MEAN_REVERSION | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,65 |\n| SHADOW_COMBO_MEAN_REVERSION | RANGE | 3 | 5 | 5 | 60,00% | 2,11 | 0,48R | €23,92 |\n| SHADOW_COMBO_MEAN_REVERSION | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,49R | €14,94 |\n| SHADOW_COMBO_MEAN_REVERSION | TREND_UP | 1 | 2 | 2 | 50,00% | 1,50 | 0,25R | €5,04 |\n| SHADOW_COMBO_MEAN_REVERSION | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,85 |\n| SHADOW_COMBO_SCANNER | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_COMBO_SCANNER | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 2,09 | 0,57R | €22,81 |\n| SHADOW_COMBO_SCANNER | RANGE | 1 | 3 | 3 | 66,67% | 4,10 | 1,08R | €32,33 |\n| SHADOW_COMBO_SCANNER | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,69 |\n| SHADOW_COMBO_SCANNER | TRANSITION | 1 | 13 | 13 | 38,46% | 1,08 | 0,05R | €6,95 |\n| SHADOW_COMBO_SCANNER | TREND_UP | 3 | 19 | 19 | 47,37% | 1,84 | 0,47R | €88,76 |\n| SHADOW_COMBO_SCANNER | TREND_UP_HIGH_VOL | 3 | 6 | 6 | 50,00% | 2,05 | 0,55R | €32,82 |\n| SHADOW_COMBO_TREND | ALT_ROTATION_DOWN | 3 | 2 | 2 | 50,00% | 1,91 | 0,50R | €10,05 |\n| SHADOW_COMBO_TREND | ALT_ROTATION_UP | 0 | 5 | 5 | 40,00% | 1,39 | 0,24R | €12,22 |\n| SHADOW_COMBO_TREND | RANGE | 3 | 8 | 8 | 12,50% | 0,29 | -0,67R | €-53,33 |\n| SHADOW_COMBO_TREND | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,63 |\n| SHADOW_COMBO_TREND | TRANSITION | 1 | 14 | 14 | 42,86% | 1,55 | 0,33R | €46,22 |\n| SHADOW_COMBO_TREND | TREND_UP | 2 | 23 | 23 | 34,78% | 1,10 | 0,07R | €15,44 |\n| SHADOW_COMBO_TREND | TREND_UP_HIGH_VOL | 4 | 7 | 7 | 28,57% | 0,82 | -0,13R | €-9,36 |\n| SHADOW_DOGE_BOLLINGER_1H | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_DOGE_DONCHIAN_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_DOGE_EMA_1H | RANGE | 1 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_DONCHIAN_1H | ALT_ROTATION_DOWN | 2 | 2 | 2 | 50,00% | 2,19 | 0,65R | €13,05 |\n| SHADOW_DONCHIAN_1H | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,85 |\n| SHADOW_DONCHIAN_1H | RANGE | 3 | 8 | 8 | 12,50% | 0,32 | -0,64R | €-51,15 |\n| SHADOW_DONCHIAN_1H | RANGE_HIGH_VOL | 1 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |\n| SHADOW_DONCHIAN_1H | TRANSITION | 1 | 6 | 6 | 16,67% | 0,45 | -0,48R | €-28,95 |\n| SHADOW_DONCHIAN_1H | TREND_UP | 0 | 11 | 11 | 45,45% | 1,89 | 0,53R | €57,82 |\n| SHADOW_DONCHIAN_1H | TREND_UP_HIGH_VOL | 3 | 3 | 3 | 66,67% | 4,47 | 1,25R | €37,51 |\n| SHADOW_EMA_TREND_1H | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 0,98 | -0,02R | €-0,50 |\n| SHADOW_EMA_TREND_1H | ALT_ROTATION_UP | 0 | 5 | 5 | 20,00% | 0,52 | -0,40R | €-20,11 |\n| SHADOW_EMA_TREND_1H | RANGE | 4 | 10 | 10 | 20,00% | 0,57 | -0,32R | €-32,03 |\n| SHADOW_EMA_TREND_1H | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,63 |\n| SHADOW_EMA_TREND_1H | TRANSITION | 2 | 14 | 14 | 42,86% | 1,55 | 0,33R | €46,21 |\n| SHADOW_EMA_TREND_1H | TREND_UP | 2 | 28 | 28 | 32,14% | 1,02 | 0,02R | €4,61 |\n| SHADOW_EMA_TREND_1H | TREND_UP_HIGH_VOL | 4 | 7 | 7 | 42,86% | 1,56 | 0,33R | €22,97 |\n| SHADOW_ETH_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_ETH_ADAPTIVE_1H | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_ETH_ADAPTIVE_1H | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_ETH_BOLLINGER_1H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_ETH_DONCHIAN_1H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,25 |\n| SHADOW_ETH_DONCHIAN_1H | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,68 | 0,38R | €7,64 |\n| SHADOW_ETH_EMA_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_ETH_EMA_1H | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_ETH_EMA_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_ETH_EMA_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_GLOBAL_PURE | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,10R | €-11,00 |\n| SHADOW_GLOBAL_PURE | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_GLOBAL_PURE | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,42R | €14,17 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,90R | €19,01 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TREND_UP | 3 | 7 | 7 | 0,00% | 0,00 | -1,08R | €-75,64 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_UP | 3 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-96,88 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | TREND_UP | 3 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,60 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | TREND_UP | 3 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-96,88 |\n| SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | RANGE | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | TREND_UP | 1 | 10 | 10 | 0,00% | 0,00 | -1,07R | €-107,43 |\n| SHADOW_MASTER_ADAPTIVE_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_MASTER_ADAPTIVE_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_V1 | TREND_UP | 3 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-96,88 |\n| Forza relativa 1H V1 | ALT_ROTATION_DOWN | 1 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,19 |\n| Forza relativa 1H V1 | ALT_ROTATION_UP | 0 | 13 | 13 | 30,77% | 0,90 | -0,07R | €-9,26 |\n| Forza relativa 1H V1 | RANGE | 1 | 20 | 20 | 20,00% | 0,55 | -0,36R | €-71,11 |\n| Forza relativa 1H V1 | RANGE_HIGH_VOL | 0 | 3 | 3 | 0,00% | 0,00 | -1,03R | €-31,02 |\n| Forza relativa 1H V1 | TRANSITION | 1 | 14 | 14 | 42,86% | 1,58 | 0,34R | €47,39 |\n| Forza relativa 1H V1 | TREND_UP | 3 | 35 | 35 | 37,14% | 1,43 | 0,24R | €84,59 |\n| Forza relativa 1H V1 | TREND_UP_HIGH_VOL | 1 | 8 | 8 | 12,50% | 0,30 | -0,64R | €-51,15 |\n| Forza relativa 1H V2 | ALT_ROTATION_DOWN | 2 | 1 | 1 | 100,00% | ∞ | 2,11R | €21,13 |\n| Forza relativa 1H V2 | ALT_ROTATION_UP | 1 | 3 | 3 | 33,33% | 0,98 | -0,02R | €-0,45 |\n| Forza relativa 1H V2 | RANGE | 1 | 3 | 3 | 66,67% | 4,31 | 1,12R | €33,59 |\n| Forza relativa 1H V2 | TRANSITION | 2 | 9 | 8 | 33,33% | 1,05 | 0,03R | €3,12 |\n| Forza relativa 1H V2 | TREND_UP | 0 | 11 | 10 | 45,45% | 1,77 | 0,43R | €47,60 |\n| Forza relativa 1H V2 | TREND_UP_HIGH_VOL | 0 | 4 | 3 | 0,00% | 0,00 | -1,04R | €-41,60 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_DOWN | 1 | 3 | 3 | 66,67% | 3,53 | 0,91R | €27,28 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | RANGE | 2 | 8 | 8 | 12,50% | 0,25 | -0,71R | €-56,87 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | TRANSITION | 0 | 14 | 14 | 28,57% | 0,85 | -0,09R | €-13,14 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP | 0 | 7 | 7 | 0,00% | 0,00 | -0,73R | €-51,04 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP_HIGH_VOL | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,24 |\n| SHADOW_SCANNER_TOP5_BTC | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC | ALT_ROTATION_UP | 0 | 5 | 5 | 40,00% | 1,39 | 0,25R | €12,28 |\n| SHADOW_SCANNER_TOP5_BTC | RANGE | 0 | 5 | 5 | 60,00% | 5,82 | 1,06R | €53,24 |\n| SHADOW_SCANNER_TOP5_BTC | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,69 |\n| SHADOW_SCANNER_TOP5_BTC | TRANSITION | 1 | 11 | 11 | 36,36% | 1,20 | 0,13R | €14,31 |\n| SHADOW_SCANNER_TOP5_BTC | TREND_UP | 3 | 18 | 18 | 44,44% | 1,64 | 0,38R | €68,05 |\n| SHADOW_SCANNER_TOP5_BTC | TREND_UP_HIGH_VOL | 3 | 6 | 6 | 50,00% | 2,05 | 0,55R | €32,82 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | TREND_UP | 2 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | TREND_UP_HIGH_VOL | 1 | 5 | 5 | 20,00% | 0,51 | -0,42R | €-20,82 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | TREND_UP | 2 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | TREND_UP_HIGH_VOL | 1 | 5 | 5 | 20,00% | 0,51 | -0,42R | €-20,82 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | TREND_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,07R | €-21,47 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | TREND_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,07R | €-21,47 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | TREND_UP | 3 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | TREND_UP_HIGH_VOL | 2 | 7 | 7 | 28,57% | 0,80 | -0,15R | €-10,74 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | TREND_UP | 3 | 3 | 3 | 0,00% | 0,00 | -1,09R | €-32,57 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | TREND_UP_HIGH_VOL | 0 | 3 | 3 | 0,00% | 0,00 | -1,05R | €-31,38 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | TREND_UP | 3 | 3 | 3 | 0,00% | 0,00 | -1,09R | €-32,57 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | TREND_UP_HIGH_VOL | 0 | 3 | 3 | 0,00% | 0,00 | -1,05R | €-31,38 |\n| SHADOW_SCANNER_TOP5_LONG | ALT_ROTATION_DOWN | 1 | 2 | 2 | 0,00% | 0,00 | -1,11R | €-22,22 |\n| SHADOW_SCANNER_TOP5_LONG | ALT_ROTATION_UP | 0 | 6 | 6 | 33,33% | 0,92 | -0,06R | €-3,32 |\n| SHADOW_SCANNER_TOP5_LONG | RANGE | 0 | 6 | 6 | 66,67% | 7,07 | 1,12R | €67,10 |\n| SHADOW_SCANNER_TOP5_LONG | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| SHADOW_SCANNER_TOP5_LONG | TRANSITION | 1 | 11 | 11 | 36,36% | 1,09 | 0,06R | €6,31 |\n| SHADOW_SCANNER_TOP5_LONG | TREND_UP | 3 | 27 | 27 | 48,15% | 1,71 | 0,39R | €105,70 |\n| SHADOW_SCANNER_TOP5_LONG | TREND_UP_HIGH_VOL | 3 | 6 | 6 | 50,00% | 1,83 | 0,44R | €26,30 |\n| SHADOW_SOL_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SOL_ADAPTIVE_1H | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_SOL_ADAPTIVE_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_ADAPTIVE_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_BOLLINGER_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_SOL_BOLLINGER_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_DONCHIAN_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_SOL_DONCHIAN_1H | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,08 |\n| SHADOW_SOL_DONCHIAN_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_EMA_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SOL_EMA_1H | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_SOL_EMA_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_EMA_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n\nIl P&L è normalizzato a **€10 di rischio per evento**, così leva e size non falsano il confronto.\nLa matrice diventerà utilizzabile per una rotazione automatica soltanto dopo un campione sufficiente per ciascuna coppia strategia-regime."
+  "report_markdown": "## 🔬 Research All Signals\n\nRegistro parallelo senza limite globale di quattro posizioni. Considera soltanto segnali validi con dati freschi; non modifica i conti paper e non genera ordini reali.\n\n### Regime di mercato osservato\n\n- Regime: **RANGE**\n- Famiglia: **RANGE**\n- Confidenza: **80,40%**\n- Volatilità: **NORMAL**\n- Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**\n- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 24.4.\n- BTC trend score: **0,00**; ADX: **24,38**; breadth sopra EMA50: **25,00%**\n- Mediana alt vs BTC: **-1,03%**; dispersione: **12,30%**\n\n- Aperti in questo ciclo: **0**\n- Chiusi in questo ciclo: **1**\n- Posizioni research aperte: **379**\n- Trade research chiusi: **1695**\n- Eventi di mercato indipendenti chiusi: **522**\n- Segnali sovrapposti saltati sullo stesso asset/profilo: **6933**\n- Posizioni Research V1 senza regime scartate durante la migrazione: **28**\n\n### Risultati complessivi per strategia\n\n| Profilo | Aperte | Chiuse | Eventi indip. | Win rate | PF | Expectancy R | P&L norm. |\n| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |\n| MAIN | 13 | 43 | 43 | 32,56% | 0,93 | -0,05R | €-20,57 |\n| RSI_EXTREME_LONG_15M | 2 | 6 | 6 | 33,33% | 0,38 | -0,53R | €-31,72 |\n| RSI_EXTREME_SHORT_15M | 0 | 7 | 7 | 28,57% | 0,62 | -0,24R | €-16,64 |\n| Bilanciata 1H V1 | 13 | 139 | 139 | 33,09% | 0,94 | -0,04R | €-56,69 |\n| Bilanciata 1H V2 | 8 | 26 | 23 | 42,31% | 1,43 | 0,25R | €64,97 |\n| Bilanciata 1H V3 Filtered | 10 | 47 | 47 | 36,17% | 1,04 | 0,03R | €13,60 |\n| Rapida 1H V1 | 9 | 161 | 161 | 37,89% | 0,87 | -0,08R | €-127,48 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | 3 | 6 | 6 | 50,00% | 1,36 | 0,19R | €11,49 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 9 | 26 | 26 | 34,62% | 0,70 | -0,21R | €-55,12 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | 8 | 29 | 29 | 34,48% | 0,69 | -0,22R | €-63,96 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | 5 | 18 | 18 | 38,89% | 0,82 | -0,12R | €-21,19 |\n| SHADOW_1H_FAST_TP2_V1 | 10 | 25 | 25 | 24,00% | 0,55 | -0,36R | €-91,18 |\n| Rapida 1H V2 | 1 | 6 | 5 | 33,33% | 0,61 | -0,29R | €-17,63 |\n| Rapida 1H V3 Filtered | 6 | 71 | 71 | 40,85% | 0,96 | -0,02R | €-15,20 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | 6 | 24 | 24 | 33,33% | 0,65 | -0,25R | €-59,22 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | 2 | 11 | 11 | 27,27% | 0,48 | -0,41R | €-45,62 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | 2 | 11 | 11 | 27,27% | 0,48 | -0,41R | €-45,62 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | 2 | 13 | 13 | 23,08% | 0,38 | -0,52R | €-68,15 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | 6 | 26 | 26 | 34,62% | 0,69 | -0,22R | €-56,05 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 6 | 27 | 27 | 33,33% | 0,65 | -0,25R | €-67,56 |\n| SHADOW_4H_WIDE | 18 | 39 | 39 | 23,08% | 0,82 | -0,14R | €-56,28 |\n| SHADOW_BOLLINGER_MR_1H | 2 | 30 | 30 | 43,33% | 1,00 | 0,00R | €0,56 |\n| SHADOW_BTC_ADAPTIVE_1H | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_ADAPTIVE_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_BOLLINGER_1H | 0 | 2 | 2 | 100,00% | ∞ | 1,37R | €27,33 |\n| SHADOW_BTC_BOLLINGER_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_DONCHIAN_1H | 2 | 2 | 2 | 0,00% | 0,00 | -1,12R | €-22,50 |\n| SHADOW_BTC_DONCHIAN_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_EMA_1H | 1 | 4 | 4 | 25,00% | 0,57 | -0,36R | €-14,44 |\n| SHADOW_BTC_EMA_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE | 13 | 81 | 81 | 39,51% | 1,20 | 0,13R | €103,70 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | 5 | 15 | 15 | 20,00% | 0,44 | -0,48R | €-71,91 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | 12 | 49 | 49 | 36,73% | 1,06 | 0,04R | €21,14 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 9 | 26 | 26 | 26,92% | 0,65 | -0,27R | €-70,79 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 2 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,05 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 3 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,02 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 4 | 23 | 23 | 13,04% | 0,27 | -0,68R | €-156,60 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 10 | 20 | 20 | 15,00% | 0,48 | -0,47R | €-94,64 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | 10 | 20 | 20 | 15,00% | 0,48 | -0,47R | €-94,64 |\n| SHADOW_COMBO_MEAN_REVERSION | 4 | 11 | 11 | 45,45% | 1,18 | 0,10R | €11,40 |\n| SHADOW_COMBO_SCANNER | 8 | 49 | 49 | 44,90% | 1,60 | 0,35R | €171,79 |\n| SHADOW_COMBO_TREND | 12 | 62 | 62 | 33,87% | 1,05 | 0,03R | €20,74 |\n| SHADOW_DOGE_BOLLINGER_1H | 1 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_DOGE_DONCHIAN_1H | 1 | 2 | 2 | 50,00% | 1,67 | 0,38R | €7,50 |\n| SHADOW_DOGE_EMA_1H | 1 | 3 | 3 | 66,67% | 3,40 | 0,89R | €26,67 |\n| SHADOW_DONCHIAN_1H | 9 | 35 | 35 | 31,43% | 1,04 | 0,03R | €10,44 |\n| SHADOW_EMA_TREND_1H | 13 | 69 | 69 | 31,88% | 1,00 | -0,00R | €-0,35 |\n| SHADOW_ETH_ADAPTIVE_1H | 0 | 3 | 3 | 33,33% | 0,85 | -0,11R | €-3,33 |\n| SHADOW_ETH_BOLLINGER_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_ETH_DONCHIAN_1H | 0 | 3 | 3 | 33,33% | 0,84 | -0,12R | €-3,61 |\n| SHADOW_ETH_EMA_1H | 1 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_ETH_EMA_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_GLOBAL_PURE | 1 | 3 | 3 | 66,67% | 3,47 | 0,91R | €27,17 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 5 | 10 | 10 | 10,00% | 0,19 | -0,79R | €-78,53 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,74 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,60 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,74 |\n| SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 3 | 10 | 10 | 0,00% | 0,00 | -1,07R | €-107,43 |\n| SHADOW_MASTER_ADAPTIVE_V1 | 5 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,74 |\n| Forza relativa 1H V1 | 8 | 98 | 98 | 29,59% | 0,92 | -0,05R | €-51,87 |\n| Forza relativa 1H V2 | 6 | 31 | 28 | 38,71% | 1,32 | 0,20R | €63,38 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | 5 | 36 | 36 | 25,00% | 0,69 | -0,21R | €-76,25 |\n| SHADOW_SCANNER_TOP5_BTC | 7 | 48 | 48 | 41,67% | 1,52 | 0,31R | €147,94 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | 5 | 8 | 8 | 12,50% | 0,28 | -0,67R | €-53,90 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | 5 | 8 | 8 | 12,50% | 0,28 | -0,67R | €-53,90 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | 4 | 3 | 3 | 0,00% | 0,00 | -1,04R | €-31,06 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | 4 | 3 | 3 | 0,00% | 0,00 | -1,04R | €-31,06 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | 4 | 6 | 6 | 0,00% | 0,00 | -1,06R | €-63,64 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | 4 | 6 | 6 | 0,00% | 0,00 | -1,06R | €-63,64 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | 7 | 10 | 10 | 20,00% | 0,49 | -0,44R | €-43,75 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | 6 | 9 | 9 | 11,11% | 0,34 | -0,63R | €-56,46 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | 6 | 9 | 9 | 11,11% | 0,34 | -0,63R | €-56,46 |\n| SHADOW_SCANNER_TOP5_LONG | 7 | 61 | 61 | 42,62% | 1,41 | 0,24R | €148,09 |\n| SHADOW_SOL_ADAPTIVE_1H | 1 | 3 | 3 | 33,33% | 0,86 | -0,11R | €-3,18 |\n| SHADOW_SOL_ADAPTIVE_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,05R | €-10,52 |\n| SHADOW_SOL_BOLLINGER_1H | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_SOL_BOLLINGER_4H | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_DONCHIAN_1H | 0 | 2 | 2 | 0,00% | 0,00 | -1,12R | €-22,33 |\n| SHADOW_SOL_DONCHIAN_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,56 |\n| SHADOW_SOL_EMA_1H | 0 | 3 | 3 | 33,33% | 0,86 | -0,11R | €-3,18 |\n| SHADOW_SOL_EMA_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,56 |\n\n### Matrice strategia × regime all’entrata\n\n| Profilo | Regime entrata | Aperte | Chiuse | Eventi indip. | Win rate | PF | Expectancy R | P&L norm. |\n| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |\n| MAIN | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| MAIN | ALT_ROTATION_UP | 3 | 3 | 3 | 0,00% | 0,00 | -1,01R | €-30,40 |\n| MAIN | RANGE | 3 | 14 | 14 | 28,57% | 0,77 | -0,17R | €-23,82 |\n| MAIN | RANGE_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |\n| MAIN | TRANSITION | 1 | 7 | 7 | 42,86% | 1,45 | 0,26R | €18,34 |\n| MAIN | TREND_UP | 2 | 15 | 15 | 33,33% | 0,96 | -0,03R | €-4,16 |\n| MAIN | TREND_UP_HIGH_VOL | 3 | 3 | 3 | 33,33% | 0,98 | -0,01R | €-0,40 |\n| RSI_EXTREME_LONG_15M | RANGE | 2 | 4 | 4 | 0,00% | 0,00 | -1,28R | €-51,15 |\n| RSI_EXTREME_LONG_15M | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,29R | €12,88 |\n| RSI_EXTREME_LONG_15M | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 0,66R | €6,56 |\n| RSI_EXTREME_SHORT_15M | ALT_ROTATION_DOWN | 0 | 1 | 1 | 100,00% | ∞ | 1,47R | €14,67 |\n| RSI_EXTREME_SHORT_15M | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,90 |\n| RSI_EXTREME_SHORT_15M | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -0,41R | €-4,13 |\n| RSI_EXTREME_SHORT_15M | TREND_UP | 0 | 4 | 4 | 25,00% | 0,44 | -0,41R | €-16,27 |\n| Bilanciata 1H V1 | ALT_ROTATION_DOWN | 2 | 6 | 6 | 33,33% | 0,88 | -0,08R | €-5,07 |\n| Bilanciata 1H V1 | ALT_ROTATION_UP | 0 | 14 | 14 | 50,00% | 1,84 | 0,44R | €61,99 |\n| Bilanciata 1H V1 | RANGE | 4 | 29 | 29 | 34,48% | 1,01 | 0,01R | €2,44 |\n| Bilanciata 1H V1 | RANGE_HIGH_VOL | 0 | 11 | 11 | 0,00% | 0,00 | -1,07R | €-118,08 |\n| Bilanciata 1H V1 | TRANSITION | 1 | 28 | 28 | 28,57% | 0,80 | -0,14R | €-39,78 |\n| Bilanciata 1H V1 | TREND_UP | 3 | 41 | 41 | 39,02% | 1,23 | 0,14R | €58,42 |\n| Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 3 | 10 | 10 | 30,00% | 0,78 | -0,17R | €-16,62 |\n| Bilanciata 1H V2 | ALT_ROTATION_UP | 0 | 6 | 5 | 66,67% | 3,52 | 0,92R | €55,11 |\n| Bilanciata 1H V2 | RANGE | 3 | 7 | 6 | 42,86% | 1,75 | 0,36R | €25,14 |\n| Bilanciata 1H V2 | TRANSITION | 5 | 13 | 12 | 30,77% | 0,84 | -0,12R | €-15,27 |\n| Bilanciata 1H V3 Filtered | ALT_ROTATION_DOWN | 1 | 4 | 4 | 50,00% | 1,82 | 0,43R | €17,15 |\n| Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,05R | €-20,99 |\n| Bilanciata 1H V3 Filtered | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| Bilanciata 1H V3 Filtered | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| Bilanciata 1H V3 Filtered | TRANSITION | 1 | 7 | 7 | 28,57% | 0,74 | -0,20R | €-14,18 |\n| Bilanciata 1H V3 Filtered | TREND_UP | 1 | 20 | 20 | 45,00% | 1,54 | 0,31R | €61,36 |\n| Bilanciata 1H V3 Filtered | TREND_UP_HIGH_VOL | 3 | 11 | 11 | 27,27% | 0,68 | -0,25R | €-27,79 |\n| Rapida 1H V1 | ALT_ROTATION_DOWN | 2 | 9 | 9 | 33,33% | 0,64 | -0,26R | €-23,06 |\n| Rapida 1H V1 | ALT_ROTATION_UP | 1 | 12 | 12 | 50,00% | 1,35 | 0,19R | €22,41 |\n| Rapida 1H V1 | RANGE | 5 | 36 | 36 | 41,67% | 1,11 | 0,06R | €21,58 |\n| Rapida 1H V1 | RANGE_HIGH_VOL | 0 | 11 | 11 | 0,00% | 0,00 | -1,09R | €-119,90 |\n| Rapida 1H V1 | TRANSITION | 1 | 24 | 24 | 45,83% | 1,32 | 0,16R | €39,24 |\n| Rapida 1H V1 | TREND_UP | 0 | 48 | 48 | 41,67% | 0,97 | -0,02R | €-9,20 |\n| Rapida 1H V1 | TREND_UP_HIGH_VOL | 0 | 21 | 21 | 28,57% | 0,59 | -0,28R | €-58,55 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | ALT_ROTATION_DOWN | 2 | 1 | 1 | 0,00% | 0,00 | -1,02R | €-10,20 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,82 |\n| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TREND_UP | 0 | 3 | 3 | 33,33% | 0,68 | -0,23R | €-7,03 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_DOWN | 2 | 8 | 8 | 37,50% | 0,78 | -0,15R | €-11,63 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | RANGE | 6 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,82 |\n| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TREND_UP | 0 | 16 | 16 | 25,00% | 0,44 | -0,45R | €-72,21 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | ALT_ROTATION_DOWN | 2 | 8 | 8 | 37,50% | 0,78 | -0,15R | €-11,63 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 0,83 | -0,12R | €-5,83 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 1,36R | €13,57 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,82 |\n| SHADOW_1H_FAST_NO_PEPE_V1 | TREND_UP | 0 | 14 | 14 | 21,43% | 0,36 | -0,54R | €-74,90 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | ALT_ROTATION_DOWN | 0 | 5 | 5 | 60,00% | 1,93 | 0,40R | €20,14 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 1,23 | 0,13R | €5,07 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_SCORE_6_75_V1 | TREND_UP | 0 | 8 | 8 | 12,50% | 0,18 | -0,76R | €-61,17 |\n| SHADOW_1H_FAST_TP2_V1 | ALT_ROTATION_DOWN | 3 | 6 | 6 | 16,67% | 0,35 | -0,57R | €-34,33 |\n| SHADOW_1H_FAST_TP2_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 25,00% | 0,55 | -0,37R | €-14,93 |\n| SHADOW_1H_FAST_TP2_V1 | RANGE | 6 | 1 | 1 | 100,00% | ∞ | 1,86R | €18,57 |\n| SHADOW_1H_FAST_TP2_V1 | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,98R | €19,82 |\n| SHADOW_1H_FAST_TP2_V1 | TREND_UP | 1 | 13 | 13 | 15,38% | 0,32 | -0,62R | €-80,32 |\n| Rapida 1H V2 | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,10R | €-21,92 |\n| Rapida 1H V2 | RANGE | 1 | 3 | 2 | 66,67% | 2,37 | 0,52R | €15,71 |\n| Rapida 1H V2 | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,14R | €-11,43 |\n| Rapida 1H V3 Filtered | ALT_ROTATION_DOWN | 0 | 9 | 9 | 33,33% | 0,66 | -0,24R | €-21,76 |\n| Rapida 1H V3 Filtered | ALT_ROTATION_UP | 0 | 5 | 5 | 60,00% | 1,92 | 0,41R | €20,43 |\n| Rapida 1H V3 Filtered | RANGE | 5 | 2 | 2 | 100,00% | ∞ | 1,42R | €28,34 |\n| Rapida 1H V3 Filtered | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |\n| Rapida 1H V3 Filtered | TRANSITION | 1 | 5 | 5 | 40,00% | 0,91 | -0,06R | €-2,77 |\n| Rapida 1H V3 Filtered | TREND_UP | 0 | 29 | 29 | 48,28% | 1,27 | 0,15R | €43,00 |\n| Rapida 1H V3 Filtered | TREND_UP_HIGH_VOL | 0 | 20 | 20 | 25,00% | 0,49 | -0,36R | €-72,31 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | ALT_ROTATION_DOWN | 0 | 8 | 8 | 37,50% | 0,80 | -0,13R | €-10,34 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 1,23 | 0,13R | €5,07 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | RANGE | 5 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_CAP75_V1 | TREND_UP | 0 | 11 | 11 | 18,18% | 0,29 | -0,62R | €-68,73 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,63 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | RANGE | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | TREND_UP | 0 | 7 | 7 | 14,29% | 0,20 | -0,75R | €-52,65 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,63 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | RANGE | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | TREND_UP | 0 | 7 | 7 | 14,29% | 0,20 | -0,75R | €-52,65 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,63 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 1,23 | 0,13R | €5,07 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | RANGE | 1 | 1 | 1 | 100,00% | ∞ | 1,48R | €14,77 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | TREND_UP | 0 | 6 | 6 | 0,00% | 0,00 | -1,11R | €-66,36 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | ALT_ROTATION_DOWN | 0 | 8 | 8 | 37,50% | 0,80 | -0,13R | €-10,34 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | ALT_ROTATION_UP | 0 | 2 | 2 | 50,00% | 1,27 | 0,15R | €3,00 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | RANGE | 5 | 2 | 2 | 100,00% | ∞ | 1,42R | €28,34 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_NOHIGH_V1 | TREND_UP | 0 | 14 | 14 | 21,43% | 0,35 | -0,55R | €-77,05 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | ALT_ROTATION_DOWN | 0 | 8 | 8 | 37,50% | 0,80 | -0,13R | €-10,34 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | ALT_ROTATION_UP | 0 | 5 | 5 | 40,00% | 0,83 | -0,12R | €-5,83 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE | 5 | 2 | 2 | 100,00% | ∞ | 1,42R | €28,34 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_UP | 0 | 12 | 12 | 16,67% | 0,26 | -0,66R | €-79,74 |\n| SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_4H_WIDE | ALT_ROTATION_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_4H_WIDE | RANGE | 2 | 15 | 15 | 26,67% | 0,98 | -0,01R | €-1,81 |\n| SHADOW_4H_WIDE | TRANSITION | 3 | 7 | 7 | 14,29% | 0,46 | -0,47R | €-33,10 |\n| SHADOW_4H_WIDE | TREND_UP | 5 | 11 | 11 | 36,36% | 1,55 | 0,36R | €39,44 |\n| SHADOW_4H_WIDE | TREND_UP_HIGH_VOL | 4 | 4 | 4 | 0,00% | 0,00 | -1,01R | €-40,53 |\n| SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_DOWN | 1 | 2 | 2 | 50,00% | 1,24 | 0,13R | €2,66 |\n| SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,02R | €-20,30 |\n| SHADOW_BOLLINGER_MR_1H | RANGE | 1 | 8 | 8 | 37,50% | 0,78 | -0,15R | €-12,16 |\n| SHADOW_BOLLINGER_MR_1H | RANGE_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,49R | €14,87 |\n| SHADOW_BOLLINGER_MR_1H | TRANSITION | 0 | 3 | 3 | 33,33% | 0,71 | -0,20R | €-6,14 |\n| SHADOW_BOLLINGER_MR_1H | TREND_UP | 0 | 12 | 12 | 50,00% | 1,28 | 0,15R | €18,32 |\n| SHADOW_BOLLINGER_MR_1H | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,31 | 0,17R | €3,31 |\n| SHADOW_BTC_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_ADAPTIVE_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_ADAPTIVE_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_BOLLINGER_1H | RANGE | 0 | 1 | 1 | 100,00% | ∞ | 1,37R | €13,67 |\n| SHADOW_BTC_BOLLINGER_1H | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,37R | €13,67 |\n| SHADOW_BTC_BOLLINGER_4H | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_DONCHIAN_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_BTC_DONCHIAN_1H | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_BTC_DONCHIAN_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_DONCHIAN_4H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_BTC_EMA_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_EMA_1H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_BTC_EMA_1H | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,70 | 0,39R | €7,78 |\n| SHADOW_BTC_EMA_4H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE | ALT_ROTATION_DOWN | 2 | 4 | 4 | 50,00% | 1,77 | 0,42R | €16,61 |\n| SHADOW_COMBO_ADAPTIVE | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 1,22 | 0,14R | €6,88 |\n| SHADOW_COMBO_ADAPTIVE | RANGE | 4 | 14 | 14 | 35,71% | 0,99 | -0,00R | €-0,70 |\n| SHADOW_COMBO_ADAPTIVE | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| SHADOW_COMBO_ADAPTIVE | TRANSITION | 1 | 18 | 18 | 44,44% | 1,48 | 0,28R | €50,23 |\n| SHADOW_COMBO_ADAPTIVE | TREND_UP | 2 | 29 | 29 | 44,83% | 1,52 | 0,30R | €87,02 |\n| SHADOW_COMBO_ADAPTIVE | TREND_UP_HIGH_VOL | 3 | 9 | 9 | 22,22% | 0,52 | -0,39R | €-35,52 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 66,67% | 3,50 | 0,90R | €27,00 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | TREND_UP | 2 | 6 | 6 | 0,00% | 0,00 | -1,09R | €-65,26 |\n| SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | TREND_UP_HIGH_VOL | 0 | 6 | 6 | 16,67% | 0,36 | -0,56R | €-33,65 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | ALT_ROTATION_DOWN | 2 | 4 | 4 | 50,00% | 1,77 | 0,42R | €16,61 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | ALT_ROTATION_UP | 1 | 6 | 6 | 33,33% | 0,90 | -0,07R | €-4,23 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE | 4 | 2 | 2 | 100,00% | ∞ | 1,89R | €37,78 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TRANSITION | 0 | 3 | 3 | 33,33% | 0,87 | -0,09R | €-2,74 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_UP | 2 | 21 | 21 | 42,86% | 1,42 | 0,25R | €52,12 |\n| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_UP_HIGH_VOL | 3 | 11 | 11 | 18,18% | 0,40 | -0,52R | €-57,58 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | ALT_ROTATION_DOWN | 2 | 4 | 4 | 50,00% | 1,77 | 0,42R | €16,61 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 66,67% | 3,50 | 0,90R | €27,00 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | RANGE | 4 | 2 | 2 | 100,00% | ∞ | 1,89R | €37,78 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TRANSITION | 0 | 2 | 2 | 0,00% | 0,00 | -1,09R | €-21,86 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP | 2 | 8 | 8 | 0,00% | 0,00 | -1,07R | €-85,56 |\n| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP_HIGH_VOL | 0 | 7 | 7 | 14,29% | 0,30 | -0,64R | €-44,76 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TRANSITION | 1 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,84 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 1 | 3 | 3 | 0,00% | 0,00 | -1,09R | €-32,68 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP | 3 | 12 | 12 | 16,67% | 0,36 | -0,57R | €-68,05 |\n| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP_HIGH_VOL | 0 | 8 | 8 | 12,50% | 0,26 | -0,70R | €-55,87 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 1,35 | 0,25R | €7,43 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_UP | 2 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 2,89R | €28,89 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TRANSITION | 0 | 2 | 2 | 0,00% | 0,00 | -1,09R | €-21,86 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TREND_UP | 2 | 7 | 7 | 0,00% | 0,00 | -1,06R | €-74,11 |\n| SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 0,00% | 0,00 | -1,06R | €-42,49 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 1,35 | 0,25R | €7,43 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | ALT_ROTATION_UP | 2 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | RANGE | 4 | 1 | 1 | 100,00% | ∞ | 2,89R | €28,89 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | TRANSITION | 0 | 2 | 2 | 0,00% | 0,00 | -1,09R | €-21,86 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | TREND_UP | 2 | 7 | 7 | 0,00% | 0,00 | -1,06R | €-74,11 |\n| SHADOW_COMBO_ADAPTIVE_TP3_V1 | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 0,00% | 0,00 | -1,06R | €-42,49 |\n| SHADOW_COMBO_MEAN_REVERSION | ALT_ROTATION_DOWN | 0 | 2 | 2 | 0,00% | 0,00 | -1,08R | €-21,65 |\n| SHADOW_COMBO_MEAN_REVERSION | RANGE | 3 | 5 | 5 | 60,00% | 2,11 | 0,48R | €23,92 |\n| SHADOW_COMBO_MEAN_REVERSION | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,49R | €14,94 |\n| SHADOW_COMBO_MEAN_REVERSION | TREND_UP | 1 | 2 | 2 | 50,00% | 1,50 | 0,25R | €5,04 |\n| SHADOW_COMBO_MEAN_REVERSION | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,85 |\n| SHADOW_COMBO_SCANNER | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_COMBO_SCANNER | ALT_ROTATION_UP | 0 | 4 | 4 | 50,00% | 2,09 | 0,57R | €22,81 |\n| SHADOW_COMBO_SCANNER | RANGE | 1 | 4 | 4 | 75,00% | 6,11 | 1,33R | €53,22 |\n| SHADOW_COMBO_SCANNER | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,69 |\n| SHADOW_COMBO_SCANNER | TRANSITION | 1 | 13 | 13 | 38,46% | 1,08 | 0,05R | €6,95 |\n| SHADOW_COMBO_SCANNER | TREND_UP | 3 | 19 | 19 | 47,37% | 1,84 | 0,47R | €88,76 |\n| SHADOW_COMBO_SCANNER | TREND_UP_HIGH_VOL | 2 | 7 | 7 | 42,86% | 1,52 | 0,31R | €21,86 |\n| SHADOW_COMBO_TREND | ALT_ROTATION_DOWN | 3 | 2 | 2 | 50,00% | 1,91 | 0,50R | €10,05 |\n| SHADOW_COMBO_TREND | ALT_ROTATION_UP | 0 | 5 | 5 | 40,00% | 1,39 | 0,24R | €12,22 |\n| SHADOW_COMBO_TREND | RANGE | 3 | 9 | 9 | 22,22% | 0,57 | -0,36R | €-32,33 |\n| SHADOW_COMBO_TREND | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,63 |\n| SHADOW_COMBO_TREND | TRANSITION | 1 | 14 | 14 | 42,86% | 1,55 | 0,33R | €46,22 |\n| SHADOW_COMBO_TREND | TREND_UP | 2 | 23 | 23 | 34,78% | 1,10 | 0,07R | €15,44 |\n| SHADOW_COMBO_TREND | TREND_UP_HIGH_VOL | 3 | 8 | 8 | 25,00% | 0,68 | -0,25R | €-20,22 |\n| SHADOW_DOGE_BOLLINGER_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_DOGE_DONCHIAN_1H | RANGE | 1 | 2 | 2 | 50,00% | 1,67 | 0,38R | €7,50 |\n| SHADOW_DOGE_EMA_1H | RANGE | 1 | 3 | 3 | 66,67% | 3,40 | 0,89R | €26,67 |\n| SHADOW_DONCHIAN_1H | ALT_ROTATION_DOWN | 2 | 2 | 2 | 50,00% | 2,19 | 0,65R | €13,05 |\n| SHADOW_DONCHIAN_1H | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,85 |\n| SHADOW_DONCHIAN_1H | RANGE | 3 | 9 | 9 | 22,22% | 0,64 | -0,30R | €-27,15 |\n| SHADOW_DONCHIAN_1H | RANGE_HIGH_VOL | 1 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |\n| SHADOW_DONCHIAN_1H | TRANSITION | 1 | 6 | 6 | 16,67% | 0,45 | -0,48R | €-28,95 |\n| SHADOW_DONCHIAN_1H | TREND_UP | 0 | 11 | 11 | 45,45% | 1,89 | 0,53R | €57,82 |\n| SHADOW_DONCHIAN_1H | TREND_UP_HIGH_VOL | 2 | 4 | 4 | 50,00% | 2,23 | 0,67R | €26,65 |\n| SHADOW_EMA_TREND_1H | ALT_ROTATION_DOWN | 2 | 3 | 3 | 33,33% | 0,98 | -0,02R | €-0,50 |\n| SHADOW_EMA_TREND_1H | ALT_ROTATION_UP | 0 | 5 | 5 | 20,00% | 0,52 | -0,40R | €-20,11 |\n| SHADOW_EMA_TREND_1H | RANGE | 4 | 10 | 10 | 20,00% | 0,57 | -0,32R | €-32,03 |\n| SHADOW_EMA_TREND_1H | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,63 |\n| SHADOW_EMA_TREND_1H | TRANSITION | 2 | 14 | 14 | 42,86% | 1,55 | 0,33R | €46,21 |\n| SHADOW_EMA_TREND_1H | TREND_UP | 2 | 28 | 28 | 32,14% | 1,02 | 0,02R | €4,61 |\n| SHADOW_EMA_TREND_1H | TREND_UP_HIGH_VOL | 3 | 8 | 8 | 37,50% | 1,23 | 0,15R | €12,10 |\n| SHADOW_ETH_ADAPTIVE_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_ETH_ADAPTIVE_1H | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_ETH_ADAPTIVE_1H | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_ETH_BOLLINGER_1H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_ETH_DONCHIAN_1H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,25 |\n| SHADOW_ETH_DONCHIAN_1H | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,68 | 0,38R | €7,64 |\n| SHADOW_ETH_EMA_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_ETH_EMA_1H | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_ETH_EMA_1H | TREND_UP_HIGH_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_ETH_EMA_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_GLOBAL_PURE | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,10R | €-11,00 |\n| SHADOW_GLOBAL_PURE | RANGE | 1 | 1 | 1 | 100,00% | ∞ | 2,40R | €24,00 |\n| SHADOW_GLOBAL_PURE | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,42R | €14,17 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,90R | €19,01 |\n| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TREND_UP | 3 | 7 | 7 | 0,00% | 0,00 | -1,08R | €-75,64 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_UP | 3 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-96,88 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | TREND_UP | 3 | 10 | 10 | 0,00% | 0,00 | -1,08R | €-107,60 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | TREND_UP | 3 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-96,88 |\n| SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | RANGE | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | TREND_UP | 1 | 10 | 10 | 0,00% | 0,00 | -1,07R | €-107,43 |\n| SHADOW_MASTER_ADAPTIVE_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_MASTER_ADAPTIVE_V1 | RANGE | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_MASTER_ADAPTIVE_V1 | TREND_UP | 3 | 9 | 9 | 0,00% | 0,00 | -1,08R | €-96,88 |\n| Forza relativa 1H V1 | ALT_ROTATION_DOWN | 1 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,19 |\n| Forza relativa 1H V1 | ALT_ROTATION_UP | 0 | 13 | 13 | 30,77% | 0,90 | -0,07R | €-9,26 |\n| Forza relativa 1H V1 | RANGE | 2 | 21 | 21 | 23,81% | 0,68 | -0,24R | €-50,22 |\n| Forza relativa 1H V1 | RANGE_HIGH_VOL | 0 | 3 | 3 | 0,00% | 0,00 | -1,03R | €-31,02 |\n| Forza relativa 1H V1 | TRANSITION | 1 | 14 | 14 | 42,86% | 1,58 | 0,34R | €47,39 |\n| Forza relativa 1H V1 | TREND_UP | 3 | 35 | 35 | 37,14% | 1,43 | 0,24R | €84,59 |\n| Forza relativa 1H V1 | TREND_UP_HIGH_VOL | 1 | 8 | 8 | 12,50% | 0,30 | -0,64R | €-51,15 |\n| Forza relativa 1H V2 | ALT_ROTATION_DOWN | 2 | 1 | 1 | 100,00% | ∞ | 2,11R | €21,13 |\n| Forza relativa 1H V2 | ALT_ROTATION_UP | 1 | 3 | 3 | 33,33% | 0,98 | -0,02R | €-0,45 |\n| Forza relativa 1H V2 | RANGE | 1 | 3 | 3 | 66,67% | 4,31 | 1,12R | €33,59 |\n| Forza relativa 1H V2 | TRANSITION | 2 | 9 | 8 | 33,33% | 1,05 | 0,03R | €3,12 |\n| Forza relativa 1H V2 | TREND_UP | 0 | 11 | 10 | 45,45% | 1,77 | 0,43R | €47,60 |\n| Forza relativa 1H V2 | TREND_UP_HIGH_VOL | 0 | 4 | 3 | 0,00% | 0,00 | -1,04R | €-41,60 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_DOWN | 1 | 3 | 3 | 66,67% | 3,53 | 0,91R | €27,28 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | RANGE | 3 | 9 | 9 | 22,22% | 0,50 | -0,42R | €-37,98 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | TRANSITION | 0 | 14 | 14 | 28,57% | 0,85 | -0,09R | €-13,14 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP | 0 | 7 | 7 | 0,00% | 0,00 | -0,73R | €-51,04 |\n| SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP_HIGH_VOL | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,24 |\n| SHADOW_SCANNER_TOP5_BTC | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC | ALT_ROTATION_UP | 0 | 5 | 5 | 40,00% | 1,39 | 0,25R | €12,28 |\n| SHADOW_SCANNER_TOP5_BTC | RANGE | 0 | 5 | 5 | 60,00% | 5,82 | 1,06R | €53,24 |\n| SHADOW_SCANNER_TOP5_BTC | RANGE_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,69 |\n| SHADOW_SCANNER_TOP5_BTC | TRANSITION | 1 | 11 | 11 | 36,36% | 1,20 | 0,13R | €14,31 |\n| SHADOW_SCANNER_TOP5_BTC | TREND_UP | 3 | 18 | 18 | 44,44% | 1,64 | 0,38R | €68,05 |\n| SHADOW_SCANNER_TOP5_BTC | TREND_UP_HIGH_VOL | 2 | 7 | 7 | 42,86% | 1,52 | 0,31R | €21,86 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | TREND_UP | 2 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | TREND_UP_HIGH_VOL | 0 | 6 | 6 | 16,67% | 0,40 | -0,53R | €-31,93 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,09R | €-10,86 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | TREND_UP | 2 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | TREND_UP_HIGH_VOL | 0 | 6 | 6 | 16,67% | 0,40 | -0,53R | €-31,93 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | ALT_ROTATION_DOWN | 2 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | TREND_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,07R | €-21,47 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | TREND_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,07R | €-21,47 |\n| SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | ALT_ROTATION_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,79 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | TREND_UP | 3 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | TREND_UP_HIGH_VOL | 2 | 7 | 7 | 28,57% | 0,80 | -0,15R | €-10,74 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | TREND_UP | 3 | 3 | 3 | 0,00% | 0,00 | -1,09R | €-32,57 |\n| SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | TREND_UP_HIGH_VOL | 0 | 3 | 3 | 0,00% | 0,00 | -1,05R | €-31,38 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | ALT_ROTATION_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | ALT_ROTATION_UP | 1 | 3 | 3 | 33,33% | 1,34 | 0,25R | €7,49 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | TREND_UP | 3 | 3 | 3 | 0,00% | 0,00 | -1,09R | €-32,57 |\n| SHADOW_SCANNER_TOP5_BTC_TP3_V1 | TREND_UP_HIGH_VOL | 0 | 3 | 3 | 0,00% | 0,00 | -1,05R | €-31,38 |\n| SHADOW_SCANNER_TOP5_LONG | ALT_ROTATION_DOWN | 1 | 2 | 2 | 0,00% | 0,00 | -1,11R | €-22,22 |\n| SHADOW_SCANNER_TOP5_LONG | ALT_ROTATION_UP | 0 | 6 | 6 | 33,33% | 0,92 | -0,06R | €-3,32 |\n| SHADOW_SCANNER_TOP5_LONG | RANGE | 0 | 6 | 6 | 66,67% | 7,07 | 1,12R | €67,10 |\n| SHADOW_SCANNER_TOP5_LONG | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |\n| SHADOW_SCANNER_TOP5_LONG | TRANSITION | 1 | 11 | 11 | 36,36% | 1,09 | 0,06R | €6,31 |\n| SHADOW_SCANNER_TOP5_LONG | TREND_UP | 3 | 27 | 27 | 48,15% | 1,71 | 0,39R | €105,70 |\n| SHADOW_SCANNER_TOP5_LONG | TREND_UP_HIGH_VOL | 2 | 7 | 7 | 42,86% | 1,36 | 0,22R | €15,34 |\n| SHADOW_SOL_ADAPTIVE_1H | RANGE | 1 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SOL_ADAPTIVE_1H | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_SOL_ADAPTIVE_1H | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,10R | €-10,96 |\n| SHADOW_SOL_ADAPTIVE_4H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,05R | €-10,52 |\n| SHADOW_SOL_BOLLINGER_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,13R | €-11,33 |\n| SHADOW_SOL_BOLLINGER_4H | TREND_UP | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |\n| SHADOW_SOL_DONCHIAN_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,12R | €-11,25 |\n| SHADOW_SOL_DONCHIAN_1H | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,08 |\n| SHADOW_SOL_DONCHIAN_4H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,56 |\n| SHADOW_SOL_EMA_1H | RANGE | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |\n| SHADOW_SOL_EMA_1H | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,89R | €18,89 |\n| SHADOW_SOL_EMA_1H | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,10R | €-10,96 |\n| SHADOW_SOL_EMA_4H | TREND_UP | 0 | 1 | 1 | 0,00% | 0,00 | -1,06R | €-10,56 |\n\nIl P&L è normalizzato a **€10 di rischio per evento**, così leva e size non falsano il confronto.\nLa matrice diventerà utilizzabile per una rotazione automatica soltanto dopo un campione sufficiente per ciascuna coppia strategia-regime."
 }
