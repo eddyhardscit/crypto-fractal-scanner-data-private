@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-23T01:30:21.878251+00:00",
+  "generated_utc": "2026-07-23T02:35:21.846345+00:00",
   "strategy": "RSI 5m Long Short Fixed TP Scalper",
   "paper_only": true,
   "reinvest_profits": false,
   "sizing_mode": "INITIAL_CAPITAL_CAPPED",
-  "last_processed_candle": "2026-07-23T01:25:00+00:00",
+  "last_processed_candle": "2026-07-23T02:30:00+00:00",
   "accounts": [
     {
       "account": "RSI5_RSI20_10X",
@@ -202,7 +202,7 @@
       "rsi_trigger": 70.0,
       "leverage": 5.0,
       "balance_usdt": 3003.8953215905003,
-      "equity_usdt": 3049.723844289063,
+      "equity_usdt": 3071.134999237042,
       "closed_trades": 26,
       "winning_trades": 9,
       "win_rate_pct": 34.61538461538461,
@@ -231,18 +231,18 @@
         "quantity": 0.22802081946727332,
         "entry_fee_usdt": 9.03880237188716,
         "max_holding_hours": 6.0,
-        "max_favorable_price": 65800.2,
+        "max_favorable_price": 65601.4,
         "max_adverse_price": 66267.9,
-        "mfe_gross_usdt": 60.85509470145786,
+        "mfe_gross_usdt": 106.18563361155246,
         "mae_gross_usdt": -45.79024256338521,
-        "mfe_net_usdt": 42.814003014504415,
+        "mfe_net_usdt": 88.17174024794508,
         "mae_net_usdt": -63.895321452697566,
-        "mfe_at_utc": "2026-07-22T23:15:00+00:00",
+        "mfe_at_utc": "2026-07-23T02:25:00+00:00",
         "mae_at_utc": "2026-07-23T00:25:00+00:00",
-        "excursion_observation_count": 45,
+        "excursion_observation_count": 58,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65866.1,
-        "unrealized_pnl_usdt": 27.77841506840737
+        "mark_price": 65772.2,
+        "unrealized_pnl_usdt": 49.20241670935511
       }
     },
     {
@@ -342,7 +342,7 @@
       "win_rate_pct": 50.0,
       "net_pnl_usdt": -88.8074657698948,
       "profit_factor": 0.9250541835234136,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_RSI25_20X",
@@ -355,7 +355,7 @@
       "win_rate_pct": 50.0,
       "net_pnl_usdt": -177.6149315397896,
       "profit_factor": 0.9250541835234136,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_RSI25_5X_WIDE",
@@ -368,7 +368,7 @@
       "win_rate_pct": 50.0,
       "net_pnl_usdt": 255.3555963560068,
       "profit_factor": 1.4574223985124557,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_10X",
@@ -376,12 +376,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 10.0,
-      "closed_trades": 86,
-      "winning_trades": 33,
-      "win_rate_pct": 38.372093023255815,
-      "net_pnl_usdt": -2808.245893699453,
-      "profit_factor": 0.6315623650596863,
-      "open_positions": 1
+      "closed_trades": 87,
+      "winning_trades": 34,
+      "win_rate_pct": 39.08045977011494,
+      "net_pnl_usdt": -2671.2984308994546,
+      "profit_factor": 0.6495296660778456,
+      "open_positions": 0
     },
     {
       "account": "RSI5_SHORT_RSI70_20X",
@@ -389,12 +389,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 20.0,
-      "closed_trades": 86,
-      "winning_trades": 33,
-      "win_rate_pct": 38.372093023255815,
-      "net_pnl_usdt": -5616.491787398906,
-      "profit_factor": 0.6315623650596863,
-      "open_positions": 1
+      "closed_trades": 87,
+      "winning_trades": 34,
+      "win_rate_pct": 39.08045977011494,
+      "net_pnl_usdt": -5342.596861798909,
+      "profit_factor": 0.6495296660778456,
+      "open_positions": 0
     },
     {
       "account": "RSI5_SHORT_RSI70_5X_WIDE",
@@ -402,12 +402,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 5.0,
-      "closed_trades": 61,
-      "winning_trades": 18,
-      "win_rate_pct": 29.508196721311474,
-      "net_pnl_usdt": -2536.0896850766985,
-      "profit_factor": 0.4946694424785519,
-      "open_positions": 3
+      "closed_trades": 62,
+      "winning_trades": 19,
+      "win_rate_pct": 30.64516129032258,
+      "net_pnl_usdt": -2372.539942276698,
+      "profit_factor": 0.5272576759302069,
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
@@ -453,63 +453,63 @@
     {
       "asset": "DOGE",
       "symbol": "DOGEUSDTM",
-      "price": 0.07293,
-      "rsi": 49.35136862158344,
-      "turnover_24h_usdt": 13297960.912,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 0.07272,
+      "rsi": 43.77173804277477,
+      "turnover_24h_usdt": 14176272.086,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     },
     {
       "asset": "SOL",
       "symbol": "SOLUSDTM",
-      "price": 78.059,
-      "rsi": 47.020579535343465,
-      "turnover_24h_usdt": 102631131.549,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 77.621,
+      "rsi": 36.52989337525217,
+      "turnover_24h_usdt": 102613986.0472,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     },
     {
       "asset": "XRP",
       "symbol": "XRPUSDTM",
-      "price": 1.14104,
-      "rsi": 49.77761770748291,
-      "turnover_24h_usdt": 33431838.625,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 1.13584,
+      "rsi": 35.522778350134445,
+      "turnover_24h_usdt": 33871723.9192,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     },
     {
       "asset": "ADA",
       "symbol": "ADAUSDTM",
-      "price": 0.17485,
-      "rsi": 48.38721279827356,
-      "turnover_24h_usdt": 12248932.9282,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 0.17423,
+      "rsi": 44.213273888266265,
+      "turnover_24h_usdt": 12157521.8572,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     },
     {
       "asset": "HYPE",
       "symbol": "HYPEUSDTM",
-      "price": 59.129,
-      "rsi": 43.6747315879703,
-      "turnover_24h_usdt": 38986192.553,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 58.856,
+      "rsi": 44.75011924890584,
+      "turnover_24h_usdt": 39001577.6978,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     },
     {
       "asset": "ETH",
       "symbol": "ETHUSDTM",
-      "price": 1932.62,
-      "rsi": 49.72548615343963,
-      "turnover_24h_usdt": 437307002.1024,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 1926.87,
+      "rsi": 45.77063192638156,
+      "turnover_24h_usdt": 435004539.0586,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     },
     {
       "asset": "BTC",
       "symbol": "XBTUSDTM",
-      "price": 65866.1,
-      "rsi": 36.922811115505134,
-      "turnover_24h_usdt": 438290429.5774,
-      "candle_time": "2026-07-23T01:25:00+00:00"
+      "price": 65772.2,
+      "rsi": 42.745119708162704,
+      "turnover_24h_usdt": 454027473.0206,
+      "candle_time": "2026-07-23T02:30:00+00:00"
     }
   ],
   "warnings": [
-    "AVAX: turnover 24h 4,742,817 USDT sotto il minimo",
-    "LINK: turnover 24h 3,787,395 USDT sotto il minimo",
-    "SUI: turnover 24h 8,121,976 USDT sotto il minimo"
+    "AVAX: turnover 24h 4,653,160 USDT sotto il minimo",
+    "LINK: turnover 24h 3,774,783 USDT sotto il minimo",
+    "SUI: turnover 24h 8,207,480 USDT sotto il minimo"
   ]
 }
