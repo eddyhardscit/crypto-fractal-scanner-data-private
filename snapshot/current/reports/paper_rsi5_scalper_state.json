@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-23T22:50:22.154524+00:00",
-  "last_processed_candle": "2026-07-23T22:45:00+00:00",
+  "updated_utc": "2026-07-23T23:50:21.864955+00:00",
+  "last_processed_candle": "2026-07-23T23:45:00+00:00",
   "last_daily_status_date": "2026-07-23",
   "telegram_started_sent": true,
   "accounts": {
@@ -311,10 +311,10 @@
         "mae_net_usdt": -52.38363220566604,
         "mfe_at_utc": "2026-07-23T21:10:00+00:00",
         "mae_at_utc": "2026-07-23T22:05:00+00:00",
-        "excursion_observation_count": 28,
+        "excursion_observation_count": 40,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65146.6,
-        "unrealized_pnl_usdt": -37.34011987115481
+        "mark_price": 65102.2,
+        "unrealized_pnl_usdt": -20.76612613288503
       },
       "closed_trades": 44,
       "winning_trades": 16,
@@ -402,10 +402,10 @@
         "mae_net_usdt": -62.78512192025616,
         "mfe_at_utc": "2026-07-23T21:10:00+00:00",
         "mae_at_utc": "2026-07-23T22:05:00+00:00",
-        "excursion_observation_count": 28,
+        "excursion_observation_count": 40,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65146.6,
-        "unrealized_pnl_usdt": -44.75451357444919
+        "mark_price": 65102.2,
+        "unrealized_pnl_usdt": -24.889525719516236
       },
       "closed_trades": 44,
       "winning_trades": 16,
@@ -740,10 +740,10 @@
         "mae_net_usdt": -36.22474655436234,
         "mfe_at_utc": "2026-07-23T21:10:00+00:00",
         "mae_at_utc": "2026-07-23T22:05:00+00:00",
-        "excursion_observation_count": 28,
+        "excursion_observation_count": 40,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65146.6,
-        "unrealized_pnl_usdt": -25.82173709015514
+        "mark_price": 65102.2,
+        "unrealized_pnl_usdt": -14.360356936041454
       },
       "closed_trades": 29,
       "winning_trades": 12,
@@ -1154,10 +1154,10 @@
           "mae_net_usdt": -81.93131989055681,
           "mfe_at_utc": "2026-07-23T21:10:00+00:00",
           "mae_at_utc": "2026-07-23T22:05:00+00:00",
-          "excursion_observation_count": 28,
+          "excursion_observation_count": 40,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 65146.6,
-          "unrealized_pnl_usdt": -58.402313415456746
+          "mark_price": 65102.2,
+          "unrealized_pnl_usdt": -32.47953705083139
         }
       ],
       "closed_trades": 91,
@@ -1245,10 +1245,10 @@
           "mae_net_usdt": -163.86263978111361,
           "mfe_at_utc": "2026-07-23T21:10:00+00:00",
           "mae_at_utc": "2026-07-23T22:05:00+00:00",
-          "excursion_observation_count": 28,
+          "excursion_observation_count": 40,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 65146.6,
-          "unrealized_pnl_usdt": -116.80462683091349
+          "mark_price": 65102.2,
+          "unrealized_pnl_usdt": -64.95907410166278
         }
       ],
       "closed_trades": 91,
@@ -1577,10 +1577,10 @@
           "mae_net_usdt": -40.965659945278404,
           "mfe_at_utc": "2026-07-23T21:10:00+00:00",
           "mae_at_utc": "2026-07-23T22:05:00+00:00",
-          "excursion_observation_count": 28,
+          "excursion_observation_count": 40,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 65146.6,
-          "unrealized_pnl_usdt": -29.201156707728373
+          "mark_price": 65102.2,
+          "unrealized_pnl_usdt": -16.239768525415695
         }
       ],
       "closed_trades": 68,
