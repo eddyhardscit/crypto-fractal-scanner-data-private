@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-23T14:40:22.204843+00:00",
-  "last_processed_candle": "2026-07-23T14:35:00+00:00",
+  "updated_utc": "2026-07-23T15:40:21.827868+00:00",
+  "last_processed_candle": "2026-07-23T15:35:00+00:00",
   "last_daily_status_date": "2026-07-22",
   "telegram_started_sent": true,
   "accounts": {
@@ -10,18 +10,18 @@
       "name": "RSI5_RSI20_10X",
       "label": "RSI 20 · leva 10×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 3357.831946966993,
+      "balance_usdt": 3226.947676999063,
       "peak_equity_usdt": 3838.047245786454,
-      "max_drawdown_pct": 13.829701997413363,
+      "max_drawdown_pct": 15.922148156416732,
       "open_position": null,
-      "closed_trades": 5,
+      "closed_trades": 6,
       "winning_trades": 1,
       "gross_profit_usdt": 121.28769571166154,
-      "gross_loss_usdt": 563.4557487446682,
+      "gross_loss_usdt": 694.3400187125989,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-23T17:10:00+00:00",
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -50,8 +50,8 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -65,18 +65,18 @@
       "name": "RSI5_RSI20_20X",
       "label": "RSI 20 · leva 20×",
       "created_utc": "2026-07-17T15:28:56.085696+00:00",
-      "balance_usdt": 2944.086098561825,
+      "balance_usdt": 2714.572194460069,
       "peak_equity_usdt": 3876.0944915729083,
-      "max_drawdown_pct": 26.134360713214882,
+      "max_drawdown_pct": 29.966304991741744,
       "open_position": null,
-      "closed_trades": 5,
+      "closed_trades": 6,
       "winning_trades": 1,
       "gross_profit_usdt": 214.2399750705909,
-      "gross_loss_usdt": 1070.1538765087662,
+      "gross_loss_usdt": 1299.6677806105222,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-23T17:10:00+00:00",
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -105,8 +105,8 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -501,14 +501,14 @@
       "label": "RSI 20 · leva 5× · Wide",
       "direction": "LONG",
       "created_utc": "2026-07-18T09:51:25.156367+00:00",
-      "balance_usdt": 3336.737090815711,
+      "balance_usdt": 3230.03023068347,
       "peak_equity_usdt": 3819.023622893227,
-      "max_drawdown_pct": 12.628529689799203,
+      "max_drawdown_pct": 15.422617149551584,
       "open_position": null,
-      "closed_trades": 4,
+      "closed_trades": 5,
       "winning_trades": 0,
       "gross_profit_usdt": 0.0,
-      "gross_loss_usdt": 463.26290918428913,
+      "gross_loss_usdt": 569.9697693165297,
       "asset_guards": {
         "SOL": {
           "needs_rearm": false,
@@ -536,13 +536,13 @@
           "last_close_reason": null
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T15:25:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "DOGE": {
-          "needs_rearm": false,
-          "cooldown_until": null,
+          "needs_rearm": true,
+          "cooldown_until": "2026-07-23T17:10:00+00:00",
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -759,13 +759,13 @@
       "net_pnl_usdt": -1048.3030283999917,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -784,13 +784,13 @@
           "last_close_reason": "STOP"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -813,13 +813,13 @@
       "net_pnl_usdt": -2096.6060567999834,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
@@ -838,13 +838,13 @@
           "last_close_reason": "STOP"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -892,8 +892,8 @@
       "net_pnl_usdt": -1125.6436255698795,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -907,8 +907,8 @@
           "last_close_reason": "STOP"
         },
         "ADA": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T15:25:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "HYPE": {
@@ -922,8 +922,8 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -971,8 +971,8 @@
       "net_pnl_usdt": -2251.287251139759,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -986,8 +986,8 @@
           "last_close_reason": "STOP"
         },
         "ADA": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T15:25:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "HYPE": {
@@ -1001,8 +1001,8 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -1241,13 +1241,13 @@
       "net_pnl_usdt": -978.6802122200736,
       "asset_guards": {
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ADA": {
@@ -1261,18 +1261,18 @@
           "last_close_reason": "STOP"
         },
         "ETH": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T15:25:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -1320,18 +1320,18 @@
       "net_pnl_usdt": -595.2965234439945,
       "asset_guards": {
         "SOL": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:40:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "XRP": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "ADA": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T15:30:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "HYPE": {
@@ -1345,13 +1345,13 @@
           "last_close_reason": "STOP"
         },
         "BTC": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T15:25:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-23T14:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
