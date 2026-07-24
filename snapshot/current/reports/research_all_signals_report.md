@@ -9,16 +9,16 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Confidenza: **80,40%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 17%, ADX 20.4.
-- BTC trend score: **1,00**; ADX: **20,43**; breadth sopra EMA50: **16,67%**
-- Mediana alt vs BTC: **0,09%**; dispersione: **8,24%**
+- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 25%, ADX 20.4.
+- BTC trend score: **1,00**; ADX: **20,43**; breadth sopra EMA50: **25,00%**
+- Mediana alt vs BTC: **-0,12%**; dispersione: **6,21%**
 
-- Aperti in questo ciclo: **42**
-- Chiusi in questo ciclo: **41**
-- Posizioni research aperte: **518**
+- Aperti in questo ciclo: **3**
+- Chiusi in questo ciclo: **0**
+- Posizioni research aperte: **521**
 - Trade research chiusi: **2395**
 - Eventi di mercato indipendenti chiusi: **658**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **9932**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **10054**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -29,10 +29,10 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | RSI_EXTREME_LONG_15M | 0 | 9 | 9 | 33,33% | 0,37 | -0,45R | €-40,45 |
 | RSI_EXTREME_SHORT_15M | 0 | 7 | 7 | 28,57% | 0,62 | -0,24R | €-16,64 |
 | Bilanciata 1H V1 | 19 | 156 | 156 | 34,62% | 1,01 | 0,00R | €5,74 |
-| Bilanciata 1H V2 | 9 | 37 | 33 | 45,95% | 1,65 | 0,35R | €130,05 |
+| Bilanciata 1H V2 | 10 | 37 | 33 | 45,95% | 1,65 | 0,35R | €130,05 |
 | Bilanciata 1H V3 Filtered | 14 | 62 | 62 | 40,32% | 1,25 | 0,16R | €96,64 |
 | Rapida 1H V1 | 15 | 187 | 187 | 39,57% | 0,93 | -0,04R | €-76,91 |
-| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | 2 | 12 | 12 | 50,00% | 1,41 | 0,21R | €25,66 |
+| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | 3 | 12 | 12 | 50,00% | 1,41 | 0,21R | €25,66 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 13 | 49 | 49 | 44,90% | 1,09 | 0,05R | €25,74 |
 | SHADOW_1H_FAST_NO_PEPE_V1 | 14 | 54 | 54 | 40,74% | 0,92 | -0,05R | €-27,07 |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | 8 | 36 | 36 | 50,00% | 1,33 | 0,18R | €63,38 |
@@ -87,7 +87,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_V1 | 6 | 22 | 22 | 18,18% | 0,42 | -0,50R | €-109,42 |
 | Forza relativa 1H V1 | 16 | 109 | 109 | 31,19% | 0,99 | -0,00R | €-4,27 |
 | Forza relativa 1H V2 | 6 | 40 | 37 | 42,50% | 1,55 | 0,33R | €130,74 |
-| SHADOW_SCANNER_BOTTOM5_SHORT | 11 | 40 | 40 | 32,50% | 1,00 | -0,00R | €-0,13 |
+| SHADOW_SCANNER_BOTTOM5_SHORT | 12 | 40 | 40 | 32,50% | 1,00 | -0,00R | €-0,13 |
 | SHADOW_SCANNER_TOP5_BTC | 7 | 61 | 61 | 39,34% | 1,38 | 0,23R | €143,24 |
 | SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | 4 | 11 | 11 | 27,27% | 0,76 | -0,18R | €-20,30 |
 | SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | 6 | 20 | 20 | 25,00% | 0,70 | -0,24R | €-47,58 |
@@ -134,7 +134,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | TREND_UP | 2 | 42 | 42 | 40,48% | 1,31 | 0,19R | €78,29 |
 | Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 2 | 11 | 11 | 27,27% | 0,68 | -0,25R | €-27,61 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 0 | 6 | 5 | 66,67% | 3,52 | 0,92R | €55,11 |
-| Bilanciata 1H V2 | RANGE | 6 | 14 | 12 | 42,86% | 1,55 | 0,30R | €41,34 |
+| Bilanciata 1H V2 | RANGE | 7 | 14 | 12 | 42,86% | 1,55 | 0,30R | €41,34 |
 | Bilanciata 1H V2 | TRANSITION | 3 | 17 | 16 | 41,18% | 1,32 | 0,20R | €33,60 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_DOWN | 2 | 10 | 10 | 40,00% | 1,23 | 0,14R | €14,28 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,05R | €-20,99 |
@@ -152,7 +152,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Rapida 1H V1 | TREND_UP_HIGH_VOL | 0 | 21 | 21 | 28,57% | 0,59 | -0,28R | €-58,55 |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | ALT_ROTATION_DOWN | 1 | 4 | 4 | 0,00% | 0,00 | -1,02R | €-40,63 |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,39R | €13,89 |
-| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | RANGE | 1 | 2 | 2 | 100,00% | ∞ | 1,49R | €29,73 |
+| SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | RANGE | 2 | 2 | 2 | 100,00% | ∞ | 1,49R | €29,73 |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TRANSITION | 0 | 2 | 2 | 100,00% | ∞ | 1,48R | €29,69 |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TREND_UP | 0 | 3 | 3 | 33,33% | 0,68 | -0,23R | €-7,03 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_DOWN | 2 | 16 | 16 | 25,00% | 0,44 | -0,44R | €-70,04 |
@@ -385,7 +385,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Forza relativa 1H V2 | TREND_UP_HIGH_VOL | 0 | 4 | 3 | 0,00% | 0,00 | -1,04R | €-41,60 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_DOWN | 2 | 4 | 4 | 75,00% | 5,32 | 1,17R | €46,61 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_UP | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |
-| SHADOW_SCANNER_BOTTOM5_SHORT | RANGE | 8 | 12 | 12 | 41,67% | 1,25 | 0,16R | €18,82 |
+| SHADOW_SCANNER_BOTTOM5_SHORT | RANGE | 9 | 12 | 12 | 41,67% | 1,25 | 0,16R | €18,82 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TRANSITION | 0 | 14 | 14 | 28,57% | 0,85 | -0,09R | €-13,14 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP | 0 | 7 | 7 | 0,00% | 0,00 | -0,73R | €-51,04 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP_HIGH_VOL | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,24 |
