@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-24T21:10:22.095049+00:00",
+  "generated_utc": "2026-07-24T22:15:21.960321+00:00",
   "description": "Tutti i segnali validi, capitale illimitato, nessun Telegram",
   "accounts": [
     {
@@ -47,11 +47,11 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 10.0,
-      "closed_trades": 32,
+      "closed_trades": 33,
       "winning_trades": 13,
-      "win_rate_pct": 40.625,
-      "net_pnl_usdt": -1034.858517169879,
-      "profit_factor": 0.6322816670533247,
+      "win_rate_pct": 39.39393939393939,
+      "net_pnl_usdt": -1182.9779685698775,
+      "profit_factor": 0.6006675837006581,
       "open_positions": 1
     },
     {
@@ -60,11 +60,11 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 20.0,
-      "closed_trades": 32,
+      "closed_trades": 33,
       "winning_trades": 13,
-      "win_rate_pct": 40.625,
-      "net_pnl_usdt": -2069.717034339758,
-      "profit_factor": 0.6322816670533247,
+      "win_rate_pct": 39.39393939393939,
+      "net_pnl_usdt": -2365.955937139755,
+      "profit_factor": 0.6006675837006581,
       "open_positions": 1
     },
     {
@@ -73,11 +73,11 @@
       "direction": "LONG",
       "rsi_trigger": 25.0,
       "leverage": 5.0,
-      "closed_trades": 30,
+      "closed_trades": 31,
       "winning_trades": 10,
-      "win_rate_pct": 33.33333333333333,
-      "net_pnl_usdt": -915.2559750654204,
-      "profit_factor": 0.57191651678937,
+      "win_rate_pct": 32.25806451612903,
+      "net_pnl_usdt": -1036.77770646542,
+      "profit_factor": 0.541158097765944,
       "open_positions": 1
     },
     {
