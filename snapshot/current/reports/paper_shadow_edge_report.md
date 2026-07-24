@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-24T11:15:30+00:00
+Generato: 2026-07-24T12:16:01+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **1303**
-- Trade Shadow/Research chiusi: **2661**
+- Trade Shadow/Research chiusi: **2663**
 - Eventi Shadow già presi dai Paper: **817**
-- Eventi Shadow saltati dai Paper: **1844**
+- Eventi Shadow saltati dai Paper: **1846**
 - Profili con filtro Paper utile: **12**
 - Profili in cui il Paper potrebbe scartare edge: **3**
 - Profili con campione ancora insufficiente: **62**
@@ -114,8 +114,8 @@ Generato: 2026-07-24T11:15:30+00:00
 | SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 25 | 46 | 23 | 23 | -1,29% | 0,42% | -1,71% | -1,20% | +0,09% | PAPER SCARTA EDGE |
 | SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 25 | 46 | 23 | 23 | -2,58% | 0,84% | -3,43% | -2,40% | +0,18% | PAPER SCARTA EDGE |
 | SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 19 | 40 | 16 | 24 | 0,45% | -0,01% | +0,45% | 0,14% | -0,30% | FILTRO PAPER UTILE |
-| RSI 25 · leva 10× | RSI 25 · leva 10× | 6 | 27 | 6 | 21 | 1,11% | -1,04% | +2,15% | 1,11% | +0,00% | CAMPIONE INSUFFICIENTE |
-| RSI 25 · leva 20× | RSI 25 · leva 20× | 6 | 27 | 6 | 21 | 2,22% | -2,09% | +4,31% | 2,22% | +0,00% | CAMPIONE INSUFFICIENTE |
+| RSI 25 · leva 10× | RSI 25 · leva 10× | 6 | 28 | 6 | 22 | 1,11% | -1,17% | +2,28% | 1,11% | +0,00% | CAMPIONE INSUFFICIENTE |
+| RSI 25 · leva 20× | RSI 25 · leva 20× | 6 | 28 | 6 | 22 | 2,22% | -2,35% | +4,57% | 2,22% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 3 | 25 | 3 | 22 | 2,33% | -0,69% | +3,02% | 2,33% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 10× | RSI 20 · leva 10× | 6 | 9 | 5 | 4 | -2,40% | -3,90% | +1,50% | -2,65% | -0,25% | CAMPIONE INSUFFICIENTE |
 | RSI 20 · leva 20× | RSI 20 · leva 20× | 6 | 9 | 5 | 4 | -4,80% | -7,80% | +3,00% | -5,30% | -0,50% | CAMPIONE INSUFFICIENTE |
@@ -128,13 +128,13 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | Strategia | Azione candidata | Dimensione | Valore | Eventi | WR | PF | Expectancy | Δ vs base | Confidenza |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
 | SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 26 | 0,00% | 0,00 | -7,80% | -6,94% | ALTA |
-| RSI 25 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 15 | 0,00% | 0,00 | -7,80% | -6,67% | MEDIA |
 | SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 56 | 0,00% | 0,00 | -7,80% | -6,50% | ALTA |
+| RSI 25 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 16 | 0,00% | 0,00 | -7,80% | -6,43% | MEDIA |
 | SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 15 | 20,00% | 0,18 | -5,11% | -3,81% | MEDIA |
 | SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 26 | 0,00% | 0,00 | -3,90% | -3,47% | ALTA |
 | SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 19 | 0,00% | 0,00 | -3,20% | -3,37% | MEDIA |
-| RSI 25 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 15 | 0,00% | 0,00 | -3,90% | -3,33% | MEDIA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 56 | 0,00% | 0,00 | -3,90% | -3,25% | ALTA |
+| RSI 25 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 16 | 0,00% | 0,00 | -3,90% | -3,21% | MEDIA |
 | SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 8 | 25,00% | 0,31 | -4,05% | -3,18% | MEDIA |
 | SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 9 | 22,22% | 0,26 | -4,47% | -3,16% | MEDIA |
 | SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 10 | 30,00% | 0,31 | -3,76% | -2,89% | MEDIA |

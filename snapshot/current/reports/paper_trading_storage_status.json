@@ -1,7 +1,12 @@
 {
-  "action": "restore",
-  "ok": false,
+  "action": "upload",
+  "ok": true,
   "tag": "paper-trading-v1",
   "asset": "paper-trading-state.zip",
-  "error": "[Errno 13] Permission denied: 'reports/strategy_inverse_dynamic_installation_status.json'"
+  "bytes": 11858247,
+  "asset_id": 488409629,
+  "permanent_trade_rows": 1099,
+  "permanent_trade_asset_id": 488409590,
+  "permanent_signal_rows": 2039,
+  "permanent_signal_asset_id": 488409610
 }
