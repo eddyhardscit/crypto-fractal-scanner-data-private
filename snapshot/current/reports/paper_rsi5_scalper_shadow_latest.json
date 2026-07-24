@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-24T08:15:21.917705+00:00",
+  "generated_utc": "2026-07-24T10:00:22.619468+00:00",
   "description": "Tutti i segnali validi, capitale illimitato, nessun Telegram",
   "accounts": [
     {
@@ -52,7 +52,7 @@
       "win_rate_pct": 44.44444444444444,
       "net_pnl_usdt": -579.0332943698875,
       "profit_factor": 0.7393845355231999,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_RSI25_20X",
@@ -65,7 +65,7 @@
       "win_rate_pct": 44.44444444444444,
       "net_pnl_usdt": -1158.066588739775,
       "profit_factor": 0.7393845355231999,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_RSI25_5X_WIDE",
@@ -78,7 +78,7 @@
       "win_rate_pct": 40.0,
       "net_pnl_usdt": -307.64731806542585,
       "profit_factor": 0.7989788783484162,
-      "open_positions": 1
+      "open_positions": 2
     },
     {
       "account": "RSI5_SHORT_RSI70_10X",
@@ -112,12 +112,12 @@
       "direction": "SHORT",
       "rsi_trigger": 70.0,
       "leverage": 5.0,
-      "closed_trades": 74,
-      "winning_trades": 25,
-      "win_rate_pct": 33.78378378378378,
-      "net_pnl_usdt": -2100.793038109119,
-      "profit_factor": 0.6281050280071779,
-      "open_positions": 2
+      "closed_trades": 75,
+      "winning_trades": 26,
+      "win_rate_pct": 34.66666666666667,
+      "net_pnl_usdt": -1937.2432953091188,
+      "profit_factor": 0.6570575835015475,
+      "open_positions": 1
     },
     {
       "account": "RSI5_SHORT_RSI75_10X",
@@ -151,12 +151,12 @@
       "direction": "SHORT",
       "rsi_trigger": 75.0,
       "leverage": 5.0,
-      "closed_trades": 37,
-      "winning_trades": 16,
-      "win_rate_pct": 43.24324324324324,
-      "net_pnl_usdt": -228.05184120407745,
-      "profit_factor": 0.9054137565546321,
-      "open_positions": 4
+      "closed_trades": 40,
+      "winning_trades": 19,
+      "win_rate_pct": 47.5,
+      "net_pnl_usdt": 262.59738719592656,
+      "profit_factor": 1.1089142725719312,
+      "open_positions": 1
     }
   ]
 }
