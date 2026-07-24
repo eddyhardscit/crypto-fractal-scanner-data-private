@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-07-24T17:53:54+00:00",
+  "generated_utc": "2026-07-24T19:09:01+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 209,
+  "signals_generated": 155,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-07-24T17:53:25+00:00",
-    "checked_utc": "2026-07-24T17:53:26+00:00",
-    "snapshot_age_minutes": 0.01701035,
+    "snapshot_generated_utc": "2026-07-24T19:08:25+00:00",
+    "checked_utc": "2026-07-24T19:08:25+00:00",
+    "snapshot_age_minutes": 0.005558666666666667,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -18,14 +18,14 @@
   "research_all_signals": {
     "opened_this_cycle": 0,
     "closed_this_cycle": 0,
-    "open_positions": 523,
-    "closed_trades": 2320
+    "open_positions": 518,
+    "closed_trades": 2353
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 4,
     "status_counts": {
       "BOCCIATA RESEARCH": 21,
-      "RACCOLTA RESEARCH": 53,
+      "RACCOLTA RESEARCH": 61,
       "SEGNALE VALIDATO · PAPER IN RACCOLTA": 4,
       "PRONTA PER REVISIONE LIVE": 4
     },
@@ -50,10 +50,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 0,
-    "below_score": 216,
-    "strategy_filter": 0,
-    "stale": 696,
+    "near_miss": 300,
+    "below_score": 446,
+    "strategy_filter": 68,
+    "stale": 33,
     "opened": 0
   },
   "shadow_exit": {
@@ -62,11 +62,11 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "block3-v1-r-matrix+balanced-be020-long-v1",
     "scenario_definitions": 21,
-    "active_groups": 369,
-    "active_scenarios": 2883,
-    "new_results": 1,
-    "completed_results": 17231,
-    "events_written": 23,
+    "active_groups": 399,
+    "active_scenarios": 3480,
+    "new_results": 2,
+    "completed_results": 17426,
+    "events_written": 4,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -75,10 +75,10 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 17231,
-    "evaluation_rows": 5039,
-    "history_events": 0,
-    "robust_count": 0,
+    "raw_results": 17426,
+    "evaluation_rows": 5045,
+    "history_events": 1,
+    "robust_count": 2,
     "eligible_for_mutation": 0,
     "underperforming_count": 16,
     "report_path": "reports/paper_trading_shadow_evaluation_report.md",
@@ -141,7 +141,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-07-24T17:53:53+00:00",
+    "updated_utc": "2026-07-24T19:09:00+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -208,9 +208,9 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 228,
+    "timeline_rows": 229,
     "performance_rows": 326,
-    "preferred": 0,
+    "preferred": 2,
     "avoid": 1,
     "memory_records": 163,
     "candidate_blocks": 0,
@@ -250,7 +250,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-07-24T17:53:34+00:00",
+    "generated_utc": "2026-07-24T19:08:34+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -263,8 +263,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 398,
-    "audit_last_hash": "62a9bedbe038c50a845bc0df93f891e0da156ff5ad941fdab4f3fba04b02c606",
+    "audit_rows": 403,
+    "audit_last_hash": "0e7db235a1d75028f134b02be63e660b89d8cf38b51b8ee019bdc2e1980bb54a",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -281,174 +281,19 @@
   },
   "opened": [],
   "closed": [],
-  "trailing_updates": [
+  "trailing_updates": [],
+  "risk_alerts": [
     {
-      "portfolio": "SHADOW_1H_BALANCED_V2",
-      "trade_id": "046b8850f4b2786279e6",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0027745501729836,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.00238665003456,
-      "new_stop_price": 0.0027745501729836
-    },
-    {
-      "portfolio": "SHADOW_1H_BALANCED_V3",
-      "trade_id": "805b75f18ec004291b7f",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0027766824780816,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.0026592546522096,
-      "new_stop_price": 0.0027766824780816
-    },
-    {
-      "portfolio": "SHADOW_1H_FAST",
-      "trade_id": "22a529c17739462df20f",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028274572911288,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.0028274572911288
-    },
-    {
-      "portfolio": "SHADOW_1H_FAST_NO_PEPE_V1",
-      "trade_id": "8431788008f09da06933",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028274572911288,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.0028274572911288
-    },
-    {
-      "portfolio": "SHADOW_1H_FAST_TP2_V1",
-      "trade_id": "ad6669f295a6b64a5419",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028274572911288,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.0028274572911288
-    },
-    {
-      "portfolio": "SHADOW_1H_FAST_V3",
-      "trade_id": "d95e84093db0f0af5433",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028274572911288,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.0028274572911288
-    },
-    {
-      "portfolio": "SHADOW_1H_FAST_V3_NOHIGH_V1",
-      "trade_id": "a71379779b027ba9fa2c",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028274572911288,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.0028274572911288
-    },
-    {
-      "portfolio": "SHADOW_1H_FAST_V3_NO_ESPORTS_V1",
-      "trade_id": "32bd22ad74b27504ba04",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028274572911288,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.0028274572911288
-    },
-    {
-      "portfolio": "SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1",
-      "trade_id": "792143681a01184924a4",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028010037320561998,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.00238665003456,
-      "new_stop_price": 0.0028010037320561998
-    },
-    {
-      "portfolio": "SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1",
-      "trade_id": "2299bdd4d9f963bd65c7",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028010037320561998,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.00238665003456,
-      "new_stop_price": 0.0028010037320561998
-    },
-    {
-      "portfolio": "SHADOW_COMBO_ADAPTIVE_QUALITY7_V1",
-      "trade_id": "4716b2231c7a185da041",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0028010037320561998,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.00238665003456,
-      "new_stop_price": 0.0028010037320561998
-    },
-    {
-      "portfolio": "SHADOW_COMBO_TREND",
-      "trade_id": "466adeb238ebcc1a21d3",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.002750381226516,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002634065698796,
-      "new_stop_price": 0.002750381226516
-    },
-    {
-      "portfolio": "SHADOW_MASTER_ADAPTIVE_GB20_V1",
-      "trade_id": "026bfac55726acbbecec",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.0030132714988,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.00249747299472,
-      "new_stop_price": 0.0030132714988
-    },
-    {
-      "portfolio": "SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1",
-      "trade_id": "edf17e4987ebe9749282",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.00279346538136,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.00279346538136
-    },
-    {
-      "portfolio": "SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1",
-      "trade_id": "1c78308fcba48231b786",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.00279346538136,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.00279346538136
-    },
-    {
-      "portfolio": "SHADOW_SCANNER_TOP5_BTC_MFE_V1",
-      "trade_id": "05c62ac24db9692cb24c",
-      "asset": "AKE",
-      "side": "LONG",
-      "stop_price": 0.00279346538136,
-      "mark_price": 0.0031449,
-      "old_stop_price": 0.002712102312,
-      "new_stop_price": 0.00279346538136
+      "portfolio": "SHADOW_RELATIVE_STRENGTH_V2",
+      "equity_eur": 10141.213897484393,
+      "reason": "blocco perdita daily raggiunto"
     }
   ],
-  "risk_alerts": [],
   "risk_recoveries": [],
   "telegram_paper": {
     "configured": true,
-    "sent": false,
-    "event_messages": 0,
+    "sent": true,
+    "event_messages": 1,
     "account_summary_sent": false,
     "digest_sent": false,
     "legacy_milestones_suppressed": true,
@@ -471,17 +316,17 @@
     "unchanged": false,
     "path": "reports/paper_trading_live.md",
     "branch": "paper-trading-live",
-    "commit_sha": "b74a2a515407e7a87e478a39e5ace01063227aef",
+    "commit_sha": "6d409e9f41af2c6e1736982da4ac5af0e907274c",
     "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
     "reasons": [
       "market_event"
     ]
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-07-24T17:53:57+00:00",
-    "positions": 950,
-    "strategy_accounts": 252,
-    "alerts": 7,
+    "generated_utc": "2026-07-24T19:09:04+00:00",
+    "positions": 984,
+    "strategy_accounts": 266,
+    "alerts": 10,
     "status": "OK",
     "error": null
   }

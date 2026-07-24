@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **RANGE**
 - Famiglia: **RANGE**
-- Confidenza: **71,60%**
+- Confidenza: **80,40%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 42%, ADX 19.9.
-- BTC trend score: **0,00**; ADX: **19,88**; breadth sopra EMA50: **41,67%**
-- Mediana alt vs BTC: **0,49%**; dispersione: **8,09%**
+- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 19.9.
+- BTC trend score: **0,00**; ADX: **19,88**; breadth sopra EMA50: **25,00%**
+- Mediana alt vs BTC: **-0,04%**; dispersione: **7,83%**
 
-- Aperti in questo ciclo: **28**
-- Chiusi in questo ciclo: **33**
+- Aperti in questo ciclo: **0**
+- Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **518**
 - Trade research chiusi: **2353**
 - Eventi di mercato indipendenti chiusi: **649**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **9735**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **9851**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
