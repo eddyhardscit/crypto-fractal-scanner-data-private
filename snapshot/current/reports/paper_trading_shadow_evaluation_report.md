@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-24T05:53:44+00:00
+Generato: 2026-07-24T06:53:44+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **15126**
-- Valutazioni prodotte: **4339**
+- Risultati Block 3 disponibili: **15458**
+- Valutazioni prodotte: **4355**
 - Candidature al Blocco 5: **0**
 - Mutazioni create automaticamente: **0**
 
@@ -15,26 +15,26 @@ Generato: 2026-07-24T05:53:44+00:00
 
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| GB40_R050 | 96 | 0,317 | 0,287 | 0,183 | 82,3% | 97,6 | VALIDATING |
-| GB20_R050 | 96 | 0,425 | 0,366 | 0,276 | 85,4% | 97,5 | VALIDATING |
-| GB50_R050 | 96 | 0,323 | 0,287 | 0,204 | 81,2% | 97,4 | VALIDATING |
-| GB30_R050 | 96 | 0,375 | 0,301 | 0,231 | 85,4% | 97,4 | VALIDATING |
-| GB20_R100 | 94 | 0,458 | 0,408 | 0,330 | 84,0% | 97,3 | VALIDATING |
-| TP_R100 | 94 | 0,421 | 0,369 | 0,290 | 83,0% | 97,2 | VALIDATING |
-| GB40_R100 | 94 | 0,367 | 0,326 | 0,248 | 83,0% | 97,2 | VALIDATING |
-| GB30_R100 | 94 | 0,427 | 0,333 | 0,307 | 87,2% | 97,0 | VALIDATING |
-| GB50_R100 | 94 | 0,317 | 0,369 | 0,205 | 80,9% | 96,9 | VALIDATING |
-| TP_R050 | 96 | 0,242 | 0,287 | 0,109 | 82,3% | 95,5 | VALIDATING |
-| BE_R050 | 87 | 0,089 | 0,129 | -0,035 | 59,8% | 77,4 | VALIDATING |
-| TIME_6H | 88 | 0,047 | 0,149 | -0,095 | 64,8% | 77,1 | VALIDATING |
+| GB20_R050 | 114 | 0,523 | 0,408 | 0,379 | 87,7% | 98,7 | ROBUST |
+| GB30_R050 | 114 | 0,465 | 0,326 | 0,333 | 87,7% | 98,7 | ROBUST |
+| GB20_R100 | 110 | 0,536 | 0,417 | 0,411 | 86,4% | 98,6 | ROBUST |
+| GB30_R100 | 110 | 0,495 | 0,413 | 0,375 | 89,1% | 98,6 | ROBUST |
+| TP_R100 | 110 | 0,491 | 0,417 | 0,374 | 85,5% | 98,6 | ROBUST |
+| GB40_R100 | 110 | 0,430 | 0,413 | 0,317 | 85,5% | 98,5 | ROBUST |
+| GB50_R050 | 114 | 0,391 | 0,319 | 0,278 | 84,2% | 98,4 | ROBUST |
+| GB50_R100 | 110 | 0,373 | 0,412 | 0,273 | 83,6% | 98,3 | ROBUST |
+| GB40_R050 | 114 | 0,401 | 0,322 | 0,276 | 85,1% | 94,8 | ROBUST |
+| BE_R050 | 106 | 0,104 | 0,158 | 0,002 | 66,0% | 94,2 | ROBUST |
+| TP_R050 | 114 | 0,303 | 0,308 | 0,184 | 85,1% | 92,9 | ROBUST |
+| ATR30_R100 | 103 | 0,048 | 0,147 | -0,044 | 65,0% | 87,7 | VALIDATING |
+| ATR15_R100 | 110 | 0,048 | 0,147 | -0,047 | 68,2% | 87,1 | VALIDATING |
+| BE_R100 | 103 | 0,039 | 0,147 | -0,054 | 65,0% | 84,1 | VALIDATING |
 | TIME_24H | 6 | 0,997 | 1,104 | 0,180 | 66,7% | 74,1 | INSUFFICIENT_DATA |
-| TP_R200 | 71 | 0,048 | 0,217 | -0,098 | 71,8% | 73,6 | VALIDATING |
 | GB20_R050 | 622 | 0,102 | 0,000 | 0,034 | 45,2% | 70,0 | VALIDATING |
 | GB20_R100 | 610 | 0,062 | 0,000 | 0,013 | 36,6% | 69,7 | VALIDATING |
 | GB30_R050 | 622 | 0,062 | 0,000 | -0,002 | 43,6% | 69,7 | VALIDATING |
 | TP_R150 | 599 | 0,058 | 0,000 | 0,009 | 27,4% | 69,7 | VALIDATING |
-| ATR15_R100 | 94 | 0,019 | 0,104 | -0,093 | 62,8% | 63,9 | VALIDATING |
-| BE_R100 | 86 | 0,024 | 0,104 | -0,086 | 59,3% | 62,1 | VALIDATING |
+| ATR20_R100 | 108 | 0,005 | 0,147 | -0,099 | 63,9% | 65,1 | VALIDATING |
 
 ## Stati di evidenza
 
