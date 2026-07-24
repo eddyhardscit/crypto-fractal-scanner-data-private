@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-24T04:55:21.784973+00:00",
+  "generated_utc": "2026-07-24T05:55:21.809635+00:00",
   "strategy": "RSI 5m Long Short Fixed TP Scalper",
   "paper_only": true,
   "reinvest_profits": false,
   "sizing_mode": "INITIAL_CAPITAL_CAPPED",
-  "last_processed_candle": "2026-07-24T04:50:00+00:00",
+  "last_processed_candle": "2026-07-24T05:50:00+00:00",
   "accounts": [
     {
       "account": "RSI5_RSI20_10X",
@@ -172,7 +172,7 @@
       "rsi_trigger": 70.0,
       "leverage": 10.0,
       "balance_usdt": 2592.1950897837364,
-      "equity_usdt": 2642.9194916503416,
+      "equity_usdt": 2646.1491648429956,
       "closed_trades": 46,
       "winning_trades": 18,
       "win_rate_pct": 39.130434782608695,
@@ -201,18 +201,18 @@
         "quantity": 0.39872508551256153,
         "entry_fee_usdt": 15.647052855837442,
         "max_holding_hours": 6.0,
-        "max_favorable_price": 65263.8,
+        "max_favorable_price": 65207.8,
         "max_adverse_price": 65435.0,
-        "mfe_gross_usdt": 56.10719052102486,
+        "mfe_gross_usdt": 78.4357953097283,
         "mae_gross_usdt": -12.154544118724514,
-        "mfe_net_usdt": 24.84674912366259,
+        "mfe_net_usdt": 47.18875107523925,
         "mae_net_usdt": -43.45594255687064,
-        "mfe_at_utc": "2026-07-24T04:40:00+00:00",
+        "mfe_at_utc": "2026-07-24T05:00:00+00:00",
         "mae_at_utc": "2026-07-24T04:00:00+00:00",
-        "excursion_observation_count": 13,
+        "excursion_observation_count": 25,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65277.3,
-        "unrealized_pnl_usdt": 19.46073079605035
+        "mark_price": 65269.2,
+        "unrealized_pnl_usdt": 22.692341792620013
       }
     },
     {
@@ -222,7 +222,7 @@
       "rsi_trigger": 70.0,
       "leverage": 20.0,
       "balance_usdt": 1653.3689973385008,
-      "equity_usdt": 1718.4686207515233,
+      "equity_usdt": 1722.613578618978,
       "closed_trades": 46,
       "winning_trades": 18,
       "win_rate_pct": 39.130434782608695,
@@ -251,18 +251,18 @@
         "quantity": 0.5117231935125451,
         "entry_fee_usdt": 20.081404825973692,
         "max_holding_hours": 6.0,
-        "max_favorable_price": 65263.8,
+        "max_favorable_price": 65207.8,
         "max_adverse_price": 65435.0,
-        "mfe_gross_usdt": 72.00788652544189,
+        "mfe_gross_usdt": 100.66438536214442,
         "mae_gross_usdt": -15.599124203904355,
-        "mfe_net_usdt": 31.888281605409773,
+        "mfe_net_usdt": 60.56197434141432,
         "mae_net_usdt": -55.77129333037408,
-        "mfe_at_utc": "2026-07-24T04:40:00+00:00",
+        "mfe_at_utc": "2026-07-24T05:00:00+00:00",
         "mae_at_utc": "2026-07-24T04:00:00+00:00",
-        "excursion_observation_count": 13,
+        "excursion_observation_count": 25,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65277.3,
-        "unrealized_pnl_usdt": 24.975873535122957
+        "mark_price": 65269.2,
+        "unrealized_pnl_usdt": 29.123318377298023
       }
     },
     {
@@ -272,7 +272,7 @@
       "rsi_trigger": 70.0,
       "leverage": 5.0,
       "balance_usdt": 3330.9107288561463,
-      "equity_usdt": 3363.402506672427,
+      "equity_usdt": 3365.471290530557,
       "closed_trades": 30,
       "winning_trades": 12,
       "win_rate_pct": 40.0,
@@ -301,18 +301,18 @@
         "quantity": 0.25540541458372384,
         "entry_fee_usdt": 10.022800588333439,
         "max_holding_hours": 6.0,
-        "max_favorable_price": 65263.8,
+        "max_favorable_price": 65207.8,
         "max_adverse_price": 65435.0,
-        "mfe_gross_usdt": 35.939750913161134,
+        "mfe_gross_usdt": 50.24245412984967,
         "mae_gross_usdt": -7.785656063571643,
-        "mfe_net_usdt": 15.915713587042154,
+        "mfe_net_usdt": 30.226998425660703,
         "mae_net_usdt": -27.835928633876662,
-        "mfe_at_utc": "2026-07-24T04:40:00+00:00",
+        "mfe_at_utc": "2026-07-24T05:00:00+00:00",
         "mae_at_utc": "2026-07-24T04:00:00+00:00",
-        "excursion_observation_count": 13,
+        "excursion_observation_count": 25,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 65277.3,
-        "unrealized_pnl_usdt": 12.465671706303755
+        "mark_price": 65269.2,
+        "unrealized_pnl_usdt": 14.535696834748283
       }
     },
     {
@@ -523,56 +523,56 @@
     {
       "asset": "DOGE",
       "symbol": "DOGEUSDTM",
-      "price": 0.06901,
-      "rsi": 34.71777822875245,
-      "turnover_24h_usdt": 60836006.336,
-      "candle_time": "2026-07-24T04:50:00+00:00"
+      "price": 0.06918,
+      "rsi": 52.35207882310614,
+      "turnover_24h_usdt": 61529304.224,
+      "candle_time": "2026-07-24T05:50:00+00:00"
     },
     {
       "asset": "SOL",
       "symbol": "SOLUSDTM",
-      "price": 75.66,
-      "rsi": 44.591353348911824,
-      "turnover_24h_usdt": 100968242.2984,
-      "candle_time": "2026-07-24T04:50:00+00:00"
+      "price": 75.724,
+      "rsi": 48.21558087261968,
+      "turnover_24h_usdt": 101104983.2912,
+      "candle_time": "2026-07-24T05:50:00+00:00"
     },
     {
       "asset": "XRP",
       "symbol": "XRPUSDTM",
-      "price": 1.10777,
-      "rsi": 40.091645976060114,
-      "turnover_24h_usdt": 28655328.6006,
-      "candle_time": "2026-07-24T04:50:00+00:00"
+      "price": 1.10976,
+      "rsi": 56.5215638447646,
+      "turnover_24h_usdt": 28532859.1936,
+      "candle_time": "2026-07-24T05:50:00+00:00"
     },
     {
       "asset": "HYPE",
       "symbol": "HYPEUSDTM",
-      "price": 58.333,
-      "rsi": 56.5225710081013,
-      "turnover_24h_usdt": 26824362.9872,
-      "candle_time": "2026-07-24T04:50:00+00:00"
+      "price": 58.439,
+      "rsi": 56.38519149922133,
+      "turnover_24h_usdt": 27210455.6634,
+      "candle_time": "2026-07-24T05:50:00+00:00"
     },
     {
       "asset": "ETH",
       "symbol": "ETHUSDTM",
-      "price": 1875.91,
-      "rsi": 47.61012061019869,
-      "turnover_24h_usdt": 294862687.8132,
-      "candle_time": "2026-07-24T04:50:00+00:00"
+      "price": 1880.46,
+      "rsi": 59.59190019537396,
+      "turnover_24h_usdt": 293709167.3484,
+      "candle_time": "2026-07-24T05:50:00+00:00"
     },
     {
       "asset": "BTC",
       "symbol": "XBTUSDTM",
-      "price": 65277.3,
-      "rsi": 50.23508535976057,
-      "turnover_24h_usdt": 435706083.848,
-      "candle_time": "2026-07-24T04:50:00+00:00"
+      "price": 65269.2,
+      "rsi": 48.65502546065546,
+      "turnover_24h_usdt": 436586821.1136,
+      "candle_time": "2026-07-24T05:50:00+00:00"
     }
   ],
   "warnings": [
-    "ADA: turnover 24h 8,953,353 USDT sotto il minimo",
-    "AVAX: turnover 24h 4,556,377 USDT sotto il minimo",
-    "LINK: turnover 24h 2,864,111 USDT sotto il minimo",
-    "SUI: turnover 24h 6,822,765 USDT sotto il minimo"
+    "ADA: turnover 24h 8,994,050 USDT sotto il minimo",
+    "AVAX: turnover 24h 4,584,180 USDT sotto il minimo",
+    "LINK: turnover 24h 2,825,242 USDT sotto il minimo",
+    "SUI: turnover 24h 6,882,337 USDT sotto il minimo"
   ]
 }
