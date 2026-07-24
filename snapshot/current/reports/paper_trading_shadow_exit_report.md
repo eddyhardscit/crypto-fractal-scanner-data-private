@@ -1,41 +1,41 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-24T13:54:13+00:00
+Generato: 2026-07-24T14:53:44+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **346**
-- Scenari virtuali ancora attivi: **2603**
-- Gruppi in attesa dell'uscita originale: **182**
-- Gruppi con originale chiuso ma Shadow ancora attive: **164**
-- Confronti completati: **16201**
+- Gruppi di trade ancora monitorati: **345**
+- Scenari virtuali ancora attivi: **2654**
+- Gruppi in attesa dell'uscita originale: **180**
+- Gruppi con originale chiuso ma Shadow ancora attive: **165**
+- Confronti completati: **16420**
 
 ## Classifica osservativa complessiva
 
 | Scenario | Campione completo | Campione totale | Δ medio vs originale | Migliora | Troppo presto | Troppo tardi | Stato dati |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| TIME_6H | 773 | 836 | +€0,28 | 50,2% | 177 | 112 | READY_FOR_BLOCK4_EVALUATION |
-| GB20_R050 | 770 | 833 | +€7,09 | 49,8% | 210 | 1 | READY_FOR_BLOCK4_EVALUATION |
-| GB30_R050 | 770 | 833 | +€4,95 | 48,6% | 215 | 8 | READY_FOR_BLOCK4_EVALUATION |
-| GB40_R050 | 770 | 833 | +€2,65 | 47,3% | 221 | 13 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R050 | 770 | 833 | +€1,68 | 47,4% | 233 | 0 | READY_FOR_BLOCK4_EVALUATION |
-| GB50_R050 | 767 | 830 | +€1,28 | 45,5% | 217 | 27 | READY_FOR_BLOCK4_EVALUATION |
-| GB20_R100 | 763 | 826 | +€5,68 | 43,0% | 179 | 22 | READY_FOR_BLOCK4_EVALUATION |
-| GB30_R100 | 763 | 826 | +€3,67 | 42,9% | 168 | 34 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R100 | 763 | 826 | +€3,47 | 41,2% | 194 | 22 | READY_FOR_BLOCK4_EVALUATION |
-| GB40_R100 | 762 | 825 | +€2,46 | 42,5% | 144 | 58 | READY_FOR_BLOCK4_EVALUATION |
-| GB50_R100 | 759 | 822 | +€1,94 | 39,4% | 108 | 115 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_12H | 756 | 819 | €-1,19 | 42,9% | 94 | 189 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R150 | 752 | 815 | +€3,82 | 33,3% | 86 | 88 | READY_FOR_BLOCK4_EVALUATION |
-| ATR15_R100 | 750 | 813 | €-2,16 | 33,7% | 68 | 175 | READY_FOR_BLOCK4_EVALUATION |
-| ATR20_R100 | 745 | 808 | €-5,72 | 29,5% | 50 | 221 | READY_FOR_BLOCK4_EVALUATION |
-| ATR30_R100 | 718 | 781 | €-10,30 | 26,1% | 46 | 218 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_24H | 715 | 778 | €-2,97 | 34,6% | 54 | 208 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R050 | 712 | 775 | €-10,51 | 28,9% | 133 | 139 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R200 | 697 | 760 | €-0,25 | 36,2% | 42 | 133 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R100 | 666 | 729 | €-17,47 | 20,7% | 45 | 216 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_6H | 783 | 846 | +€0,11 | 50,0% | 182 | 112 | READY_FOR_BLOCK4_EVALUATION |
+| GB20_R050 | 781 | 844 | +€6,87 | 49,6% | 215 | 1 | READY_FOR_BLOCK4_EVALUATION |
+| GB30_R050 | 781 | 844 | +€4,77 | 48,5% | 220 | 8 | READY_FOR_BLOCK4_EVALUATION |
+| GB40_R050 | 781 | 844 | +€2,48 | 47,2% | 226 | 13 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R050 | 781 | 844 | +€1,53 | 47,3% | 238 | 0 | READY_FOR_BLOCK4_EVALUATION |
+| GB50_R050 | 777 | 840 | +€1,21 | 45,5% | 221 | 27 | READY_FOR_BLOCK4_EVALUATION |
+| GB20_R100 | 774 | 837 | +€5,61 | 42,9% | 184 | 22 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R100 | 774 | 837 | +€3,47 | 41,2% | 198 | 22 | READY_FOR_BLOCK4_EVALUATION |
+| GB30_R100 | 773 | 836 | +€3,61 | 42,8% | 172 | 34 | READY_FOR_BLOCK4_EVALUATION |
+| GB40_R100 | 771 | 834 | +€2,45 | 42,6% | 147 | 58 | READY_FOR_BLOCK4_EVALUATION |
+| GB50_R100 | 768 | 831 | +€1,91 | 39,5% | 111 | 115 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_12H | 766 | 829 | €-1,34 | 42,7% | 99 | 189 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R150 | 762 | 825 | +€3,46 | 33,0% | 90 | 88 | READY_FOR_BLOCK4_EVALUATION |
+| ATR15_R100 | 762 | 825 | €-2,14 | 33,8% | 71 | 176 | READY_FOR_BLOCK4_EVALUATION |
+| ATR20_R100 | 757 | 820 | €-5,69 | 29,6% | 53 | 222 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_24H | 732 | 795 | €-2,80 | 34,8% | 57 | 211 | READY_FOR_BLOCK4_EVALUATION |
+| ATR30_R100 | 730 | 793 | €-10,22 | 26,4% | 49 | 219 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R050 | 722 | 785 | €-10,58 | 28,9% | 137 | 139 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R200 | 707 | 770 | €-0,57 | 35,8% | 45 | 133 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R100 | 678 | 741 | €-17,27 | 21,1% | 48 | 217 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
