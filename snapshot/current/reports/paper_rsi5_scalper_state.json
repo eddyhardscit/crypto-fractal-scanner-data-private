@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-24T16:05:21.688891+00:00",
-  "last_processed_candle": "2026-07-24T16:00:00+00:00",
+  "updated_utc": "2026-07-24T17:05:22.204400+00:00",
+  "last_processed_candle": "2026-07-24T17:00:00+00:00",
   "last_daily_status_date": "2026-07-23",
   "telegram_started_sent": true,
   "accounts": {
@@ -541,8 +541,8 @@
           "last_close_reason": "STOP"
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-24T16:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -1271,8 +1271,8 @@
           "last_close_reason": "STOP"
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-24T16:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
@@ -1350,8 +1350,8 @@
           "last_close_reason": "STOP"
         },
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-24T16:45:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SUI": {
