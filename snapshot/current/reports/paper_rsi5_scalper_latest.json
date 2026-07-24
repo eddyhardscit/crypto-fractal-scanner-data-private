@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-24T19:10:22.168848+00:00",
+  "generated_utc": "2026-07-24T20:10:22.174122+00:00",
   "strategy": "RSI 5m Long Short Fixed TP Scalper",
   "paper_only": true,
   "reinvest_profits": false,
   "sizing_mode": "INITIAL_CAPITAL_CAPPED",
-  "last_processed_candle": "2026-07-24T19:05:00+00:00",
+  "last_processed_candle": "2026-07-24T20:05:00+00:00",
   "accounts": [
     {
       "account": "RSI5_RSI20_10X",
@@ -418,56 +418,56 @@
     {
       "asset": "DOGE",
       "symbol": "DOGEUSDTM",
-      "price": 0.06906,
-      "rsi": 51.345242378970624,
-      "turnover_24h_usdt": 29334880.546,
-      "candle_time": "2026-07-24T19:05:00+00:00"
+      "price": 0.06921,
+      "rsi": 57.286104753130566,
+      "turnover_24h_usdt": 29083296.13,
+      "candle_time": "2026-07-24T20:05:00+00:00"
     },
     {
       "asset": "SOL",
       "symbol": "SOLUSDTM",
-      "price": 73.754,
-      "rsi": 35.87644846955162,
-      "turnover_24h_usdt": 71398242.416,
-      "candle_time": "2026-07-24T19:05:00+00:00"
+      "price": 73.834,
+      "rsi": 42.37467631004578,
+      "turnover_24h_usdt": 70366827.5098,
+      "candle_time": "2026-07-24T20:05:00+00:00"
     },
     {
       "asset": "XRP",
       "symbol": "XRPUSDTM",
-      "price": 1.08561,
-      "rsi": 38.85352696790642,
-      "turnover_24h_usdt": 22417060.42,
-      "candle_time": "2026-07-24T19:05:00+00:00"
+      "price": 1.08908,
+      "rsi": 54.24332608779089,
+      "turnover_24h_usdt": 21700766.7068,
+      "candle_time": "2026-07-24T20:05:00+00:00"
     },
     {
       "asset": "HYPE",
       "symbol": "HYPEUSDTM",
-      "price": 58.502,
-      "rsi": 42.606748843182245,
-      "turnover_24h_usdt": 22880415.2352,
-      "candle_time": "2026-07-24T19:05:00+00:00"
+      "price": 58.155,
+      "rsi": 33.455449284024056,
+      "turnover_24h_usdt": 21349199.7756,
+      "candle_time": "2026-07-24T20:05:00+00:00"
     },
     {
       "asset": "ETH",
       "symbol": "ETHUSDTM",
-      "price": 1857.4,
-      "rsi": 40.51344345060867,
-      "turnover_24h_usdt": 288819597.933,
-      "candle_time": "2026-07-24T19:05:00+00:00"
+      "price": 1861.4,
+      "rsi": 50.39155723323295,
+      "turnover_24h_usdt": 278409031.2282,
+      "candle_time": "2026-07-24T20:05:00+00:00"
     },
     {
       "asset": "BTC",
       "symbol": "XBTUSDTM",
-      "price": 64120.0,
-      "rsi": 48.269668940455865,
-      "turnover_24h_usdt": 603370111.0572,
-      "candle_time": "2026-07-24T19:05:00+00:00"
+      "price": 64169.9,
+      "rsi": 50.06640322976478,
+      "turnover_24h_usdt": 595342600.2146,
+      "candle_time": "2026-07-24T20:05:00+00:00"
     }
   ],
   "warnings": [
-    "ADA: turnover 24h 9,203,654 USDT sotto il minimo",
-    "AVAX: turnover 24h 4,037,009 USDT sotto il minimo",
-    "LINK: turnover 24h 2,996,050 USDT sotto il minimo",
-    "SUI: turnover 24h 6,272,454 USDT sotto il minimo"
+    "ADA: turnover 24h 9,097,021 USDT sotto il minimo",
+    "AVAX: turnover 24h 3,889,209 USDT sotto il minimo",
+    "LINK: turnover 24h 2,974,008 USDT sotto il minimo",
+    "SUI: turnover 24h 6,366,961 USDT sotto il minimo"
   ]
 }
