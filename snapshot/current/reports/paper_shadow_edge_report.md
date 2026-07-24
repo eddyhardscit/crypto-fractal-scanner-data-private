@@ -1,16 +1,16 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-24T07:13:56+00:00
+Generato: 2026-07-24T08:14:14+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **1283**
-- Trade Shadow/Research chiusi: **2568**
-- Eventi Shadow già presi dai Paper: **794**
-- Eventi Shadow saltati dai Paper: **1774**
-- Profili con filtro Paper utile: **12**
+- Trade Paper chiusi nei conti confrontati: **1291**
+- Trade Shadow/Research chiusi: **2586**
+- Eventi Shadow già presi dai Paper: **802**
+- Eventi Shadow saltati dai Paper: **1784**
+- Profili con filtro Paper utile: **11**
 - Profili in cui il Paper potrebbe scartare edge: **4**
 - Profili con campione ancora insufficiente: **62**
 
@@ -108,12 +108,12 @@ Generato: 2026-07-24T07:13:56+00:00
 
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 47 | 97 | 40 | 57 | -1,02% | -0,54% | -0,48% | -0,81% | +0,21% | SELEZIONE DA RIVEDERE |
-| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 47 | 97 | 40 | 57 | -2,05% | -1,08% | -0,96% | -1,63% | +0,42% | SELEZIONE DA RIVEDERE |
-| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 30 | 71 | 21 | 50 | 0,01% | -0,92% | +0,92% | -0,37% | -0,38% | FILTRO PAPER UTILE |
-| SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 23 | 41 | 21 | 20 | -1,40% | 0,32% | -1,72% | -1,29% | +0,11% | PAPER SCARTA EDGE |
-| SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 23 | 41 | 21 | 20 | -2,80% | 0,64% | -3,44% | -2,58% | +0,22% | PAPER SCARTA EDGE |
-| SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 17 | 36 | 14 | 22 | 0,43% | -0,40% | +0,83% | 0,10% | -0,33% | FILTRO PAPER UTILE |
+| SHORT RSI 70 · leva 10× | SHORT RSI 70 · leva 10× | 48 | 99 | 41 | 58 | -0,91% | -0,47% | -0,44% | -0,72% | +0,19% | SELEZIONE DA RIVEDERE |
+| SHORT RSI 70 · leva 20× | SHORT RSI 70 · leva 20× | 48 | 99 | 41 | 58 | -1,82% | -0,94% | -0,88% | -1,44% | +0,38% | SELEZIONE DA RIVEDERE |
+| SHORT RSI 70 · leva 5× · Wide | SHORT RSI 70 · leva 5× · Wide | 31 | 74 | 22 | 52 | -0,14% | -1,00% | +0,87% | -0,47% | -0,33% | SELEZIONE POSITIVA |
+| SHORT RSI 75 · leva 10× | SHORT RSI 75 · leva 10× | 25 | 46 | 23 | 23 | -1,29% | 0,42% | -1,71% | -1,20% | +0,09% | PAPER SCARTA EDGE |
+| SHORT RSI 75 · leva 20× | SHORT RSI 75 · leva 20× | 25 | 46 | 23 | 23 | -2,58% | 0,84% | -3,43% | -2,40% | +0,18% | PAPER SCARTA EDGE |
+| SHORT RSI 75 · leva 5× · Wide | SHORT RSI 75 · leva 5× · Wide | 18 | 37 | 15 | 22 | 0,19% | -0,40% | +0,59% | -0,09% | -0,27% | FILTRO PAPER UTILE |
 | RSI 25 · leva 10× | RSI 25 · leva 10× | 6 | 27 | 6 | 21 | 1,11% | -1,04% | +2,15% | 1,11% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 20× | RSI 25 · leva 20× | 6 | 27 | 6 | 21 | 2,22% | -2,09% | +4,31% | 2,22% | +0,00% | CAMPIONE INSUFFICIENTE |
 | RSI 25 · leva 5× · Wide | RSI 25 · leva 5× · Wide | 3 | 25 | 3 | 22 | 2,33% | -0,69% | +3,02% | 2,33% | +0,00% | CAMPIONE INSUFFICIENTE |
@@ -127,36 +127,36 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 
 | Strategia | Azione candidata | Dimensione | Valore | Eventi | WR | PF | Expectancy | Δ vs base | Confidenza |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 24 | 0,00% | 0,00 | -7,80% | -6,68% | ALTA |
+| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 26 | 0,00% | 0,00 | -7,80% | -6,94% | ALTA |
 | RSI 25 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 15 | 0,00% | 0,00 | -7,80% | -6,67% | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 56 | 0,00% | 0,00 | -7,80% | -6,32% | ALTA |
-| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 9 | 22,22% | 0,18 | -4,98% | -3,86% | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 15 | 20,00% | 0,18 | -5,11% | -3,63% | MEDIA |
-| SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 24 | 0,00% | 0,00 | -3,90% | -3,34% | ALTA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 56 | 0,00% | 0,00 | -7,80% | -6,50% | ALTA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 15 | 20,00% | 0,18 | -5,11% | -3,81% | MEDIA |
+| SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 26 | 0,00% | 0,00 | -3,90% | -3,47% | ALTA |
 | RSI 25 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 15 | 0,00% | 0,00 | -3,90% | -3,33% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 56 | 0,00% | 0,00 | -3,90% | -3,16% | ALTA |
-| SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 18 | 0,00% | 0,00 | -3,20% | -3,12% | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 9 | 22,22% | 0,26 | -4,47% | -2,99% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 56 | 0,00% | 0,00 | -3,90% | -3,25% | ALTA |
+| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 8 | 25,00% | 0,31 | -4,05% | -3,18% | MEDIA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 9 | 22,22% | 0,26 | -4,47% | -3,16% | MEDIA |
+| SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 19 | 0,00% | 0,00 | -3,20% | -3,04% | MEDIA |
+| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 10 | 30,00% | 0,31 | -3,76% | -2,89% | MEDIA |
 | RSI 25 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 12 | 0,00% | 0,00 | -3,20% | -2,87% | MEDIA |
-| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 43 | 0,00% | 0,00 | -3,20% | -2,56% | ALTA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 18 | 27,78% | 0,36 | -3,63% | -2,15% | MEDIA |
-| SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 9 | 22,22% | 0,18 | -2,49% | -1,93% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 15 | 20,00% | 0,18 | -2,55% | -1,81% | MEDIA |
+| SHORT RSI 70 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 46 | 0,00% | 0,00 | -3,20% | -2,45% | ALTA |
+| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 18 | 27,78% | 0,36 | -3,63% | -2,33% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 15 | 20,00% | 0,18 | -2,55% | -1,90% | MEDIA |
 | RSI 20 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 8 | 0,00% | 0,00 | -7,80% | -1,67% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 9 | 22,22% | 0,26 | -2,23% | -1,49% | MEDIA |
-| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 18 | 27,78% | 0,36 | -1,82% | -1,08% | MEDIA |
+| SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 8 | 25,00% | 0,31 | -2,03% | -1,59% | MEDIA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | DOGE | 9 | 22,22% | 0,26 | -2,23% | -1,58% | MEDIA |
+| SHORT RSI 75 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | BTC | 10 | 30,00% | 0,31 | -1,88% | -1,45% | MEDIA |
+| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 24 | 37,50% | 0,55 | -2,17% | -1,31% | ALTA |
+| SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 18 | 27,78% | 0,36 | -1,82% | -1,16% | MEDIA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 11 | 0,00% | 0,00 | -1,07R | -1,05R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 11 | 0,00% | 0,00 | -1,09R | -1,03R | MEDIA |
 | SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 5–6 | 8 | 0,00% | 0,00 | -1,03R | -1,01R | MEDIA |
 | SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | MEDIA | 8 | 0,00% | 0,00 | -1,03R | -1,01R | MEDIA |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | TREND_UP | 8 | 0,00% | 0,00 | -1,07R | -0,89R | MEDIA |
+| SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 8 | 25,00% | 0,51 | -1,02% | -0,86% | MEDIA |
 | RSI 20 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 8 | 0,00% | 0,00 | -3,90% | -0,83% | MEDIA |
-| SHORT RSI 75 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | 1–3 punti | 23 | 39,13% | 0,59 | -1,93% | -0,81% | ALTA |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | TREND_UP | 8 | 12,50% | 0,18 | -0,76R | -0,77R | MEDIA |
-| SHORT RSI 70 · leva 20× | RIDURRE / ESCLUDERE IN CHALLENGER | Profondità RSI | ≥3 punti | 18 | 38,89% | 0,53 | -2,22% | -0,74% | MEDIA |
 | Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Volatilità entrata | HIGH | 26 | 11,54% | 0,23 | -0,73R | -0,70R | ALTA |
-| Forza relativa 1H V2 | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | ≥7 | 10 | 20,00% | 0,53 | -0,39R | -0,69R | MEDIA |
-| SHADOW_BOLLINGER_MR_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Lato | LONG | 11 | 18,18% | 0,29 | -0,63R | -0,66R | MEDIA |
 
 ## Metodo di promozione
 
