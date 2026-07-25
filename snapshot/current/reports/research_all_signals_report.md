@@ -9,28 +9,28 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Confidenza: **80,40%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 21.6.
-- BTC trend score: **0,00**; ADX: **21,60**; breadth sopra EMA50: **25,00%**
-- Mediana alt vs BTC: **-0,19%**; dispersione: **9,91%**
+- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 22.3.
+- BTC trend score: **0,00**; ADX: **22,28**; breadth sopra EMA50: **25,00%**
+- Mediana alt vs BTC: **-0,28%**; dispersione: **10,31%**
 
-- Aperti in questo ciclo: **80**
-- Chiusi in questo ciclo: **59**
+- Aperti in questo ciclo: **0**
+- Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **485**
-- Trade research chiusi: **2585**
-- Eventi di mercato indipendenti chiusi: **691**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **11278**
+- Trade research chiusi: **2592**
+- Eventi di mercato indipendenti chiusi: **696**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **11436**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
 
 | Profilo | Aperte | Chiuse | Eventi indip. | Win rate | PF | Expectancy R | P&L norm. |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| MAIN | 14 | 52 | 52 | 34,62% | 1,02 | 0,01R | €6,81 |
-| RSI_EXTREME_LONG_15M | 1 | 9 | 9 | 33,33% | 0,37 | -0,45R | €-40,45 |
+| MAIN | 14 | 54 | 54 | 35,19% | 1,05 | 0,03R | €16,54 |
+| RSI_EXTREME_LONG_15M | 0 | 10 | 10 | 30,00% | 0,31 | -0,54R | €-54,33 |
 | RSI_EXTREME_SHORT_15M | 0 | 7 | 7 | 28,57% | 0,62 | -0,24R | €-16,64 |
 | Bilanciata 1H V1 | 17 | 161 | 161 | 34,78% | 1,02 | 0,02R | €24,53 |
-| Bilanciata 1H V2 | 9 | 43 | 38 | 46,51% | 1,75 | 0,39R | €166,85 |
-| Bilanciata 1H V3 Filtered | 14 | 66 | 66 | 40,91% | 1,31 | 0,19R | €125,56 |
+| Bilanciata 1H V2 | 10 | 43 | 38 | 46,51% | 1,75 | 0,39R | €166,85 |
+| Bilanciata 1H V3 Filtered | 15 | 66 | 66 | 40,91% | 1,31 | 0,19R | €125,56 |
 | Rapida 1H V1 | 11 | 197 | 197 | 40,10% | 0,96 | -0,03R | €-49,99 |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | 0 | 15 | 15 | 53,33% | 1,86 | 0,36R | €54,58 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 9 | 59 | 59 | 47,46% | 1,25 | 0,13R | €78,95 |
@@ -45,7 +45,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | 3 | 31 | 31 | 32,26% | 0,66 | -0,25R | €-76,03 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | 9 | 58 | 58 | 43,10% | 1,01 | 0,01R | €3,90 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 9 | 59 | 59 | 42,37% | 0,98 | -0,01R | €-7,61 |
-| SHADOW_4H_WIDE | 22 | 43 | 43 | 27,91% | 1,05 | 0,04R | €17,19 |
+| SHADOW_4H_WIDE | 21 | 47 | 47 | 27,66% | 1,04 | 0,03R | €14,38 |
 | SHADOW_BOLLINGER_MR_1H | 7 | 38 | 38 | 42,11% | 0,96 | -0,03R | €-9,68 |
 | SHADOW_BTC_ADAPTIVE_1H | 1 | 3 | 3 | 0,00% | 0,00 | -1,11R | €-33,33 |
 | SHADOW_BTC_ADAPTIVE_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,67 |
@@ -114,12 +114,12 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | MAIN | ALT_ROTATION_DOWN | 2 | 2 | 2 | 50,00% | 1,96 | 0,49R | €9,73 |
 | MAIN | ALT_ROTATION_UP | 1 | 5 | 5 | 0,00% | 0,00 | -1,02R | €-51,22 |
-| MAIN | RANGE | 8 | 16 | 16 | 31,25% | 0,88 | -0,09R | €-14,08 |
+| MAIN | RANGE | 8 | 18 | 18 | 33,33% | 0,96 | -0,02R | €-4,35 |
 | MAIN | RANGE_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |
 | MAIN | TRANSITION | 0 | 8 | 8 | 50,00% | 1,93 | 0,47R | €37,99 |
 | MAIN | TREND_UP | 1 | 16 | 16 | 37,50% | 1,15 | 0,10R | €15,71 |
 | MAIN | TREND_UP_HIGH_VOL | 2 | 4 | 4 | 25,00% | 0,64 | -0,28R | €-11,18 |
-| RSI_EXTREME_LONG_15M | RANGE | 1 | 7 | 7 | 14,29% | 0,07 | -0,86R | €-59,88 |
+| RSI_EXTREME_LONG_15M | RANGE | 0 | 8 | 8 | 12,50% | 0,06 | -0,92R | €-73,76 |
 | RSI_EXTREME_LONG_15M | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,29R | €12,88 |
 | RSI_EXTREME_LONG_15M | TREND_UP | 0 | 1 | 1 | 100,00% | ∞ | 0,66R | €6,56 |
 | RSI_EXTREME_SHORT_15M | ALT_ROTATION_DOWN | 0 | 1 | 1 | 100,00% | ∞ | 1,47R | €14,67 |
@@ -134,11 +134,11 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | TREND_UP | 2 | 42 | 42 | 40,48% | 1,31 | 0,19R | €78,29 |
 | Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 1 | 12 | 12 | 25,00% | 0,68 | -0,23R | €-27,74 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 0 | 6 | 5 | 66,67% | 3,52 | 0,92R | €55,11 |
-| Bilanciata 1H V2 | RANGE | 8 | 18 | 16 | 44,44% | 1,61 | 0,33R | €59,13 |
+| Bilanciata 1H V2 | RANGE | 9 | 18 | 16 | 44,44% | 1,61 | 0,33R | €59,13 |
 | Bilanciata 1H V2 | TRANSITION | 1 | 19 | 17 | 42,11% | 1,50 | 0,28R | €52,62 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_DOWN | 2 | 10 | 10 | 40,00% | 1,23 | 0,14R | €14,28 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,05R | €-20,99 |
-| Bilanciata 1H V3 Filtered | RANGE | 10 | 11 | 11 | 72,73% | 5,11 | 1,14R | €125,09 |
+| Bilanciata 1H V3 Filtered | RANGE | 11 | 11 | 11 | 72,73% | 5,11 | 1,14R | €125,09 |
 | Bilanciata 1H V3 Filtered | RANGE_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |
 | Bilanciata 1H V3 Filtered | TRANSITION | 0 | 8 | 8 | 37,50% | 1,11 | 0,07R | €5,68 |
 | Bilanciata 1H V3 Filtered | TREND_UP | 1 | 20 | 20 | 45,00% | 1,54 | 0,31R | €61,36 |
@@ -215,11 +215,11 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE | 6 | 22 | 22 | 63,64% | 2,36 | 0,53R | €115,62 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TRANSITION | 1 | 1 | 1 | 100,00% | ∞ | 1,49R | €14,87 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_UP | 0 | 12 | 12 | 16,67% | 0,26 | -0,66R | €-79,74 |
-| SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 3 | 1 | 1 | 100,00% | ∞ | 2,79R | €27,87 |
+| SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 2 | 2 | 2 | 100,00% | ∞ | 2,79R | €55,73 |
 | SHADOW_4H_WIDE | ALT_ROTATION_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |
-| SHADOW_4H_WIDE | RANGE | 7 | 16 | 16 | 25,00% | 0,90 | -0,07R | €-11,95 |
+| SHADOW_4H_WIDE | RANGE | 8 | 18 | 18 | 22,22% | 0,78 | -0,18R | €-32,29 |
 | SHADOW_4H_WIDE | TRANSITION | 3 | 7 | 7 | 14,29% | 0,46 | -0,47R | €-33,10 |
-| SHADOW_4H_WIDE | TREND_UP | 3 | 13 | 13 | 46,15% | 2,32 | 0,73R | €95,17 |
+| SHADOW_4H_WIDE | TREND_UP | 2 | 14 | 14 | 42,86% | 2,03 | 0,61R | €84,85 |
 | SHADOW_4H_WIDE | TREND_UP_HIGH_VOL | 4 | 4 | 4 | 0,00% | 0,00 | -1,01R | €-40,53 |
 | SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_DOWN | 0 | 5 | 5 | 60,00% | 1,99 | 0,43R | €21,52 |
 | SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,02R | €-20,30 |
