@@ -9,16 +9,16 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Confidenza: **80,40%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 20.9.
-- BTC trend score: **0,00**; ADX: **20,94**; breadth sopra EMA50: **25,00%**
-- Mediana alt vs BTC: **0,74%**; dispersione: **7,57%**
+- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 25%, ADX 21.6.
+- BTC trend score: **0,00**; ADX: **21,60**; breadth sopra EMA50: **25,00%**
+- Mediana alt vs BTC: **0,74%**; dispersione: **7,63%**
 
-- Aperti in questo ciclo: **0**
+- Aperti in questo ciclo: **1**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **513**
+- Posizioni research aperte: **514**
 - Trade research chiusi: **2454**
 - Eventi di mercato indipendenti chiusi: **671**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **10871**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **10975**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -61,7 +61,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 16 | 48 | 48 | 31,25% | 0,82 | -0,13R | €-61,55 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 1 | 5 | 5 | 20,00% | 0,46 | -0,46R | €-22,90 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 1 | 5 | 5 | 20,00% | 0,46 | -0,46R | €-22,90 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 4 | 9 | 9 | 33,33% | 0,94 | -0,04R | €-3,50 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 5 | 9 | 9 | 33,33% | 0,94 | -0,04R | €-3,50 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 5 | 26 | 26 | 15,38% | 0,33 | -0,61R | €-157,60 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 15 | 32 | 32 | 15,62% | 0,51 | -0,44R | €-141,66 |
 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | 15 | 32 | 32 | 15,62% | 0,51 | -0,44R | €-141,66 |
@@ -273,7 +273,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TRANSITION | 0 | 3 | 3 | 33,33% | 0,92 | -0,06R | €-1,72 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TREND_UP | 1 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 2 | 1 | 1 | 0,00% | 0,00 | -1,08R | €-10,84 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE | 2 | 4 | 4 | 50,00% | 1,95 | 0,48R | €19,37 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE | 3 | 4 | 4 | 50,00% | 1,95 | 0,48R | €19,37 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TRANSITION | 0 | 2 | 2 | 50,00% | 1,90 | 0,46R | €9,15 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_UP | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,18 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 3 | 5 | 5 | 20,00% | 0,45 | -0,47R | €-23,53 |
