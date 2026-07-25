@@ -1,6 +1,6 @@
 # Blocco 4.5 — Crash Cascade Guard
 
-Generato: 2026-07-25T15:23:44+00:00
+Generato: 2026-07-25T16:23:40+00:00
 
 > Paper-only. In mercato NORMAL/WATCH non riduce i segnali. Le limitazioni iniziano soltanto in STRESS, RECOVERY, CRASH, EXTREME o con dati non affidabili.
 
@@ -8,25 +8,25 @@ Generato: 2026-07-25T15:23:44+00:00
 
 - Livello: **NORMAL**
 - Direzione: **NONE**
-- Segnali bloccati nel ciclo: **40**
-- Simulazioni bloccate attive: **63**
-- Simulazioni completate nel ciclo: **1**
+- Segnali bloccati nel ciclo: **0**
+- Simulazioni bloccate attive: **21**
+- Simulazioni completate nel ciclo: **0**
 - Liquidazioni virtuali evitate totali: **0**
-- Valore cumulato del filtro: **-85.29 R**
-- Profitto virtuale mancato: **142.92 R**
+- Valore cumulato del filtro: **-41.14 R**
+- Profitto virtuale mancato: **144.40 R**
 
 ## Stress test portafogli Paper
 
 | Scenario | Posizioni interessate | Liquidazioni stimate | Perdita stimata EUR |
 | --- | ---: | ---: | ---: |
-| DOWN_10 | 154 | 0 | 16243.50 |
-| DOWN_20 | 154 | 0 | 32486.99 |
-| DOWN_30 | 154 | 0 | 48730.49 |
-| DOWN_40 | 154 | 39 | 62553.49 |
-| UP_10 | 130 | 0 | 29921.87 |
-| UP_20 | 130 | 0 | 59843.75 |
-| UP_30 | 130 | 0 | 89765.62 |
-| UP_40 | 130 | 68 | 107565.06 |
+| DOWN_10 | 157 | 0 | 16450.62 |
+| DOWN_20 | 157 | 0 | 32901.23 |
+| DOWN_30 | 157 | 0 | 49351.85 |
+| DOWN_40 | 157 | 41 | 63320.16 |
+| UP_10 | 119 | 0 | 26036.51 |
+| UP_20 | 119 | 0 | 52073.01 |
+| UP_30 | 119 | 1 | 78161.96 |
+| UP_40 | 119 | 62 | 92985.96 |
 
 ## Modello di esecuzione
 
