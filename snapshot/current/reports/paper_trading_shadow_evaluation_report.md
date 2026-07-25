@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-25T19:24:06+00:00
+Generato: 2026-07-25T20:23:55+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **23875**
-- Valutazioni prodotte: **7081**
+- Risultati Block 3 disponibili: **24172**
+- Valutazioni prodotte: **7271**
 - Candidature al Blocco 5: **1**
 - Mutazioni create automaticamente: **0**
 
@@ -27,14 +27,14 @@ Generato: 2026-07-25T19:24:06+00:00
 | TP_R100 | 651 | 0,048 | 0,000 | -0,009 | 35,3% | 64,1 | VALIDATING |
 | TIME_12H | 667 | 0,047 | 0,000 | -0,030 | 42,9% | 60,6 | VALIDATING |
 | GB30_R100 | 651 | 0,040 | 0,000 | -0,021 | 37,2% | 60,5 | VALIDATING |
-| TP_R050 | 665 | 0,030 | 0,000 | -0,040 | 43,6% | 58,8 | VALIDATING |
-| TP_R200 | 6 | 0,472 | 0,250 | -0,017 | 50,0% | 58,7 | INSUFFICIENT_DATA |
-| GB40_R050 | 665 | 0,024 | 0,000 | -0,043 | 43,8% | 56,0 | VALIDATING |
-| GB40_R100 | 650 | 0,025 | 0,000 | -0,035 | 37,2% | 53,3 | VALIDATING |
-| GB50_R100 | 650 | 0,021 | 0,000 | -0,037 | 33,8% | 51,5 | VALIDATING |
-| TP_R200 | 643 | 0,023 | 0,000 | -0,049 | 34,5% | 51,0 | VALIDATING |
-| TIME_6H | 667 | 0,020 | 0,000 | -0,055 | 50,1% | 49,4 | VALIDATING |
-| GB20_R050 | 481 | -0,016 | 0,053 | -0,107 | 53,0% | 45,2 | VALIDATING |
+| TP_R150 | 14 | 0,426 | 0,025 | -0,000 | 50,0% | 60,1 | INSUFFICIENT_DATA |
+| ATR15_R050 | 12 | 0,045 | 0,025 | 0,015 | 50,0% | 59,0 | INSUFFICIENT_DATA |
+| ATR20_R050 | 12 | 0,045 | 0,025 | 0,020 | 50,0% | 59,0 | INSUFFICIENT_DATA |
+| BE_A020 | 12 | 0,045 | 0,025 | 0,018 | 50,0% | 59,0 | INSUFFICIENT_DATA |
+| BE_A030 | 12 | 0,045 | 0,025 | 0,018 | 50,0% | 59,0 | INSUFFICIENT_DATA |
+| BE_A040 | 12 | 0,045 | 0,025 | 0,014 | 50,0% | 59,0 | INSUFFICIENT_DATA |
+| BE_A050 | 12 | 0,045 | 0,025 | 0,019 | 50,0% | 59,0 | INSUFFICIENT_DATA |
+| BE_A060 | 12 | 0,045 | 0,025 | 0,018 | 50,0% | 59,0 | INSUFFICIENT_DATA |
 
 ## Stati di evidenza
 

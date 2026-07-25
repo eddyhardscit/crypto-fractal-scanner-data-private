@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **RANGE**
 - Famiglia: **RANGE**
-- Confidenza: **79,60%**
+- Confidenza: **71,60%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC -1.0, breadth EMA50 67%, ADX 23.4.
-- BTC trend score: **-1,00**; ADX: **23,43**; breadth sopra EMA50: **66,67%**
-- Mediana alt vs BTC: **1,19%**; dispersione: **12,31%**
+- Motivo: Direzione poco definita: score BTC -1.0, breadth EMA50 58%, ADX 23.2.
+- BTC trend score: **-1,00**; ADX: **23,25**; breadth sopra EMA50: **58,33%**
+- Mediana alt vs BTC: **0,75%**; dispersione: **12,97%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **640**
-- Trade research chiusi: **2756**
-- Eventi di mercato indipendenti chiusi: **730**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **12694**
+- Posizioni research aperte: **642**
+- Trade research chiusi: **2758**
+- Eventi di mercato indipendenti chiusi: **732**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **12841**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -36,7 +36,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | 4 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | 4 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | 5 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
-| MAIN | 17 | 55 | 55 | 36,36% | 1,10 | 0,07R | €36,41 |
+| MAIN | 17 | 57 | 57 | 35,09% | 1,04 | 0,03R | €15,47 |
 | RSI_EXTREME_LONG_15M | 0 | 10 | 10 | 30,00% | 0,31 | -0,54R | €-54,33 |
 | RSI_EXTREME_SHORT_15M | 1 | 8 | 8 | 25,00% | 0,49 | -0,36R | €-28,97 |
 | Bilanciata 1H V1 | 18 | 167 | 167 | 34,13% | 1,00 | 0,00R | €0,47 |
@@ -58,7 +58,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | 5 | 33 | 33 | 33,33% | 0,69 | -0,22R | €-71,42 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | 12 | 62 | 62 | 41,94% | 0,96 | -0,02R | €-14,01 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 11 | 63 | 63 | 41,27% | 0,94 | -0,04R | €-25,52 |
-| SHADOW_4H_WIDE | 24 | 48 | 48 | 29,17% | 1,12 | 0,09R | €42,25 |
+| SHADOW_4H_WIDE | 26 | 48 | 48 | 29,17% | 1,12 | 0,09R | €42,25 |
 | SHADOW_BOLLINGER_MR_1H | 7 | 40 | 40 | 45,00% | 1,08 | 0,05R | €19,17 |
 | SHADOW_BTC_ADAPTIVE_1H | 1 | 3 | 3 | 0,00% | 0,00 | -1,11R | €-33,33 |
 | SHADOW_BTC_ADAPTIVE_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,67 |
@@ -146,7 +146,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | RANGE | 5 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | MAIN | ALT_ROTATION_DOWN | 2 | 2 | 2 | 50,00% | 1,96 | 0,49R | €9,73 |
 | MAIN | ALT_ROTATION_UP | 1 | 5 | 5 | 0,00% | 0,00 | -1,02R | €-51,22 |
-| MAIN | RANGE | 11 | 19 | 19 | 36,84% | 1,13 | 0,08R | €15,52 |
+| MAIN | RANGE | 11 | 21 | 21 | 33,33% | 0,96 | -0,03R | €-5,42 |
 | MAIN | RANGE_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |
 | MAIN | TRANSITION | 0 | 8 | 8 | 50,00% | 1,93 | 0,47R | €37,99 |
 | MAIN | TREND_UP | 1 | 16 | 16 | 37,50% | 1,15 | 0,10R | €15,71 |
@@ -265,7 +265,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_UP | 0 | 12 | 12 | 16,67% | 0,26 | -0,66R | €-79,74 |
 | SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 2 | 2 | 2 | 100,00% | ∞ | 2,79R | €55,73 |
 | SHADOW_4H_WIDE | ALT_ROTATION_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |
-| SHADOW_4H_WIDE | RANGE | 10 | 19 | 19 | 26,32% | 0,97 | -0,02R | €-4,43 |
+| SHADOW_4H_WIDE | RANGE | 12 | 19 | 19 | 26,32% | 0,97 | -0,02R | €-4,43 |
 | SHADOW_4H_WIDE | TRANSITION | 3 | 7 | 7 | 14,29% | 0,46 | -0,47R | €-33,10 |
 | SHADOW_4H_WIDE | TREND_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_4H_WIDE | TREND_UP | 2 | 14 | 14 | 42,86% | 2,03 | 0,61R | €84,85 |
