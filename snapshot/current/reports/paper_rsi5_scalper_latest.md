@@ -1,6 +1,6 @@
 # RSI 5m Fixed TP Scalper — paper trading
 
-Generato: 2026-07-25T05:20:22.270849+00:00
+Generato: 2026-07-25T06:20:22.066695+00:00
 
 > Solo simulazione: nessun ordine reale e nessuna chiave KuCoin privata.
 
@@ -27,16 +27,16 @@ Generato: 2026-07-25T05:20:22.270849+00:00
 
 | Asset | Prezzo | RSI 5m | Turnover 24h | Ultima candela |
 | --- | ---: | ---: | ---: | --- |
-| BTC | 64118.2 | 55.91 | 489,733,459 | 2026-07-25T05:15:00+00:00 |
-| DOGE | 0.06951 | 38.78 | 18,436,901 | 2026-07-25T05:15:00+00:00 |
-| ETH | 1859.91 | 51.94 | 222,310,319 | 2026-07-25T05:15:00+00:00 |
-| HYPE | 57.37 | 47.04 | 23,829,652 | 2026-07-25T05:15:00+00:00 |
-| SOL | 74.162 | 44.87 | 53,048,534 | 2026-07-25T05:15:00+00:00 |
-| XRP | 1.09263 | 48.62 | 23,283,708 | 2026-07-25T05:15:00+00:00 |
+| BTC | 64008.3 | 38.87 | 487,442,185 | 2026-07-25T06:15:00+00:00 |
+| DOGE | 0.06937 | 40.67 | 18,456,938 | 2026-07-25T06:15:00+00:00 |
+| ETH | 1859.03 | 51.64 | 219,104,827 | 2026-07-25T06:15:00+00:00 |
+| HYPE | 57.3 | 48.45 | 23,441,239 | 2026-07-25T06:15:00+00:00 |
+| SOL | 73.95 | 32.30 | 52,846,639 | 2026-07-25T06:15:00+00:00 |
+| XRP | 1.09143 | 44.53 | 23,227,987 | 2026-07-25T06:15:00+00:00 |
 
 ## Avvisi
 
-- ADA: turnover 24h 8,998,173 USDT sotto il minimo
-- AVAX: turnover 24h 3,617,369 USDT sotto il minimo
-- LINK: turnover 24h 2,678,067 USDT sotto il minimo
-- SUI: turnover 24h 6,253,110 USDT sotto il minimo
+- ADA: turnover 24h 8,926,079 USDT sotto il minimo
+- AVAX: turnover 24h 3,390,321 USDT sotto il minimo
+- LINK: turnover 24h 2,655,378 USDT sotto il minimo
+- SUI: turnover 24h 6,234,660 USDT sotto il minimo
