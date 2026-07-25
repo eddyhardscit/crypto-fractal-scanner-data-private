@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "created_utc": "2026-07-17T15:28:56.085696+00:00",
-  "updated_utc": "2026-07-25T02:15:22.426676+00:00",
-  "last_processed_candle": "2026-07-25T02:10:00+00:00",
+  "updated_utc": "2026-07-25T03:20:22.041647+00:00",
+  "last_processed_candle": "2026-07-25T03:15:00+00:00",
   "last_daily_status_date": "2026-07-24",
   "telegram_started_sent": true,
   "accounts": {
@@ -311,10 +311,10 @@
         "mae_net_usdt": -73.01219421533158,
         "mfe_at_utc": "2026-07-25T00:45:00+00:00",
         "mae_at_utc": "2026-07-25T01:45:00+00:00",
-        "excursion_observation_count": 19,
+        "excursion_observation_count": 32,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 74.077,
-        "unrealized_pnl_usdt": -25.500129901566996
+        "mark_price": 74.112,
+        "unrealized_pnl_usdt": -37.29390473122328
       },
       "closed_trades": 49,
       "winning_trades": 19,
@@ -322,8 +322,8 @@
       "gross_loss_usdt": 3759.1703619684663,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-25T02:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -402,10 +402,10 @@
         "mae_net_usdt": -89.24860299931498,
         "mfe_at_utc": "2026-07-25T00:45:00+00:00",
         "mae_at_utc": "2026-07-25T01:45:00+00:00",
-        "excursion_observation_count": 19,
+        "excursion_observation_count": 32,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 74.077,
-        "unrealized_pnl_usdt": -31.170833782968487
+        "mark_price": 74.112,
+        "unrealized_pnl_usdt": -45.58730131893907
       },
       "closed_trades": 49,
       "winning_trades": 19,
@@ -413,8 +413,8 @@
       "gross_loss_usdt": 6357.866985232052,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-25T02:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -740,10 +740,10 @@
         "mae_net_usdt": -67.32433755158667,
         "mfe_at_utc": "2026-07-24T23:15:00+00:00",
         "mae_at_utc": "2026-07-25T01:00:00+00:00",
-        "excursion_observation_count": 39,
+        "excursion_observation_count": 52,
         "excursion_quality": "COMPLETED_5M_OHLC",
-        "mark_price": 0.06958,
-        "unrealized_pnl_usdt": -40.61288949597643
+        "mark_price": 0.06962,
+        "unrealized_pnl_usdt": -50.32614333437984
       },
       "closed_trades": 32,
       "winning_trades": 13,
@@ -1154,10 +1154,10 @@
           "mae_net_usdt": -111.19725437834205,
           "mfe_at_utc": "2026-07-25T00:45:00+00:00",
           "mae_at_utc": "2026-07-25T01:45:00+00:00",
-          "excursion_observation_count": 19,
+          "excursion_observation_count": 32,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 74.077,
-          "unrealized_pnl_usdt": -38.836586981382425
+          "mark_price": 74.112,
+          "unrealized_pnl_usdt": -56.79845477495154
         }
       ],
       "closed_trades": 100,
@@ -1167,8 +1167,8 @@
       "net_pnl_usdt": -2602.349619699449,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-25T02:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -1245,10 +1245,10 @@
           "mae_net_usdt": -222.3945087566841,
           "mfe_at_utc": "2026-07-25T00:45:00+00:00",
           "mae_at_utc": "2026-07-25T01:45:00+00:00",
-          "excursion_observation_count": 19,
+          "excursion_observation_count": 32,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 74.077,
-          "unrealized_pnl_usdt": -77.67317396276485
+          "mark_price": 74.112,
+          "unrealized_pnl_usdt": -113.59690954990307
         }
       ],
       "closed_trades": 100,
@@ -1258,8 +1258,8 @@
       "net_pnl_usdt": -5204.699239398898,
       "asset_guards": {
         "DOGE": {
-          "needs_rearm": true,
-          "cooldown_until": "2026-07-25T02:20:00+00:00",
+          "needs_rearm": false,
+          "cooldown_until": null,
           "last_close_reason": "STOP"
         },
         "SOL": {
@@ -1577,10 +1577,10 @@
           "mae_net_usdt": -75.84396345820625,
           "mfe_at_utc": "2026-07-24T23:15:00+00:00",
           "mae_at_utc": "2026-07-25T01:00:00+00:00",
-          "excursion_observation_count": 39,
+          "excursion_observation_count": 52,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 0.06958,
-          "unrealized_pnl_usdt": -45.7522883831541
+          "mark_price": 0.06962,
+          "unrealized_pnl_usdt": -56.69471568317272
         },
         {
           "trade_id": "RSI5_SHORT_RSI70_5X_WIDE:SOL:20260725T003500Z:SHADOW",
@@ -1613,10 +1613,10 @@
           "mae_net_usdt": -55.598627189171026,
           "mfe_at_utc": "2026-07-25T00:45:00+00:00",
           "mae_at_utc": "2026-07-25T01:45:00+00:00",
-          "excursion_observation_count": 19,
+          "excursion_observation_count": 32,
           "excursion_quality": "COMPLETED_5M_OHLC",
-          "mark_price": 74.077,
-          "unrealized_pnl_usdt": -19.418293490691212
+          "mark_price": 74.112,
+          "unrealized_pnl_usdt": -28.39922738747577
         }
       ],
       "closed_trades": 76,
