@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-25T22:38:52+00:00
+Generato: 2026-07-25T23:38:57+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **25462**
-- Valutazioni prodotte: **8865**
+- Risultati Block 3 disponibili: **25888**
+- Valutazioni prodotte: **9344**
 - Candidature al Blocco 5: **1**
 - Mutazioni create automaticamente: **0**
 
@@ -15,26 +15,26 @@ Generato: 2026-07-25T22:38:52+00:00
 
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| TP_R100 | 44 | 0,749 | 1,084 | 0,536 | 81,8% | 88,0 | EARLY_SIGNAL |
-| GB20_R100 | 44 | 0,771 | 1,262 | 0,555 | 81,8% | 88,0 | EARLY_SIGNAL |
-| GB30_R100 | 44 | 0,683 | 1,140 | 0,485 | 81,8% | 88,0 | EARLY_SIGNAL |
-| TP_R075 | 44 | 0,601 | 0,834 | 0,434 | 84,1% | 88,0 | EARLY_SIGNAL |
-| GB20_R040 | 44 | 0,398 | 0,659 | 0,244 | 75,0% | 88,0 | EARLY_SIGNAL |
-| GB20_R050 | 44 | 0,398 | 0,659 | 0,267 | 75,0% | 88,0 | EARLY_SIGNAL |
-| GB40_R100 | 44 | 0,585 | 0,996 | 0,416 | 81,8% | 88,0 | EARLY_SIGNAL |
-| GB30_R040 | 44 | 0,366 | 0,639 | 0,223 | 68,2% | 88,0 | EARLY_SIGNAL |
-| GB30_R050 | 44 | 0,366 | 0,639 | 0,228 | 68,2% | 88,0 | EARLY_SIGNAL |
-| TP_R060 | 44 | 0,485 | 0,684 | 0,319 | 75,0% | 88,0 | EARLY_SIGNAL |
-| GB40_R040 | 44 | 0,379 | 0,654 | 0,228 | 68,2% | 88,0 | EARLY_SIGNAL |
-| GB40_R050 | 44 | 0,379 | 0,654 | 0,223 | 68,2% | 88,0 | EARLY_SIGNAL |
-| TP_R050 | 44 | 0,408 | 0,585 | 0,265 | 68,2% | 88,0 | EARLY_SIGNAL |
-| GB20_R075 | 44 | 0,708 | 0,843 | 0,505 | 75,0% | 87,9 | EARLY_SIGNAL |
-| GB30_R075 | 44 | 0,623 | 0,748 | 0,428 | 68,2% | 87,9 | EARLY_SIGNAL |
-| GB40_R075 | 44 | 0,537 | 0,654 | 0,346 | 68,2% | 87,9 | EARLY_SIGNAL |
-| GB50_R100 | 44 | 0,488 | 0,844 | 0,291 | 72,7% | 84,2 | EARLY_SIGNAL |
-| GB50_R050 | 44 | 0,349 | 0,559 | 0,210 | 72,7% | 84,2 | EARLY_SIGNAL |
-| ATR10_R050 | 44 | 0,167 | 0,265 | 0,070 | 70,5% | 84,2 | EARLY_SIGNAL |
-| TP_R040 | 44 | 0,331 | 0,485 | 0,190 | 68,2% | 84,2 | EARLY_SIGNAL |
+| TP_R100 | 48 | 0,770 | 1,084 | 0,561 | 79,2% | 88,6 | EARLY_SIGNAL |
+| GB20_R075 | 48 | 0,728 | 0,843 | 0,530 | 72,9% | 88,6 | EARLY_SIGNAL |
+| GB20_R100 | 48 | 0,795 | 1,262 | 0,575 | 79,2% | 88,5 | EARLY_SIGNAL |
+| GB30_R075 | 48 | 0,644 | 0,748 | 0,456 | 66,7% | 88,5 | EARLY_SIGNAL |
+| GB30_R100 | 48 | 0,709 | 1,140 | 0,502 | 79,2% | 88,5 | EARLY_SIGNAL |
+| TP_R075 | 48 | 0,624 | 0,834 | 0,461 | 81,2% | 88,5 | EARLY_SIGNAL |
+| GB40_R075 | 48 | 0,561 | 0,654 | 0,372 | 66,7% | 88,5 | EARLY_SIGNAL |
+| GB40_R100 | 48 | 0,613 | 0,996 | 0,438 | 79,2% | 88,4 | EARLY_SIGNAL |
+| GB50_R075 | 48 | 0,505 | 0,559 | 0,325 | 70,8% | 88,4 | EARLY_SIGNAL |
+| TP_R060 | 48 | 0,511 | 0,684 | 0,354 | 72,9% | 88,4 | EARLY_SIGNAL |
+| GB50_R100 | 48 | 0,518 | 0,844 | 0,329 | 70,8% | 88,4 | EARLY_SIGNAL |
+| TP_R050 | 48 | 0,437 | 0,585 | 0,293 | 66,7% | 88,3 | EARLY_SIGNAL |
+| GB40_R040 | 48 | 0,410 | 0,654 | 0,252 | 66,7% | 88,3 | EARLY_SIGNAL |
+| GB40_R050 | 48 | 0,410 | 0,654 | 0,254 | 66,7% | 88,3 | EARLY_SIGNAL |
+| GB20_R040 | 48 | 0,427 | 0,659 | 0,294 | 72,9% | 88,2 | EARLY_SIGNAL |
+| GB20_R050 | 48 | 0,427 | 0,659 | 0,274 | 72,9% | 88,2 | EARLY_SIGNAL |
+| TP_R040 | 48 | 0,362 | 0,485 | 0,213 | 66,7% | 88,2 | EARLY_SIGNAL |
+| GB50_R050 | 48 | 0,379 | 0,559 | 0,236 | 70,8% | 88,2 | EARLY_SIGNAL |
+| GB30_R040 | 48 | 0,398 | 0,639 | 0,244 | 66,7% | 88,2 | EARLY_SIGNAL |
+| GB30_R050 | 48 | 0,398 | 0,639 | 0,250 | 66,7% | 88,2 | EARLY_SIGNAL |
 
 ## Stati di evidenza
 
