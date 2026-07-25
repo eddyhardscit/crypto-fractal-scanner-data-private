@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-25T04:08:45+00:00
+Generato: 2026-07-25T05:08:52+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **18901**
-- Valutazioni prodotte: **5362**
+- Risultati Block 3 disponibili: **18933**
+- Valutazioni prodotte: **5367**
 - Candidature al Blocco 5: **0**
 - Mutazioni create automaticamente: **0**
 
@@ -16,15 +16,15 @@ Generato: 2026-07-25T04:08:45+00:00
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | TP_R100 | 251 | 0,251 | 0,343 | 0,149 | 67,3% | 95,0 | ELIGIBLE_FOR_MUTATION |
+| GB20_R050 | 258 | 0,230 | 0,322 | 0,129 | 67,8% | 94,9 | ELIGIBLE_FOR_MUTATION |
 | GB20_R100 | 251 | 0,256 | 0,351 | 0,147 | 67,7% | 94,9 | ELIGIBLE_FOR_MUTATION |
 | GB30_R100 | 251 | 0,221 | 0,322 | 0,112 | 68,9% | 94,9 | ELIGIBLE_FOR_MUTATION |
-| GB20_R050 | 255 | 0,227 | 0,299 | 0,131 | 67,5% | 94,9 | ELIGIBLE_FOR_MUTATION |
-| GB30_R050 | 255 | 0,171 | 0,262 | 0,072 | 66,3% | 94,9 | ELIGIBLE_FOR_MUTATION |
-| GB40_R100 | 249 | 0,167 | 0,275 | 0,067 | 67,5% | 94,9 | ELIGIBLE_FOR_MUTATION |
+| GB30_R050 | 258 | 0,174 | 0,279 | 0,073 | 66,7% | 94,9 | ELIGIBLE_FOR_MUTATION |
+| GB40_R100 | 251 | 0,160 | 0,275 | 0,064 | 66,9% | 94,9 | ELIGIBLE_FOR_MUTATION |
 | GB50_R100 | 246 | 0,113 | 0,276 | 0,021 | 67,5% | 94,7 | ELIGIBLE_FOR_MUTATION |
-| GB50_R050 | 253 | 0,098 | 0,171 | 0,003 | 64,8% | 94,4 | ELIGIBLE_FOR_MUTATION |
-| GB40_R050 | 255 | 0,113 | 0,221 | 0,017 | 64,3% | 94,1 | ELIGIBLE_FOR_MUTATION |
-| TP_R050 | 255 | 0,077 | 0,264 | -0,013 | 66,3% | 91,8 | VALIDATING |
+| GB50_R050 | 256 | 0,102 | 0,178 | 0,015 | 65,2% | 94,6 | ELIGIBLE_FOR_MUTATION |
+| GB40_R050 | 258 | 0,116 | 0,229 | 0,012 | 64,7% | 94,5 | ELIGIBLE_FOR_MUTATION |
+| TP_R050 | 258 | 0,082 | 0,268 | -0,012 | 66,7% | 92,0 | VALIDATING |
 | TP_R150 | 217 | 0,137 | 0,053 | 0,002 | 52,5% | 82,2 | VALIDATING |
 | TIME_24H | 6 | 0,997 | 1,104 | 0,180 | 66,7% | 74,1 | INSUFFICIENT_DATA |
 | GB20_R050 | 655 | 0,092 | 0,000 | 0,031 | 45,8% | 70,0 | VALIDATING |
