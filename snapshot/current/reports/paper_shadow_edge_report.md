@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-24T23:20:02+00:00
+Generato: 2026-07-25T00:20:21+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **1443**
-- Trade Shadow/Research chiusi: **2984**
+- Trade Paper chiusi nei conti confrontati: **1444**
+- Trade Shadow/Research chiusi: **2986**
 - Eventi Shadow già presi dai Paper: **900**
-- Eventi Shadow saltati dai Paper: **2084**
+- Eventi Shadow saltati dai Paper: **2086**
 - Profili con filtro Paper utile: **11**
 - Profili in cui il Paper potrebbe scartare edge: **5**
 - Profili con campione ancora insufficiente: **67**
@@ -36,8 +36,8 @@ Generato: 2026-07-24T23:20:02+00:00
 | SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 30 | 58 | 15 | 43 | -0,07R | -0,02R | -0,05R | 0,03R | +0,10R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 34 | 54 | 23 | 31 | 0,12R | -0,18R | +0,30R | -0,02R | -0,14R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 35 | 53 | 25 | 28 | 0,12R | -0,17R | +0,30R | -0,04R | -0,16R | FILTRO PAPER UTILE |
+| MAIN | Principale 4H | 18 | 52 | 14 | 38 | 0,04R | 0,00R | +0,04R | -0,05R | -0,09R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 33 | 52 | 18 | 34 | 0,16R | 0,04R | +0,11R | 0,08R | -0,08R | NESSUN EDGE CHIARO |
-| MAIN | Principale 4H | 18 | 50 | 14 | 36 | 0,04R | -0,11R | +0,15R | -0,05R | -0,09R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 30 | 49 | 13 | 36 | 0,30R | -0,31R | +0,61R | -0,07R | -0,37R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 12 | 48 | 6 | 42 | -0,06R | -0,14R | +0,08R | -0,23R | -0,17R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 28 | 45 | 17 | 28 | 0,23R | -0,07R | +0,30R | 0,13R | -0,09R | FILTRO PAPER UTILE |
@@ -55,7 +55,7 @@ Generato: 2026-07-24T23:20:02+00:00
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 10 | 26 | 8 | 18 | 0,06R | -0,90R | +0,96R | -0,04R | -0,10R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | Rapida V3 — qualità completa + profit lock | 21 | 23 | 18 | 5 | -0,08R | -0,05R | -0,03R | -0,19R | -0,11R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | Rapida V3 — Long + no HIGH + score <7,5 | 21 | 23 | 18 | 5 | -0,08R | -0,05R | -0,03R | -0,16R | -0,08R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 13 | 23 | 6 | 17 | -0,53R | -0,10R | -0,43R | -0,46R | +0,06R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 14 | 23 | 6 | 17 | -0,53R | -0,10R | -0,43R | -0,41R | +0,11R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | Master Adaptive Expanded V1 | 8 | 22 | 5 | 17 | -0,49R | -0,33R | -0,17R | -0,32R | +0,17R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 34 | 22 | 8 | 14 | -1,04R | -0,19R | -0,85R | -0,18R | +0,86R | SELEZIONE DA RIVEDERE |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | Master Adaptive No Alt V1 | 6 | 22 | 3 | 19 | -1,08R | -0,40R | -0,68R | -0,58R | +0,51R | CAMPIONE INSUFFICIENTE |
