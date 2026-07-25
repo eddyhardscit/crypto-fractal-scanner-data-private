@@ -4,21 +4,21 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 ### Regime di mercato osservato
 
-- Regime: **RANGE**
-- Famiglia: **RANGE**
-- Confidenza: **80,40%**
+- Regime: **TREND_DOWN**
+- Famiglia: **TREND_DOWN**
+- Confidenza: **70,30%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 17%, ADX 22.3.
-- BTC trend score: **0,00**; ADX: **22,28**; breadth sopra EMA50: **16,67%**
-- Mediana alt vs BTC: **-0,19%**; dispersione: **7,11%**
+- Motivo: Trend BTC ribassista confermato dalla breadth: score -2.0, 17% sopra EMA50, ADX 23.1.
+- BTC trend score: **-2,00**; ADX: **23,14**; breadth sopra EMA50: **16,67%**
+- Mediana alt vs BTC: **0,15%**; dispersione: **6,75%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **534**
-- Trade research chiusi: **2592**
+- Trade research chiusi: **2593**
 - Eventi di mercato indipendenti chiusi: **696**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **11820**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **11959**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -45,7 +45,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | 3 | 31 | 31 | 32,26% | 0,66 | -0,25R | €-76,03 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | 10 | 58 | 58 | 43,10% | 1,01 | 0,01R | €3,90 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 10 | 59 | 59 | 42,37% | 0,98 | -0,01R | €-7,61 |
-| SHADOW_4H_WIDE | 22 | 47 | 47 | 27,66% | 1,04 | 0,03R | €14,38 |
+| SHADOW_4H_WIDE | 22 | 48 | 48 | 29,17% | 1,12 | 0,09R | €42,25 |
 | SHADOW_BOLLINGER_MR_1H | 7 | 38 | 38 | 42,11% | 0,96 | -0,03R | €-9,68 |
 | SHADOW_BTC_ADAPTIVE_1H | 1 | 3 | 3 | 0,00% | 0,00 | -1,11R | €-33,33 |
 | SHADOW_BTC_ADAPTIVE_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,67 |
@@ -223,8 +223,9 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_UP | 0 | 12 | 12 | 16,67% | 0,26 | -0,66R | €-79,74 |
 | SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 2 | 2 | 2 | 100,00% | ∞ | 2,79R | €55,73 |
 | SHADOW_4H_WIDE | ALT_ROTATION_UP | 2 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |
-| SHADOW_4H_WIDE | RANGE | 9 | 18 | 18 | 22,22% | 0,78 | -0,18R | €-32,29 |
+| SHADOW_4H_WIDE | RANGE | 8 | 19 | 19 | 26,32% | 0,97 | -0,02R | €-4,43 |
 | SHADOW_4H_WIDE | TRANSITION | 3 | 7 | 7 | 14,29% | 0,46 | -0,47R | €-33,10 |
+| SHADOW_4H_WIDE | TREND_DOWN | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
 | SHADOW_4H_WIDE | TREND_UP | 2 | 14 | 14 | 42,86% | 2,03 | 0,61R | €84,85 |
 | SHADOW_4H_WIDE | TREND_UP_HIGH_VOL | 4 | 4 | 4 | 0,00% | 0,00 | -1,01R | €-40,53 |
 | SHADOW_BOLLINGER_MR_1H | ALT_ROTATION_DOWN | 0 | 5 | 5 | 60,00% | 1,99 | 0,43R | €21,52 |
