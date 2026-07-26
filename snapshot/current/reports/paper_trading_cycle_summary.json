@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-07-26T11:54:18+00:00",
+  "generated_utc": "2026-07-26T12:54:18+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 278,
+  "signals_generated": 279,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-07-26T11:53:26+00:00",
-    "checked_utc": "2026-07-26T11:53:26+00:00",
-    "snapshot_age_minutes": 0.0010892166666666666,
+    "snapshot_generated_utc": "2026-07-26T12:53:25+00:00",
+    "checked_utc": "2026-07-26T12:53:25+00:00",
+    "snapshot_age_minutes": 0.0006484166666666667,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -18,8 +18,8 @@
   "research_all_signals": {
     "opened_this_cycle": 0,
     "closed_this_cycle": 0,
-    "open_positions": 656,
-    "closed_trades": 3049
+    "open_positions": 684,
+    "closed_trades": 3050
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 7,
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 0,
-    "below_score": 216,
+    "near_miss": 9,
+    "below_score": 253,
     "strategy_filter": 0,
-    "stale": 1176,
+    "stale": 1119,
     "opened": 0
   },
   "shadow_exit": {
@@ -63,11 +63,11 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 50,
-    "active_groups": 737,
-    "active_scenarios": 11368,
-    "new_results": 4,
-    "completed_results": 39870,
-    "events_written": 179,
+    "active_groups": 755,
+    "active_scenarios": 11795,
+    "new_results": 0,
+    "completed_results": 39971,
+    "events_written": 35,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -76,12 +76,12 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 39870,
-    "evaluation_rows": 14447,
+    "raw_results": 39971,
+    "evaluation_rows": 14477,
     "history_events": 0,
     "robust_count": 4,
     "eligible_for_mutation": 0,
-    "underperforming_count": 109,
+    "underperforming_count": 111,
     "report_path": "reports/paper_trading_shadow_evaluation_report.md",
     "paper_positions_modified": false,
     "paper_exits_modified": false,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-07-26T11:54:16+00:00",
+    "updated_utc": "2026-07-26T12:54:16+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 268,
+    "timeline_rows": 269,
     "performance_rows": 479,
     "preferred": 4,
     "avoid": 2,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-07-26T11:53:38+00:00",
+    "generated_utc": "2026-07-26T12:53:37+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 570,
-    "audit_last_hash": "bf63dda2b38004d05dbc565c6972cfb147e3b9eb3d91b3d389f55dbab7cf1059",
+    "audit_rows": 574,
+    "audit_last_hash": "f940adc8325803ab282928497378f292e8403d1c11af3fcdd9c633ad4fc9991a",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -286,92 +286,158 @@
   "closed": [],
   "trailing_updates": [
     {
-      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9",
-      "trade_id": "86ba513222f61efe3924",
-      "asset": "EUL",
+      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R200_751e55c4",
+      "trade_id": "7e302c266ed2845ca22c",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.2575770753952003,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.22674526,
-      "new_stop_price": 2.2575770753952003
-    },
-    {
-      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V_TP_R200_051501d0",
-      "trade_id": "fe43be3b89f37359e50a",
-      "asset": "EUL",
-      "side": "LONG",
-      "stop_price": 2.2575770753952003,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.22674526,
-      "new_stop_price": 2.2575770753952003
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     },
     {
       "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed",
-      "trade_id": "a72822a5c93a2f9feaf0",
-      "asset": "EUL",
+      "trade_id": "f9f1cc5fcd222a1799b5",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.2575770753952003,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.22674526,
-      "new_stop_price": 2.2575770753952003
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b",
+      "trade_id": "0d653813e2a402a9df5b",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     },
     {
       "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONL_TP_R200_7bbb9481",
-      "trade_id": "bed3411ff5a4d27f2654",
-      "asset": "EUL",
+      "trade_id": "854eca27e4ff497314f1",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.2575770753952003,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.22674526,
-      "new_stop_price": 2.2575770753952003
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f",
+      "trade_id": "59781e841c1a972d163a",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.965967576430306e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19",
+      "trade_id": "86b71f4b96f731d275ce",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     },
     {
       "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1",
-      "trade_id": "f021b82543542a9e62ea",
-      "asset": "EUL",
+      "trade_id": "c3bd950a4b4973ffc299",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.2575770753952003,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.22674526,
-      "new_stop_price": 2.2575770753952003
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     },
     {
-      "portfolio": "SHADOW_MASTER_ADAPTIVE_GB20_BE_V1",
-      "trade_id": "e1824f15339794ce41ce",
-      "asset": "EUL",
+      "portfolio": "EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4",
+      "trade_id": "25e179a28613b8b3aef3",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.50560102,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.2049288976,
-      "new_stop_price": 2.50560102
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     },
     {
-      "portfolio": "SHADOW_MASTER_ADAPTIVE_GB20_PARTIAL_V1",
-      "trade_id": "33fb20a0af6cc954ebb3",
-      "asset": "EUL",
+      "portfolio": "SHADOW_1H_FAST_TP2_V1",
+      "trade_id": "f69a2dca98bbe7f3c55a",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.43988788,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.1471013344000003,
-      "new_stop_price": 2.43988788
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     },
     {
-      "portfolio": "SHADOW_MASTER_ADAPTIVE_GB20_V1",
-      "trade_id": "17f220b98cc4a986cdb2",
-      "asset": "EUL",
+      "portfolio": "SHADOW_1H_FAST_V3_LONG_ONLY_V1",
+      "trade_id": "ccbbb02b481cdf36fc9f",
+      "asset": "PEPE",
       "side": "LONG",
-      "stop_price": 2.6294402040000002,
-      "mark_price": 2.5779,
-      "old_stop_price": 2.2049288976,
-      "new_stop_price": 2.6294402040000002
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_V1",
+      "trade_id": "a72eef0b4a91081cebe9",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONLY_V1",
+      "trade_id": "5865859e204e3c3cc254",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1",
+      "trade_id": "8132fbc5090dd10b6f49",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.965967576430306e-06,
+      "new_stop_price": 2.9873254164448e-06
+    },
+    {
+      "portfolio": "SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_GUARD_V1",
+      "trade_id": "68bec63801e4dc955e46",
+      "asset": "PEPE",
+      "side": "LONG",
+      "stop_price": 2.9873254164448e-06,
+      "mark_price": 3.0424e-06,
+      "old_stop_price": 2.9608141798408e-06,
+      "new_stop_price": 2.9873254164448e-06
     }
   ],
   "risk_alerts": [],
-  "risk_recoveries": [],
+  "risk_recoveries": [
+    {
+      "portfolio": "SHADOW_BOLLINGER_MR_1H",
+      "equity_eur": 9874.10218924257,
+      "reason": "OK"
+    }
+  ],
   "telegram_paper": {
     "configured": true,
-    "sent": false,
-    "event_messages": 0,
+    "sent": true,
+    "event_messages": 1,
     "account_summary_sent": false,
     "digest_sent": false,
     "legacy_milestones_suppressed": true,
@@ -394,15 +460,15 @@
     "unchanged": false,
     "path": "reports/paper_trading_live.md",
     "branch": "paper-trading-live",
-    "commit_sha": "fe7ec3b13b70ecb8d2691eb50c86b3542f755102",
+    "commit_sha": "3e96f9729af4c2f71e01287345bf0597e8785abf",
     "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
     "reasons": [
       "market_event"
     ]
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-07-26T11:54:21+00:00",
-    "positions": 1427,
+    "generated_utc": "2026-07-26T12:54:22+00:00",
+    "positions": 1501,
     "strategy_accounts": 336,
     "alerts": 10,
     "status": "OK",

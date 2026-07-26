@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-26T11:44:29+00:00
+Generato: 2026-07-26T12:44:55+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **2004**
-- Trade Shadow/Research chiusi: **3605**
+- Trade Paper chiusi nei conti confrontati: **2007**
+- Trade Shadow/Research chiusi: **3606**
 - Eventi Shadow già presi dai Paper: **1045**
-- Eventi Shadow saltati dai Paper: **2560**
+- Eventi Shadow saltati dai Paper: **2561**
 - Profili con filtro Paper utile: **4**
 - Profili in cui il Paper potrebbe scartare edge: **7**
 - Profili con campione ancora insufficiente: **98**
@@ -23,7 +23,7 @@ Generato: 2026-07-26T11:44:29+00:00
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | Rapida 1H V1 | Rapida 1H V1 — madre | 76 | 202 | 36 | 166 | -0,32R | 0,02R | -0,34R | -0,00R | +0,31R | SELEZIONE DA RIVEDERE |
 | Bilanciata 1H V1 | Bilanciata 1H V1 | 45 | 172 | 11 | 161 | -0,05R | 0,03R | -0,08R | 0,21R | +0,26R | NESSUN EDGE CHIARO |
-| Forza relativa 1H V1 | Forza relativa 1H V1 | 27 | 122 | 6 | 116 | -0,72R | 0,08R | -0,80R | -0,28R | +0,44R | CAMPIONE INSUFFICIENTE |
+| Forza relativa 1H V1 | Forza relativa 1H V1 | 27 | 123 | 6 | 117 | -0,72R | 0,07R | -0,79R | -0,28R | +0,44R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 25 | 117 | 12 | 105 | 0,19R | 0,10R | +0,10R | 0,24R | +0,05R | NESSUN EDGE CHIARO |
 | Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 73 | 116 | 37 | 79 | 0,16R | 0,03R | +0,13R | 0,09R | -0,07R | NESSUN EDGE CHIARO |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 26 | 95 | 7 | 88 | -0,31R | 0,13R | -0,44R | 0,01R | +0,32R | CAMPIONE INSUFFICIENTE |
@@ -56,7 +56,7 @@ Generato: 2026-07-26T11:44:29+00:00
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | Rapida V3 — Long + no HIGH + score <7,5 | 32 | 31 | 24 | 7 | -0,01R | 0,39R | -0,39R | 0,04R | +0,05R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | Master Adaptive Expanded V1 | 11 | 30 | 7 | 23 | 0,20R | -0,12R | +0,32R | -0,23R | -0,44R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 16 | 30 | 6 | 24 | -0,53R | 0,30R | -0,82R | -0,23R | +0,30R | CAMPIONE INSUFFICIENTE |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 43 | 29 | 9 | 20 | -1,04R | 0,16R | -1,20R | -0,13R | +0,91R | PAPER SCARTA EDGE |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 44 | 29 | 9 | 20 | -1,04R | 0,16R | -1,20R | -0,12R | +0,92R | PAPER SCARTA EDGE |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | Master Adaptive No Alt V1 | 8 | 29 | 4 | 25 | -0,32R | -0,08R | -0,24R | -0,67R | -0,35R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_V1 | Master Adaptive V1 | 8 | 29 | 4 | 25 | -0,32R | -0,19R | -0,12R | -0,67R | -0,35R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 10 | 28 | 9 | 19 | -0,07R | -0,75R | +0,68R | -0,04R | +0,03R | SELEZIONE POSITIVA |
@@ -139,9 +139,9 @@ Generato: 2026-07-26T11:44:29+00:00
 | SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_GUARD_V1 | Rapida V3 senza ESPORTS — Stress Guard | 9 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,15R | +0,15R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1 | Combo Adaptive — Side × Regime Guard | 9 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,94R | +0,94R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1 | Combo Trend — Side × Regime Guard | 9 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,64R | +0,64R | CAMPIONE INSUFFICIENTE |
-| SHADOW_MASTER_ADAPTIVE_GB20_BE_V1 | Master Adaptive GB20 — Breakeven 0,5R | 10 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,20R | -0,20R | CAMPIONE INSUFFICIENTE |
+| SHADOW_MASTER_ADAPTIVE_GB20_BE_V1 | Master Adaptive GB20 — Breakeven 0,5R | 11 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,21R | -0,21R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_GB20_LOSS_CAP_V1 | Master Adaptive GB20 — Loss Cap 0,75R | 7 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,50R | -0,50R | CAMPIONE INSUFFICIENTE |
-| SHADOW_MASTER_ADAPTIVE_GB20_PARTIAL_V1 | Master Adaptive GB20 — 50% a 0,75R | 5 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,53R | -0,53R | CAMPIONE INSUFFICIENTE |
+| SHADOW_MASTER_ADAPTIVE_GB20_PARTIAL_V1 | Master Adaptive GB20 — 50% a 0,75R | 6 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,47R | -0,47R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM5_SHORT_CONTINUATION_V1 | Scanner Bottom5 Short Continuation V1 | 0 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 
 ## Conti RSI 5m vs Shadow
