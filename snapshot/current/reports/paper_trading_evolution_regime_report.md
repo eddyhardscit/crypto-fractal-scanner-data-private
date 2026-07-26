@@ -1,15 +1,15 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-26T15:54:19+00:00
+Generato: 2026-07-26T16:54:23+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
 ## Stato
 
-- Regime corrente: **UNKNOWN**
+- Regime corrente: **RANGE**
 - Righe di performance: **479**
-- Strategie preferite nel regime corrente: **0**
-- Strategie da evitare nel regime corrente: **0**
+- Strategie preferite nel regime corrente: **4**
+- Strategie da evitare nel regime corrente: **2**
 - Memorie contestuali: **229**
 - Routing automatico: **NO**
 
@@ -17,16 +17,16 @@ Generato: 2026-07-26T15:54:19+00:00
 
 | Rank | Portafoglio | Famiglia | Stato | Fitness | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_DONCHIAN_1H | shadow-donchian-1h | INSUFFICIENT | 81.6 | 4 | 99.00 | 0.984 | 0.00 |
-| 2 | SHADOW_EMA_TREND_1H | shadow-ema-trend-1h | INSUFFICIENT | 81.6 | 4 | 99.00 | 0.991 | 0.00 |
-| 3 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | shadow-1h-fast-nohigh-cap75-short-only-v1 | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.950 | 0.00 |
-| 4 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | shadow-1h-fast-nohigh-cap75-v1 | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.950 | 0.00 |
-| 5 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | momentum_breakout_v3_filtered | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.901 | 0.00 |
-| 6 | SHADOW_SCANNER_TOP5_BTC | shadow-scanner-top5-btc | INSUFFICIENT | 80.8 | 2 | 99.00 | 0.702 | 0.00 |
-| 7 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | shadow-1h-fast-v3-long-nohigh-cap75-v1 | INSUFFICIENT | 80.8 | 2 | 99.00 | 0.757 | 0.00 |
-| 8 | SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1 | shadow-combo-adaptive-side-regime-guard-v1 | INSUFFICIENT | 80.8 | 2 | 99.00 | 1.268 | 0.00 |
-| 9 | SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1 | shadow-combo-trend-side-regime-guard-v1 | INSUFFICIENT | 80.8 | 2 | 99.00 | 0.586 | 0.00 |
-| 10 | SHADOW_COMBO_MEAN_REVERSION | shadow-combo-mean-reversion | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.479 | 0.00 |
+| 1 | SHADOW_BTC_BOLLINGER_1H | shadow-btc-bollinger-1h | INSUFFICIENT | 80.8 | 2 | 99.00 | 0.997 | 0.00 |
+| 2 | SHADOW_SOL_BOLLINGER_4H | shadow-sol-bollinger-4h | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.740 | 0.00 |
+| 3 | SHADOW_BTC_BOLLINGER_4H | shadow-btc-bollinger-4h | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.682 | 0.00 |
+| 4 | SHADOW_DOGE_DONCHIAN_1H | shadow-doge-donchian-1h | INSUFFICIENT | 80.1 | 3 | 99.00 | 0.374 | 0.00 |
+| 5 | SHADOW_1H_FAST_V3_NOHIGH_RANGE_ONLY_V1 | shadow-1h-fast-v3-nohigh-range-only-v1 | INSUFFICIENT | 80.0 | 8 | 3.52 | 0.682 | 2.17 |
+| 6 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_RANGE_ONLY_V_TP_R200_52488eb5 | momentum_breakout_v3_filtered | INSUFFICIENT | 79.1 | 4 | 411.09 | 0.784 | 0.01 |
+| 7 | SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_V1 | shadow-1h-fast-v3-nohigh-regime-guard-v1 | OBSERVING | 79.0 | 12 | 3.74 | 0.730 | 2.17 |
+| 8 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | momentum_breakout_v3_filtered | INSUFFICIENT | 78.8 | 7 | 5.19 | 0.622 | 1.03 |
+| 9 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONL_TP_R200_7bbb9481 | momentum_breakout_v3_filtered | INSUFFICIENT | 78.0 | 7 | 3.24 | 0.661 | 1.54 |
+| 10 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | momentum_breakout_v3_filtered | INSUFFICIENT | 77.5 | 4 | 4.27 | 0.843 | 1.03 |
 
 ## Sicurezza
 
