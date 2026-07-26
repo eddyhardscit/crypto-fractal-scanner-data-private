@@ -1,12 +1,12 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-26T18:47:00+00:00
+Generato: 2026-07-26T19:47:06+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **2073**
+- Trade Paper chiusi nei conti confrontati: **2075**
 - Trade Shadow/Research chiusi: **3739**
 - Eventi Shadow già presi dai Paper: **1066**
 - Eventi Shadow saltati dai Paper: **2673**
@@ -29,7 +29,7 @@ Generato: 2026-07-26T18:47:00+00:00
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 26 | 99 | 8 | 91 | -0,40R | 0,09R | -0,49R | 0,01R | +0,41R | SELEZIONE DA RIVEDERE |
 | SHADOW_COMBO_TREND | Combo Trend | 38 | 94 | 12 | 82 | -0,24R | 0,10R | -0,34R | -0,17R | +0,07R | SELEZIONE DA RIVEDERE |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 29 | 88 | 12 | 76 | -0,55R | 0,14R | -0,69R | -0,33R | +0,22R | SELEZIONE DA RIVEDERE |
-| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 35 | 85 | 18 | 67 | 0,34R | 0,19R | +0,15R | 0,35R | +0,01R | NESSUN EDGE CHIARO |
+| SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 36 | 85 | 18 | 67 | 0,34R | 0,19R | +0,15R | 0,34R | +0,00R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 42 | 79 | 17 | 62 | -0,04R | 0,04R | -0,08R | 0,12R | +0,16R | NESSUN EDGE CHIARO |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 45 | 77 | 20 | 57 | 0,15R | 0,08R | +0,07R | 0,24R | +0,09R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 50 | 76 | 28 | 48 | 0,08R | 0,16R | -0,08R | 0,21R | +0,13R | NESSUN EDGE CHIARO |
@@ -135,7 +135,7 @@ Generato: 2026-07-26T18:47:00+00:00
 | SHADOW_1H_FAST_V3_NOHIGH_RANGE_ONLY_V1 | Rapida V3 NoHigh — Range Only | 8 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,68R | +0,68R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_V1 | Rapida V3 NoHigh — Regime Guard | 14 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,65R | +0,65R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONLY_V1 | Rapida V3 senza ESPORTS — Long Only | 15 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,36R | +0,36R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | Rapida V3 senza ESPORTS — MFE Lock | 21 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,31R | +0,31R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | Rapida V3 senza ESPORTS — MFE Lock | 22 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,34R | +0,34R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_GUARD_V1 | Rapida V3 senza ESPORTS — Stress Guard | 11 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,29R | +0,29R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1 | Combo Adaptive — Side × Regime Guard | 10 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,74R | +0,74R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1 | Combo Trend — Side × Regime Guard | 10 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,47R | +0,47R | CAMPIONE INSUFFICIENTE |
