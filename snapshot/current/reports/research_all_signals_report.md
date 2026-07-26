@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **ALT_ROTATION_UP**
 - Famiglia: **ALT_ROTATION**
-- Confidenza: **77,20%**
+- Confidenza: **72,70%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Le altcoin stanno sovraperformando BTC: mediana relativa +1.39%, 64% oltre +1%.
+- Motivo: Le altcoin stanno sovraperformando BTC: mediana relativa +1.25%, 55% oltre +1%.
 - BTC trend score: **1,00**; ADX: **19,05**; breadth sopra EMA50: **91,67%**
-- Mediana alt vs BTC: **1,39%**; dispersione: **20,13%**
+- Mediana alt vs BTC: **1,25%**; dispersione: **19,80%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **718**
+- Posizioni research aperte: **719**
 - Trade research chiusi: **3185**
 - Eventi di mercato indipendenti chiusi: **808**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **16193**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **16375**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -34,7 +34,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b | 8 | 8 | 8 | 37,50% | 1,13 | 0,08R | €6,73 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONL_TP_R200_7bbb9481 | 6 | 6 | 6 | 66,67% | 3,73 | 0,95R | €56,77 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | 7 | 7 | 7 | 57,14% | 2,51 | 0,67R | €46,60 |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | 2 | 3 | 3 | 66,67% | 3,71 | 0,94R | €28,25 |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | 3 | 3 | 3 | 66,67% | 3,71 | 0,94R | €28,25 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | 7 | 7 | 7 | 42,86% | 1,41 | 0,24R | €16,86 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | 8 | 8 | 8 | 37,50% | 1,13 | 0,08R | €6,73 |
 | MAIN | 18 | 63 | 63 | 36,51% | 1,11 | 0,07R | €44,34 |
@@ -160,7 +160,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | ALT_ROTATION_UP | 3 | 4 | 4 | 50,00% | 1,86 | 0,45R | €17,88 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | RANGE | 3 | 3 | 3 | 66,67% | 3,82 | 0,96R | €28,72 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | RANGE_LOW_VOL | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | ALT_ROTATION_UP | 2 | 2 | 2 | 50,00% | 1,84 | 0,43R | €8,70 |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | ALT_ROTATION_UP | 3 | 2 | 2 | 50,00% | 1,84 | 0,43R | €8,70 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | RANGE_LOW_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,96R | €19,56 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | ALT_ROTATION_UP | 3 | 3 | 3 | 33,33% | 0,92 | -0,06R | €-1,68 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | RANGE | 3 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,81 |

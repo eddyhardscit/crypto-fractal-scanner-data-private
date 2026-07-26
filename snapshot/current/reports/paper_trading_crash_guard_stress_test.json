@@ -1,42 +1,42 @@
 {
-  "generated_utc": "2026-07-26T20:53:36+00:00",
-  "leveraged_open_positions": 369,
+  "generated_utc": "2026-07-26T21:53:36+00:00",
+  "leveraged_open_positions": 375,
   "note": "Somma di portafogli Paper indipendenti; non rappresenta ancora un singolo conto live.",
   "risk_model_version": "block4_5_v1",
   "scenarios": [
     {
-      "affected_positions": 270,
+      "affected_positions": 276,
       "direction": "DOWN",
       "estimated_liquidations": 0,
-      "estimated_loss_eur": 22243.260003031635,
-      "margin_at_risk_eur": 96256.32585502684,
+      "estimated_loss_eur": 22550.487100207727,
+      "margin_at_risk_eur": 97362.76444323969,
       "scenario": "DOWN_10",
       "shock_pct": 10.0
     },
     {
-      "affected_positions": 270,
+      "affected_positions": 276,
       "direction": "DOWN",
       "estimated_liquidations": 0,
-      "estimated_loss_eur": 44486.52000606327,
-      "margin_at_risk_eur": 96256.32585502684,
+      "estimated_loss_eur": 45100.974200415454,
+      "margin_at_risk_eur": 97362.76444323969,
       "scenario": "DOWN_20",
       "shock_pct": 20.0
     },
     {
-      "affected_positions": 270,
+      "affected_positions": 276,
       "direction": "DOWN",
       "estimated_liquidations": 0,
-      "estimated_loss_eur": 66729.78000909497,
-      "margin_at_risk_eur": 96256.32585502684,
+      "estimated_loss_eur": 67651.46130062324,
+      "margin_at_risk_eur": 97362.76444323969,
       "scenario": "DOWN_30",
       "shock_pct": 30.0
     },
     {
-      "affected_positions": 270,
+      "affected_positions": 276,
       "direction": "DOWN",
-      "estimated_liquidations": 129,
-      "estimated_loss_eur": 82989.05034807402,
-      "margin_at_risk_eur": 96256.32585502684,
+      "estimated_liquidations": 131,
+      "estimated_loss_eur": 84046.07997771133,
+      "margin_at_risk_eur": 97362.76444323969,
       "scenario": "DOWN_40",
       "shock_pct": 40.0
     },
@@ -70,7 +70,7 @@
     {
       "affected_positions": 99,
       "direction": "UP",
-      "estimated_liquidations": 48,
+      "estimated_liquidations": 52,
       "estimated_loss_eur": 44681.036810360325,
       "margin_at_risk_eur": 49238.65182621573,
       "scenario": "UP_40",
