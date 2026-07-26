@@ -1,16 +1,16 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-26T03:39:06+00:00
+Generato: 2026-07-26T04:39:06+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
 ## Stato
 
 - Regime corrente: **UNKNOWN**
-- Righe di performance: **398**
+- Righe di performance: **402**
 - Strategie preferite nel regime corrente: **0**
 - Strategie da evitare nel regime corrente: **0**
-- Memorie contestuali: **195**
+- Memorie contestuali: **197**
 - Routing automatico: **NO**
 
 ## Classifica del regime corrente
@@ -21,12 +21,12 @@ Generato: 2026-07-26T03:39:06+00:00
 | 2 | SHADOW_EMA_TREND_1H | shadow-ema-trend-1h | INSUFFICIENT | 80.8 | 2 | 99.00 | 1.334 | 0.00 |
 | 3 | SHADOW_COMBO_MEAN_REVERSION | shadow-combo-mean-reversion | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.479 | 0.00 |
 | 4 | SHADOW_SCANNER_TOP5_BTC | shadow-scanner-top5-btc | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.641 | 0.00 |
-| 5 | SHADOW_1H_BALANCED | shadow-1h-balanced | INSUFFICIENT | 79.5 | 9 | 5.65 | 0.580 | 1.05 |
-| 6 | SHADOW_1H_FAST_V3 | shadow-1h-fast-v3 | OBSERVING | 69.8 | 10 | 1.97 | 0.330 | 2.27 |
-| 7 | SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | shadow-scanner-top5-btc-runner25-v1 | INSUFFICIENT | 67.8 | 3 | 1.80 | 0.288 | 1.09 |
-| 8 | SHADOW_SCANNER_TOP5_BTC_TP3_V1 | shadow-scanner-top5-btc-tp3-v1 | INSUFFICIENT | 67.8 | 3 | 1.80 | 0.288 | 1.09 |
-| 9 | SHADOW_1H_FAST_TP2_V1 | shadow-1h-fast-tp2-v1 | INSUFFICIENT | 65.1 | 3 | 10.67 | 0.563 | 0.17 |
-| 10 | SHADOW_1H_FAST_NO_PEPE_V1 | shadow-1h-fast-no-pepe-v1 | INSUFFICIENT | 65.0 | 3 | 7.81 | 0.397 | 0.17 |
+| 5 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | shadow-1h-fast-nohigh-cap75-short-only-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.408 | 0.00 |
+| 6 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | shadow-1h-fast-nohigh-cap75-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.408 | 0.00 |
+| 7 | SHADOW_1H_BALANCED | shadow-1h-balanced | INSUFFICIENT | 79.5 | 9 | 5.65 | 0.580 | 1.05 |
+| 8 | SHADOW_1H_FAST_V3 | shadow-1h-fast-v3 | OBSERVING | 69.8 | 10 | 1.97 | 0.330 | 2.27 |
+| 9 | SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | shadow-scanner-top5-btc-runner25-v1 | INSUFFICIENT | 67.8 | 3 | 1.80 | 0.288 | 1.09 |
+| 10 | SHADOW_SCANNER_TOP5_BTC_TP3_V1 | shadow-scanner-top5-btc-tp3-v1 | INSUFFICIENT | 67.8 | 3 | 1.80 | 0.288 | 1.09 |
 
 ## Sicurezza
 
