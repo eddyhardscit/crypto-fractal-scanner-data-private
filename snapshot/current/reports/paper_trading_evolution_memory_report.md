@@ -1,6 +1,6 @@
 # Blocco 9 — Hall of Fame e memoria genetica
 
-Generato: 2026-07-27T08:09:36+00:00
+Generato: 2026-07-27T09:09:59+00:00
 
 > Paper-only. La memoria può bloccare soltanto una futura proposta Block 5 classificata AVOID; non modifica strategie esistenti.
 
@@ -16,16 +16,16 @@ Generato: 2026-07-27T08:09:36+00:00
 
 | Rank | Strategia | Stato | Score | Grade | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_SCANNER_TOP5_LONG | BASELINE | 19.5 | E | 40 | 1.86 | 0.347 | 5.96 |
-| 2 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | BASELINE | 18.3 | E | 56 | 1.62 | 0.238 | 5.40 |
-| 3 | SHADOW_1H_BALANCED_V3 | BASELINE | 18.0 | E | 47 | 1.65 | 0.268 | 3.23 |
-| 4 | SHADOW_1H_FAST_V3_CAP75_V1 | BASELINE | 17.3 | E | 47 | 1.56 | 0.205 | 3.68 |
-| 5 | SHADOW_1H_FAST_SCORE_6_75_V1 | BASELINE | 17.1 | E | 52 | 1.52 | 0.186 | 3.71 |
-| 6 | SHADOW_1H_FAST_V3 | BASELINE | 16.7 | E | 78 | 1.35 | 0.139 | 5.36 |
-| 7 | SHADOW_SCANNER_TOP5_BTC | BASELINE | 16.2 | E | 30 | 1.62 | 0.288 | 5.51 |
+| 1 | SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | BASELINE | 21.0 | E | 30 | 2.24 | 0.326 | 3.00 |
+| 2 | SHADOW_SCANNER_TOP5_LONG | BASELINE | 19.5 | E | 40 | 1.86 | 0.347 | 5.96 |
+| 3 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | BASELINE | 18.3 | E | 56 | 1.62 | 0.238 | 5.40 |
+| 4 | SHADOW_1H_BALANCED_V3 | BASELINE | 18.0 | E | 47 | 1.65 | 0.268 | 3.23 |
+| 5 | SHADOW_1H_FAST_V3_CAP75_V1 | BASELINE | 17.3 | E | 47 | 1.56 | 0.205 | 3.68 |
+| 6 | SHADOW_1H_FAST_SCORE_6_75_V1 | BASELINE | 17.1 | E | 52 | 1.52 | 0.186 | 3.71 |
+| 7 | SHADOW_1H_FAST_V3 | BASELINE | 16.3 | E | 79 | 1.31 | 0.124 | 5.36 |
 | 8 | SHADOW_1H_FAST_NO_PEPE_V1 | BASELINE | 15.8 | E | 46 | 1.46 | 0.183 | 3.55 |
-| 9 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | BASELINE | 14.1 | E | 52 | 1.30 | 0.130 | 4.74 |
-| 10 | SHADOW_1H_FAST_V3_NOHIGH_V1 | BASELINE | 13.6 | E | 53 | 1.25 | 0.117 | 5.53 |
+| 9 | SHADOW_SCANNER_TOP5_BTC | BASELINE | 14.9 | E | 31 | 1.51 | 0.245 | 5.51 |
+| 10 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | BASELINE | 13.4 | E | 53 | 1.24 | 0.108 | 4.74 |
 
 ## Memoria genetica
 
