@@ -1,6 +1,6 @@
 # Blocco 9 — Hall of Fame e memoria genetica
 
-Generato: 2026-07-27T16:24:42+00:00
+Generato: 2026-07-27T17:24:40+00:00
 
 > Paper-only. La memoria può bloccare soltanto una futura proposta Block 5 classificata AVOID; non modifica strategie esistenti.
 
@@ -16,7 +16,7 @@ Generato: 2026-07-27T16:24:42+00:00
 
 | Rank | Strategia | Stato | Score | Grade | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | BASELINE | 19.9 | E | 33 | 1.93 | 0.261 | 3.00 |
+| 1 | SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | BASELINE | 20.2 | E | 34 | 1.95 | 0.259 | 3.00 |
 | 2 | SHADOW_DONCHIAN_1H | BASELINE | 19.8 | E | 30 | 1.84 | 0.352 | 2.18 |
 | 3 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | BASELINE | 17.5 | E | 58 | 1.54 | 0.210 | 5.40 |
 | 4 | SHADOW_SCANNER_TOP5_LONG | BASELINE | 16.4 | E | 44 | 1.55 | 0.245 | 6.47 |
