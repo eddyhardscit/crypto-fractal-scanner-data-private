@@ -1,12 +1,12 @@
 # Blocco 9 — Hall of Fame e memoria genetica
 
-Generato: 2026-07-27T07:09:42+00:00
+Generato: 2026-07-27T08:09:36+00:00
 
 > Paper-only. La memoria può bloccare soltanto una futura proposta Block 5 classificata AVOID; non modifica strategie esistenti.
 
 ## Stato
 
-- Strategie/portafogli valutati: **139**
+- Strategie/portafogli valutati: **141**
 - Hall of Fame: **20**
 - Memorie genetiche: **4**
 - Firme bloccate: **0**
@@ -16,7 +16,7 @@ Generato: 2026-07-27T07:09:42+00:00
 
 | Rank | Strategia | Stato | Score | Grade | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_SCANNER_TOP5_LONG | BASELINE | 19.1 | E | 38 | 1.82 | 0.349 | 5.96 |
+| 1 | SHADOW_SCANNER_TOP5_LONG | BASELINE | 19.5 | E | 40 | 1.86 | 0.347 | 5.96 |
 | 2 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | BASELINE | 18.3 | E | 56 | 1.62 | 0.238 | 5.40 |
 | 3 | SHADOW_1H_BALANCED_V3 | BASELINE | 18.0 | E | 47 | 1.65 | 0.268 | 3.23 |
 | 4 | SHADOW_1H_FAST_V3_CAP75_V1 | BASELINE | 17.3 | E | 47 | 1.56 | 0.205 | 3.68 |
@@ -32,9 +32,9 @@ Generato: 2026-07-27T07:09:42+00:00
 | Scope | Famiglia | Mutazione | Target | Stato | Score | Prove | Coppie | Blocco |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | --- |
 | FAMILY | momentum_breakout_v3_filtered | reward_risk INCREASE | 2 | INSUFFICIENT | 62.5 | 12 | 0 | NO |
-| FAMILY | momentum_breakout_v3_filtered | reward_risk INCREASE | 2.5 | INSUFFICIENT | 42.5 | 2 | 0 | NO |
+| FAMILY | momentum_breakout_v3_filtered | reward_risk INCREASE | 2.5 | INSUFFICIENT | 47.5 | 4 | 0 | NO |
 | GLOBAL | GLOBAL | reward_risk INCREASE | 2 | INSUFFICIENT | 62.5 | 12 | 0 | NO |
-| GLOBAL | GLOBAL | reward_risk INCREASE | 2.5 | INSUFFICIENT | 42.5 | 2 | 0 | NO |
+| GLOBAL | GLOBAL | reward_risk INCREASE | 2.5 | INSUFFICIENT | 47.5 | 4 | 0 | NO |
 
 ## Sicurezza
 
