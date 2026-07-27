@@ -1,14 +1,14 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-27T10:53:46+00:00
+Generato: 2026-07-27T11:53:56+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **2409**
-- Trade Shadow/Research chiusi: **4265**
-- Eventi Shadow già presi dai Paper: **1151**
+- Trade Shadow/Research chiusi: **4268**
+- Eventi Shadow già presi dai Paper: **1154**
 - Eventi Shadow saltati dai Paper: **3114**
 - Profili con filtro Paper utile: **6**
 - Profili in cui il Paper potrebbe scartare edge: **6**
@@ -71,7 +71,7 @@ Generato: 2026-07-27T10:53:46+00:00
 | SHADOW_SCANNER_TOP5_BTC_TP3_V1 | Top 5 + BTC — target pieno 3R | 15 | 29 | 5 | 24 | 0,54R | 0,13R | +0,42R | 0,05R | -0,49R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 21 | 24 | 17 | 7 | 0,33R | 0,38R | -0,05R | 0,12R | -0,21R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | FAST NoHigh <7,5 · SHORT only | 20 | 24 | 9 | 15 | -0,22R | 0,61R | -0,83R | 0,28R | +0,50R | PAPER SCARTA EDGE |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | Combo Adaptive — Quality7 | 19 | 21 | 9 | 12 | 0,28R | 0,23R | +0,05R | 0,09R | -0,19R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | Combo Adaptive — Quality7 | 19 | 22 | 10 | 12 | 0,15R | 0,23R | -0,08R | 0,09R | -0,06R | NESSUN EDGE CHIARO |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b | n/a | 0 | 20 | 0 | 20 | 0,00R | 0,00R | -0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | n/a | 0 | 20 | 0 | 20 | 0,00R | 0,00R | -0,00R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 17 | 20 | 15 | 5 | -0,04R | 0,50R | -0,55R | -0,00R | +0,04R | CAMPIONE INSUFFICIENTE |
@@ -92,8 +92,8 @@ Generato: 2026-07-27T10:53:46+00:00
 | RSI_EXTREME_LONG_15M | Scalp RSI Long 25 · prudente · 5x | 6 | 11 | 6 | 5 | -0,19R | -1,06R | +0,87R | -0,56R | -0,36R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | Bilanciata V3 · LONG only | 9 | 9 | 6 | 3 | -0,55R | 0,98R | -1,53R | 0,01R | +0,56R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | n/a | 0 | 8 | 0 | 8 | 0,00R | 0,42R | -0,42R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | Combo Adaptive — Quality7 + Regime + parziale 1R | 9 | 7 | 7 | 0 | -0,19R | 0,00R | -0,19R | -0,21R | -0,02R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | Combo Adaptive — Quality7 + Regime | 9 | 7 | 7 | 0 | -0,19R | 0,00R | -0,19R | -0,42R | -0,23R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | Combo Adaptive — Quality7 + Regime + parziale 1R | 9 | 8 | 8 | 0 | -0,29R | 0,00R | -0,29R | -0,21R | +0,08R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | Combo Adaptive — Quality7 + Regime | 9 | 8 | 8 | 0 | -0,29R | 0,00R | -0,29R | -0,42R | -0,13R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM10_SHORT | Scanner Bottom10 Short | 6 | 6 | 2 | 4 | -1,10R | -1,11R | +0,01R | -0,82R | +0,28R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM15_SHORT | Scanner Bottom15 Short | 6 | 6 | 2 | 4 | -1,10R | -1,11R | +0,01R | -0,82R | +0,28R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM20_SHORT | Scanner Bottom20 Short | 6 | 6 | 2 | 4 | -1,10R | -1,11R | +0,01R | -0,82R | +0,28R | CAMPIONE INSUFFICIENTE |
