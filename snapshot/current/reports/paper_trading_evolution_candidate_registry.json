@@ -3,16 +3,16 @@
   "automatic_promotions": 0,
   "automatic_retirements": 0,
   "automatic_strategy_switching": false,
-  "block10_current_regime": "RANGE",
+  "block10_current_regime": "UNKNOWN",
   "block10_engine_version": "block10-regime-fitness-v1",
   "block10_enriched_candidates": 16,
-  "block10_generated_utc": "2026-07-27T14:24:40+00:00",
+  "block10_generated_utc": "2026-07-27T15:24:43+00:00",
   "block6_engine_version": "block6-champion-challenger-v1",
   "block6_evaluated_candidates": 16,
-  "block6_generated_utc": "2026-07-27T14:24:40+00:00",
+  "block6_generated_utc": "2026-07-27T15:24:43+00:00",
   "block6_promotion_review_ready": 0,
   "block9_engine_version": "block9-evolution-memory-v1",
-  "block9_generated_utc": "2026-07-27T14:24:40+00:00",
+  "block9_generated_utc": "2026-07-27T15:24:43+00:00",
   "block9_scored_candidates": 16,
   "candidate_count": 16,
   "candidates": [
@@ -24,13 +24,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 17,
-          "current_regime": "RANGE",
-          "fitness_score": 26.98,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 2,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 60.75,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -43,7 +43,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -64,8 +64,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 19.16,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 18.9,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -175,13 +175,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 13,
-          "current_regime": "RANGE",
-          "fitness_score": 57.4,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 4,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 71.49,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -194,7 +194,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -215,8 +215,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 32.61,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 32.03,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -327,13 +327,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 21,
-          "current_regime": "RANGE",
-          "fitness_score": 6.69,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 3,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 81.2,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -346,7 +346,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -367,8 +367,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 16.54,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 16.43,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -478,13 +478,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 18,
-          "current_regime": "RANGE",
-          "fitness_score": 26.2,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 2,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 60.75,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -497,7 +497,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -518,8 +518,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 19.38,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 19.15,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -632,13 +632,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 16,
-          "current_regime": "RANGE",
-          "fitness_score": 44.66,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 4,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 26.9,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -651,7 +651,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -672,8 +672,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 25.74,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 25.49,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -787,13 +787,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 19,
-          "current_regime": "RANGE",
-          "fitness_score": 27.78,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 5,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 70.19,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -806,7 +806,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -827,8 +827,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 24.51,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 24.34,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -941,13 +941,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 21,
-          "current_regime": "RANGE",
-          "fitness_score": 28.66,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 7,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 81.32,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -960,7 +960,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -981,8 +981,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 29.01,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 29.43,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -1106,13 +1106,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 18,
-          "current_regime": "RANGE",
-          "fitness_score": 41.93,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 5,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 70.19,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -1125,7 +1125,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -1146,8 +1146,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 28.23,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 27.94,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -1265,13 +1265,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 11,
-          "current_regime": "RANGE",
-          "fitness_score": 30.87,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 2,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 61.65,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -1284,7 +1284,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -1305,8 +1305,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 24.18,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 23.77,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -1434,13 +1434,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 17,
-          "current_regime": "RANGE",
-          "fitness_score": 40.13,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 3,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 81.2,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "OBSERVING"
+          "status": "INSUFFICIENT"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -1453,7 +1453,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -1474,8 +1474,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 29.81,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 30.32,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -1596,13 +1596,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 7,
-          "current_regime": "RANGE",
-          "fitness_score": 36.68,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 0,
+          "current_regime": "UNKNOWN",
+          "fitness_score": null,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "INSUFFICIENT"
+          "status": "NO_HISTORY"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -1615,7 +1615,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -1637,7 +1637,7 @@
           "automatic_promotion": false,
           "automatic_retirement": false,
           "evolution_score": 23.99,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -1768,10 +1768,10 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 9,
-          "current_regime": "RANGE",
-          "fitness_score": 78.7,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 5,
+          "current_regime": "UNKNOWN",
+          "fitness_score": 66.61,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
           "status": "INSUFFICIENT"
@@ -1787,7 +1787,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -1809,7 +1809,7 @@
           "automatic_promotion": false,
           "automatic_retirement": false,
           "evolution_score": 37.51,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 62.5,
@@ -1944,13 +1944,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 1,
-          "current_regime": "RANGE",
-          "fitness_score": 13.8,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 0,
+          "current_regime": "UNKNOWN",
+          "fitness_score": null,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "INSUFFICIENT"
+          "status": "NO_HISTORY"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -1963,7 +1963,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -1984,8 +1984,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 17.04,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 17.12,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 47.5,
@@ -2096,13 +2096,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 4,
-          "current_regime": "RANGE",
-          "fitness_score": 11.33,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 0,
+          "current_regime": "UNKNOWN",
+          "fitness_score": null,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "INSUFFICIENT"
+          "status": "NO_HISTORY"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -2115,7 +2115,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -2136,8 +2136,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 16.52,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 16.6,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 47.5,
@@ -2247,13 +2247,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 4,
-          "current_regime": "RANGE",
-          "fitness_score": 11.21,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 0,
+          "current_regime": "UNKNOWN",
+          "fitness_score": null,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "INSUFFICIENT"
+          "status": "NO_HISTORY"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -2266,7 +2266,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -2287,8 +2287,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 16.5,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 16.24,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 47.5,
@@ -2398,13 +2398,13 @@
       "metadata": {
         "block10_regime": {
           "automatic_switching": false,
-          "closed_trades": 4,
-          "current_regime": "RANGE",
-          "fitness_score": 11.21,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "closed_trades": 0,
+          "current_regime": "UNKNOWN",
+          "fitness_score": null,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "live_modified": false,
           "routing_mode": "ADVISORY_ONLY",
-          "status": "INSUFFICIENT"
+          "status": "NO_HISTORY"
         },
         "block6_validation": {
           "automatic_promotion": false,
@@ -2417,7 +2417,7 @@
           "candidate_profit_factor": 0.0,
           "decision_summary": "Insufficient matched post-creation pairs.",
           "distinct_assets": 0,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "human_approval_required": true,
           "improved_fraction": 0.0,
           "latest_fold_mean_r": 0.0,
@@ -2438,8 +2438,8 @@
         "block9_evolution": {
           "automatic_promotion": false,
           "automatic_retirement": false,
-          "evolution_score": 16.5,
-          "generated_utc": "2026-07-27T14:24:40+00:00",
+          "evolution_score": 16.24,
+          "generated_utc": "2026-07-27T15:24:43+00:00",
           "genetic_memory": {
             "block_new_candidates": false,
             "memory_score": 47.5,
@@ -2546,7 +2546,7 @@
     }
   ],
   "engine_version": "block5-controlled-candidate-v1",
-  "generated_utc": "2026-07-27T14:23:13+00:00",
+  "generated_utc": "2026-07-27T15:23:13+00:00",
   "live_modified": false,
   "orders_sent": false,
   "paper_only": true,
