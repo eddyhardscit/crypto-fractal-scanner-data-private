@@ -1,6 +1,6 @@
 # Blocco 9 — Hall of Fame e memoria genetica
 
-Generato: 2026-07-28T15:40:49+00:00
+Generato: 2026-07-28T16:40:24+00:00
 
 > Paper-only. La memoria può bloccare soltanto una futura proposta Block 5 classificata AVOID; non modifica strategie esistenti.
 
@@ -20,11 +20,11 @@ Generato: 2026-07-28T15:40:49+00:00
 | 2 | SHADOW_1H_FAST_V3 | BASELINE | 16.6 | E | 97 | 1.19 | 0.077 | 5.36 |
 | 3 | SHADOW_1H_FAST_NO_PEPE_V1 | BASELINE | 16.6 | E | 65 | 1.37 | 0.143 | 3.55 |
 | 4 | SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | BASELINE | 16.5 | E | 53 | 1.44 | 0.130 | 3.93 |
-| 5 | SHADOW_1H_BALANCED_V3 | BASELINE | 16.1 | E | 57 | 1.40 | 0.185 | 4.23 |
-| 6 | SHADOW_1H_FAST_SCORE_6_75_COST_AWARE_V1 | BASELINE | 16.0 | E | 32 | 1.53 | 0.207 | 3.32 |
-| 7 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | BASELINE | 16.0 | E | 60 | 1.39 | 0.162 | 5.40 |
-| 8 | SHADOW_1H_FAST_SCORE_6_75_V1 | BASELINE | 15.9 | E | 69 | 1.27 | 0.105 | 3.78 |
-| 9 | SHADOW_DONCHIAN_1H | BASELINE | 15.4 | E | 36 | 1.49 | 0.274 | 8.55 |
+| 5 | SHADOW_1H_FAST_SCORE_6_75_COST_AWARE_V1 | BASELINE | 16.0 | E | 32 | 1.53 | 0.207 | 3.32 |
+| 6 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | BASELINE | 16.0 | E | 60 | 1.39 | 0.162 | 5.40 |
+| 7 | SHADOW_1H_FAST_SCORE_6_75_V1 | BASELINE | 15.9 | E | 69 | 1.27 | 0.105 | 3.78 |
+| 8 | SHADOW_DONCHIAN_1H | BASELINE | 15.4 | E | 36 | 1.49 | 0.274 | 8.55 |
+| 9 | SHADOW_1H_BALANCED_V3 | BASELINE | 15.0 | E | 59 | 1.29 | 0.143 | 4.23 |
 | 10 | SHADOW_1H_FAST_V3_CAP75_V1 | BASELINE | 14.5 | E | 63 | 1.19 | 0.083 | 4.40 |
 
 ## Memoria genetica
