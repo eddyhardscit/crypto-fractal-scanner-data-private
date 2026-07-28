@@ -1,6 +1,6 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-28T01:24:53+00:00
+Generato: 2026-07-28T02:24:50+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
@@ -17,8 +17,8 @@ Generato: 2026-07-28T01:24:53+00:00
 
 | Rank | Portafoglio | Famiglia | Stato | Fitness | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_1H_BALANCED | shadow-1h-balanced | OBSERVING | 83.2 | 12 | 9.79 | 0.823 | 1.05 |
-| 2 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | momentum_breakout_v3_filtered | OBSERVING | 82.9 | 11 | 9.99 | 0.807 | 0.99 |
+| 1 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | momentum_breakout_v3_filtered | OBSERVING | 83.7 | 13 | 11.35 | 0.785 | 0.99 |
+| 2 | SHADOW_1H_BALANCED | shadow-1h-balanced | OBSERVING | 83.2 | 12 | 9.79 | 0.823 | 1.05 |
 | 3 | SHADOW_DONCHIAN_1H | shadow-donchian-1h | INSUFFICIENT | 82.0 | 5 | 99.00 | 0.962 | 0.00 |
 | 4 | SHADOW_EMA_TREND_1H | shadow-ema-trend-1h | INSUFFICIENT | 81.4 | 5 | 10.48 | 0.717 | 0.38 |
 | 5 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | shadow-1h-fast-nohigh-cap75-v1 | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.950 | 0.00 |
