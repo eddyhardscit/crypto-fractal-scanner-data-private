@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-28T09:02:24+00:00
+Generato: 2026-07-28T10:02:34+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **2784**
-- Trade Shadow/Research chiusi: **5051**
+- Trade Shadow/Research chiusi: **5052**
 - Eventi Shadow già presi dai Paper: **1325**
-- Eventi Shadow saltati dai Paper: **3726**
+- Eventi Shadow saltati dai Paper: **3727**
 - Profili con filtro Paper utile: **12**
 - Profili in cui il Paper potrebbe scartare edge: **6**
 - Profili con campione ancora insufficiente: **89**
@@ -36,7 +36,7 @@ Generato: 2026-07-28T09:02:24+00:00
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 60 | 98 | 31 | 67 | 0,05R | 0,01R | +0,04R | 0,03R | -0,02R | NESSUN EDGE CHIARO |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 54 | 96 | 26 | 70 | 0,25R | 0,01R | +0,24R | 0,18R | -0,08R | SELEZIONE POSITIVA |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 60 | 94 | 32 | 62 | 0,17R | 0,07R | +0,10R | 0,16R | -0,01R | NESSUN EDGE CHIARO |
-| SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 56 | 93 | 36 | 57 | 0,17R | -0,07R | +0,24R | 0,14R | -0,02R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 56 | 94 | 36 | 58 | 0,17R | -0,05R | +0,21R | 0,14R | -0,02R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 28 | 89 | 11 | 78 | 0,67R | -0,07R | +0,75R | -0,14R | -0,82R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_SCANNER | Combo Scanner | 45 | 88 | 17 | 71 | 0,40R | 0,22R | +0,18R | -0,06R | -0,46R | NESSUN EDGE CHIARO |
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 37 | 86 | 20 | 66 | 0,34R | 0,22R | +0,12R | 0,14R | -0,19R | NESSUN EDGE CHIARO |
