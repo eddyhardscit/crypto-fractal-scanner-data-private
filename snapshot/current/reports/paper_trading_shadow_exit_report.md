@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-29T08:08:51+00:00
+Generato: 2026-07-29T09:08:48+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
 - Gruppi di trade ancora monitorati: **535**
-- Scenari virtuali ancora attivi: **8125**
+- Scenari virtuali ancora attivi: **7985**
 - Gruppi in attesa dell'uscita originale: **165**
 - Gruppi con originale chiuso ma Shadow ancora attive: **370**
-- Confronti completati: **108487**
+- Confronti completati: **108621**
 
 ## Classifica osservativa complessiva
 
@@ -30,12 +30,12 @@ Generato: 2026-07-29T08:08:51+00:00
 | ATR15_R100 | 3002 | 3067 | €-1,68 | 32,3% | 364 | 655 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_12H | 2992 | 3057 | €-1,60 | 39,5% | 372 | 720 | READY_FOR_BLOCK4_EVALUATION |
 | ATR20_R100 | 2986 | 3051 | €-2,04 | 29,9% | 307 | 767 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_24H | 2968 | 3033 | €-4,97 | 32,5% | 169 | 941 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_24H | 2970 | 3035 | €-4,97 | 32,5% | 169 | 943 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R150 | 2934 | 2999 | +€4,76 | 32,8% | 410 | 337 | READY_FOR_BLOCK4_EVALUATION |
 | ATR30_R100 | 2886 | 2951 | €-6,25 | 27,7% | 256 | 789 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R200 | 2879 | 2944 | +€4,19 | 36,4% | 198 | 518 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R050 | 2821 | 2886 | €-6,07 | 33,5% | 524 | 563 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R100 | 2765 | 2830 | €-11,84 | 22,7% | 255 | 839 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R050 | 2832 | 2897 | €-6,16 | 33,4% | 524 | 574 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R100 | 2776 | 2841 | €-11,91 | 22,6% | 255 | 850 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
