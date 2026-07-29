@@ -1,6 +1,6 @@
 # Blocco 5 — Candidati evolutivi controllati
 
-Generato: 2026-07-29T00:53:14+00:00
+Generato: 2026-07-29T01:53:15+00:00
 
 > Paper-only. Nessuna promozione, sostituzione del MASTER, modifica live o ordine reale.
 
