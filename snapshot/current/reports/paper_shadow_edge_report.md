@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-28T22:07:01+00:00
+Generato: 2026-07-28T23:07:06+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
-- Trade Paper chiusi nei conti confrontati: **3088**
-- Trade Shadow/Research chiusi: **5583**
+- Trade Paper chiusi nei conti confrontati: **3095**
+- Trade Shadow/Research chiusi: **5585**
 - Eventi Shadow già presi dai Paper: **1469**
-- Eventi Shadow saltati dai Paper: **4114**
+- Eventi Shadow saltati dai Paper: **4116**
 - Profili con filtro Paper utile: **11**
 - Profili in cui il Paper potrebbe scartare edge: **5**
 - Profili con campione ancora insufficiente: **86**
@@ -28,10 +28,10 @@ Generato: 2026-07-28T22:07:01+00:00
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 34 | 161 | 14 | 147 | 0,44R | 0,06R | +0,39R | 0,18R | -0,26R | SELEZIONE POSITIVA |
 | SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 68 | 138 | 30 | 108 | -0,08R | -0,08R | -0,01R | 0,12R | +0,21R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 73 | 133 | 30 | 103 | 0,29R | -0,19R | +0,49R | -0,03R | -0,32R | FILTRO PAPER UTILE |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 48 | 130 | 19 | 111 | -0,29R | 0,12R | -0,41R | -0,27R | +0,02R | SELEZIONE DA RIVEDERE |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 49 | 130 | 19 | 111 | -0,29R | 0,12R | -0,41R | -0,29R | +0,00R | SELEZIONE DA RIVEDERE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 74 | 129 | 40 | 89 | -0,03R | -0,15R | +0,12R | 0,03R | +0,06R | NESSUN EDGE CHIARO |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 38 | 128 | 11 | 117 | -0,48R | 0,04R | -0,52R | -0,18R | +0,30R | SELEZIONE DA RIVEDERE |
-| SHADOW_COMBO_TREND | Combo Trend | 55 | 123 | 16 | 107 | 0,02R | 0,00R | +0,02R | -0,18R | -0,20R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_TREND | Combo Trend | 56 | 123 | 16 | 107 | 0,02R | 0,00R | +0,02R | -0,20R | -0,22R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 66 | 112 | 44 | 68 | -0,06R | -0,07R | +0,01R | 0,07R | +0,12R | NESSUN EDGE CHIARO |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 60 | 109 | 28 | 81 | 0,16R | -0,02R | +0,18R | 0,12R | -0,04R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 49 | 105 | 24 | 81 | 0,29R | 0,12R | +0,17R | 0,14R | -0,15R | NESSUN EDGE CHIARO |
@@ -50,8 +50,8 @@ Generato: 2026-07-28T22:07:01+00:00
 | SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 40 | 66 | 20 | 46 | -0,11R | 0,05R | -0,16R | -0,06R | +0,04R | NESSUN EDGE CHIARO |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 39 | 62 | 24 | 38 | 0,16R | 0,28R | -0,12R | 0,15R | -0,01R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 18 | 57 | 9 | 48 | 0,41R | -0,17R | +0,58R | -0,05R | -0,46R | FILTRO PAPER UTILE |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 55 | 0 | 55 | 0,00R | -0,16R | +0,16R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | n/a | 0 | 55 | 0 | 55 | 0,00R | -0,23R | +0,23R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 54 | 0 | 54 | 0,00R | -0,16R | +0,16R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 33 | 54 | 14 | 40 | -0,21R | 0,09R | -0,30R | -0,28R | -0,06R | SELEZIONE DA RIVEDERE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | n/a | 0 | 52 | 0 | 52 | 0,00R | -0,25R | +0,25R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | Master Adaptive Expanded V1 | 21 | 50 | 10 | 40 | 0,23R | -0,16R | +0,40R | -0,10R | -0,33R | FILTRO PAPER UTILE |
@@ -83,19 +83,19 @@ Generato: 2026-07-28T22:07:01+00:00
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | n/a | 0 | 27 | 0 | 27 | 0,00R | -0,47R | +0,47R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b | n/a | 0 | 26 | 0 | 26 | 0,00R | -0,13R | +0,13R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_MEAN_REVERSION | Combo Mean Reversion | 20 | 26 | 19 | 7 | -0,06R | 0,04R | -0,09R | -0,17R | -0,11R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_BOTTOM10_SHORT | Scanner Bottom10 Short | 17 | 25 | 7 | 18 | -0,22R | -0,36R | +0,14R | -0,10R | +0,12R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_BOTTOM15_SHORT | Scanner Bottom15 Short | 17 | 25 | 7 | 18 | -0,22R | -0,36R | +0,14R | -0,10R | +0,12R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_BOTTOM20_SHORT | Scanner Bottom20 Short | 17 | 25 | 7 | 18 | -0,22R | -0,36R | +0,14R | -0,10R | +0,12R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_BOTTOM10_SHORT | Scanner Bottom10 Short | 18 | 25 | 7 | 18 | -0,22R | -0,36R | +0,14R | -0,15R | +0,07R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_BOTTOM15_SHORT | Scanner Bottom15 Short | 18 | 25 | 7 | 18 | -0,22R | -0,36R | +0,14R | -0,15R | +0,07R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_BOTTOM20_SHORT | Scanner Bottom20 Short | 18 | 25 | 7 | 18 | -0,22R | -0,36R | +0,14R | -0,15R | +0,07R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP15_LONG | Scanner Top15 Long | 20 | 25 | 7 | 18 | 0,69R | -0,32R | +1,01R | -0,41R | -1,11R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP20_LONG | Scanner Top20 Long | 20 | 25 | 7 | 18 | 0,69R | -0,32R | +1,01R | -0,41R | -1,11R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP10_LONG | Scanner Top10 Long | 20 | 24 | 7 | 17 | 0,69R | -0,27R | +0,97R | -0,41R | -1,11R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | Top 5 + BTC — BTC 2–3 | 10 | 23 | 9 | 14 | -0,47R | -0,06R | -0,41R | -0,05R | +0,42R | SELEZIONE DA RIVEDERE |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_L_TP_R200_903364ad | n/a | 0 | 18 | 0 | 18 | 0,00R | -0,24R | +0,24R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V_TP_R200_051501d0 | n/a | 0 | 18 | 0 | 18 | 0,00R | -0,24R | +0,24R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | Scanner Bottom5 Short Mfe Trail V1 | 13 | 18 | 5 | 13 | 0,12R | 0,23R | -0,11R | -0,05R | -0,18R | CAMPIONE INSUFFICIENTE |
+| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | Scanner Bottom5 Short Mfe Trail V1 | 14 | 18 | 5 | 13 | 0,12R | 0,23R | -0,11R | -0,13R | -0,25R | CAMPIONE INSUFFICIENTE |
 | Rapida 1H V2 | Rapida 1H V2 | 17 | 17 | 17 | 0 | -0,26R | 0,00R | -0,26R | -0,03R | +0,23R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | Scanner Bottom5 Short Profit Lock V1 | 14 | 17 | 5 | 12 | 0,11R | 0,15R | -0,04R | 0,01R | -0,10R | CAMPIONE INSUFFICIENTE |
-| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | n/a | 0 | 14 | 0 | 14 | 0,00R | 0,23R | -0,23R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
+| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | n/a | 0 | 15 | 0 | 15 | 0,00R | 0,21R | -0,21R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_SHORT_15M | Scalp RSI Short 75 · prudente · 5x | 10 | 13 | 9 | 4 | -0,14R | -0,94R | +0,80R | -0,48R | -0,34R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | n/a | 0 | 12 | 0 | 12 | 0,00R | -0,67R | +0,67R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | RSI_EXTREME_LONG_15M | Scalp RSI Long 25 · prudente · 5x | 7 | 12 | 7 | 5 | -0,33R | -1,06R | +0,73R | -0,64R | -0,31R | CAMPIONE INSUFFICIENTE |
@@ -142,7 +142,7 @@ Generato: 2026-07-28T22:07:01+00:00
 | SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONLY_V1 | Rapida V3 senza ESPORTS — Long Only | 34 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,01R | -0,01R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_V1 | Rapida V3 senza ESPORTS — MFE Lock | 56 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,11R | +0,11R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_GUARD_V1 | Rapida V3 senza ESPORTS — Stress Guard | 19 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,08R | +0,08R | CAMPIONE INSUFFICIENTE |
-| SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1 | Combo Adaptive — Side × Regime Guard | 27 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,33R | +0,33R | CAMPIONE INSUFFICIENTE |
+| SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1 | Combo Adaptive — Side × Regime Guard | 28 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,28R | +0,28R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1 | Combo Trend — Side × Regime Guard | 25 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | 0,16R | +0,16R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_GB20_BE_V1 | Master Adaptive GB20 — Breakeven 0,5R | 21 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,23R | -0,23R | CAMPIONE INSUFFICIENTE |
 | SHADOW_MASTER_ADAPTIVE_GB20_LOSS_CAP_V1 | Master Adaptive GB20 — Loss Cap 0,75R | 17 | 0 | 0 | 0 | 0,00R | 0,00R | 0,00R | -0,47R | -0,47R | CAMPIONE INSUFFICIENTE |
@@ -200,8 +200,8 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | ALT_ROTATION_DOWN | 10 | 0,00% | 0,00 | -0,72R | -0,93R | MEDIA |
 | SHADOW_4H_WIDE | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | TREND_UP_HIGH_VOL | 8 | 0,00% | 0,00 | -1,03R | -0,93R | MEDIA |
 | SHADOW_SCANNER_TOP5_BTC | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | ALT_ROTATION_DOWN | 10 | 0,00% | 0,00 | -0,72R | -0,92R | MEDIA |
-| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | RIDURRE / ESCLUDERE IN CHALLENGER | Fascia score | 6–7 | 8 | 12,50% | 0,26 | -0,69R | -0,91R | MEDIA |
-| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | RIDURRE / ESCLUDERE IN CHALLENGER | Confidenza segnale | BUONA | 8 | 12,50% | 0,26 | -0,69R | -0,91R | MEDIA |
+| Bilanciata 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 15 | 6,67% | 0,13 | -0,86R | -0,87R | MEDIA |
+| SHADOW_1H_FAST_V3_LONG_ONLY_V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | ALT_ROTATION_DOWN | 12 | 0,00% | 0,00 | -0,95R | -0,87R | MEDIA |
 
 ## Metodo di promozione
 
