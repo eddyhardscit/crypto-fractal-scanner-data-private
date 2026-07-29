@@ -1,0 +1,70 @@
+{
+  "checksums": {
+    "availability_probe.json": "b2f21be803b2cc10c4b121303108f079c881afee863bd4d0a8707615ee8c6682",
+    "canonical/XBTUSDTM_1m.jsonl": "a43d7df199404bc4b0dd1b5ef00eb287f60b831adcddac35c5bb97e9b80a6192",
+    "canonical/XMRUSDTM_1m.jsonl": "f8b8d5ef55f918480c710720f8305e74927cbe18d2572ca1ea83faded8d76c66",
+    "download_plan.json": "ebe425694462efbd84f455f977f8db9149d7c2099b6f927363df13013033c54c",
+    "gaps.jsonl": "82399a82e033995a27ce8a2285a720075d3ea07668ecd12af367348a022ddfb5",
+    "raw/page-0000.json": "6958181b6901769cc3594cb3b2de2956631e8d493ed6934a09aea51cfe793d5d",
+    "raw/page-0001.json": "f0c0bdc8b36dbc5e98d5cfeadc64ed002ea96bed553292b89c8b3fb2bce220bf",
+    "raw/page-0002.json": "982c83b6c23ad08ca46762b7ca56e0b8d9b1894ffb11ed1d337e7c16d3f134b0",
+    "raw/page-0003.json": "03e46052d0ef3875ddc4789ba5f44ba19e0c8c6a2480d644d1c347b20a94f27b",
+    "raw/page-0004.json": "ef8dfda6e8545f21954deeff1f2c478d5d86b64412ef8b49a59a14500607360e",
+    "raw/page-0005.json": "d4b567f2311809148da0346fff000f63a1b4edaef62088c36a2046af54979d12",
+    "raw/page-0006.json": "a0e7b985b8b22aeb6807aa3e7a3fe5b0d8042261d41ae4cdeabe3d38a20e138d",
+    "raw/page-0007.json": "9e7830d185cbe870c3ce58f542ac155ca52acf4592a610c31199a3bb248c9118",
+    "raw/page-0008.json": "dddc98313e600fc4ed186ea43cd4721a0165f5be89867c918507b3651daf0944",
+    "raw/page-0009.json": "ebd1eaeea36b74a87911944ed862e114b7fa8840dbccd3cd86de8cd02d1cdd2c",
+    "raw/page-0010.json": "653b75e4b843e2d931d2a8ffd94a9da1291a46b5b94cc0bc864f09d6093fd5c8",
+    "raw/page-0011.json": "6e2a9acb9506c9ce3f4930f64c55b3e5b1ca57164e41f0fe00a31b2b4d0c4971",
+    "raw/page-0012.json": "d214ed8018b02c987281c364403d616f27ff107fe8ee12cc619fc7fed9fb4705",
+    "raw/page-0013.json": "7f7ee37a20db118205de47d17e486b441f97c2ce3dd0fd2a0d917171e4a75646",
+    "raw/page-0014.json": "6ed5abf7e4ff0f722517d7484bd8b01626feb26b923734aef55d284537df954c",
+    "raw/page-0015.json": "ea048de4f94ba4aa3a43c35578f4c968fb3f628f29566f4e2b1a971bee37cbbd",
+    "raw/page-0016.json": "5b48d7dce50addabb91f0719d7cbb73cacbd2af425de04aadd804e29654ef952",
+    "raw/page-0017.json": "91ecd917a0afb24c229ed6a1acdfaa068ab6763a888108aef40987be8cec22f6",
+    "raw/page-0018.json": "03c16155501034dcdbc8a92e71056153001bbf475025308b953e3f287a337270",
+    "raw/page-0019.json": "50f97a14b300e789ddbaca0e1f468fa80bd07ebd65e734cd749d7cc0c36a9ed8",
+    "raw/page-0020.json": "4d9465b17ebb16b2a95a3a92c03f3bca213d02983e46728f2058dd119d2ffdd6",
+    "raw/page-0021.json": "6f2a51a932812a60f6937959b0840afcde18f78bced9b54ce3d40d311a1a26b2",
+    "raw/page-0022.json": "6b23cd90e2c0b0acee1990874200991922eb3aa28a782accb0b7c9789e1add0e",
+    "raw/page-0023.json": "945feb5f5fe441d52af66f327bff797916f5313657e22705049715d15b0d14d7",
+    "raw/page-0024.json": "64d3dfb1895829b044caba54bd03cbdc1232bbf509c7eded87923b71c51c8dbe",
+    "raw/page-0025.json": "1d0e007f21fb8f43a3be459bd51e4548ae2b5b8adab6d59268beba9d9e980976",
+    "raw/page-0026.json": "093ac83e3e10249cd6e2e96d7a346280303e4114528c498c055f9c92b190d19d",
+    "raw/page-0027.json": "721166cd4062d0ca800fc1dad9e7183dd9f66494f87247a9cadd3b33cecddfe1",
+    "raw/page-0028.json": "aaaf34aff3728d31fd9340f6a930f5a25fea7b9993d89769a4b17d7732543e34",
+    "raw/page-0029.json": "9c0c6a4b589ba9ccba1eff5051da4b2341f3c35fa4c70354205ca492a6b5f18a",
+    "raw/page-0030.json": "c38ae1ce14f0766f4543ca184d8464b2f3273d2174d08ac4417ec4a673442b40",
+    "raw/page-0031.json": "b2264cdb563e1efa7b4c6e1d6861e680e7fa3662d9a20e1515f73dcf2ea649c9",
+    "raw/page-0032.json": "4167aa5e1aeb28e4b0a24496c0ed424406b11c1a60de57a618f8eac55053304e",
+    "raw/page-0033.json": "59bac5196e2453dbbef15d578543514560b916ceb344cafef098230b46566528",
+    "raw/page-0034.json": "93b9404d76865077ee4521728b9e1e973218473a15f3d95d614639f2930e60c3",
+    "raw/page-0035.json": "32e43512bed8a3d769883d86ea13df4299ee266f7974b5a75b203368106c1e4a",
+    "requests.jsonl": "c64f7fb3e4ac794d34c0a612c0987479d2661910c2e21fd2c222ff9b7f369fda"
+  },
+  "created_at_utc": "2026-07-29T23:17:49.211200Z",
+  "endpoint": "https://api-futures.kucoin.com/api/v1/kline/query",
+  "periods": {
+    "XBTUSDTM": {
+      "end": "2026-07-26T00:39:00Z",
+      "start": "2026-07-14T15:59:00Z"
+    },
+    "XMRUSDTM": {
+      "end": "2026-07-25T15:25:00Z",
+      "start": "2026-07-25T13:07:00Z"
+    }
+  },
+  "pilot_id": "pilot-2298fb087d883b41604b2b99",
+  "replay_hash": "ae44c94266439fa0d800405f3a6714ed783045097e998a10833ca1e33d829ef7",
+  "row_counts": {
+    "XBTUSDTM": 6840,
+    "XMRUSDTM": 139
+  },
+  "schema_version": "historical-pilot-v1",
+  "status": "COMPLETE",
+  "symbols": [
+    "XBTUSDTM",
+    "XMRUSDTM"
+  ]
+}

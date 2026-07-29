@@ -1,0 +1,82 @@
+{
+  "comparisons": [
+    {
+      "actual_first": "2026-07-14T15:59:00Z",
+      "actual_last": "2026-07-25T19:22:00Z",
+      "byte_match_required": false,
+      "canonical_content_checksum": "a06af8eaa55015622db5a8f3949821d1e1cac44844acb1fccbbd6e822fdc96ed",
+      "expected_bytes": 405598,
+      "expected_checksum": "e6e53d46bf418d22d29a4839dc4f02c6b65d8cba032ddbbafb03376fc5985b85",
+      "expected_first": "2026-07-14T15:59:00Z",
+      "expected_last": "2026-07-25T22:06:00Z",
+      "expected_name": "XBTUSDTM_1m_v2_g1.csv",
+      "expected_rows": 6600,
+      "generation": "v2_g1",
+      "ordering": "STRICT",
+      "reacquired_rows": 6800,
+      "schema": "canonical-jsonl-v1",
+      "status": "PARTIAL_RECONSTRUCTION"
+    },
+    {
+      "actual_first": "2026-07-14T15:59:00Z",
+      "actual_last": "2026-07-26T00:39:00Z",
+      "byte_match_required": false,
+      "canonical_content_checksum": "07e95f380be36fe16c9dc25d605ce98712b69af1b435539d3380492a5d5f4dda",
+      "expected_bytes": 413717,
+      "expected_checksum": "b425500c399f15f7135be53d288bbed81c2e8b328421ddbe11fbb69d595a4dde",
+      "expected_first": "2026-07-14T15:59:00Z",
+      "expected_last": "2026-07-26T00:39:00Z",
+      "expected_name": "XBTUSDTM_1m_v3_g1.csv",
+      "expected_rows": 6735,
+      "generation": "v3_g1",
+      "ordering": "STRICT",
+      "reacquired_rows": 6840,
+      "schema": "canonical-jsonl-v1",
+      "status": "PERIOD_MATCH_ONLY"
+    },
+    {
+      "actual_first": "2026-07-25T13:07:00Z",
+      "actual_last": "2026-07-25T15:25:00Z",
+      "byte_match_required": false,
+      "canonical_content_checksum": "e94b825b006d8e56ba8c9dc743e4a4ea0f4a5e42b046614b67c7849bcc2ca3fa",
+      "expected_bytes": 7698,
+      "expected_checksum": "060b501fe20caf3b371151dfc61fbd74d312ae593c644bd830f1216adcb45b9e",
+      "expected_first": "2026-07-25T13:07:00Z",
+      "expected_last": "2026-07-25T15:25:00Z",
+      "expected_name": "XMRUSDTM_1m_v2_g1.csv",
+      "expected_rows": 139,
+      "generation": "v2_g1",
+      "ordering": "STRICT",
+      "reacquired_rows": 139,
+      "schema": "canonical-jsonl-v1",
+      "status": "RECONSTRUCTED_WITH_PROVIDER_REVISIONS"
+    },
+    {
+      "actual_first": "2026-07-25T13:07:00Z",
+      "actual_last": "2026-07-25T15:25:00Z",
+      "byte_match_required": false,
+      "canonical_content_checksum": "e94b825b006d8e56ba8c9dc743e4a4ea0f4a5e42b046614b67c7849bcc2ca3fa",
+      "expected_bytes": 7698,
+      "expected_checksum": "060b501fe20caf3b371151dfc61fbd74d312ae593c644bd830f1216adcb45b9e",
+      "expected_first": "2026-07-25T13:07:00Z",
+      "expected_last": "2026-07-25T15:25:00Z",
+      "expected_name": "XMRUSDTM_1m_v3_g1.csv",
+      "expected_rows": 139,
+      "generation": "v3_g1",
+      "ordering": "STRICT",
+      "reacquired_rows": 139,
+      "schema": "canonical-jsonl-v1",
+      "status": "RECONSTRUCTED_WITH_PROVIDER_REVISIONS"
+    }
+  ],
+  "gap_counts": {
+    "NO_TICK_INTERVAL": 9521
+  },
+  "problems": [],
+  "replay_hash": "ae44c94266439fa0d800405f3a6714ed783045097e998a10833ca1e33d829ef7",
+  "row_counts": {
+    "XBTUSDTM": 6840,
+    "XMRUSDTM": 139
+  },
+  "status": "VALID"
+}
