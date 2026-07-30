@@ -11,14 +11,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Trend BTC rialzista confermato dalla breadth: score +2.0, 83% sopra EMA50, ADX 23.5.
 - BTC trend score: **2,00**; ADX: **23,48**; breadth sopra EMA50: **83,33%**
-- Mediana alt vs BTC: **0,10%**; dispersione: **17,79%**
+- Mediana alt vs BTC: **-0,42%**; dispersione: **17,12%**
 
-- Aperti in questo ciclo: **31**
-- Chiusi in questo ciclo: **23**
+- Aperti in questo ciclo: **0**
+- Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **383**
 - Trade research chiusi: **6768**
 - Eventi di mercato indipendenti chiusi: **1289**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **24314**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **24378**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
