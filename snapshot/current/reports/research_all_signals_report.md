@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **RANGE**
 - Famiglia: **RANGE**
-- Confidenza: **79,60%**
+- Confidenza: **80,40%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC -1.0, breadth EMA50 33%, ADX 26.6.
-- BTC trend score: **-1,00**; ADX: **26,59**; breadth sopra EMA50: **33,33%**
-- Mediana alt vs BTC: **-0,68%**; dispersione: **13,01%**
+- Motivo: Direzione poco definita: score BTC -1.0, breadth EMA50 25%, ADX 26.6.
+- BTC trend score: **-1,00**; ADX: **26,59**; breadth sopra EMA50: **25,00%**
+- Mediana alt vs BTC: **-0,43%**; dispersione: **15,49%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **478**
-- Trade research chiusi: **6280**
-- Eventi di mercato indipendenti chiusi: **1227**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **23854**
+- Trade research chiusi: **6281**
+- Eventi di mercato indipendenti chiusi: **1228**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **23978**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -99,7 +99,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_ETH_EMA_4H | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,23 |
 | SHADOW_GLOBAL_PURE | 1 | 4 | 4 | 50,00% | 1,75 | 0,41R | €16,33 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 6 | 61 | 61 | 31,15% | 0,91 | -0,06R | €-36,03 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 5 | 70 | 70 | 42,86% | 0,95 | -0,03R | €-18,24 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 5 | 71 | 71 | 43,66% | 0,97 | -0,02R | €-13,06 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | 6 | 54 | 54 | 29,63% | 0,86 | -0,09R | €-51,10 |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 5 | 51 | 51 | 21,57% | 0,79 | -0,16R | €-79,49 |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 3 | 45 | 45 | 33,33% | 0,98 | -0,01R | €-6,28 |
@@ -606,7 +606,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TREND_UP | 0 | 21 | 21 | 14,29% | 0,34 | -0,54R | €-113,16 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_DOWN | 0 | 9 | 9 | 22,22% | 0,39 | -0,42R | €-37,87 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_UP | 0 | 6 | 6 | 33,33% | 0,90 | -0,07R | €-4,19 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 3 | 22 | 22 | 72,73% | 3,42 | 0,67R | €147,49 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 3 | 23 | 23 | 73,91% | 3,50 | 0,66R | €152,67 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TRANSITION | 1 | 8 | 8 | 87,50% | 5,60 | 0,58R | €46,58 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_DOWN | 1 | 1 | 1 | 0,00% | 0,00 | -1,02R | €-10,18 |

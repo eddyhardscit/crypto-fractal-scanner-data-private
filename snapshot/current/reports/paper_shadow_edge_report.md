@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-30T06:15:24+00:00
+Generato: 2026-07-30T07:15:49+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3206**
-- Trade Shadow/Research chiusi: **6836**
+- Trade Shadow/Research chiusi: **6837**
 - Eventi Shadow già presi dai Paper: **1530**
-- Eventi Shadow saltati dai Paper: **5306**
+- Eventi Shadow saltati dai Paper: **5307**
 - Profili con filtro Paper utile: **17**
 - Profili in cui il Paper potrebbe scartare edge: **6**
 - Profili con campione ancora insufficiente: **80**
@@ -52,7 +52,7 @@ Generato: 2026-07-30T06:15:24+00:00
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | Rapida V3 — Long Only | 55 | 77 | 30 | 47 | -0,06R | 0,03R | -0,09R | -0,22R | -0,16R | NESSUN EDGE CHIARO |
 | SHADOW_4H_WIDE | Ampia 4H | 23 | 73 | 14 | 59 | 0,14R | -0,17R | +0,30R | -0,11R | -0,24R | FILTRO PAPER UTILE |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 50 | 71 | 41 | 30 | 0,12R | 0,10R | +0,02R | -0,10R | -0,22R | NESSUN EDGE CHIARO |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 52 | 70 | 12 | 58 | -0,70R | 0,11R | -0,82R | -0,14R | +0,56R | SELEZIONE DA RIVEDERE |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 52 | 71 | 12 | 59 | -0,70R | 0,12R | -0,82R | -0,14R | +0,56R | SELEZIONE DA RIVEDERE |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | n/a | 0 | 66 | 0 | 66 | 0,00R | -0,19R | +0,19R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 18 | 63 | 9 | 54 | 0,41R | -0,11R | +0,52R | -0,05R | -0,46R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 33 | 63 | 14 | 49 | -0,21R | 0,13R | -0,34R | -0,28R | -0,06R | SELEZIONE DA RIVEDERE |
