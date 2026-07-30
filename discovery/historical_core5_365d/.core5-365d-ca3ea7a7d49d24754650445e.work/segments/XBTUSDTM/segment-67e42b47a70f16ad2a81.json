@@ -1,0 +1,13 @@
+{
+  "checksum": "7a1390201d1e7f92a25ac4a6500e0925ebf9db7353c495b07adaf9f30d2d8fb7",
+  "completed_pages": 216,
+  "end_exclusive_utc": "2026-05-01T00:00:00Z",
+  "gaps": 359,
+  "planned_pages": 216,
+  "replay_hash": "741f08d4c2250b85bf1b7179cf90a87d69e3a661a6b40e0b6961a11298dcc6a1",
+  "rows": 42841,
+  "segment_id": "segment-67e42b47a70f16ad2a81",
+  "start_utc": "2026-04-01T00:00:00Z",
+  "status": "COMPLETE",
+  "symbol": "XBTUSDTM"
+}
