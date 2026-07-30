@@ -1,0 +1,144 @@
+{
+  "gap_counts": {
+    "NO_TICK_INTERVAL": 1156
+  },
+  "problems": [],
+  "reconciliation": {
+    "canonical_rows": 91780,
+    "compared_files": 10,
+    "failed_pages": 0,
+    "legacy_expected_files": 10,
+    "minute_equation_pass": true,
+    "missing_metadata_files": 0,
+    "no_tick_minutes": 1156,
+    "page_equation_pass": true,
+    "pending_resumable_pages": 0,
+    "planned_minutes": 92936,
+    "planned_pages": 467,
+    "returned_candles": 91780,
+    "status": "PASS",
+    "successful_pages": 467,
+    "unavailable_minutes": 0,
+    "unexplained_minutes": 0,
+    "unique_valid_rows": 91780
+  },
+  "replay_hash": "9969a083c36402b834beab7ee45a0887ae66735ab7d0d66ffef7de5bc2d35279",
+  "status": "VALID",
+  "symbols": {
+    "ETHUSDTM": {
+      "canonical_checksum": "09b523344fb1daf0382f6d2fd22dcc2b3785ef9ec30239c90ce0e4dd0f7efcdb",
+      "completed_pages": 95,
+      "completeness_pct": 99.144163,
+      "duplicates": 0,
+      "errors": 0,
+      "first_candle": "2026-07-14T11:09:00Z",
+      "gaps": {
+        "API_PAGE_INCOMPLETE": 0,
+        "NO_TICK_INTERVAL": 161,
+        "TRANSPORT_FAILURE": 0,
+        "UNEXPLAINED": 0
+      },
+      "last_candle": "2026-07-27T12:40:00Z",
+      "ohlcv": "VALID",
+      "planned_pages": 95,
+      "replay_hash": "ccc30b72b54a7e55e8bed0325e161fd2969b8ee5f9a1ed657835e0e056794b1f",
+      "requests": 95,
+      "retries": 0,
+      "rows": 18651,
+      "status": "VALID",
+      "theoretical_minutes": 18812
+    },
+    "HYPEUSDTM": {
+      "canonical_checksum": "09ec0b5143d7245c6db63972254d554313eb5020968aaeba302e2761c04fa785",
+      "completed_pages": 103,
+      "completeness_pct": 99.956194,
+      "duplicates": 0,
+      "errors": 0,
+      "first_candle": "2026-07-13T08:01:00Z",
+      "gaps": {
+        "API_PAGE_INCOMPLETE": 0,
+        "NO_TICK_INTERVAL": 9,
+        "TRANSPORT_FAILURE": 0,
+        "UNEXPLAINED": 0
+      },
+      "last_candle": "2026-07-27T14:25:00Z",
+      "ohlcv": "VALID",
+      "planned_pages": 103,
+      "replay_hash": "0bd67b2a7ad25c151d1c31521a25f3c1dbb1057f55ce51d54309576cce5ae548",
+      "requests": 103,
+      "retries": 0,
+      "rows": 20536,
+      "status": "VALID",
+      "theoretical_minutes": 20545
+    },
+    "SOLUSDTM": {
+      "canonical_checksum": "6537b0c3ab2b17689c8620c3447c6843acd5f01d51d9d2c51e6418bdfeaa0832",
+      "completed_pages": 92,
+      "completeness_pct": 95.80228,
+      "duplicates": 0,
+      "errors": 0,
+      "first_candle": "2026-07-13T21:05:00Z",
+      "gaps": {
+        "API_PAGE_INCOMPLETE": 0,
+        "NO_TICK_INTERVAL": 766,
+        "TRANSPORT_FAILURE": 0,
+        "UNEXPLAINED": 0
+      },
+      "last_candle": "2026-07-26T13:12:00Z",
+      "ohlcv": "VALID",
+      "planned_pages": 92,
+      "replay_hash": "2f4b728c9239690e4b9a56c8015b4978c88a9de2b19b962d7dc0d0f1a19b4e85",
+      "requests": 92,
+      "retries": 0,
+      "rows": 17482,
+      "status": "VALID",
+      "theoretical_minutes": 18248
+    },
+    "XBTUSDTM": {
+      "canonical_checksum": "b8c97c07bcd82310633edf681e23c589046a32a99e93875d570bee86f837cc68",
+      "completed_pages": 82,
+      "completeness_pct": 98.661451,
+      "duplicates": 0,
+      "errors": 0,
+      "first_candle": "2026-07-14T15:59:00Z",
+      "gaps": {
+        "API_PAGE_INCOMPLETE": 0,
+        "NO_TICK_INTERVAL": 219,
+        "TRANSPORT_FAILURE": 0,
+        "UNEXPLAINED": 0
+      },
+      "last_candle": "2026-07-26T00:39:00Z",
+      "ohlcv": "VALID",
+      "planned_pages": 82,
+      "replay_hash": "32d3b0cf0b58b9f34e38e05cc77a221d729d8be5f3f7b73ff211978289ec35c8",
+      "requests": 82,
+      "retries": 0,
+      "rows": 16142,
+      "status": "VALID",
+      "theoretical_minutes": 16361
+    },
+    "ZECUSDTM": {
+      "canonical_checksum": "f7cf97ccaec2548e55912efd4faee1ef54f45980bb31e61fdad05f6c42148b89",
+      "completed_pages": 95,
+      "completeness_pct": 99.994729,
+      "duplicates": 0,
+      "errors": 0,
+      "first_candle": "2026-07-12T14:16:00Z",
+      "gaps": {
+        "API_PAGE_INCOMPLETE": 0,
+        "NO_TICK_INTERVAL": 1,
+        "TRANSPORT_FAILURE": 0,
+        "UNEXPLAINED": 0
+      },
+      "last_candle": "2026-07-25T18:25:00Z",
+      "ohlcv": "VALID",
+      "planned_pages": 95,
+      "replay_hash": "fba95379b7bc547a3a5534613b7ccbb81164a4342dd247d7b435db6189008a7c",
+      "requests": 95,
+      "retries": 0,
+      "rows": 18969,
+      "status": "VALID",
+      "theoretical_minutes": 18970
+    }
+  }
+}

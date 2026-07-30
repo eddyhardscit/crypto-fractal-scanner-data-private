@@ -1,0 +1,35 @@
+{
+  "acquisition_id": "core5-365d-ca3ea7a7d49d24754650445e",
+  "completed_pages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "completed_segments": [
+    "segment-ab212039eed8449c1001"
+  ],
+  "consecutive_errors": 0,
+  "downloaded_bytes": 226702,
+  "elapsed_seconds": 21.964992807013914,
+  "errors": 0,
+  "failed_pages": [],
+  "requests": 17,
+  "retries": 0,
+  "started_at_utc": "2026-07-30T09:37:58.459599Z",
+  "status": "IN_PROGRESS",
+  "valid_symbols": []
+}
