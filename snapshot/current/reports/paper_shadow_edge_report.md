@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-07-30T05:14:53+00:00
+Generato: 2026-07-30T06:15:24+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3206**
-- Trade Shadow/Research chiusi: **6834**
+- Trade Shadow/Research chiusi: **6836**
 - Eventi Shadow già presi dai Paper: **1530**
-- Eventi Shadow saltati dai Paper: **5304**
+- Eventi Shadow saltati dai Paper: **5306**
 - Profili con filtro Paper utile: **17**
 - Profili in cui il Paper potrebbe scartare edge: **6**
 - Profili con campione ancora insufficiente: **80**
@@ -30,8 +30,8 @@ Generato: 2026-07-30T05:14:53+00:00
 | SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 77 | 168 | 33 | 135 | 0,29R | -0,25R | +0,54R | -0,02R | -0,31R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 49 | 161 | 19 | 142 | -0,29R | 0,02R | -0,31R | -0,29R | +0,00R | SELEZIONE DA RIVEDERE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 76 | 160 | 42 | 118 | -0,06R | -0,19R | +0,13R | 0,02R | +0,08R | NESSUN EDGE CHIARO |
-| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 43 | 153 | 14 | 139 | -0,42R | 0,01R | -0,42R | -0,17R | +0,25R | SELEZIONE DA RIVEDERE |
-| SHADOW_COMBO_TREND | Combo Trend | 59 | 147 | 17 | 130 | 0,14R | -0,02R | +0,16R | -0,17R | -0,31R | FILTRO PAPER UTILE |
+| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 43 | 154 | 14 | 140 | -0,42R | -0,00R | -0,42R | -0,17R | +0,25R | SELEZIONE DA RIVEDERE |
+| SHADOW_COMBO_TREND | Combo Trend | 59 | 148 | 17 | 131 | 0,14R | -0,03R | +0,17R | -0,17R | -0,31R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 68 | 134 | 45 | 89 | -0,08R | -0,06R | -0,02R | 0,05R | +0,13R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 62 | 132 | 33 | 99 | 0,05R | -0,13R | +0,17R | 0,03R | -0,01R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 39 | 127 | 15 | 112 | 0,42R | -0,14R | +0,55R | -0,24R | -0,66R | FILTRO PAPER UTILE |
@@ -195,7 +195,7 @@ Vengono mostrati soltanto contesti con almeno **8 eventi** e una differenza mate
 | SHORT RSI 75 · leva 5× · Wide | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 8 | 25,00% | 0,51 | -1,02% | -1,30% | MEDIA |
 | RSI 20 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Motivo uscita | STOP | 10 | 0,00% | 0,00 | -3,90% | -1,25% | MEDIA |
 | SHORT RSI 70 · leva 10× | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | ETH | 18 | 27,78% | 0,36 | -1,82% | -1,07% | MEDIA |
-| SHADOW_EMA_TREND_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | SOL | 9 | 0,00% | 0,00 | -1,09R | -1,06R | MEDIA |
+| SHADOW_EMA_TREND_1H | RIDURRE / ESCLUDERE IN CHALLENGER | Asset | SOL | 9 | 0,00% | 0,00 | -1,09R | -1,05R | MEDIA |
 | Rapida 1H V1 | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | RANGE_HIGH_VOL | 11 | 0,00% | 0,00 | -1,09R | -1,04R | MEDIA |
 | SHADOW_COMBO_SCANNER | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | ALT_ROTATION_DOWN | 11 | 0,00% | 0,00 | -0,76R | -0,97R | MEDIA |
 | SHADOW_SCANNER_TOP5_BTC | RIDURRE / ESCLUDERE IN CHALLENGER | Regime entrata | ALT_ROTATION_DOWN | 10 | 0,00% | 0,00 | -0,72R | -0,92R | MEDIA |
