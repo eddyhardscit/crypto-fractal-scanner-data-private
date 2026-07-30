@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-07-29T23:23:53+00:00
+Generato: 2026-07-30T00:24:00+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **110137**
-- Valutazioni prodotte: **18068**
+- Risultati Block 3 disponibili: **110732**
+- Valutazioni prodotte: **18071**
 - Candidature al Blocco 5: **5**
 - Mutazioni create automaticamente: **0**
 
@@ -16,11 +16,9 @@ Generato: 2026-07-29T23:23:53+00:00
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | CH_MBV3_GB20_R100 | 170 | 0,242 | 0,149 | 0,159 | 60,0% | 93,6 | ELIGIBLE_FOR_MUTATION |
-| GB20_R040 | 1677 | 0,304 | 0,149 | 0,249 | 56,5% | 89,7 | ELIGIBLE_FOR_MUTATION |
-| GB30_R040 | 1677 | 0,273 | 0,140 | 0,222 | 56,2% | 89,4 | ELIGIBLE_FOR_MUTATION |
-| GB20_R050 | 1677 | 0,314 | 0,149 | 0,263 | 55,2% | 88,4 | ELIGIBLE_FOR_MUTATION |
-| GB40_R040 | 1677 | 0,235 | 0,109 | 0,187 | 54,5% | 87,8 | VALIDATING |
-| GB30_R050 | 1677 | 0,277 | 0,149 | 0,230 | 54,4% | 87,7 | VALIDATING |
+| GB20_R040 | 1692 | 0,299 | 0,149 | 0,244 | 56,0% | 89,2 | ELIGIBLE_FOR_MUTATION |
+| GB30_R040 | 1692 | 0,268 | 0,131 | 0,216 | 55,7% | 88,9 | ELIGIBLE_FOR_MUTATION |
+| GB20_R050 | 1692 | 0,309 | 0,149 | 0,259 | 54,7% | 87,9 | VALIDATING |
 | GB20_R050 | 40 | 3,608 | 4,831 | 2,939 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB30_R050 | 40 | 3,583 | 4,818 | 2,878 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB20_R075 | 40 | 3,537 | 4,831 | 2,811 | 87,5% | 87,3 | EARLY_SIGNAL |
@@ -29,12 +27,14 @@ Generato: 2026-07-29T23:23:53+00:00
 | GB40_R075 | 40 | 3,411 | 4,678 | 2,753 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB50_R050 | 40 | 3,362 | 4,538 | 2,736 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB50_R075 | 40 | 3,299 | 4,538 | 2,515 | 87,5% | 87,3 | EARLY_SIGNAL |
+| GB40_R040 | 1692 | 0,230 | 0,097 | 0,183 | 54,0% | 87,3 | VALIDATING |
 | ATR15_R050 | 40 | 2,983 | 4,115 | 2,345 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB30_R100 | 40 | 3,407 | 4,818 | 2,653 | 87,5% | 87,3 | EARLY_SIGNAL |
 | TP_R075 | 40 | 3,375 | 4,587 | 2,659 | 87,5% | 87,3 | EARLY_SIGNAL |
 | ATR10_R050 | 40 | 3,350 | 4,641 | 2,660 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB40_R100 | 40 | 3,301 | 4,678 | 2,615 | 87,5% | 87,3 | EARLY_SIGNAL |
 | TP_R060 | 40 | 3,248 | 4,437 | 2,550 | 87,5% | 87,3 | EARLY_SIGNAL |
+| TP_R050 | 40 | 3,238 | 4,337 | 2,594 | 87,5% | 87,3 | EARLY_SIGNAL |
 
 ## Stati di evidenza
 
