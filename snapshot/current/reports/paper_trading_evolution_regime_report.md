@@ -1,6 +1,6 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-07-31T07:25:25+00:00
+Generato: 2026-07-31T08:25:17+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
