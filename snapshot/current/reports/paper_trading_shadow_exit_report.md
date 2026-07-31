@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-07-31T21:38:50+00:00
+Generato: 2026-07-31T22:38:48+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **381**
-- Scenari virtuali ancora attivi: **6059**
+- Gruppi di trade ancora monitorati: **376**
+- Scenari virtuali ancora attivi: **5986**
 - Gruppi in attesa dell'uscita originale: **50**
-- Gruppi con originale chiuso ma Shadow ancora attive: **331**
-- Confronti completati: **112738**
+- Gruppi con originale chiuso ma Shadow ancora attive: **326**
+- Confronti completati: **112811**
 
 ## Classifica osservativa complessiva
 
@@ -30,12 +30,12 @@ Generato: 2026-07-31T21:38:50+00:00
 | GB40_R100 | 3061 | 3127 | +€3,01 | 43,0% | 588 | 194 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R100 | 3058 | 3124 | +€1,23 | 41,0% | 509 | 356 | READY_FOR_BLOCK4_EVALUATION |
 | ATR15_R100 | 3047 | 3113 | €-1,65 | 32,2% | 365 | 662 | READY_FOR_BLOCK4_EVALUATION |
-| ATR20_R100 | 3038 | 3104 | €-2,12 | 29,4% | 308 | 789 | READY_FOR_BLOCK4_EVALUATION |
+| ATR20_R100 | 3042 | 3108 | €-2,19 | 29,4% | 308 | 793 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R150 | 3036 | 3102 | +€5,00 | 33,5% | 410 | 359 | READY_FOR_BLOCK4_EVALUATION |
-| ATR30_R100 | 3012 | 3078 | €-6,47 | 27,7% | 257 | 852 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R200 | 3003 | 3069 | +€3,93 | 36,4% | 198 | 571 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R050 | 2934 | 3000 | €-6,45 | 33,4% | 540 | 596 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R100 | 2886 | 2952 | €-12,24 | 22,2% | 256 | 919 | READY_FOR_BLOCK4_EVALUATION |
+| ATR30_R100 | 3016 | 3082 | €-6,54 | 27,6% | 257 | 856 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R200 | 3007 | 3073 | +€3,85 | 36,4% | 198 | 575 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R050 | 2938 | 3004 | €-6,52 | 33,4% | 540 | 600 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R100 | 2891 | 2957 | €-12,33 | 22,2% | 256 | 924 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
