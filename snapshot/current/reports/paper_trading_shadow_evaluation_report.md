@@ -1,13 +1,13 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-08-01T22:08:55+00:00
+Generato: 2026-08-01T23:10:39+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **115070**
-- Valutazioni prodotte: **18266**
+- Risultati Block 3 disponibili: **115323**
+- Valutazioni prodotte: **18288**
 - Candidature al Blocco 5: **5**
 - Mutazioni create automaticamente: **0**
 
@@ -16,11 +16,11 @@ Generato: 2026-08-01T22:08:55+00:00
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | CH_MBV3_GB20_R100 | 170 | 0,242 | 0,149 | 0,159 | 60,0% | 93,6 | ELIGIBLE_FOR_MUTATION |
-| GB20_R040 | 1760 | 0,296 | 0,149 | 0,245 | 56,5% | 89,7 | ELIGIBLE_FOR_MUTATION |
-| GB30_R040 | 1760 | 0,265 | 0,140 | 0,218 | 56,2% | 89,4 | ELIGIBLE_FOR_MUTATION |
-| GB20_R050 | 1746 | 0,307 | 0,149 | 0,260 | 55,1% | 88,3 | ELIGIBLE_FOR_MUTATION |
-| GB40_R040 | 1759 | 0,229 | 0,124 | 0,182 | 54,6% | 87,9 | VALIDATING |
-| GB30_R050 | 1746 | 0,271 | 0,147 | 0,223 | 54,4% | 87,6 | VALIDATING |
+| GB20_R040 | 1772 | 0,295 | 0,149 | 0,245 | 56,5% | 89,7 | ELIGIBLE_FOR_MUTATION |
+| GB30_R040 | 1772 | 0,265 | 0,140 | 0,217 | 56,2% | 89,4 | ELIGIBLE_FOR_MUTATION |
+| GB20_R050 | 1758 | 0,306 | 0,149 | 0,258 | 55,1% | 88,2 | ELIGIBLE_FOR_MUTATION |
+| GB40_R040 | 1765 | 0,229 | 0,132 | 0,181 | 54,7% | 88,0 | VALIDATING |
+| GB30_R050 | 1758 | 0,270 | 0,147 | 0,224 | 54,3% | 87,5 | VALIDATING |
 | GB20_R050 | 40 | 3,608 | 4,831 | 2,939 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB30_R050 | 40 | 3,583 | 4,818 | 2,878 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB20_R075 | 40 | 3,537 | 4,831 | 2,811 | 87,5% | 87,3 | EARLY_SIGNAL |
