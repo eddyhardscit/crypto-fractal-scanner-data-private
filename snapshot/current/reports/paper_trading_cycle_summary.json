@@ -1,34 +1,34 @@
 {
-  "generated_utc": "2026-08-01T10:55:40+00:00",
+  "generated_utc": "2026-08-01T11:55:33+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 275,
+  "signals_generated": 174,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-01T10:53:27+00:00",
-    "checked_utc": "2026-08-01T10:53:27+00:00",
-    "snapshot_age_minutes": 0.004508866666666667,
+    "snapshot_generated_utc": "2026-08-01T11:53:32+00:00",
+    "checked_utc": "2026-08-01T11:53:32+00:00",
+    "snapshot_age_minutes": 0.0029820333333333334,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
     "opened_this_cycle": 0,
-    "closed_this_cycle": 55,
-    "open_positions": 651,
-    "closed_trades": 8479
+    "closed_this_cycle": 0,
+    "open_positions": 633,
+    "closed_trades": 8529
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 3,
     "status_counts": {
-      "BOCCIATA RESEARCH": 67,
+      "BOCCIATA RESEARCH": 65,
       "RACCOLTA RESEARCH": 49,
       "PRONTA PER REVISIONE LIVE": 3,
       "SEGNALE VALIDATO · PAPER IN RACCOLTA": 2,
-      "BOCCIATA PAPER": 6
+      "BOCCIATA PAPER": 8
     },
     "thresholds": {
       "min_independent_events": 30,
@@ -63,10 +63,10 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
-    "active_groups": 324,
-    "active_scenarios": 4891,
+    "active_groups": 319,
+    "active_scenarios": 4676,
     "new_results": 0,
-    "completed_results": 114075,
+    "completed_results": 114290,
     "events_written": 0,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
@@ -76,12 +76,12 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 114075,
+    "raw_results": 114290,
     "evaluation_rows": 18250,
     "history_events": 0,
-    "robust_count": 85,
-    "eligible_for_mutation": 6,
-    "underperforming_count": 245,
+    "robust_count": 84,
+    "eligible_for_mutation": 5,
+    "underperforming_count": 244,
     "report_path": "reports/paper_trading_shadow_evaluation_report.md",
     "paper_positions_modified": false,
     "paper_exits_modified": false,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-01T10:55:37+00:00",
+    "updated_utc": "2026-08-01T11:55:30+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 410,
+    "timeline_rows": 411,
     "performance_rows": 606,
     "preferred": 7,
     "avoid": 3,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-01T10:53:51+00:00",
+    "generated_utc": "2026-08-01T11:53:45+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1143,
-    "audit_last_hash": "280412600285faf920f19f18c07ef0a60ff23e18062a4673798807354a901a52",
+    "audit_rows": 1147,
+    "audit_last_hash": "02b8c78e201102b3d6bc28c59bed43d21a2526b5483c4a74ce58e265719a316c",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,10 +313,10 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-01T10:55:41+00:00",
-    "positions": 1061,
+    "generated_utc": "2026-08-01T11:55:35+00:00",
+    "positions": 1028,
     "strategy_accounts": 347,
-    "alerts": 10,
+    "alerts": 7,
     "status": "OK",
     "error": null
   }
