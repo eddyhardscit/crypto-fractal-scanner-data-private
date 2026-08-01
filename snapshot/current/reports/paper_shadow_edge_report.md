@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-01T16:32:51+00:00
+Generato: 2026-08-01T17:33:01+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3292**
-- Trade Shadow/Research chiusi: **9297**
+- Trade Shadow/Research chiusi: **9298**
 - Eventi Shadow già presi dai Paper: **1578**
-- Eventi Shadow saltati dai Paper: **7719**
+- Eventi Shadow saltati dai Paper: **7720**
 - Profili con filtro Paper utile: **21**
 - Profili in cui il Paper potrebbe scartare edge: **3**
 - Profili con campione ancora insufficiente: **74**
@@ -41,8 +41,8 @@ Generato: 2026-08-01T16:32:51+00:00
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 149 | 0 | 149 | 0,00R | -0,09R | +0,09R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | n/a | 0 | 136 | 0 | 136 | 0,00R | -0,17R | +0,17R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_LONG | Scanner Top 5 Long 1H | 50 | 135 | 25 | 110 | 0,27R | 0,07R | +0,20R | 0,14R | -0,14R | SELEZIONE POSITIVA |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 54 | 133 | 12 | 121 | -0,70R | 0,13R | -0,84R | -0,14R | +0,56R | SELEZIONE DA RIVEDERE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | n/a | 0 | 132 | 0 | 132 | 0,00R | -0,17R | +0,17R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 54 | 132 | 12 | 120 | -0,70R | 0,13R | -0,83R | -0,14R | +0,56R | SELEZIONE DA RIVEDERE |
 | SHADOW_COMBO_SCANNER | Combo Scanner | 50 | 125 | 21 | 104 | 0,33R | 0,12R | +0,21R | -0,14R | -0,47R | SELEZIONE POSITIVA |
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 41 | 120 | 24 | 96 | 0,19R | 0,12R | +0,07R | 0,06R | -0,13R | NESSUN EDGE CHIARO |
 | MAIN | Principale 4H | 28 | 115 | 21 | 94 | -0,03R | -0,11R | +0,08R | -0,25R | -0,22R | NESSUN EDGE CHIARO |
