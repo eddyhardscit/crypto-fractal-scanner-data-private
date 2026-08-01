@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-01T16:08:59+00:00
+Generato: 2026-08-01T17:09:27+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **275**
-- Scenari virtuali ancora attivi: **4208**
+- Gruppi di trade ancora monitorati: **274**
+- Scenari virtuali ancora attivi: **4196**
 - Gruppi in attesa dell'uscita originale: **35**
-- Gruppi con originale chiuso ma Shadow ancora attive: **240**
-- Confronti completati: **114810**
+- Gruppi con originale chiuso ma Shadow ancora attive: **239**
+- Confronti completati: **114822**
 
 ## Classifica osservativa complessiva
 
@@ -29,13 +29,13 @@ Generato: 2026-08-01T16:08:59+00:00
 | TP_R100 | 3128 | 3194 | +€4,39 | 41,2% | 762 | 86 | READY_FOR_BLOCK4_EVALUATION |
 | GB40_R100 | 3127 | 3193 | +€2,94 | 42,2% | 588 | 200 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R100 | 3124 | 3190 | +€1,20 | 40,2% | 509 | 362 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R150 | 3115 | 3181 | +€4,85 | 32,9% | 410 | 375 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R150 | 3116 | 3182 | +€4,84 | 32,9% | 410 | 375 | READY_FOR_BLOCK4_EVALUATION |
 | ATR15_R100 | 3114 | 3180 | €-1,63 | 31,5% | 365 | 671 | READY_FOR_BLOCK4_EVALUATION |
 | ATR20_R100 | 3111 | 3177 | €-2,19 | 28,7% | 308 | 804 | READY_FOR_BLOCK4_EVALUATION |
-| ATR30_R100 | 3096 | 3162 | €-6,72 | 26,9% | 257 | 878 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R200 | 3089 | 3155 | +€3,68 | 35,6% | 198 | 593 | READY_FOR_BLOCK4_EVALUATION |
+| ATR30_R100 | 3097 | 3163 | €-6,68 | 27,0% | 257 | 878 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R200 | 3090 | 3156 | +€3,68 | 35,6% | 198 | 593 | READY_FOR_BLOCK4_EVALUATION |
 | BE_R050 | 3006 | 3072 | €-6,91 | 32,7% | 543 | 625 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R100 | 2978 | 3044 | €-12,54 | 21,6% | 256 | 953 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R100 | 2979 | 3045 | €-12,54 | 21,5% | 256 | 954 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
