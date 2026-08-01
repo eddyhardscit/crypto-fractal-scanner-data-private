@@ -1,13 +1,13 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-01T20:08:52+00:00
+Generato: 2026-08-01T21:08:51+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
 - Gruppi di trade ancora monitorati: **269**
-- Scenari virtuali ancora attivi: **4412**
+- Scenari virtuali ancora attivi: **4405**
 - Gruppi in attesa dell'uscita originale: **44**
 - Gruppi con originale chiuso ma Shadow ancora attive: **225**
 - Confronti completati: **115025**
