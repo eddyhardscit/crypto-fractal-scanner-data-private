@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-02T17:41:08+00:00
+Generato: 2026-08-02T18:41:27+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3304**
-- Trade Shadow/Research chiusi: **10443**
+- Trade Shadow/Research chiusi: **10445**
 - Eventi Shadow già presi dai Paper: **1582**
-- Eventi Shadow saltati dai Paper: **8861**
+- Eventi Shadow saltati dai Paper: **8863**
 - Profili con filtro Paper utile: **18**
 - Profili in cui il Paper potrebbe scartare edge: **3**
 - Profili con campione ancora insufficiente: **73**
@@ -30,11 +30,11 @@ Generato: 2026-08-02T17:41:08+00:00
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 39 | 248 | 16 | 232 | 0,43R | 0,01R | +0,43R | 0,19R | -0,24R | SELEZIONE POSITIVA |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 50 | 238 | 19 | 219 | -0,29R | 0,05R | -0,34R | -0,28R | +0,01R | SELEZIONE DA RIVEDERE |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 62 | 220 | 33 | 187 | 0,05R | -0,09R | +0,14R | 0,03R | -0,01R | NESSUN EDGE CHIARO |
+| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 45 | 209 | 14 | 195 | -0,42R | -0,03R | -0,39R | -0,17R | +0,25R | SELEZIONE DA RIVEDERE |
 | Rapida 1H V1 | Rapida 1H V1 — madre | 78 | 208 | 36 | 172 | -0,32R | 0,01R | -0,33R | 0,01R | +0,33R | SELEZIONE DA RIVEDERE |
-| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 45 | 208 | 14 | 194 | -0,42R | -0,03R | -0,39R | -0,17R | +0,25R | SELEZIONE DA RIVEDERE |
 | SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 68 | 204 | 45 | 159 | -0,08R | -0,03R | -0,05R | 0,05R | +0,13R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 64 | 203 | 35 | 168 | 0,20R | -0,04R | +0,24R | 0,17R | -0,03R | FILTRO PAPER UTILE |
-| SHADOW_COMBO_TREND | Combo Trend | 60 | 201 | 17 | 184 | 0,14R | -0,06R | +0,20R | -0,17R | -0,31R | FILTRO PAPER UTILE |
+| SHADOW_COMBO_TREND | Combo Trend | 60 | 202 | 17 | 185 | 0,14R | -0,06R | +0,20R | -0,17R | -0,31R | FILTRO PAPER UTILE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 66 | 189 | 30 | 159 | 0,08R | -0,04R | +0,12R | 0,08R | +0,01R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 41 | 189 | 16 | 173 | 0,39R | -0,06R | +0,45R | -0,23R | -0,62R | FILTRO PAPER UTILE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 178 | 0 | 178 | 0,00R | -0,08R | +0,08R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
