@@ -1,12 +1,12 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-08-02T22:39:02+00:00
+Generato: 2026-08-02T23:39:03+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **118552**
+- Risultati Block 3 disponibili: **118639**
 - Valutazioni prodotte: **18418**
 - Candidature al Blocco 5: **5**
 - Mutazioni create automaticamente: **0**
@@ -16,11 +16,10 @@ Generato: 2026-08-02T22:39:02+00:00
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | CH_MBV3_GB20_R100 | 180 | 0,355 | 0,149 | 0,247 | 62,2% | 94,1 | ELIGIBLE_FOR_MUTATION |
-| GB20_R040 | 1796 | 0,296 | 0,149 | 0,245 | 56,3% | 89,5 | ELIGIBLE_FOR_MUTATION |
-| GB30_R040 | 1796 | 0,264 | 0,140 | 0,216 | 55,9% | 89,1 | ELIGIBLE_FOR_MUTATION |
-| GB20_R050 | 1796 | 0,322 | 0,149 | 0,274 | 55,2% | 88,2 | ELIGIBLE_FOR_MUTATION |
-| GB40_R040 | 1796 | 0,230 | 0,109 | 0,181 | 54,3% | 87,6 | VALIDATING |
-| GB30_R050 | 1796 | 0,284 | 0,149 | 0,238 | 54,4% | 87,4 | VALIDATING |
+| GB20_R040 | 1799 | 0,294 | 0,149 | 0,243 | 56,3% | 89,4 | ELIGIBLE_FOR_MUTATION |
+| GB30_R040 | 1799 | 0,263 | 0,140 | 0,217 | 55,8% | 89,0 | ELIGIBLE_FOR_MUTATION |
+| GB20_R050 | 1799 | 0,320 | 0,149 | 0,274 | 55,1% | 88,1 | ELIGIBLE_FOR_MUTATION |
+| GB40_R040 | 1799 | 0,229 | 0,109 | 0,182 | 54,2% | 87,5 | VALIDATING |
 | GB20_R050 | 40 | 3,608 | 4,831 | 2,939 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB30_R050 | 40 | 3,583 | 4,818 | 2,878 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB20_R075 | 40 | 3,537 | 4,831 | 2,811 | 87,5% | 87,3 | EARLY_SIGNAL |
@@ -35,6 +34,7 @@ Generato: 2026-08-02T22:39:02+00:00
 | ATR10_R050 | 40 | 3,350 | 4,641 | 2,660 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB40_R100 | 40 | 3,301 | 4,678 | 2,615 | 87,5% | 87,3 | EARLY_SIGNAL |
 | TP_R060 | 40 | 3,248 | 4,437 | 2,550 | 87,5% | 87,3 | EARLY_SIGNAL |
+| TP_R050 | 40 | 3,238 | 4,337 | 2,594 | 87,5% | 87,3 | EARLY_SIGNAL |
 
 ## Stati di evidenza
 
