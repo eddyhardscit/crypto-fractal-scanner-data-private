@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-01T23:10:14+00:00
+Generato: 2026-08-02T00:08:57+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
-- Gruppi di trade ancora monitorati: **264**
-- Scenari virtuali ancora attivi: **4206**
+- Gruppi di trade ancora monitorati: **263**
+- Scenari virtuali ancora attivi: **4192**
 - Gruppi in attesa dell'uscita originale: **31**
-- Gruppi con originale chiuso ma Shadow ancora attive: **233**
-- Confronti completati: **115323**
+- Gruppi con originale chiuso ma Shadow ancora attive: **232**
+- Confronti completati: **115332**
 
 ## Classifica osservativa complessiva
 
@@ -35,7 +35,7 @@ Generato: 2026-08-01T23:10:14+00:00
 | ATR30_R100 | 3110 | 3176 | €-6,67 | 26,9% | 257 | 881 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R200 | 3107 | 3173 | +€3,75 | 35,6% | 198 | 596 | READY_FOR_BLOCK4_EVALUATION |
 | BE_R050 | 3011 | 3077 | €-6,99 | 32,6% | 543 | 630 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R100 | 2994 | 3060 | €-12,56 | 21,4% | 256 | 959 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R100 | 2995 | 3061 | €-12,51 | 21,5% | 256 | 959 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
