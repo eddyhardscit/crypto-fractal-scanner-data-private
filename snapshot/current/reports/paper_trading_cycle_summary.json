@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-08-02T12:11:05+00:00",
+  "generated_utc": "2026-08-02T13:29:11+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 263,
+  "signals_generated": 281,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-02T12:08:29+00:00",
-    "checked_utc": "2026-08-02T12:08:29+00:00",
-    "snapshot_age_minutes": 0.01239555,
+    "snapshot_generated_utc": "2026-08-02T13:23:42+00:00",
+    "checked_utc": "2026-08-02T13:23:42+00:00",
+    "snapshot_age_minutes": 0.01329335,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
-    "opened_this_cycle": 43,
-    "closed_this_cycle": 1,
-    "open_positions": 539,
-    "closed_trades": 9688
+    "opened_this_cycle": 22,
+    "closed_this_cycle": 6,
+    "open_positions": 607,
+    "closed_trades": 9700
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 3,
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 394,
-    "below_score": 863,
-    "strategy_filter": 24,
-    "stale": 0,
+    "near_miss": 514,
+    "below_score": 724,
+    "strategy_filter": 52,
+    "stale": 57,
     "opened": 0
   },
   "shadow_exit": {
@@ -63,11 +63,11 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
-    "active_groups": 251,
-    "active_scenarios": 3785,
-    "new_results": 0,
-    "completed_results": 116191,
-    "events_written": 0,
+    "active_groups": 250,
+    "active_scenarios": 3780,
+    "new_results": 2,
+    "completed_results": 116222,
+    "events_written": 2,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -76,7 +76,7 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 116191,
+    "raw_results": 116222,
     "evaluation_rows": 18375,
     "history_events": 0,
     "robust_count": 83,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-02T12:10:57+00:00",
+    "updated_utc": "2026-08-02T13:29:04+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 434,
+    "timeline_rows": 436,
     "performance_rows": 606,
     "preferred": 7,
     "avoid": 4,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-02T12:08:43+00:00",
+    "generated_utc": "2026-08-02T13:25:04+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1244,
-    "audit_last_hash": "854a137d1cd609154272ec44e025dfd6b6389f3bc08a1f982b6541d45be85d5b",
+    "audit_rows": 1249,
+    "audit_last_hash": "8a22911832322a563955ae19a457f2b98edd550d87310e6612de7b42538d2576",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -284,28 +284,7 @@
   },
   "opened": [],
   "closed": [],
-  "trailing_updates": [
-    {
-      "portfolio": "MAIN",
-      "trade_id": "71cbeb966844691a512e",
-      "asset": "HYPE",
-      "side": "SHORT",
-      "stop_price": 52.95677809856,
-      "mark_price": 51.329,
-      "old_stop_price": 52.995983178879996,
-      "new_stop_price": 52.95677809856
-    },
-    {
-      "portfolio": "MAIN_SIDE_REGIME_GUARD_V1",
-      "trade_id": "7a1fec39a95dcee1a2f2",
-      "asset": "HYPE",
-      "side": "SHORT",
-      "stop_price": 52.95677809856,
-      "mark_price": 51.329,
-      "old_stop_price": 52.995983178879996,
-      "new_stop_price": 52.95677809856
-    }
-  ],
+  "trailing_updates": [],
   "risk_alerts": [],
   "risk_recoveries": [],
   "telegram_paper": {
@@ -329,22 +308,15 @@
     "changed": false
   },
   "live_publication": {
-    "configured": true,
-    "published": true,
-    "unchanged": false,
-    "path": "reports/paper_trading_live.md",
-    "branch": "paper-trading-live",
-    "commit_sha": "d2ca12667a4ffa37d07d86c6f702813d9279cc11",
-    "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
-    "reasons": [
-      "market_event"
-    ]
+    "configured": false,
+    "published": false,
+    "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-02T12:11:13+00:00",
-    "positions": 934,
+    "generated_utc": "2026-08-02T13:29:13+00:00",
+    "positions": 1038,
     "strategy_accounts": 347,
-    "alerts": 6,
+    "alerts": 7,
     "status": "OK",
     "error": null
   }
