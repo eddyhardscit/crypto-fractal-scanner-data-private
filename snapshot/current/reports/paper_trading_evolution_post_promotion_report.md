@@ -1,6 +1,6 @@
 # Blocco 8 — Sorveglianza post-promozione
 
-Generato: 2026-08-03T19:56:04+00:00
+Generato: 2026-08-03T20:56:23+00:00
 
 > Paper-only. Il nuovo MASTER viene confrontato con l’EX_MASTER sugli stessi eventi successivi alla promozione. Nessun rollback automatico.
 
