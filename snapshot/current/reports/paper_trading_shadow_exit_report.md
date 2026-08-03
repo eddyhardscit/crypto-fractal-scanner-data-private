@@ -1,27 +1,27 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-03T03:38:59+00:00
+Generato: 2026-08-03T04:38:58+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
 - Gruppi di trade ancora monitorati: **130**
-- Scenari virtuali ancora attivi: **1570**
+- Scenari virtuali ancora attivi: **1567**
 - Gruppi in attesa dell'uscita originale: **18**
 - Gruppi con originale chiuso ma Shadow ancora attive: **112**
-- Confronti completati: **118831**
+- Confronti completati: **118834**
 
 ## Classifica osservativa complessiva
 
 | Scenario | Campione completo | Campione totale | Δ medio vs originale | Migliora | Troppo presto | Troppo tardi | Stato dati |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| TIME_6H | 3213 | 3279 | €-1,48 | 45,7% | 667 | 488 | READY_FOR_BLOCK4_EVALUATION |
 | GB20_R050 | 3211 | 3277 | +€9,20 | 51,9% | 907 | 8 | READY_FOR_BLOCK4_EVALUATION |
 | GB30_R050 | 3211 | 3277 | +€7,53 | 51,0% | 911 | 27 | READY_FOR_BLOCK4_EVALUATION |
 | GB40_R050 | 3211 | 3277 | +€6,24 | 49,4% | 910 | 73 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R050 | 3211 | 3277 | +€4,91 | 48,9% | 1008 | 7 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_12H | 3210 | 3276 | €-1,14 | 39,5% | 398 | 732 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_6H | 3210 | 3276 | €-1,49 | 45,7% | 667 | 488 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R050 | 3207 | 3273 | +€4,61 | 49,4% | 852 | 133 | READY_FOR_BLOCK4_EVALUATION |
 | GB20_R100 | 3205 | 3271 | +€6,73 | 43,3% | 703 | 88 | READY_FOR_BLOCK4_EVALUATION |
 | GB30_R100 | 3205 | 3271 | +€4,86 | 42,9% | 682 | 123 | READY_FOR_BLOCK4_EVALUATION |
