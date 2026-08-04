@@ -1,33 +1,33 @@
 {
-  "generated_utc": "2026-08-04T15:14:03+00:00",
+  "generated_utc": "2026-08-04T16:11:41+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 301,
+  "signals_generated": 340,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-04T15:08:40+00:00",
-    "checked_utc": "2026-08-04T15:08:40+00:00",
-    "snapshot_age_minutes": 0.007961183333333333,
+    "snapshot_generated_utc": "2026-08-04T16:08:46+00:00",
+    "checked_utc": "2026-08-04T16:08:46+00:00",
+    "snapshot_age_minutes": 0.004232533333333333,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
-    "opened_this_cycle": 91,
-    "closed_this_cycle": 0,
-    "open_positions": 625,
-    "closed_trades": 11833
+    "opened_this_cycle": 116,
+    "closed_this_cycle": 7,
+    "open_positions": 642,
+    "closed_trades": 11932
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 2,
     "status_counts": {
-      "BOCCIATA RESEARCH": 70,
+      "BOCCIATA RESEARCH": 66,
       "RACCOLTA RESEARCH": 48,
-      "SEGNALE VALIDATO · PAPER IN RACCOLTA": 2,
-      "BOCCIATA PAPER": 5,
+      "SEGNALE VALIDATO · PAPER IN RACCOLTA": 4,
+      "BOCCIATA PAPER": 7,
       "PRONTA PER REVISIONE LIVE": 2
     },
     "thresholds": {
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 498,
-    "below_score": 827,
-    "strategy_filter": 16,
-    "stale": 57,
+    "near_miss": 578,
+    "below_score": 914,
+    "strategy_filter": 20,
+    "stale": 0,
     "opened": 0
   },
   "shadow_exit": {
@@ -64,10 +64,10 @@
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
     "active_groups": 23,
-    "active_scenarios": 135,
-    "new_results": 0,
-    "completed_results": 121342,
-    "events_written": 0,
+    "active_scenarios": 123,
+    "new_results": 6,
+    "completed_results": 121354,
+    "events_written": 6,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -76,7 +76,7 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 121342,
+    "raw_results": 121354,
     "evaluation_rows": 18422,
     "history_events": 0,
     "robust_count": 85,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-04T15:13:57+00:00",
+    "updated_utc": "2026-08-04T16:11:34+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 484,
+    "timeline_rows": 485,
     "performance_rows": 610,
     "preferred": 7,
     "avoid": 4,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-04T15:09:03+00:00",
+    "generated_utc": "2026-08-04T16:09:14+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1447,
-    "audit_last_hash": "e7a91012ff30b44d13187709585feca70b9b7a87e887c5a0513c8e74f75cb582",
+    "audit_rows": 1450,
+    "audit_last_hash": "d94b8d6d60a17ff5b5173b2842c6f8b97eb8d5514c8c4b90f6ca5af0d243656d",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,10 +313,10 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-04T15:14:05+00:00",
-    "positions": 1010,
+    "generated_utc": "2026-08-04T16:11:44+00:00",
+    "positions": 1062,
     "strategy_accounts": 347,
-    "alerts": 4,
+    "alerts": 6,
     "status": "OK",
     "error": null
   }
