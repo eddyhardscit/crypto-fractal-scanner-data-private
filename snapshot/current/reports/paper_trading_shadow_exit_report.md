@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-04T02:09:02+00:00
+Generato: 2026-08-04T03:09:03+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
 - Gruppi di trade ancora monitorati: **31**
-- Scenari virtuali ancora attivi: **180**
+- Scenari virtuali ancora attivi: **168**
 - Gruppi in attesa dell'uscita originale: **13**
 - Gruppi con originale chiuso ma Shadow ancora attive: **18**
-- Confronti completati: **121165**
+- Confronti completati: **121177**
 
 ## Classifica osservativa complessiva
 
@@ -25,13 +25,13 @@ Generato: 2026-08-04T02:09:02+00:00
 | GB50_R050 | 3236 | 3302 | +€4,63 | 49,2% | 854 | 138 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R100 | 3236 | 3302 | +€4,50 | 41,2% | 774 | 86 | READY_FOR_BLOCK4_EVALUATION |
 | GB40_R100 | 3236 | 3302 | +€4,18 | 41,9% | 597 | 215 | READY_FOR_BLOCK4_EVALUATION |
+| GB50_R100 | 3236 | 3302 | +€2,29 | 40,1% | 515 | 371 | READY_FOR_BLOCK4_EVALUATION |
 | ATR15_R100 | 3236 | 3302 | €-0,33 | 31,5% | 368 | 690 | READY_FOR_BLOCK4_EVALUATION |
+| ATR20_R100 | 3236 | 3302 | €-1,02 | 29,0% | 311 | 822 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_12H | 3236 | 3302 | €-1,09 | 39,7% | 400 | 732 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_6H | 3236 | 3302 | €-1,45 | 45,9% | 669 | 488 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R150 | 3235 | 3301 | +€5,10 | 33,2% | 411 | 380 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R200 | 3233 | 3299 | +€3,83 | 35,7% | 198 | 619 | READY_FOR_BLOCK4_EVALUATION |
-| GB50_R100 | 3233 | 3299 | +€2,28 | 40,1% | 515 | 371 | READY_FOR_BLOCK4_EVALUATION |
-| ATR20_R100 | 3233 | 3299 | €-1,02 | 28,9% | 311 | 822 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_12H | 3233 | 3299 | €-1,09 | 39,6% | 400 | 732 | READY_FOR_BLOCK4_EVALUATION |
 | BE_R050 | 3227 | 3293 | €-4,15 | 33,1% | 547 | 702 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_24H | 3227 | 3293 | €-4,57 | 31,9% | 187 | 992 | READY_FOR_BLOCK4_EVALUATION |
 | ATR30_R100 | 3227 | 3293 | €-5,76 | 27,1% | 260 | 904 | READY_FOR_BLOCK4_EVALUATION |

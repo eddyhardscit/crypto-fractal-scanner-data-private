@@ -9,16 +9,16 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Confidenza: **80,40%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 83%, ADX 21.9.
-- BTC trend score: **1,00**; ADX: **21,95**; breadth sopra EMA50: **83,33%**
-- Mediana alt vs BTC: **-0,42%**; dispersione: **9,79%**
+- Motivo: Direzione poco definita: score BTC +1.0, breadth EMA50 75%, ADX 21.9.
+- BTC trend score: **1,00**; ADX: **21,95**; breadth sopra EMA50: **75,00%**
+- Mediana alt vs BTC: **-0,54%**; dispersione: **10,47%**
 
-- Aperti in questo ciclo: **31**
+- Aperti in questo ciclo: **2**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **475**
-- Trade research chiusi: **11443**
-- Eventi di mercato indipendenti chiusi: **1906**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **35113**
+- Posizioni research aperte: **476**
+- Trade research chiusi: **11444**
+- Eventi di mercato indipendenti chiusi: **1907**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **35156**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -99,12 +99,12 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_ETH_EMA_4H | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,23 |
 | SHADOW_GLOBAL_PURE | 1 | 7 | 7 | 57,14% | 1,90 | 0,42R | €29,56 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 10 | 118 | 118 | 31,36% | 0,91 | -0,06R | €-68,95 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 6 | 194 | 194 | 59,79% | 1,17 | 0,07R | €129,16 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 6 | 195 | 195 | 60,00% | 1,17 | 0,07R | €132,91 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | 9 | 105 | 105 | 29,52% | 0,85 | -0,11R | €-111,26 |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 9 | 101 | 101 | 26,73% | 0,85 | -0,11R | €-106,46 |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 5 | 81 | 81 | 27,16% | 0,73 | -0,19R | €-156,94 |
 | SHADOW_MASTER_ADAPTIVE_V1 | 9 | 113 | 113 | 30,09% | 0,86 | -0,09R | €-105,54 |
-| Forza relativa 1H V1 | 14 | 282 | 282 | 28,37% | 0,81 | -0,11R | €-323,79 |
+| Forza relativa 1H V1 | 15 | 282 | 282 | 28,37% | 0,81 | -0,11R | €-323,79 |
 | Forza relativa 1H V2 | 7 | 126 | 119 | 34,92% | 1,05 | 0,03R | €39,35 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | 8 | 90 | 90 | 28,89% | 0,47 | -0,33R | €-292,88 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | 8 | 90 | 90 | 28,89% | 0,47 | -0,33R | €-292,88 |
@@ -634,7 +634,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TREND_UP | 2 | 27 | 27 | 14,81% | 0,35 | -0,54R | €-146,62 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_DOWN | 0 | 9 | 9 | 22,22% | 0,39 | -0,42R | €-37,87 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_UP | 0 | 20 | 20 | 75,00% | 2,35 | 0,36R | €71,18 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 4 | 78 | 78 | 67,95% | 1,66 | 0,21R | €165,71 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 4 | 79 | 79 | 68,35% | 1,68 | 0,21R | €169,46 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TRANSITION | 1 | 14 | 14 | 78,57% | 2,49 | 0,33R | €46,00 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_DOWN | 0 | 33 | 33 | 63,64% | 1,33 | 0,11R | €37,35 |
@@ -667,7 +667,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_V1 | TREND_UP | 2 | 28 | 28 | 7,14% | 0,15 | -0,77R | €-216,75 |
 | Forza relativa 1H V1 | ALT_ROTATION_DOWN | 0 | 40 | 40 | 20,00% | 0,43 | -0,37R | €-148,44 |
 | Forza relativa 1H V1 | ALT_ROTATION_UP | 0 | 25 | 25 | 28,00% | 0,80 | -0,14R | €-34,97 |
-| Forza relativa 1H V1 | RANGE | 9 | 91 | 91 | 30,77% | 0,86 | -0,08R | €-75,74 |
+| Forza relativa 1H V1 | RANGE | 10 | 91 | 91 | 30,77% | 0,86 | -0,08R | €-75,74 |
 | Forza relativa 1H V1 | RANGE_HIGH_VOL | 0 | 7 | 7 | 0,00% | 0,00 | -0,89R | €-62,24 |
 | Forza relativa 1H V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | Forza relativa 1H V1 | TRANSITION | 1 | 28 | 28 | 42,86% | 1,48 | 0,23R | €64,17 |
