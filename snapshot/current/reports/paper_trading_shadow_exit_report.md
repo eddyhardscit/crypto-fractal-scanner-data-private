@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-05T14:39:23+00:00
+Generato: 2026-08-05T15:40:18+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
 - Gruppi di trade ancora monitorati: **14**
-- Scenari virtuali ancora attivi: **51**
+- Scenari virtuali ancora attivi: **15**
 - Gruppi in attesa dell'uscita originale: **11**
 - Gruppi con originale chiuso ma Shadow ancora attive: **3**
-- Confronti completati: **121896**
+- Confronti completati: **121932**
 
 ## Classifica osservativa complessiva
 
@@ -29,13 +29,13 @@ Generato: 2026-08-05T14:39:23+00:00
 | TP_R200 | 3250 | 3316 | +€3,80 | 35,7% | 198 | 622 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R100 | 3250 | 3316 | +€2,29 | 40,0% | 519 | 371 | READY_FOR_BLOCK4_EVALUATION |
 | ATR15_R100 | 3250 | 3316 | €-0,33 | 31,5% | 368 | 694 | READY_FOR_BLOCK4_EVALUATION |
-| ATR20_R100 | 3247 | 3313 | €-1,01 | 28,9% | 311 | 824 | READY_FOR_BLOCK4_EVALUATION |
+| ATR20_R100 | 3250 | 3316 | €-1,02 | 28,9% | 311 | 827 | READY_FOR_BLOCK4_EVALUATION |
+| TIME_6H | 3250 | 3316 | €-1,44 | 45,7% | 670 | 492 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R050 | 3250 | 3316 | €-3,75 | 33,1% | 547 | 710 | READY_FOR_BLOCK4_EVALUATION |
+| ATR30_R100 | 3250 | 3316 | €-5,37 | 27,2% | 260 | 910 | READY_FOR_BLOCK4_EVALUATION |
+| BE_R100 | 3250 | 3316 | €-8,69 | 22,6% | 260 | 1040 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_12H | 3247 | 3313 | €-1,07 | 39,7% | 400 | 732 | READY_FOR_BLOCK4_EVALUATION |
-| TIME_6H | 3247 | 3313 | €-1,44 | 45,7% | 670 | 490 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R050 | 3247 | 3313 | €-3,75 | 33,2% | 547 | 707 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_24H | 3247 | 3313 | €-4,54 | 31,8% | 187 | 998 | READY_FOR_BLOCK4_EVALUATION |
-| ATR30_R100 | 3247 | 3313 | €-5,37 | 27,2% | 260 | 907 | READY_FOR_BLOCK4_EVALUATION |
-| BE_R100 | 3247 | 3313 | €-8,70 | 22,6% | 260 | 1037 | READY_FOR_BLOCK4_EVALUATION |
 
 ## Come leggere il controllo
 
