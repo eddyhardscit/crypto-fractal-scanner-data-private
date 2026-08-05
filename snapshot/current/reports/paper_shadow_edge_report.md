@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-05T08:59:02+00:00
+Generato: 2026-08-05T09:59:26+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3327**
-- Trade Shadow/Research chiusi: **13039**
+- Trade Shadow/Research chiusi: **13040**
 - Eventi Shadow già presi dai Paper: **1593**
-- Eventi Shadow saltati dai Paper: **11446**
+- Eventi Shadow saltati dai Paper: **11447**
 - Profili con filtro Paper utile: **22**
 - Profili in cui il Paper potrebbe scartare edge: **3**
 - Profili con campione ancora insufficiente: **69**
@@ -36,7 +36,7 @@ Generato: 2026-08-05T08:59:02+00:00
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 236 | 0 | 236 | 0,00R | -0,12R | +0,12R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_COMBO_TREND | Combo Trend | 62 | 230 | 18 | 212 | 0,13R | -0,06R | +0,19R | -0,17R | -0,30R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 41 | 228 | 16 | 212 | 0,39R | -0,06R | +0,45R | -0,23R | -0,62R | FILTRO PAPER UTILE |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 54 | 225 | 12 | 213 | -0,70R | 0,15R | -0,85R | -0,14R | +0,56R | PAPER SCARTA EDGE |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 54 | 226 | 12 | 214 | -0,70R | 0,15R | -0,86R | -0,14R | +0,56R | PAPER SCARTA EDGE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 66 | 223 | 30 | 193 | 0,08R | -0,04R | +0,12R | 0,08R | +0,01R | NESSUN EDGE CHIARO |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | n/a | 0 | 211 | 0 | 211 | 0,00R | -0,18R | +0,18R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | Rapida 1H V1 | Rapida 1H V1 — madre | 78 | 208 | 36 | 172 | -0,32R | 0,01R | -0,33R | 0,01R | +0,33R | SELEZIONE DA RIVEDERE |
