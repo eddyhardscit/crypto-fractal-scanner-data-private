@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-05T02:23:54+00:00",
-  "leveraged_open_positions": 12,
+  "generated_utc": "2026-08-05T03:24:24+00:00",
+  "leveraged_open_positions": 15,
   "note": "Somma di portafogli Paper indipendenti; non rappresenta ancora un singolo conto live.",
   "risk_model_version": "block4_5_v1",
   "scenarios": [
@@ -41,38 +41,38 @@
       "shock_pct": 40.0
     },
     {
-      "affected_positions": 9,
+      "affected_positions": 12,
       "direction": "UP",
-      "estimated_liquidations": 0,
-      "estimated_loss_eur": 640.4461929259136,
-      "margin_at_risk_eur": 2638.3908474681416,
+      "estimated_liquidations": 2,
+      "estimated_loss_eur": 803.196995005584,
+      "margin_at_risk_eur": 2903.892451627483,
       "scenario": "UP_10",
       "shock_pct": 10.0
     },
     {
-      "affected_positions": 9,
+      "affected_positions": 12,
       "direction": "UP",
-      "estimated_liquidations": 0,
-      "estimated_loss_eur": 1280.8923858518272,
-      "margin_at_risk_eur": 2638.3908474681416,
+      "estimated_liquidations": 3,
+      "estimated_loss_eur": 1546.393990011168,
+      "margin_at_risk_eur": 2903.892451627483,
       "scenario": "UP_20",
       "shock_pct": 20.0
     },
     {
-      "affected_positions": 9,
+      "affected_positions": 12,
       "direction": "UP",
-      "estimated_liquidations": 0,
-      "estimated_loss_eur": 1921.3385787777404,
-      "margin_at_risk_eur": 2638.3908474681416,
+      "estimated_liquidations": 3,
+      "estimated_loss_eur": 2186.8401829370814,
+      "margin_at_risk_eur": 2903.892451627483,
       "scenario": "UP_30",
       "shock_pct": 30.0
     },
     {
-      "affected_positions": 9,
+      "affected_positions": 12,
       "direction": "UP",
-      "estimated_liquidations": 3,
-      "estimated_loss_eur": 2336.248724839084,
-      "margin_at_risk_eur": 2638.3908474681416,
+      "estimated_liquidations": 6,
+      "estimated_loss_eur": 2601.7503289984247,
+      "margin_at_risk_eur": 2903.892451627483,
       "scenario": "UP_40",
       "shock_pct": 40.0
     }
