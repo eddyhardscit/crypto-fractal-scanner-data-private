@@ -1,33 +1,33 @@
 {
-  "generated_utc": "2026-08-05T00:27:34+00:00",
+  "generated_utc": "2026-08-05T01:26:27+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 140,
+  "signals_generated": 181,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-05T00:23:29+00:00",
-    "checked_utc": "2026-08-05T00:23:29+00:00",
-    "snapshot_age_minutes": 0.015969533333333334,
+    "snapshot_generated_utc": "2026-08-05T01:23:29+00:00",
+    "checked_utc": "2026-08-05T01:23:29+00:00",
+    "snapshot_age_minutes": 0.01123335,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
     "opened_this_cycle": 0,
-    "closed_this_cycle": 34,
-    "open_positions": 638,
-    "closed_trades": 12231
+    "closed_this_cycle": 0,
+    "open_positions": 635,
+    "closed_trades": 12258
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 2,
     "status_counts": {
-      "BOCCIATA RESEARCH": 67,
+      "BOCCIATA RESEARCH": 68,
       "RACCOLTA RESEARCH": 48,
       "BOCCIATA PAPER": 7,
-      "SEGNALE VALIDATO · PAPER IN RACCOLTA": 3,
+      "SEGNALE VALIDATO · PAPER IN RACCOLTA": 2,
       "PRONTA PER REVISIONE LIVE": 2
     },
     "thresholds": {
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 257,
-    "below_score": 1079,
-    "strategy_filter": 30,
-    "stale": 0,
+    "near_miss": 279,
+    "below_score": 887,
+    "strategy_filter": 41,
+    "stale": 57,
     "opened": 0
   },
   "shadow_exit": {
@@ -64,10 +64,10 @@
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
     "active_groups": 15,
-    "active_scenarios": 15,
-    "new_results": 3,
-    "completed_results": 121612,
-    "events_written": 3,
+    "active_scenarios": 9,
+    "new_results": 0,
+    "completed_results": 121618,
+    "events_written": 0,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -76,7 +76,7 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 121612,
+    "raw_results": 121618,
     "evaluation_rows": 18422,
     "history_events": 0,
     "robust_count": 85,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-05T00:27:29+00:00",
+    "updated_utc": "2026-08-05T01:26:21+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 493,
+    "timeline_rows": 494,
     "performance_rows": 610,
     "preferred": 7,
     "avoid": 4,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-05T00:24:15+00:00",
+    "generated_utc": "2026-08-05T01:23:51+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1483,
-    "audit_last_hash": "8d2a41fb31404d48fd1033eb199a74a2317a6b9733010d42ed3b9ecdac448250",
+    "audit_rows": 1487,
+    "audit_last_hash": "7e767a2fcf5a66cae95faf772cc8082e97fae298feb5da3c6a53c212ed559cba",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,10 +313,10 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-05T00:27:37+00:00",
-    "positions": 1045,
+    "generated_utc": "2026-08-05T01:26:29+00:00",
+    "positions": 1038,
     "strategy_accounts": 347,
-    "alerts": 10,
+    "alerts": 8,
     "status": "OK",
     "error": null
   }
