@@ -1,12 +1,12 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-08-05T10:24:42+00:00
+Generato: 2026-08-05T11:26:00+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **121797**
+- Risultati Block 3 disponibili: **121881**
 - Valutazioni prodotte: **18422**
 - Candidature al Blocco 5: **5**
 - Mutazioni create automaticamente: **0**
@@ -16,10 +16,9 @@ Generato: 2026-08-05T10:24:42+00:00
 | Scenario | Campione pieno | Δ medio (R) | Mediana (R) | CI bootstrap basso | Migliora | Score | Stato |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | CH_MBV3_GB20_R100 | 181 | 0,353 | 0,149 | 0,245 | 61,9% | 93,8 | ELIGIBLE_FOR_MUTATION |
-| GB20_R040 | 1836 | 0,294 | 0,149 | 0,244 | 56,2% | 89,3 | ELIGIBLE_FOR_MUTATION |
-| GB30_R040 | 1836 | 0,266 | 0,140 | 0,216 | 55,8% | 89,0 | ELIGIBLE_FOR_MUTATION |
-| GB20_R050 | 1836 | 0,319 | 0,149 | 0,272 | 54,9% | 87,9 | VALIDATING |
-| GB40_R040 | 1836 | 0,231 | 0,107 | 0,186 | 54,1% | 87,4 | VALIDATING |
+| GB20_R040 | 1839 | 0,292 | 0,149 | 0,244 | 56,1% | 89,2 | ELIGIBLE_FOR_MUTATION |
+| GB30_R040 | 1839 | 0,264 | 0,140 | 0,218 | 55,7% | 88,9 | ELIGIBLE_FOR_MUTATION |
+| GB20_R050 | 1839 | 0,317 | 0,149 | 0,270 | 54,9% | 87,8 | VALIDATING |
 | GB20_R050 | 40 | 3,608 | 4,831 | 2,939 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB30_R050 | 40 | 3,583 | 4,818 | 2,878 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB20_R075 | 40 | 3,537 | 4,831 | 2,811 | 87,5% | 87,3 | EARLY_SIGNAL |
@@ -28,6 +27,7 @@ Generato: 2026-08-05T10:24:42+00:00
 | GB40_R075 | 40 | 3,411 | 4,678 | 2,753 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB50_R050 | 40 | 3,362 | 4,538 | 2,736 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB50_R075 | 40 | 3,299 | 4,538 | 2,515 | 87,5% | 87,3 | EARLY_SIGNAL |
+| GB40_R040 | 1839 | 0,229 | 0,105 | 0,185 | 54,1% | 87,3 | VALIDATING |
 | ATR15_R050 | 40 | 2,983 | 4,115 | 2,345 | 87,5% | 87,3 | EARLY_SIGNAL |
 | GB30_R100 | 40 | 3,407 | 4,818 | 2,653 | 87,5% | 87,3 | EARLY_SIGNAL |
 | TP_R075 | 40 | 3,375 | 4,587 | 2,659 | 87,5% | 87,3 | EARLY_SIGNAL |
