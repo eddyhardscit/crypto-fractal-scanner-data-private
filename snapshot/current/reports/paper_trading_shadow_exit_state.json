@@ -1584,7 +1584,7 @@
       "initial_risk_eur": 47.61010968755852,
       "initial_risk_price": 0.0022928889844691935,
       "initial_stop_price": 0.0724788489844692,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 0.0932303502,
       "margin_eur": 485.7861671106536,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -2696,7 +2696,7 @@
       "initial_risk_eur": 50.72425114341366,
       "initial_risk_price": 0.002364245703770501,
       "initial_stop_price": 0.07254020770377051,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 0.09321706952333335,
       "margin_eur": 501.86875177451105,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -5369,7 +5369,7 @@
       "initial_risk_eur": 0.810236191064746,
       "initial_risk_price": 0.03230140059076736,
       "initial_stop_price": 1.0965685045907674,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 1.5910793204800002,
       "margin_eur": 13.347838001596429,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -7403,7 +7403,7 @@
       "initial_risk_eur": 1.3971853695566097,
       "initial_risk_price": 0.002866609529706743,
       "initial_stop_price": 0.07288260352970674,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 0.10467391103000001,
       "margin_eur": 17.06289633066473,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -10740,7 +10740,7 @@
       "initial_risk_eur": 0.8599844999999999,
       "initial_risk_price": 0.31872103073245484,
       "initial_stop_price": 55.91060043073246,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 59.02004529633334,
       "margin_eur": 10.0,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -11518,8 +11518,8 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "hours": 24.0
           },
@@ -11539,8 +11539,8 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "hours": 48.0
           },
@@ -11812,8 +11812,8 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "target_r": 3.0
           },
@@ -11853,7 +11853,7 @@
       "initial_risk_eur": 4.2999225,
       "initial_risk_price": 0.31872103073245484,
       "initial_stop_price": 55.91060043073246,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 59.02004529633334,
       "margin_eur": 50.0,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -12631,8 +12631,8 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "hours": 24.0
           },
@@ -12652,8 +12652,8 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "hours": 48.0
           },
@@ -12925,8 +12925,8 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "target_r": 3.0
           },
@@ -12966,7 +12966,7 @@
       "initial_risk_eur": 9.964282210313506,
       "initial_risk_price": 0.31872103073245484,
       "initial_stop_price": 55.91060043073246,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 66.43229588300001,
       "margin_eur": 347.59750473340534,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -13744,8 +13744,8 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "hours": 24.0
           },
@@ -13765,8 +13765,8 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "hours": 48.0
           },
@@ -14038,8 +14038,8 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-05T01:00:00+00:00",
-          "observed_candles": 50,
+          "last_candle_time": "2026-08-05T02:00:00+00:00",
+          "observed_candles": 54,
           "parameters": {
             "target_r": 3.0
           },
@@ -14078,7 +14078,7 @@
       "initial_risk_eur": 49.48156413432759,
       "initial_risk_price": 2.3208684796007617,
       "initial_stop_price": 75.51122747960076,
-      "last_processed_candle": "2026-08-05T01:00:00+00:00",
+      "last_processed_candle": "2026-08-05T02:00:00+00:00",
       "liquidation_price": 109.41958670500001,
       "margin_eur": 780.2194468804917,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -15171,5 +15171,5 @@
     }
   },
   "schema_version": 1,
-  "updated_utc": "2026-08-05T01:24:04+00:00"
+  "updated_utc": "2026-08-05T02:24:10+00:00"
 }
