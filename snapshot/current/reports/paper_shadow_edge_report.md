@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-05T10:59:47+00:00
+Generato: 2026-08-05T12:00:01+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3328**
-- Trade Shadow/Research chiusi: **13083**
+- Trade Shadow/Research chiusi: **13085**
 - Eventi Shadow già presi dai Paper: **1594**
-- Eventi Shadow saltati dai Paper: **11489**
+- Eventi Shadow saltati dai Paper: **11491**
 - Profili con filtro Paper utile: **21**
 - Profili in cui il Paper potrebbe scartare edge: **3**
 - Profili con campione ancora insufficiente: **69**
@@ -32,11 +32,11 @@ Generato: 2026-08-05T10:59:47+00:00
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 62 | 274 | 33 | 241 | 0,05R | -0,13R | +0,18R | 0,03R | -0,01R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 64 | 260 | 35 | 225 | 0,20R | -0,07R | +0,27R | 0,17R | -0,03R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 68 | 246 | 45 | 201 | -0,08R | -0,08R | -0,00R | 0,05R | +0,13R | NESSUN EDGE CHIARO |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 238 | 0 | 238 | 0,00R | -0,12R | +0,12R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 239 | 0 | 239 | 0,00R | -0,12R | +0,12R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 46 | 238 | 14 | 224 | -0,42R | -0,05R | -0,37R | -0,17R | +0,25R | SELEZIONE DA RIVEDERE |
 | SHADOW_COMBO_TREND | Combo Trend | 62 | 230 | 18 | 212 | 0,13R | -0,06R | +0,19R | -0,17R | -0,30R | FILTRO PAPER UTILE |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 41 | 229 | 16 | 213 | 0,39R | -0,06R | +0,45R | -0,23R | -0,62R | FILTRO PAPER UTILE |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 54 | 227 | 12 | 215 | -0,70R | 0,15R | -0,86R | -0,14R | +0,56R | PAPER SCARTA EDGE |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 54 | 228 | 12 | 216 | -0,70R | 0,15R | -0,86R | -0,14R | +0,56R | PAPER SCARTA EDGE |
 | Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 66 | 223 | 30 | 193 | 0,08R | -0,04R | +0,12R | 0,08R | +0,01R | NESSUN EDGE CHIARO |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | n/a | 0 | 212 | 0 | 212 | 0,00R | -0,18R | +0,18R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | n/a | 0 | 208 | 0 | 208 | 0,00R | -0,19R | +0,19R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
