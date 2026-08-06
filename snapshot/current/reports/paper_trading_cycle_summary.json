@@ -1,33 +1,33 @@
 {
-  "generated_utc": "2026-08-06T10:56:08+00:00",
+  "generated_utc": "2026-08-06T11:56:49+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 216,
+  "signals_generated": 197,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-06T10:53:29+00:00",
-    "checked_utc": "2026-08-06T10:53:29+00:00",
-    "snapshot_age_minutes": 0.00409555,
+    "snapshot_generated_utc": "2026-08-06T11:53:29+00:00",
+    "checked_utc": "2026-08-06T11:53:29+00:00",
+    "snapshot_age_minutes": 0.0158322,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
     "opened_this_cycle": 0,
-    "closed_this_cycle": 0,
-    "open_positions": 547,
-    "closed_trades": 14077
+    "closed_this_cycle": 42,
+    "open_positions": 455,
+    "closed_trades": 14197
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 2,
     "status_counts": {
-      "BOCCIATA RESEARCH": 72,
+      "BOCCIATA RESEARCH": 71,
       "RACCOLTA RESEARCH": 47,
       "SEGNALE VALIDATO · PAPER IN RACCOLTA": 1,
-      "BOCCIATA PAPER": 5,
+      "BOCCIATA PAPER": 6,
       "PRONTA PER REVISIONE LIVE": 2
     },
     "thresholds": {
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-06T10:56:05+00:00",
+    "updated_utc": "2026-08-06T11:56:45+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 525,
+    "timeline_rows": 526,
     "performance_rows": 610,
     "preferred": 7,
     "avoid": 4,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-06T10:53:53+00:00",
+    "generated_utc": "2026-08-06T11:54:06+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1621,
-    "audit_last_hash": "23d096b6f8376ed9edb5eb4cdfea5ed1216892642e7e6284cc0b87f2964bb4af",
+    "audit_rows": 1625,
+    "audit_last_hash": "23205b6843ed424a0d681ece265efb150bd6707d9aafd7fa23efa166f9363e7f",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,10 +313,10 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-06T10:56:11+00:00",
-    "positions": 921,
+    "generated_utc": "2026-08-06T11:56:50+00:00",
+    "positions": 764,
     "strategy_accounts": 347,
-    "alerts": 5,
+    "alerts": 4,
     "status": "OK",
     "error": null
   }
