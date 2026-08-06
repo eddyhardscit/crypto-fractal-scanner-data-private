@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **ALT_ROTATION_DOWN**
 - Famiglia: **ALT_ROTATION**
-- Confidenza: **78,90%**
+- Confidenza: **77,80%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Le altcoin stanno sottoperformando BTC: mediana relativa -1.59%, 64% sotto -1%.
-- BTC trend score: **3,00**; ADX: **21,18**; breadth sopra EMA50: **58,33%**
-- Mediana alt vs BTC: **-1,59%**; dispersione: **7,35%**
+- Motivo: Le altcoin stanno sottoperformando BTC: mediana relativa -1.46%, 64% sotto -1%.
+- BTC trend score: **3,00**; ADX: **21,18**; breadth sopra EMA50: **50,00%**
+- Mediana alt vs BTC: **-1,46%**; dispersione: **8,91%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **547**
 - Trade research chiusi: **14524**
 - Eventi di mercato indipendenti chiusi: **2280**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **42746**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **42843**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
