@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-07T00:08:47+00:00
+Generato: 2026-08-07T01:08:49+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3332**
-- Trade Shadow/Research chiusi: **15119**
+- Trade Shadow/Research chiusi: **15120**
 - Eventi Shadow già presi dai Paper: **1600**
-- Eventi Shadow saltati dai Paper: **13519**
+- Eventi Shadow saltati dai Paper: **13520**
 - Profili con filtro Paper utile: **21**
 - Profili in cui il Paper potrebbe scartare edge: **5**
 - Profili con campione ancora insufficiente: **69**
@@ -57,7 +57,7 @@ Generato: 2026-08-07T00:08:47+00:00
 | SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | Top 5 + BTC — Guard + MFE | 41 | 164 | 19 | 145 | 0,09R | 0,05R | +0,04R | -0,25R | -0,34R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 20 | 160 | 9 | 151 | 0,41R | -0,08R | +0,49R | -0,05R | -0,46R | FILTRO PAPER UTILE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 41 | 159 | 24 | 135 | 0,16R | 0,02R | +0,14R | 0,14R | -0,02R | NESSUN EDGE CHIARO |
-| MAIN | Principale 4H | 31 | 157 | 22 | 135 | -0,02R | -0,13R | +0,11R | -0,19R | -0,17R | NESSUN EDGE CHIARO |
+| MAIN | Principale 4H | 31 | 158 | 22 | 136 | -0,02R | -0,13R | +0,11R | -0,19R | -0,17R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | Rapida V3 — Long + no HIGH + score <7,5 | 44 | 157 | 33 | 124 | 0,00R | -0,03R | +0,04R | -0,07R | -0,08R | NESSUN EDGE CHIARO |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | n/a | 0 | 156 | 0 | 156 | 0,00R | -0,28R | +0,28R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_MFE_V1 | Top 5 + BTC — Guard + BTC≤3 + MFE | 34 | 154 | 13 | 141 | 0,20R | 0,04R | +0,16R | -0,19R | -0,39R | NESSUN EDGE CHIARO |

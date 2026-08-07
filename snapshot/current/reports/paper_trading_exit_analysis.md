@@ -1,6 +1,6 @@
 # Analisi uscite paper trading a leva
 
-Generato: 2026-08-06T23:56:08+00:00
+Generato: 2026-08-07T01:11:04+00:00
 
 > Analisi osservativa: non modifica ingressi, uscite o rischio del paper trading.
 
