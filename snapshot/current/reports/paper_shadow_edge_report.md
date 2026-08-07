@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-07T22:13:25+00:00
+Generato: 2026-08-07T23:13:54+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3334**
-- Trade Shadow/Research chiusi: **15765**
+- Trade Shadow/Research chiusi: **15766**
 - Eventi Shadow già presi dai Paper: **1602**
-- Eventi Shadow saltati dai Paper: **14163**
+- Eventi Shadow saltati dai Paper: **14164**
 - Profili con filtro Paper utile: **21**
 - Profili in cui il Paper potrebbe scartare edge: **5**
 - Profili con campione ancora insufficiente: **69**
@@ -26,7 +26,7 @@ Generato: 2026-08-07T22:13:25+00:00
 | SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 72 | 401 | 34 | 367 | -0,06R | -0,15R | +0,09R | 0,12R | +0,18R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 79 | 374 | 34 | 340 | 0,28R | -0,21R | +0,49R | -0,02R | -0,30R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 77 | 363 | 43 | 320 | -0,05R | -0,17R | +0,12R | 0,02R | +0,07R | NESSUN EDGE CHIARO |
-| Forza relativa 1H V1 | Forza relativa 1H V1 | 52 | 341 | 15 | 326 | -0,16R | -0,09R | -0,08R | -0,23R | -0,06R | NESSUN EDGE CHIARO |
+| Forza relativa 1H V1 | Forza relativa 1H V1 | 52 | 342 | 15 | 327 | -0,16R | -0,09R | -0,08R | -0,23R | -0,06R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 50 | 337 | 19 | 318 | -0,29R | 0,00R | -0,29R | -0,28R | +0,01R | SELEZIONE DA RIVEDERE |
 | SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 40 | 333 | 17 | 316 | 0,40R | -0,03R | +0,43R | 0,19R | -0,22R | FILTRO PAPER UTILE |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 62 | 332 | 33 | 299 | 0,05R | -0,15R | +0,20R | 0,03R | -0,01R | FILTRO PAPER UTILE |
