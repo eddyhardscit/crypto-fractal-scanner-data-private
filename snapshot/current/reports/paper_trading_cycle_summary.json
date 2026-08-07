@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-08-07T21:26:46+00:00",
+  "generated_utc": "2026-08-07T22:28:24+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 260,
+  "signals_generated": 158,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-07T21:23:30+00:00",
-    "checked_utc": "2026-08-07T21:23:30+00:00",
-    "snapshot_age_minutes": 0.013559166666666667,
+    "snapshot_generated_utc": "2026-08-07T22:23:38+00:00",
+    "checked_utc": "2026-08-07T22:23:38+00:00",
+    "snapshot_age_minutes": 0.010510783333333332,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -18,8 +18,8 @@
   "research_all_signals": {
     "opened_this_cycle": 0,
     "closed_this_cycle": 0,
-    "open_positions": 565,
-    "closed_trades": 15206
+    "open_positions": 562,
+    "closed_trades": 15209
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 2,
@@ -51,9 +51,9 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 515,
-    "below_score": 847,
-    "strategy_filter": 27,
+    "near_miss": 437,
+    "below_score": 969,
+    "strategy_filter": 23,
     "stale": 57,
     "opened": 0
   },
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-07T21:26:42+00:00",
+    "updated_utc": "2026-08-07T22:28:15+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 558,
+    "timeline_rows": 559,
     "performance_rows": 610,
     "preferred": 7,
     "avoid": 4,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-07T21:23:51+00:00",
+    "generated_utc": "2026-08-07T22:24:27+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1758,
-    "audit_last_hash": "8865e2c9e0a578f5527efc1f10a58f4c2b2c1763efcfd90d07d86750cd55c1d9",
+    "audit_rows": 1762,
+    "audit_last_hash": "4c2e83cc86206e5bf7b6b405c11bb438cb04fc7335ec8c626105adebe983ed3a",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,8 +313,8 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-07T21:26:48+00:00",
-    "positions": 990,
+    "generated_utc": "2026-08-07T22:28:27+00:00",
+    "positions": 986,
     "strategy_accounts": 347,
     "alerts": 5,
     "status": "OK",
