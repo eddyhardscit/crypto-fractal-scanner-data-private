@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-08-07T09:14:00+00:00",
+  "generated_utc": "2026-08-07T10:13:03+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 150,
+  "signals_generated": 232,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-07T09:08:29+00:00",
-    "checked_utc": "2026-08-07T09:08:30+00:00",
-    "snapshot_age_minutes": 0.01737915,
+    "snapshot_generated_utc": "2026-08-07T10:08:32+00:00",
+    "checked_utc": "2026-08-07T10:08:32+00:00",
+    "snapshot_age_minutes": 0.003617533333333333,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
-    "opened_this_cycle": 13,
+    "opened_this_cycle": 74,
     "closed_this_cycle": 0,
-    "open_positions": 579,
-    "closed_trades": 14710
+    "open_positions": 640,
+    "closed_trades": 14723
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 3,
@@ -51,9 +51,9 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 612,
-    "below_score": 964,
-    "strategy_filter": 29,
+    "near_miss": 483,
+    "below_score": 796,
+    "strategy_filter": 41,
     "stale": 57,
     "opened": 0
   },
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-07T09:13:56+00:00",
+    "updated_utc": "2026-08-07T10:13:00+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 547,
+    "timeline_rows": 548,
     "performance_rows": 610,
     "preferred": 7,
     "avoid": 4,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-07T09:08:52+00:00",
+    "generated_utc": "2026-08-07T10:10:13+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1709,
-    "audit_last_hash": "cd091110daec1d49f3c3935479edf2c2b8350a7eee70107ffbe3615d1a8f630b",
+    "audit_rows": 1713,
+    "audit_last_hash": "a34ec875a9068df15fad88b85bbb52a978933793d2807f288f5a085923991e33",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,8 +313,8 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-07T09:14:02+00:00",
-    "positions": 982,
+    "generated_utc": "2026-08-07T10:13:05+00:00",
+    "positions": 1096,
     "strategy_accounts": 347,
     "alerts": 3,
     "status": "OK",
