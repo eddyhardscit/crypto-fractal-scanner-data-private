@@ -1,6 +1,6 @@
 # Blocco 7 — Governance promozioni Paper
 
-Generato: 2026-08-08T08:28:00+00:00
+Generato: 2026-08-08T10:42:00+00:00
 
 > Nessuna promozione automatica. Approvazione umana e comando di esecuzione separato sono obbligatori.
 
