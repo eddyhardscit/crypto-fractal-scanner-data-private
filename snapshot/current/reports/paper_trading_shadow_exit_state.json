@@ -1113,7 +1113,7 @@
       "initial_risk_eur": 47.61010968755852,
       "initial_risk_price": 0.0022928889844691935,
       "initial_stop_price": 0.0724788489844692,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 0.0932303502,
       "margin_eur": 485.7861671106536,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -2225,7 +2225,7 @@
       "initial_risk_eur": 50.72425114341366,
       "initial_risk_price": 0.002364245703770501,
       "initial_stop_price": 0.07254020770377051,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 0.09321706952333335,
       "margin_eur": 501.86875177451105,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -5820,7 +5820,7 @@
       "initial_risk_eur": 1.3971853695566097,
       "initial_risk_price": 0.002866609529706743,
       "initial_stop_price": 0.07288260352970674,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 0.10467391103000001,
       "margin_eur": 17.06289633066473,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -6933,7 +6933,7 @@
       "initial_risk_eur": 1.0243200000000001,
       "initial_risk_price": 0.00048461128235520456,
       "initial_stop_price": 0.07145041528235521,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 0.07534202858000001,
       "margin_eur": 10.0,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -6954,8 +6954,8 @@
           "exit_time": "",
           "id": "ATR10_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 1.0
@@ -6976,8 +6976,8 @@
           "exit_time": "",
           "id": "ATR15_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 1.5
@@ -6998,8 +6998,8 @@
           "exit_time": "",
           "id": "ATR15_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 1.5
@@ -7020,8 +7020,8 @@
           "exit_time": "",
           "id": "ATR20_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 2.0
@@ -7042,8 +7042,8 @@
           "exit_time": "",
           "id": "ATR20_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 2.0
@@ -7064,8 +7064,8 @@
           "exit_time": "",
           "id": "ATR30_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 3.0
@@ -7107,8 +7107,8 @@
           "exit_time": "",
           "id": "BE_A030",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.3
           },
@@ -7128,8 +7128,8 @@
           "exit_time": "",
           "id": "BE_A040",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4
           },
@@ -7149,8 +7149,8 @@
           "exit_time": "",
           "id": "BE_A050",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5
           },
@@ -7170,8 +7170,8 @@
           "exit_time": "",
           "id": "BE_A060",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.6
           },
@@ -7191,8 +7191,8 @@
           "exit_time": "",
           "id": "BE_A075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75
           },
@@ -7212,8 +7212,8 @@
           "exit_time": "",
           "id": "BE_A100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0
           },
@@ -7233,8 +7233,8 @@
           "exit_time": "",
           "id": "BE_A125",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.25
           },
@@ -7254,8 +7254,8 @@
           "exit_time": "",
           "id": "BE_R040",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4
           },
@@ -7275,8 +7275,8 @@
           "exit_time": "",
           "id": "BE_R050",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5
           },
@@ -7296,8 +7296,8 @@
           "exit_time": "",
           "id": "BE_R075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75
           },
@@ -7317,8 +7317,8 @@
           "exit_time": "",
           "id": "BE_R100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0
           },
@@ -7338,8 +7338,8 @@
           "exit_time": "",
           "id": "GB20_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.2
@@ -7360,8 +7360,8 @@
           "exit_time": "",
           "id": "GB20_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.2
@@ -7382,8 +7382,8 @@
           "exit_time": "",
           "id": "GB20_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.2
@@ -7404,8 +7404,8 @@
           "exit_time": "",
           "id": "GB20_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.2
@@ -7426,8 +7426,8 @@
           "exit_time": "",
           "id": "GB20_R140",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.4,
             "giveback_fraction": 0.2
@@ -7448,8 +7448,8 @@
           "exit_time": "",
           "id": "GB30_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.3
@@ -7470,8 +7470,8 @@
           "exit_time": "",
           "id": "GB30_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.3
@@ -7492,8 +7492,8 @@
           "exit_time": "",
           "id": "GB30_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.3
@@ -7514,8 +7514,8 @@
           "exit_time": "",
           "id": "GB30_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.3
@@ -7536,8 +7536,8 @@
           "exit_time": "",
           "id": "GB40_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.4
@@ -7558,8 +7558,8 @@
           "exit_time": "",
           "id": "GB40_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.4
@@ -7580,8 +7580,8 @@
           "exit_time": "",
           "id": "GB40_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.4
@@ -7602,8 +7602,8 @@
           "exit_time": "",
           "id": "GB40_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.4
@@ -7624,8 +7624,8 @@
           "exit_time": "",
           "id": "GB50_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.5
@@ -7646,8 +7646,8 @@
           "exit_time": "",
           "id": "GB50_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.5
@@ -7668,8 +7668,8 @@
           "exit_time": "",
           "id": "GB50_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.5
@@ -7690,8 +7690,8 @@
           "exit_time": "",
           "id": "TIME_12H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 12.0
           },
@@ -7711,8 +7711,8 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 24.0
           },
@@ -7732,8 +7732,8 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 48.0
           },
@@ -7746,22 +7746,22 @@
         "TIME_4H": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": -0.21889415668423864,
+          "exit_price": 0.070984194,
+          "exit_raw_price": 0.07097,
+          "exit_reason": "TIME_EXIT",
+          "exit_time": "2026-08-08T19:30:00+00:00",
           "id": "TIME_4H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T19:30:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "hours": 4.0
           },
           "peak_favorable_price": 0.07083,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 0.07145041528235521
         },
         "TIME_6H": {
@@ -7774,8 +7774,8 @@
           "exit_time": "",
           "id": "TIME_6H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 6.0
           },
@@ -7795,8 +7795,8 @@
           "exit_time": "",
           "id": "TP_R035",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.35
           },
@@ -7816,8 +7816,8 @@
           "exit_time": "",
           "id": "TP_R040",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.4
           },
@@ -7837,8 +7837,8 @@
           "exit_time": "",
           "id": "TP_R050",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.5
           },
@@ -7858,8 +7858,8 @@
           "exit_time": "",
           "id": "TP_R060",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.6
           },
@@ -7879,8 +7879,8 @@
           "exit_time": "",
           "id": "TP_R075",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.75
           },
@@ -7900,8 +7900,8 @@
           "exit_time": "",
           "id": "TP_R100",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.0
           },
@@ -7921,8 +7921,8 @@
           "exit_time": "",
           "id": "TP_R125",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.25
           },
@@ -7942,8 +7942,8 @@
           "exit_time": "",
           "id": "TP_R150",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.5
           },
@@ -7963,8 +7963,8 @@
           "exit_time": "",
           "id": "TP_R200",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 2.0
           },
@@ -7984,8 +7984,8 @@
           "exit_time": "",
           "id": "TP_R250",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 2.5
           },
@@ -8005,8 +8005,8 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 3.0
           },
@@ -8026,14 +8026,15 @@
     },
     "SHADOW_RSI_SHORT_15X_10_RSI85:05a1f01fe1d9a4609788": {
       "actual": {
-        "close_reason": "",
-        "closed": false,
-        "closed_at": "",
-        "comparable_pnl_eur": null,
-        "exit_price": null,
-        "funding_pnl_eur": null,
-        "holding_hours": null,
-        "net_pnl_eur": null
+        "close_reason": "TIME_EXIT",
+        "closed": true,
+        "closed_at": "2026-08-08T19:53:54+00:00",
+        "comparable_pnl_eur": 0.16306840201677494,
+        "exit_price": 76.1672304,
+        "funding_pnl_eur": 0.0,
+        "holding_hours": 4.2481,
+        "net_pnl_eur": 0.16306840201677494,
+        "risk_model_version_at_exit": "block4_5_v1"
       },
       "asset": "SOL",
       "atr_pct": 0.2934,
@@ -8045,7 +8046,7 @@
       "initial_risk_eur": 0.6,
       "initial_risk_price": 0.30536691439999686,
       "initial_stop_price": 76.6470955144,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 81.04946853033334,
       "margin_eur": 10.0,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -8073,7 +8074,7 @@
             "atr_multiple": 1.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8095,7 +8096,7 @@
             "atr_multiple": 1.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8110,13 +8111,13 @@
           "exit_time": "",
           "id": "ATR15_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 1.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8139,7 +8140,7 @@
             "atr_multiple": 2.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8154,13 +8155,13 @@
           "exit_time": "",
           "id": "ATR20_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 2.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8176,13 +8177,13 @@
           "exit_time": "",
           "id": "ATR30_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 3.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8204,7 +8205,7 @@
             "activation_r": 0.2
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8225,7 +8226,7 @@
             "activation_r": 0.3
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8246,7 +8247,7 @@
             "activation_r": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8267,7 +8268,7 @@
             "activation_r": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8288,7 +8289,7 @@
             "activation_r": 0.6
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8303,12 +8304,12 @@
           "exit_time": "",
           "id": "BE_A075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 0.75
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8324,19 +8325,19 @@
           "exit_time": "",
           "id": "BE_A100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
           "stop_price": 76.3417286
         },
         "BE_A125": {
-          "activated": false,
+          "activated": true,
           "candle_gap_count": 0,
           "comparable_pnl_eur": null,
           "exit_price": null,
@@ -8345,16 +8346,16 @@
           "exit_time": "",
           "id": "BE_A125",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.25
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
-          "stop_price": 76.6470955144
+          "stop_price": 76.3417286
         },
         "BE_R040": {
           "activated": true,
@@ -8372,7 +8373,7 @@
             "activation_r": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8393,7 +8394,7 @@
             "activation_r": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -8408,12 +8409,12 @@
           "exit_time": "",
           "id": "BE_R075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 0.75
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8429,12 +8430,12 @@
           "exit_time": "",
           "id": "BE_R100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8457,7 +8458,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.24034572000001
@@ -8479,7 +8480,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.17954572
@@ -8501,7 +8502,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.09714572
@@ -8523,7 +8524,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.09714572
@@ -8538,13 +8539,13 @@
           "exit_time": "",
           "id": "GB20_R140",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.4,
             "giveback_fraction": 0.2
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8567,7 +8568,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.25301858
@@ -8589,7 +8590,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.19981858
@@ -8611,7 +8612,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.12771857999999
@@ -8633,7 +8634,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.12771857999999
@@ -8655,7 +8656,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.26569144
@@ -8677,7 +8678,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.22009143999999
@@ -8699,7 +8700,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.15829144
@@ -8721,7 +8722,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.15829144
@@ -8743,7 +8744,7 @@
             "giveback_fraction": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.2403643
@@ -8751,46 +8752,46 @@
         "GB50_R075": {
           "activated": true,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 0.18889872517823328,
+          "exit_price": 76.15409207286,
+          "exit_raw_price": 76.1388643,
+          "exit_reason": "MFE_GIVEBACK",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "GB50_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.5
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
-          "stop_price": 76.1528643
+          "status": "EXITED",
+          "stop_price": 76.1388643
         },
         "GB50_R100": {
           "activated": true,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 0.18889872517823328,
+          "exit_price": 76.15409207286,
+          "exit_raw_price": 76.1388643,
+          "exit_reason": "MFE_GIVEBACK",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "GB50_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.5
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
-          "stop_price": 76.1528643
+          "status": "EXITED",
+          "stop_price": 76.1388643
         },
         "TIME_12H": {
           "activated": false,
@@ -8802,12 +8803,12 @@
           "exit_time": "",
           "id": "TIME_12H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 12.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8823,12 +8824,12 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 24.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8844,12 +8845,12 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 48.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8858,22 +8859,22 @@
         "TIME_4H": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 0.2299267336998754,
+          "exit_price": 76.1332236,
+          "exit_raw_price": 76.118,
+          "exit_reason": "TIME_EXIT",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "TIME_4H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "hours": 4.0
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 76.6470955144
         },
         "TIME_6H": {
@@ -8886,12 +8887,12 @@
           "exit_time": "",
           "id": "TIME_6H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 6.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -8913,7 +8914,7 @@
             "target_r": 0.35
           },
           "peak_favorable_price": 76.3417286,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -8934,7 +8935,7 @@
             "target_r": 0.4
           },
           "peak_favorable_price": 76.3417286,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -8955,7 +8956,7 @@
             "target_r": 0.5
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -8976,7 +8977,7 @@
             "target_r": 0.6
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -8997,7 +8998,7 @@
             "target_r": 0.75
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -9018,7 +9019,7 @@
             "target_r": 1.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -9026,22 +9027,22 @@
         "TP_R125": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 0.5405820899999889,
+          "exit_price": 75.9752119609914,
+          "exit_raw_price": 75.960019957,
+          "exit_reason": "FIXED_R_TARGET",
+          "exit_time": "2026-08-08T19:30:00+00:00",
           "id": "TP_R125",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:30:00+00:00",
+          "observed_candles": 16,
           "parameters": {
             "target_r": 1.25
           },
           "peak_favorable_price": 75.964,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 76.6470955144
         },
         "TP_R150": {
@@ -9054,12 +9055,12 @@
           "exit_time": "",
           "id": "TP_R150",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 1.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -9075,12 +9076,12 @@
           "exit_time": "",
           "id": "TP_R200",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 2.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -9096,12 +9097,12 @@
           "exit_time": "",
           "id": "TP_R250",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 2.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -9117,12 +9118,12 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 3.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -9158,7 +9159,7 @@
       "initial_risk_eur": 5.1216,
       "initial_risk_price": 0.00048461128235520456,
       "initial_stop_price": 0.07145041528235521,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 0.07534202858000001,
       "margin_eur": 50.0,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -9179,8 +9180,8 @@
           "exit_time": "",
           "id": "ATR10_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 1.0
@@ -9201,8 +9202,8 @@
           "exit_time": "",
           "id": "ATR15_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 1.5
@@ -9223,8 +9224,8 @@
           "exit_time": "",
           "id": "ATR15_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 1.5
@@ -9245,8 +9246,8 @@
           "exit_time": "",
           "id": "ATR20_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 2.0
@@ -9267,8 +9268,8 @@
           "exit_time": "",
           "id": "ATR20_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 2.0
@@ -9289,8 +9290,8 @@
           "exit_time": "",
           "id": "ATR30_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 3.0
@@ -9332,8 +9333,8 @@
           "exit_time": "",
           "id": "BE_A030",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.3
           },
@@ -9353,8 +9354,8 @@
           "exit_time": "",
           "id": "BE_A040",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4
           },
@@ -9374,8 +9375,8 @@
           "exit_time": "",
           "id": "BE_A050",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5
           },
@@ -9395,8 +9396,8 @@
           "exit_time": "",
           "id": "BE_A060",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.6
           },
@@ -9416,8 +9417,8 @@
           "exit_time": "",
           "id": "BE_A075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75
           },
@@ -9437,8 +9438,8 @@
           "exit_time": "",
           "id": "BE_A100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0
           },
@@ -9458,8 +9459,8 @@
           "exit_time": "",
           "id": "BE_A125",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.25
           },
@@ -9479,8 +9480,8 @@
           "exit_time": "",
           "id": "BE_R040",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4
           },
@@ -9500,8 +9501,8 @@
           "exit_time": "",
           "id": "BE_R050",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5
           },
@@ -9521,8 +9522,8 @@
           "exit_time": "",
           "id": "BE_R075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75
           },
@@ -9542,8 +9543,8 @@
           "exit_time": "",
           "id": "BE_R100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0
           },
@@ -9563,8 +9564,8 @@
           "exit_time": "",
           "id": "GB20_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.2
@@ -9585,8 +9586,8 @@
           "exit_time": "",
           "id": "GB20_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.2
@@ -9607,8 +9608,8 @@
           "exit_time": "",
           "id": "GB20_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.2
@@ -9629,8 +9630,8 @@
           "exit_time": "",
           "id": "GB20_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.2
@@ -9651,8 +9652,8 @@
           "exit_time": "",
           "id": "GB20_R140",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.4,
             "giveback_fraction": 0.2
@@ -9673,8 +9674,8 @@
           "exit_time": "",
           "id": "GB30_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.3
@@ -9695,8 +9696,8 @@
           "exit_time": "",
           "id": "GB30_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.3
@@ -9717,8 +9718,8 @@
           "exit_time": "",
           "id": "GB30_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.3
@@ -9739,8 +9740,8 @@
           "exit_time": "",
           "id": "GB30_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.3
@@ -9761,8 +9762,8 @@
           "exit_time": "",
           "id": "GB40_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.4
@@ -9783,8 +9784,8 @@
           "exit_time": "",
           "id": "GB40_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.4
@@ -9805,8 +9806,8 @@
           "exit_time": "",
           "id": "GB40_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.4
@@ -9827,8 +9828,8 @@
           "exit_time": "",
           "id": "GB40_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.4
@@ -9849,8 +9850,8 @@
           "exit_time": "",
           "id": "GB50_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.5
@@ -9871,8 +9872,8 @@
           "exit_time": "",
           "id": "GB50_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.5
@@ -9893,8 +9894,8 @@
           "exit_time": "",
           "id": "GB50_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.5
@@ -9915,8 +9916,8 @@
           "exit_time": "",
           "id": "TIME_12H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 12.0
           },
@@ -9936,8 +9937,8 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 24.0
           },
@@ -9957,8 +9958,8 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 48.0
           },
@@ -9971,22 +9972,22 @@
         "TIME_4H": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": -1.094470783421193,
+          "exit_price": 0.070984194,
+          "exit_raw_price": 0.07097,
+          "exit_reason": "TIME_EXIT",
+          "exit_time": "2026-08-08T19:30:00+00:00",
           "id": "TIME_4H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T19:30:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "hours": 4.0
           },
           "peak_favorable_price": 0.07083,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 0.07145041528235521
         },
         "TIME_6H": {
@@ -9999,8 +10000,8 @@
           "exit_time": "",
           "id": "TIME_6H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 6.0
           },
@@ -10020,8 +10021,8 @@
           "exit_time": "",
           "id": "TP_R035",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.35
           },
@@ -10041,8 +10042,8 @@
           "exit_time": "",
           "id": "TP_R040",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.4
           },
@@ -10062,8 +10063,8 @@
           "exit_time": "",
           "id": "TP_R050",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.5
           },
@@ -10083,8 +10084,8 @@
           "exit_time": "",
           "id": "TP_R060",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.6
           },
@@ -10104,8 +10105,8 @@
           "exit_time": "",
           "id": "TP_R075",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.75
           },
@@ -10125,8 +10126,8 @@
           "exit_time": "",
           "id": "TP_R100",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.0
           },
@@ -10146,8 +10147,8 @@
           "exit_time": "",
           "id": "TP_R125",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.25
           },
@@ -10167,8 +10168,8 @@
           "exit_time": "",
           "id": "TP_R150",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.5
           },
@@ -10188,8 +10189,8 @@
           "exit_time": "",
           "id": "TP_R200",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 2.0
           },
@@ -10209,8 +10210,8 @@
           "exit_time": "",
           "id": "TP_R250",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 2.5
           },
@@ -10230,8 +10231,8 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 3.0
           },
@@ -10251,14 +10252,15 @@
     },
     "SHADOW_RSI_SHORT_15X_50_RSI85:a51d1376c858534cbc52": {
       "actual": {
-        "close_reason": "",
-        "closed": false,
-        "closed_at": "",
-        "comparable_pnl_eur": null,
-        "exit_price": null,
-        "funding_pnl_eur": null,
-        "holding_hours": null,
-        "net_pnl_eur": null
+        "close_reason": "TIME_EXIT",
+        "closed": true,
+        "closed_at": "2026-08-08T19:53:54+00:00",
+        "comparable_pnl_eur": 0.8153420100838746,
+        "exit_price": 76.1672304,
+        "funding_pnl_eur": 0.0,
+        "holding_hours": 4.2481,
+        "net_pnl_eur": 0.8153420100838746,
+        "risk_model_version_at_exit": "block4_5_v1"
       },
       "asset": "SOL",
       "atr_pct": 0.2934,
@@ -10270,7 +10272,7 @@
       "initial_risk_eur": 3.0,
       "initial_risk_price": 0.30536691439999686,
       "initial_stop_price": 76.6470955144,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 81.04946853033334,
       "margin_eur": 50.0,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -10298,7 +10300,7 @@
             "atr_multiple": 1.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10320,7 +10322,7 @@
             "atr_multiple": 1.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10335,13 +10337,13 @@
           "exit_time": "",
           "id": "ATR15_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 1.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10364,7 +10366,7 @@
             "atr_multiple": 2.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10379,13 +10381,13 @@
           "exit_time": "",
           "id": "ATR20_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 2.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10401,13 +10403,13 @@
           "exit_time": "",
           "id": "ATR30_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 3.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10429,7 +10431,7 @@
             "activation_r": 0.2
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10450,7 +10452,7 @@
             "activation_r": 0.3
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10471,7 +10473,7 @@
             "activation_r": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10492,7 +10494,7 @@
             "activation_r": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10513,7 +10515,7 @@
             "activation_r": 0.6
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10528,12 +10530,12 @@
           "exit_time": "",
           "id": "BE_A075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 0.75
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10549,19 +10551,19 @@
           "exit_time": "",
           "id": "BE_A100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
           "stop_price": 76.3417286
         },
         "BE_A125": {
-          "activated": false,
+          "activated": true,
           "candle_gap_count": 0,
           "comparable_pnl_eur": null,
           "exit_price": null,
@@ -10570,16 +10572,16 @@
           "exit_time": "",
           "id": "BE_A125",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.25
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
-          "stop_price": 76.6470955144
+          "stop_price": 76.3417286
         },
         "BE_R040": {
           "activated": true,
@@ -10597,7 +10599,7 @@
             "activation_r": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10618,7 +10620,7 @@
             "activation_r": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -10633,12 +10635,12 @@
           "exit_time": "",
           "id": "BE_R075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 0.75
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10654,12 +10656,12 @@
           "exit_time": "",
           "id": "BE_R100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10682,7 +10684,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.24034572000001
@@ -10704,7 +10706,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.17954572
@@ -10726,7 +10728,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.09714572
@@ -10748,7 +10750,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.09714572
@@ -10763,13 +10765,13 @@
           "exit_time": "",
           "id": "GB20_R140",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.4,
             "giveback_fraction": 0.2
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -10792,7 +10794,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.25301858
@@ -10814,7 +10816,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.19981858
@@ -10836,7 +10838,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.12771857999999
@@ -10858,7 +10860,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.12771857999999
@@ -10880,7 +10882,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.26569144
@@ -10902,7 +10904,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.22009143999999
@@ -10924,7 +10926,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.15829144
@@ -10946,7 +10948,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.15829144
@@ -10968,7 +10970,7 @@
             "giveback_fraction": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.2403643
@@ -10976,46 +10978,46 @@
         "GB50_R075": {
           "activated": true,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 0.9444936258911661,
+          "exit_price": 76.15409207286,
+          "exit_raw_price": 76.1388643,
+          "exit_reason": "MFE_GIVEBACK",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "GB50_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.5
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
-          "stop_price": 76.1528643
+          "status": "EXITED",
+          "stop_price": 76.1388643
         },
         "GB50_R100": {
           "activated": true,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 0.9444936258911661,
+          "exit_price": 76.15409207286,
+          "exit_raw_price": 76.1388643,
+          "exit_reason": "MFE_GIVEBACK",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "GB50_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.5
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
-          "stop_price": 76.1528643
+          "status": "EXITED",
+          "stop_price": 76.1388643
         },
         "TIME_12H": {
           "activated": false,
@@ -11027,12 +11029,12 @@
           "exit_time": "",
           "id": "TIME_12H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 12.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11048,12 +11050,12 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 24.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11069,12 +11071,12 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 48.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11083,22 +11085,22 @@
         "TIME_4H": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 1.1496336684993766,
+          "exit_price": 76.1332236,
+          "exit_raw_price": 76.118,
+          "exit_reason": "TIME_EXIT",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "TIME_4H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "hours": 4.0
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 76.6470955144
         },
         "TIME_6H": {
@@ -11111,12 +11113,12 @@
           "exit_time": "",
           "id": "TIME_6H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 6.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11138,7 +11140,7 @@
             "target_r": 0.35
           },
           "peak_favorable_price": 76.3417286,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -11159,7 +11161,7 @@
             "target_r": 0.4
           },
           "peak_favorable_price": 76.3417286,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -11180,7 +11182,7 @@
             "target_r": 0.5
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -11201,7 +11203,7 @@
             "target_r": 0.6
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -11222,7 +11224,7 @@
             "target_r": 0.75
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -11243,7 +11245,7 @@
             "target_r": 1.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -11251,22 +11253,22 @@
         "TP_R125": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 2.7029104499999446,
+          "exit_price": 75.9752119609914,
+          "exit_raw_price": 75.960019957,
+          "exit_reason": "FIXED_R_TARGET",
+          "exit_time": "2026-08-08T19:30:00+00:00",
           "id": "TP_R125",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:30:00+00:00",
+          "observed_candles": 16,
           "parameters": {
             "target_r": 1.25
           },
           "peak_favorable_price": 75.964,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 76.6470955144
         },
         "TP_R150": {
@@ -11279,12 +11281,12 @@
           "exit_time": "",
           "id": "TP_R150",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 1.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11300,12 +11302,12 @@
           "exit_time": "",
           "id": "TP_R200",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 2.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11321,12 +11323,12 @@
           "exit_time": "",
           "id": "TP_R250",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 2.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11342,12 +11344,12 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 3.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -11382,7 +11384,7 @@
       "initial_risk_eur": 9.929631092750885,
       "initial_risk_price": 0.00048461128235520456,
       "initial_stop_price": 0.07145041528235521,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 0.08480413578000001,
       "margin_eur": 290.8162808326759,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -11403,8 +11405,8 @@
           "exit_time": "",
           "id": "ATR10_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 1.0
@@ -11425,8 +11427,8 @@
           "exit_time": "",
           "id": "ATR15_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 1.5
@@ -11447,8 +11449,8 @@
           "exit_time": "",
           "id": "ATR15_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 1.5
@@ -11469,8 +11471,8 @@
           "exit_time": "",
           "id": "ATR20_R050",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "atr_multiple": 2.0
@@ -11491,8 +11493,8 @@
           "exit_time": "",
           "id": "ATR20_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 2.0
@@ -11513,8 +11515,8 @@
           "exit_time": "",
           "id": "ATR30_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 3.0
@@ -11556,8 +11558,8 @@
           "exit_time": "",
           "id": "BE_A030",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.3
           },
@@ -11577,8 +11579,8 @@
           "exit_time": "",
           "id": "BE_A040",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4
           },
@@ -11598,8 +11600,8 @@
           "exit_time": "",
           "id": "BE_A050",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5
           },
@@ -11619,8 +11621,8 @@
           "exit_time": "",
           "id": "BE_A060",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.6
           },
@@ -11640,8 +11642,8 @@
           "exit_time": "",
           "id": "BE_A075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75
           },
@@ -11661,8 +11663,8 @@
           "exit_time": "",
           "id": "BE_A100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0
           },
@@ -11682,8 +11684,8 @@
           "exit_time": "",
           "id": "BE_A125",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.25
           },
@@ -11703,8 +11705,8 @@
           "exit_time": "",
           "id": "BE_R040",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4
           },
@@ -11724,8 +11726,8 @@
           "exit_time": "",
           "id": "BE_R050",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5
           },
@@ -11745,8 +11747,8 @@
           "exit_time": "",
           "id": "BE_R075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75
           },
@@ -11766,8 +11768,8 @@
           "exit_time": "",
           "id": "BE_R100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0
           },
@@ -11787,8 +11789,8 @@
           "exit_time": "",
           "id": "GB20_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.2
@@ -11809,8 +11811,8 @@
           "exit_time": "",
           "id": "GB20_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.2
@@ -11831,8 +11833,8 @@
           "exit_time": "",
           "id": "GB20_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.2
@@ -11853,8 +11855,8 @@
           "exit_time": "",
           "id": "GB20_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.2
@@ -11875,8 +11877,8 @@
           "exit_time": "",
           "id": "GB20_R140",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.4,
             "giveback_fraction": 0.2
@@ -11897,8 +11899,8 @@
           "exit_time": "",
           "id": "GB30_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.3
@@ -11919,8 +11921,8 @@
           "exit_time": "",
           "id": "GB30_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.3
@@ -11941,8 +11943,8 @@
           "exit_time": "",
           "id": "GB30_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.3
@@ -11963,8 +11965,8 @@
           "exit_time": "",
           "id": "GB30_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.3
@@ -11985,8 +11987,8 @@
           "exit_time": "",
           "id": "GB40_R040",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.4,
             "giveback_fraction": 0.4
@@ -12007,8 +12009,8 @@
           "exit_time": "",
           "id": "GB40_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.4
@@ -12029,8 +12031,8 @@
           "exit_time": "",
           "id": "GB40_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.4
@@ -12051,8 +12053,8 @@
           "exit_time": "",
           "id": "GB40_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.4
@@ -12073,8 +12075,8 @@
           "exit_time": "",
           "id": "GB50_R050",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.5,
             "giveback_fraction": 0.5
@@ -12095,8 +12097,8 @@
           "exit_time": "",
           "id": "GB50_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.5
@@ -12117,8 +12119,8 @@
           "exit_time": "",
           "id": "GB50_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.5
@@ -12139,8 +12141,8 @@
           "exit_time": "",
           "id": "TIME_12H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 12.0
           },
@@ -12160,8 +12162,8 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 24.0
           },
@@ -12181,8 +12183,8 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 48.0
           },
@@ -12195,22 +12197,22 @@
         "TIME_4H": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": -2.1219328180971764,
+          "exit_price": 0.070984194,
+          "exit_raw_price": 0.07097,
+          "exit_reason": "TIME_EXIT",
+          "exit_time": "2026-08-08T19:30:00+00:00",
           "id": "TIME_4H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T19:30:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "hours": 4.0
           },
           "peak_favorable_price": 0.07083,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 0.07145041528235521
         },
         "TIME_6H": {
@@ -12223,8 +12225,8 @@
           "exit_time": "",
           "id": "TIME_6H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "hours": 6.0
           },
@@ -12244,8 +12246,8 @@
           "exit_time": "",
           "id": "TP_R035",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.35
           },
@@ -12265,8 +12267,8 @@
           "exit_time": "",
           "id": "TP_R040",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.4
           },
@@ -12286,8 +12288,8 @@
           "exit_time": "",
           "id": "TP_R050",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.5
           },
@@ -12307,8 +12309,8 @@
           "exit_time": "",
           "id": "TP_R060",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.6
           },
@@ -12328,8 +12330,8 @@
           "exit_time": "",
           "id": "TP_R075",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 0.75
           },
@@ -12349,8 +12351,8 @@
           "exit_time": "",
           "id": "TP_R100",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.0
           },
@@ -12370,8 +12372,8 @@
           "exit_time": "",
           "id": "TP_R125",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.25
           },
@@ -12391,8 +12393,8 @@
           "exit_time": "",
           "id": "TP_R150",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 1.5
           },
@@ -12412,8 +12414,8 @@
           "exit_time": "",
           "id": "TP_R200",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 2.0
           },
@@ -12433,8 +12435,8 @@
           "exit_time": "",
           "id": "TP_R250",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 2.5
           },
@@ -12454,8 +12456,8 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 16,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 20,
           "parameters": {
             "target_r": 3.0
           },
@@ -12475,14 +12477,15 @@
     },
     "SHADOW_RSI_SHORT_5X_RSI85:060ee0c128ccf16976a4": {
       "actual": {
-        "close_reason": "",
-        "closed": false,
-        "closed_at": "",
-        "comparable_pnl_eur": null,
-        "exit_price": null,
-        "funding_pnl_eur": null,
-        "holding_hours": null,
-        "net_pnl_eur": null
+        "close_reason": "STOP",
+        "closed": true,
+        "closed_at": "2026-08-08T20:09:30+00:00",
+        "comparable_pnl_eur": 0.8263454092297886,
+        "exit_price": 76.22495130727307,
+        "funding_pnl_eur": 0.0,
+        "holding_hours": 4.5082,
+        "net_pnl_eur": 0.8263454092297886,
+        "risk_model_version_at_exit": "block4_5_v1"
       },
       "asset": "SOL",
       "atr_pct": 0.2934,
@@ -12494,7 +12497,7 @@
       "initial_risk_eur": 9.998640900525654,
       "initial_risk_price": 0.30536691439999686,
       "initial_stop_price": 76.6470955144,
-      "last_processed_candle": "2026-08-08T19:15:00+00:00",
+      "last_processed_candle": "2026-08-08T20:15:00+00:00",
       "liquidation_price": 91.228365677,
       "margin_eur": 499.9320450262827,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -12522,7 +12525,7 @@
             "atr_multiple": 1.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12544,7 +12547,7 @@
             "atr_multiple": 1.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12559,13 +12562,13 @@
           "exit_time": "",
           "id": "ATR15_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 1.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -12588,7 +12591,7 @@
             "atr_multiple": 2.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12603,13 +12606,13 @@
           "exit_time": "",
           "id": "ATR20_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 2.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -12625,13 +12628,13 @@
           "exit_time": "",
           "id": "ATR30_R100",
           "kind": "ATR_TRAIL",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0,
             "atr_multiple": 3.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -12653,7 +12656,7 @@
             "activation_r": 0.2
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12674,7 +12677,7 @@
             "activation_r": 0.3
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12695,7 +12698,7 @@
             "activation_r": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12716,7 +12719,7 @@
             "activation_r": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12737,7 +12740,7 @@
             "activation_r": 0.6
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12752,12 +12755,12 @@
           "exit_time": "",
           "id": "BE_A075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 0.75
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -12773,19 +12776,19 @@
           "exit_time": "",
           "id": "BE_A100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
           "stop_price": 76.3417286
         },
         "BE_A125": {
-          "activated": false,
+          "activated": true,
           "candle_gap_count": 0,
           "comparable_pnl_eur": null,
           "exit_price": null,
@@ -12794,16 +12797,16 @@
           "exit_time": "",
           "id": "BE_A125",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.25
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
-          "stop_price": 76.6470955144
+          "stop_price": 76.3417286
         },
         "BE_R040": {
           "activated": true,
@@ -12821,7 +12824,7 @@
             "activation_r": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12842,7 +12845,7 @@
             "activation_r": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.3417286
@@ -12857,12 +12860,12 @@
           "exit_time": "",
           "id": "BE_R075",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 0.75
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -12878,12 +12881,12 @@
           "exit_time": "",
           "id": "BE_R100",
           "kind": "BREAKEVEN",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -12906,7 +12909,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.24034572000001
@@ -12928,7 +12931,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.17954572
@@ -12950,7 +12953,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.09714572
@@ -12972,7 +12975,7 @@
             "giveback_fraction": 0.2
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.09714572
@@ -12987,13 +12990,13 @@
           "exit_time": "",
           "id": "GB20_R140",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "activation_r": 1.4,
             "giveback_fraction": 0.2
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13016,7 +13019,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.25301858
@@ -13038,7 +13041,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.19981858
@@ -13060,7 +13063,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.12771857999999
@@ -13082,7 +13085,7 @@
             "giveback_fraction": 0.3
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.12771857999999
@@ -13104,7 +13107,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.26569144
@@ -13126,7 +13129,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.22009143999999
@@ -13148,7 +13151,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.15829144
@@ -13170,7 +13173,7 @@
             "giveback_fraction": 0.4
           },
           "peak_favorable_price": 76.036,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.15829144
@@ -13192,7 +13195,7 @@
             "giveback_fraction": 0.5
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.2403643
@@ -13200,46 +13203,46 @@
         "GB50_R075": {
           "activated": true,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 3.1478841993737294,
+          "exit_price": 76.15409207286,
+          "exit_raw_price": 76.1388643,
+          "exit_reason": "MFE_GIVEBACK",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "GB50_R075",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "activation_r": 0.75,
             "giveback_fraction": 0.5
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
-          "stop_price": 76.1528643
+          "status": "EXITED",
+          "stop_price": 76.1388643
         },
         "GB50_R100": {
           "activated": true,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 3.1478841993737294,
+          "exit_price": 76.15409207286,
+          "exit_raw_price": 76.1388643,
+          "exit_reason": "MFE_GIVEBACK",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "GB50_R100",
           "kind": "MFE_GIVEBACK",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "activation_r": 1.0,
             "giveback_fraction": 0.5
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
-          "stop_price": 76.1528643
+          "status": "EXITED",
+          "stop_price": 76.1388643
         },
         "TIME_12H": {
           "activated": false,
@@ -13251,12 +13254,12 @@
           "exit_time": "",
           "id": "TIME_12H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 12.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13272,12 +13275,12 @@
           "exit_time": "",
           "id": "TIME_24H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 24.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13293,12 +13296,12 @@
           "exit_time": "",
           "id": "TIME_48H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 48.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13307,22 +13310,22 @@
         "TIME_4H": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 3.83159140615974,
+          "exit_price": 76.1332236,
+          "exit_raw_price": 76.118,
+          "exit_reason": "TIME_EXIT",
+          "exit_time": "2026-08-08T19:45:00+00:00",
           "id": "TIME_4H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:45:00+00:00",
+          "observed_candles": 17,
           "parameters": {
             "hours": 4.0
           },
-          "peak_favorable_price": 75.964,
-          "result_written": false,
+          "peak_favorable_price": 75.936,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 76.6470955144
         },
         "TIME_6H": {
@@ -13335,12 +13338,12 @@
           "exit_time": "",
           "id": "TIME_6H",
           "kind": "TIME_EXIT",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "hours": 6.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13362,7 +13365,7 @@
             "target_r": 0.35
           },
           "peak_favorable_price": 76.3417286,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -13383,7 +13386,7 @@
             "target_r": 0.4
           },
           "peak_favorable_price": 76.3417286,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -13404,7 +13407,7 @@
             "target_r": 0.5
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -13425,7 +13428,7 @@
             "target_r": 0.6
           },
           "peak_favorable_price": 76.215,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -13446,7 +13449,7 @@
             "target_r": 0.75
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -13467,7 +13470,7 @@
             "target_r": 1.0
           },
           "peak_favorable_price": 76.139,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
           "status": "EXITED",
           "stop_price": 76.6470955144
@@ -13475,22 +13478,22 @@
         "TP_R125": {
           "activated": false,
           "candle_gap_count": 0,
-          "comparable_pnl_eur": null,
-          "exit_price": null,
-          "exit_raw_price": null,
-          "exit_reason": "",
-          "exit_time": "",
+          "comparable_pnl_eur": 9.008476991942548,
+          "exit_price": 75.9752119609914,
+          "exit_raw_price": 75.960019957,
+          "exit_reason": "FIXED_R_TARGET",
+          "exit_time": "2026-08-08T19:30:00+00:00",
           "id": "TP_R125",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T19:30:00+00:00",
+          "observed_candles": 16,
           "parameters": {
             "target_r": 1.25
           },
           "peak_favorable_price": 75.964,
-          "result_written": false,
+          "result_written": true,
           "same_candle_ambiguity_count": 0,
-          "status": "ACTIVE",
+          "status": "EXITED",
           "stop_price": 76.6470955144
         },
         "TP_R150": {
@@ -13503,12 +13506,12 @@
           "exit_time": "",
           "id": "TP_R150",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 1.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13524,12 +13527,12 @@
           "exit_time": "",
           "id": "TP_R200",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 2.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13545,12 +13548,12 @@
           "exit_time": "",
           "id": "TP_R250",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 2.5
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13566,12 +13569,12 @@
           "exit_time": "",
           "id": "TP_R300",
           "kind": "FIXED_R",
-          "last_candle_time": "2026-08-08T19:15:00+00:00",
-          "observed_candles": 15,
+          "last_candle_time": "2026-08-08T20:15:00+00:00",
+          "observed_candles": 19,
           "parameters": {
             "target_r": 3.0
           },
-          "peak_favorable_price": 75.964,
+          "peak_favorable_price": 75.936,
           "result_written": false,
           "same_candle_ambiguity_count": 0,
           "status": "ACTIVE",
@@ -13587,5 +13590,5 @@
     }
   },
   "schema_version": 1,
-  "updated_utc": "2026-08-08T19:39:03+00:00"
+  "updated_utc": "2026-08-08T20:39:00+00:00"
 }
