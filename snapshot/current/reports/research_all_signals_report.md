@@ -6,19 +6,19 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **TREND_UP**
 - Famiglia: **TREND_UP**
-- Confidenza: **75,10%**
+- Confidenza: **72,70%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 83% sopra EMA50, ADX 21.4.
-- BTC trend score: **3,00**; ADX: **21,39**; breadth sopra EMA50: **83,33%**
-- Mediana alt vs BTC: **-0,52%**; dispersione: **7,21%**
+- Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 75% sopra EMA50, ADX 21.4.
+- BTC trend score: **3,00**; ADX: **21,39**; breadth sopra EMA50: **75,00%**
+- Mediana alt vs BTC: **-0,48%**; dispersione: **8,42%**
 
 - Aperti in questo ciclo: **0**
-- Chiusi in questo ciclo: **35**
+- Chiusi in questo ciclo: **0**
 - Posizioni research aperte: **543**
-- Trade research chiusi: **15264**
-- Eventi di mercato indipendenti chiusi: **2378**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **45316**
+- Trade research chiusi: **15265**
+- Eventi di mercato indipendenti chiusi: **2379**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **45393**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -41,7 +41,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | 5 | 264 | 264 | 28,03% | 0,59 | -0,22R | €-589,66 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | 5 | 268 | 268 | 27,99% | 0,60 | -0,22R | €-590,19 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | 5 | 238 | 238 | 26,89% | 0,48 | -0,29R | €-692,73 |
-| MAIN | 20 | 161 | 161 | 28,57% | 0,83 | -0,11R | €-169,51 |
+| MAIN | 19 | 162 | 162 | 28,40% | 0,83 | -0,10R | €-169,64 |
 | RSI_EXTREME_LONG_15M | 0 | 22 | 22 | 36,36% | 0,47 | -0,33R | €-73,68 |
 | RSI_EXTREME_SHORT_15M | 0 | 30 | 30 | 36,67% | 0,50 | -0,29R | €-87,14 |
 | Bilanciata 1H V1 | 13 | 423 | 423 | 34,28% | 0,91 | -0,05R | €-212,09 |
@@ -99,7 +99,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_ETH_EMA_4H | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,23 |
 | SHADOW_GLOBAL_PURE | 1 | 8 | 8 | 62,50% | 2,07 | 0,44R | €35,30 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 12 | 157 | 157 | 33,12% | 1,02 | 0,01R | €17,20 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 7 | 296 | 296 | 65,88% | 1,38 | 0,12R | €369,94 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 8 | 296 | 296 | 65,88% | 1,38 | 0,12R | €369,94 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | 12 | 141 | 141 | 32,62% | 1,00 | -0,00R | €-4,50 |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 12 | 140 | 140 | 30,00% | 0,97 | -0,02R | €-28,38 |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 7 | 107 | 107 | 29,91% | 0,87 | -0,09R | €-98,41 |
@@ -270,7 +270,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | MAIN | TRANSITION | 1 | 12 | 12 | 33,33% | 0,97 | -0,02R | €-2,55 |
 | MAIN | TREND_DOWN | 0 | 15 | 15 | 26,67% | 0,72 | -0,15R | €-22,75 |
 | MAIN | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 1,96 | 0,49R | €9,73 |
-| MAIN | TREND_UP | 2 | 31 | 31 | 35,48% | 1,18 | 0,11R | €32,76 |
+| MAIN | TREND_UP | 1 | 32 | 32 | 34,38% | 1,18 | 0,10R | €32,62 |
 | MAIN | TREND_UP_HIGH_VOL | 0 | 6 | 6 | 33,33% | 0,94 | -0,04R | €-2,34 |
 | RSI_EXTREME_LONG_15M | ALT_ROTATION_UP | 0 | 3 | 3 | 33,33% | 0,63 | -0,21R | €-6,42 |
 | RSI_EXTREME_LONG_15M | RANGE | 0 | 11 | 11 | 18,18% | 0,10 | -0,77R | €-85,05 |
@@ -643,7 +643,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TRANSITION | 0 | 20 | 20 | 75,00% | 2,30 | 0,27R | €53,52 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_DOWN | 0 | 33 | 33 | 63,64% | 1,33 | 0,11R | €37,35 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_UP | 4 | 80 | 80 | 60,00% | 0,95 | -0,02R | €-15,44 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_UP | 5 | 80 | 80 | 60,00% | 0,95 | -0,02R | €-15,44 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | ALT_ROTATION_DOWN | 2 | 12 | 12 | 25,00% | 0,72 | -0,19R | €-23,34 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | RANGE | 3 | 56 | 56 | 39,29% | 1,30 | 0,18R | €100,98 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | RANGE_LOW_VOL | 0 | 2 | 2 | 50,00% | 1,86 | 0,44R | €8,76 |
