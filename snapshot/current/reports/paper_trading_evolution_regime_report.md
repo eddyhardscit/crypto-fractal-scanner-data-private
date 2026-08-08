@@ -1,16 +1,16 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-08-08T10:42:00+00:00
+Generato: 2026-08-08T11:41:54+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
 ## Stato
 
 - Regime corrente: **RANGE**
-- Righe di performance: **610**
+- Righe di performance: **612**
 - Strategie preferite nel regime corrente: **7**
 - Strategie da evitare nel regime corrente: **4**
-- Memorie contestuali: **287**
+- Memorie contestuali: **288**
 - Routing automatico: **NO**
 
 ## Classifica del regime corrente
