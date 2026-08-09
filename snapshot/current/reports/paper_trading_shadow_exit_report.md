@@ -1,16 +1,16 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-09T00:54:11+00:00
+Generato: 2026-08-09T01:54:34+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
 ## Stato operativo
 
 - Gruppi di trade ancora monitorati: **12**
-- Scenari virtuali ancora attivi: **129**
+- Scenari virtuali ancora attivi: **120**
 - Gruppi in attesa dell'uscita originale: **6**
 - Gruppi con originale chiuso ma Shadow ancora attive: **6**
-- Confronti completati: **123717**
+- Confronti completati: **123726**
 
 ## Classifica osservativa complessiva
 
@@ -19,18 +19,18 @@ Generato: 2026-08-09T00:54:11+00:00
 | GB20_R050 | 3288 | 3354 | +€9,07 | 51,6% | 925 | 10 | READY_FOR_BLOCK4_EVALUATION |
 | GB30_R050 | 3288 | 3354 | +€7,44 | 50,6% | 925 | 32 | READY_FOR_BLOCK4_EVALUATION |
 | GB20_R100 | 3288 | 3354 | +€6,66 | 43,2% | 711 | 90 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R150 | 3288 | 3354 | +€5,08 | 33,2% | 412 | 383 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R050 | 3288 | 3354 | +€4,84 | 48,5% | 1028 | 9 | READY_FOR_BLOCK4_EVALUATION |
 | GB30_R100 | 3288 | 3354 | +€4,83 | 42,8% | 687 | 128 | READY_FOR_BLOCK4_EVALUATION |
 | TP_R100 | 3288 | 3354 | +€4,52 | 41,2% | 779 | 88 | READY_FOR_BLOCK4_EVALUATION |
+| TP_R200 | 3288 | 3354 | +€3,79 | 35,7% | 199 | 624 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_6H | 3288 | 3354 | €-1,40 | 45,5% | 671 | 502 | READY_FOR_BLOCK4_EVALUATION |
 | GB40_R050 | 3285 | 3351 | +€6,21 | 49,0% | 926 | 80 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R150 | 3285 | 3351 | +€5,08 | 33,2% | 412 | 383 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R050 | 3285 | 3351 | +€4,60 | 48,9% | 868 | 140 | READY_FOR_BLOCK4_EVALUATION |
 | GB40_R100 | 3285 | 3351 | +€4,17 | 41,7% | 604 | 217 | READY_FOR_BLOCK4_EVALUATION |
 | GB50_R100 | 3285 | 3351 | +€2,30 | 39,9% | 520 | 377 | READY_FOR_BLOCK4_EVALUATION |
 | ATR15_R100 | 3285 | 3351 | €-0,31 | 31,4% | 369 | 699 | READY_FOR_BLOCK4_EVALUATION |
 | BE_R050 | 3285 | 3351 | €-3,71 | 32,8% | 557 | 715 | READY_FOR_BLOCK4_EVALUATION |
-| TP_R200 | 3282 | 3348 | +€3,78 | 35,6% | 199 | 624 | READY_FOR_BLOCK4_EVALUATION |
 | ATR20_R100 | 3282 | 3348 | €-0,99 | 28,7% | 312 | 835 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_12H | 3282 | 3348 | €-1,03 | 39,6% | 401 | 737 | READY_FOR_BLOCK4_EVALUATION |
 | TIME_24H | 3282 | 3348 | €-4,47 | 31,8% | 188 | 1003 | READY_FOR_BLOCK4_EVALUATION |
