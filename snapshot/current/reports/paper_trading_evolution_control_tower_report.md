@@ -1,6 +1,6 @@
 # Blocco 12 — Evolution Control Tower
 
-Generato: 2026-08-09T04:53:52+00:00
+Generato: 2026-08-09T05:54:09+00:00
 
 > Ultimo livello di osservabilità della pipeline. Non ripara, non riavvia, non modifica strategie o posizioni e non invia ordini.
 
