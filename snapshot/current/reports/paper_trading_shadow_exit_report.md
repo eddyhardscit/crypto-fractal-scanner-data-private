@@ -1,6 +1,6 @@
 # Block 3 — Shadow Exit Engine
 
-Generato: 2026-08-10T18:55:02+00:00
+Generato: 2026-08-10T19:54:55+00:00
 
 > Motore esclusivamente osservativo e Paper-only. Non modifica le uscite reali. I confronti escludono il funding sia dall'uscita originale sia dalle varianti.
 
