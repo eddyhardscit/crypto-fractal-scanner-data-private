@@ -1,12 +1,12 @@
 # Blocco 10 — Regime Fitness e specializzazione
 
-Generato: 2026-08-10T05:42:46+00:00
+Generato: 2026-08-10T06:41:55+00:00
 
 > Paper-only e advisory. Il blocco misura quali strategie funzionano nei diversi regimi, ma non cambia automaticamente strategia o posizione.
 
 ## Stato
 
-- Regime corrente: **UNKNOWN**
+- Regime corrente: **HIGH_VOLATILITY**
 - Righe di performance: **612**
 - Strategie preferite nel regime corrente: **0**
 - Strategie da evitare nel regime corrente: **0**
@@ -17,16 +17,16 @@ Generato: 2026-08-10T05:42:46+00:00
 
 | Rank | Portafoglio | Famiglia | Stato | Fitness | Trade | PF | Expectancy R | DD R |
 | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| 1 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | shadow-1h-fast-nohigh-cap75-v1 | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.950 | 0.00 |
-| 2 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_L_TP_R200_903364ad | momentum_breakout_v3_filtered | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.775 | 0.00 |
-| 3 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | shadow-1h-fast-v3-long-nohigh-cap75-lock-v1 | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.608 | 0.00 |
-| 4 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | shadow-1h-fast-v3-long-nohigh-cap75-v1 | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.638 | 0.00 |
-| 5 | MAIN | main | INSUFFICIENT | 81.2 | 3 | 99.00 | 0.977 | 0.00 |
-| 6 | SHADOW_1H_FAST_V3_NOHIGH_V1 | shadow-1h-fast-v3-nohigh-v1 | INSUFFICIENT | 80.8 | 2 | 99.00 | 1.417 | 0.00 |
-| 7 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | shadow-combo-adaptive-regime-v1 | INSUFFICIENT | 80.8 | 2 | 99.00 | 1.394 | 0.00 |
-| 8 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | shadow-master-adaptive-gb20-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.550 | 0.00 |
-| 9 | SHADOW_MASTER_ADAPTIVE_GB20_BE_V1 | shadow-master-adaptive-gb20-be-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.986 | 0.00 |
-| 10 | SHADOW_SOL_DONCHIAN_1H | shadow-sol-donchian-1h | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.432 | 0.00 |
+| 1 | SHADOW_BTC_ADAPTIVE_1H | shadow-btc-adaptive-1h | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.861 | 0.00 |
+| 2 | SHADOW_BTC_DONCHIAN_1H | shadow-btc-donchian-1h | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.969 | 0.00 |
+| 3 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | shadow-1h-balanced-v3-long-only-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 1.940 | 0.00 |
+| 4 | SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1 | shadow-combo-trend-side-regime-guard-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.952 | 0.00 |
+| 5 | MAIN_SIDE_REGIME_GUARD_V1 | main-side-regime-guard-v1 | INSUFFICIENT | 80.4 | 1 | 99.00 | 0.980 | 0.00 |
+| 6 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | shadow-combo-adaptive-partial-1r-v1 | INSUFFICIENT | 78.3 | 7 | 2.92 | 0.667 | 1.33 |
+| 7 | SHADOW_ETH_ADAPTIVE_1H | shadow-eth-adaptive-1h | INSUFFICIENT | 75.7 | 1 | 99.00 | 0.286 | 0.00 |
+| 8 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | shadow-scanner-bottom5-short-profit-lock-v1 | INSUFFICIENT | 75.4 | 3 | 2.20 | 0.437 | 1.09 |
+| 9 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | shadow-combo-adaptive-runner25-v1 | INSUFFICIENT | 75.4 | 3 | 3.42 | 0.885 | 1.10 |
+| 10 | SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1 | shadow-combo-adaptive-side-regime-guard-v1 | INSUFFICIENT | 75.4 | 3 | 3.50 | 0.913 | 1.10 |
 
 ## Sicurezza
 
