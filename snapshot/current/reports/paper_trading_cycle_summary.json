@@ -1,34 +1,34 @@
 {
-  "generated_utc": "2026-08-10T03:41:28+00:00",
+  "generated_utc": "2026-08-10T04:41:56+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 172,
+  "signals_generated": 149,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-10T03:38:29+00:00",
-    "checked_utc": "2026-08-10T03:38:29+00:00",
-    "snapshot_age_minutes": 0.013009966666666668,
+    "snapshot_generated_utc": "2026-08-10T04:38:33+00:00",
+    "checked_utc": "2026-08-10T04:38:33+00:00",
+    "snapshot_age_minutes": 0.013653316666666667,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
     "opened_this_cycle": 0,
-    "closed_this_cycle": 4,
-    "open_positions": 680,
-    "closed_trades": 17842
+    "closed_this_cycle": 2,
+    "open_positions": 685,
+    "closed_trades": 17885
   },
   "strategy_dual_validation": {
-    "ready_for_live_review": 2,
+    "ready_for_live_review": 3,
     "status_counts": {
-      "BOCCIATA RESEARCH": 72,
+      "BOCCIATA RESEARCH": 71,
       "RACCOLTA RESEARCH": 44,
+      "PRONTA PER REVISIONE LIVE": 3,
       "BOCCIATA PAPER": 6,
-      "SEGNALE VALIDATO · PAPER IN RACCOLTA": 3,
-      "PRONTA PER REVISIONE LIVE": 2
+      "SEGNALE VALIDATO · PAPER IN RACCOLTA": 3
     },
     "thresholds": {
       "min_independent_events": 30,
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 414,
-    "below_score": 1093,
-    "strategy_filter": 21,
-    "stale": 57,
+    "near_miss": 328,
+    "below_score": 1044,
+    "strategy_filter": 20,
+    "stale": 0,
     "opened": 0
   },
   "shadow_exit": {
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-10T03:41:21+00:00",
+    "updated_utc": "2026-08-10T04:41:53+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -209,9 +209,9 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block10-regime-fitness-v1",
-    "current_regime": "HIGH_VOLATILITY",
+    "current_regime": "UNKNOWN",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 612,
+    "timeline_rows": 613,
     "performance_rows": 612,
     "preferred": 0,
     "avoid": 0,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-10T03:38:55+00:00",
+    "generated_utc": "2026-08-10T04:38:59+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1974,
-    "audit_last_hash": "d0e8b2989fcd76b2977000ee15476f17fa2b5997a4e3959a15484dce773427b2",
+    "audit_rows": 1978,
+    "audit_last_hash": "e769796ae14ebae0fe529338405181a2512d139761a36f4aa9b74d4243c3e1fa",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,10 +313,10 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-10T03:41:31+00:00",
-    "positions": 1153,
+    "generated_utc": "2026-08-10T04:41:58+00:00",
+    "positions": 1157,
     "strategy_accounts": 347,
-    "alerts": 10,
+    "alerts": 7,
     "status": "OK",
     "error": null
   }
