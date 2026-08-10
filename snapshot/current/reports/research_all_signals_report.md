@@ -11,14 +11,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
 - Motivo: Trend BTC rialzista confermato dalla breadth: score +3.0, 67% sopra EMA50, ADX 19.3.
 - BTC trend score: **3,00**; ADX: **19,32**; breadth sopra EMA50: **66,67%**
-- Mediana alt vs BTC: **-0,63%**; dispersione: **24,31%**
+- Mediana alt vs BTC: **-0,64%**; dispersione: **21,83%**
 
 - Aperti in questo ciclo: **0**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **671**
-- Trade research chiusi: **18102**
+- Posizioni research aperte: **670**
+- Trade research chiusi: **18103**
 - Eventi di mercato indipendenti chiusi: **2662**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **49954**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **49982**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
@@ -104,7 +104,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 10 | 171 | 171 | 31,58% | 1,03 | 0,02R | €32,38 |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 5 | 123 | 123 | 32,52% | 0,97 | -0,02R | €-21,98 |
 | SHADOW_MASTER_ADAPTIVE_V1 | 10 | 184 | 184 | 33,15% | 1,01 | 0,01R | €12,62 |
-| Forza relativa 1H V1 | 13 | 400 | 400 | 29,50% | 0,85 | -0,09R | €-353,90 |
+| Forza relativa 1H V1 | 12 | 401 | 401 | 29,43% | 0,84 | -0,09R | €-364,03 |
 | Forza relativa 1H V2 | 5 | 174 | 162 | 35,63% | 1,15 | 0,08R | €139,38 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | 7 | 111 | 111 | 27,03% | 0,47 | -0,32R | €-350,79 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | 7 | 111 | 111 | 27,03% | 0,47 | -0,32R | €-350,79 |
@@ -697,7 +697,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Forza relativa 1H V1 | TREND_DOWN | 0 | 26 | 26 | 26,92% | 0,75 | -0,14R | €-36,21 |
 | Forza relativa 1H V1 | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 100,00% | ∞ | 1,41R | €28,20 |
 | Forza relativa 1H V1 | TREND_UP | 5 | 89 | 89 | 25,84% | 0,90 | -0,05R | €-45,29 |
-| Forza relativa 1H V1 | TREND_UP_HIGH_VOL | 3 | 12 | 12 | 8,33% | 0,23 | -0,60R | €-71,68 |
+| Forza relativa 1H V1 | TREND_UP_HIGH_VOL | 2 | 13 | 13 | 7,69% | 0,21 | -0,63R | €-81,81 |
 | Forza relativa 1H V2 | ALT_ROTATION_DOWN | 0 | 20 | 20 | 25,00% | 0,64 | -0,21R | €-41,24 |
 | Forza relativa 1H V2 | ALT_ROTATION_UP | 2 | 24 | 22 | 37,50% | 1,29 | 0,15R | €36,07 |
 | Forza relativa 1H V2 | RANGE | 1 | 50 | 49 | 36,00% | 1,08 | 0,05R | €22,56 |
