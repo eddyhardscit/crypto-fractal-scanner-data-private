@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-10T11:29:22+00:00
+Generato: 2026-08-10T12:29:26+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3339**
-- Trade Shadow/Research chiusi: **18824**
+- Trade Shadow/Research chiusi: **18827**
 - Eventi Shadow già presi dai Paper: **1604**
-- Eventi Shadow saltati dai Paper: **17220**
+- Eventi Shadow saltati dai Paper: **17223**
 - Profili con filtro Paper utile: **21**
 - Profili in cui il Paper potrebbe scartare edge: **6**
 - Profili con campione ancora insufficiente: **69**
@@ -63,7 +63,7 @@ Generato: 2026-08-10T11:29:22+00:00
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | Rapida V3 — qualità completa + profit lock | 49 | 198 | 33 | 165 | 0,00R | -0,02R | +0,02R | -0,09R | -0,09R | NESSUN EDGE CHIARO |
 | SHADOW_SCANNER_TOP5_BTC_BTC_LE3_V1 | Top 5 + BTC — BTC≤3 | 22 | 192 | 12 | 180 | 0,27R | -0,04R | +0,31R | -0,24R | -0,51R | FILTRO PAPER UTILE |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | Master Adaptive Expanded V1 | 22 | 191 | 11 | 180 | 0,20R | 0,03R | +0,18R | -0,10R | -0,30R | NESSUN EDGE CHIARO |
-| MAIN | Principale 4H | 32 | 189 | 22 | 167 | -0,02R | -0,18R | +0,16R | -0,19R | -0,17R | NESSUN EDGE CHIARO |
+| MAIN | Principale 4H | 32 | 190 | 22 | 168 | -0,02R | -0,18R | +0,16R | -0,19R | -0,17R | NESSUN EDGE CHIARO |
 | SHADOW_SCANNER_TOP5_BTC_RUNNER25_V1 | Top 5 + BTC — 75% a 2,2R + runner 3R | 30 | 189 | 11 | 178 | 0,59R | -0,03R | +0,62R | -0,24R | -0,83R | FILTRO PAPER UTILE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | n/a | 0 | 187 | 0 | 187 | 0,00R | -0,29R | +0,29R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | Bilanciata 1H V2 | Bilanciata 1H V2 | 41 | 185 | 24 | 161 | 0,16R | 0,06R | +0,10R | 0,14R | -0,02R | NESSUN EDGE CHIARO |
@@ -75,8 +75,8 @@ Generato: 2026-08-10T11:29:22+00:00
 | SHADOW_SCANNER_TOP5_BTC_TP3_V1 | Top 5 + BTC — target pieno 3R | 26 | 179 | 9 | 170 | 0,07R | 0,02R | +0,05R | -0,25R | -0,31R | NESSUN EDGE CHIARO |
 | Forza relativa 1H V2 | Forza relativa 1H V2 | 55 | 176 | 31 | 145 | 0,13R | 0,08R | +0,05R | -0,02R | -0,14R | NESSUN EDGE CHIARO |
 | SHADOW_SCANNER_TOP5_BTC_GUARD_V1 | Top 5 + BTC — Guard | 24 | 175 | 12 | 163 | 0,02R | 0,04R | -0,02R | -0,34R | -0,36R | NESSUN EDGE CHIARO |
+| SHADOW_4H_WIDE | Ampia 4H | 27 | 173 | 16 | 157 | 0,10R | -0,21R | +0,31R | -0,14R | -0,25R | FILTRO PAPER UTILE |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | Master Adaptive Runner25 V1 | 21 | 172 | 9 | 163 | 0,06R | 0,03R | +0,03R | -0,19R | -0,25R | NESSUN EDGE CHIARO |
-| SHADOW_4H_WIDE | Ampia 4H | 27 | 171 | 16 | 155 | 0,10R | -0,21R | +0,31R | -0,14R | -0,25R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | Top 5 + BTC — Guard + BTC≤3 | 19 | 168 | 8 | 160 | 0,02R | 0,03R | -0,01R | -0,20R | -0,23R | NESSUN EDGE CHIARO |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | Master Adaptive No Alt V1 | 19 | 166 | 7 | 159 | 0,09R | 0,05R | +0,04R | -0,26R | -0,35R | CAMPIONE INSUFFICIENTE |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 25 | 162 | 21 | 141 | 0,18R | -0,04R | +0,22R | -0,05R | -0,22R | FILTRO PAPER UTILE |
