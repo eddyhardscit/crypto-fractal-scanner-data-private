@@ -1,6 +1,6 @@
 # Blocco 6 — Validazione Champion/Challenger
 
-Generato: 2026-08-10T17:57:22+00:00
+Generato: 2026-08-10T18:58:16+00:00
 
 > Paper-only. Confronto sulle stesse entrate tramite `experiment_group_id`. Nessuna promozione, sostituzione, pensione o modifica live automatica.
 

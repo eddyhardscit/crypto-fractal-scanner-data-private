@@ -23,7 +23,7 @@
       "initial_risk_eur": 47.61010968755852,
       "initial_risk_price": 0.0022928889844691935,
       "initial_stop_price": 0.0724788489844692,
-      "last_processed_candle": "2026-08-10T17:30:00+00:00",
+      "last_processed_candle": "2026-08-10T18:30:00+00:00",
       "liquidation_price": 0.0932303502,
       "margin_eur": 485.7861671106536,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -1135,7 +1135,7 @@
       "initial_risk_eur": 50.72425114341366,
       "initial_risk_price": 0.002364245703770501,
       "initial_stop_price": 0.07254020770377051,
-      "last_processed_candle": "2026-08-10T17:30:00+00:00",
+      "last_processed_candle": "2026-08-10T18:30:00+00:00",
       "liquidation_price": 0.09321706952333335,
       "margin_eur": 501.86875177451105,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -3169,7 +3169,7 @@
       "initial_risk_eur": 1.3971853695566097,
       "initial_risk_price": 0.002866609529706743,
       "initial_stop_price": 0.07288260352970674,
-      "last_processed_candle": "2026-08-10T17:30:00+00:00",
+      "last_processed_candle": "2026-08-10T18:30:00+00:00",
       "liquidation_price": 0.10467391103000001,
       "margin_eur": 17.06289633066473,
       "observation_quality": "FULL_FROM_ENTRY",
@@ -4262,5 +4262,5 @@
     }
   },
   "schema_version": 1,
-  "updated_utc": "2026-08-10T17:54:12+00:00"
+  "updated_utc": "2026-08-10T18:55:02+00:00"
 }
