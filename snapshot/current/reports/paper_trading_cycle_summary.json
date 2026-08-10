@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-08-10T04:41:56+00:00",
+  "generated_utc": "2026-08-10T05:42:55+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 149,
+  "signals_generated": 140,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-10T04:38:33+00:00",
-    "checked_utc": "2026-08-10T04:38:33+00:00",
-    "snapshot_age_minutes": 0.013653316666666667,
+    "snapshot_generated_utc": "2026-08-10T05:38:30+00:00",
+    "checked_utc": "2026-08-10T05:38:30+00:00",
+    "snapshot_age_minutes": 0.01376765,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
     "opened_this_cycle": 0,
-    "closed_this_cycle": 2,
-    "open_positions": 685,
-    "closed_trades": 17885
+    "closed_this_cycle": 0,
+    "open_positions": 637,
+    "closed_trades": 18006
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 3,
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 328,
-    "below_score": 1044,
-    "strategy_filter": 20,
-    "stale": 0,
+    "near_miss": 239,
+    "below_score": 948,
+    "strategy_filter": 30,
+    "stale": 57,
     "opened": 0
   },
   "shadow_exit": {
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-10T04:41:53+00:00",
+    "updated_utc": "2026-08-10T05:42:46+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "UNKNOWN",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 613,
+    "timeline_rows": 614,
     "performance_rows": 612,
     "preferred": 0,
     "avoid": 0,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-10T04:38:59+00:00",
+    "generated_utc": "2026-08-10T05:39:04+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 1978,
-    "audit_last_hash": "e769796ae14ebae0fe529338405181a2512d139761a36f4aa9b74d4243c3e1fa",
+    "audit_rows": 1982,
+    "audit_last_hash": "21b38ecae5c6546a71077690d6266c3b3398a2df22b8e482a62572317f59ecad",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -313,10 +313,10 @@
     "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-10T04:41:58+00:00",
-    "positions": 1157,
+    "generated_utc": "2026-08-10T05:42:57+00:00",
+    "positions": 1070,
     "strategy_accounts": 347,
-    "alerts": 7,
+    "alerts": 3,
     "status": "OK",
     "error": null
   }
