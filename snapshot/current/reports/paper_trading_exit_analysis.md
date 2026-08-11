@@ -1,34 +1,34 @@
 # Analisi uscite paper trading a leva
 
-Generato: 2026-08-11T20:30:59+00:00
+Generato: 2026-08-11T21:28:00+00:00
 
 > Analisi osservativa: non modifica ingressi, uscite o rischio del paper trading.
 
 ## Verifica del target +€50
 
-- Trade chiusi: **4070**
-- Trade con percorso cronologico utilizzabile: **4016**
-- Trade che hanno raggiunto almeno +€50: **1587**
-- Di questi, chiusi poi in perdita: **302**
+- Trade chiusi: **4114**
+- Trade con percorso cronologico utilizzabile: **4060**
+- Trade che hanno raggiunto almeno +€50: **1597**
+- Di questi, chiusi poi in perdita: **311**
 
 ## Confronto simulazioni
 
 | Posizione | Regola di uscita | P&L simulato | Differenza dall'attuale |
 | ---: | --- | ---: | ---: |
-| 1 | Stop loss fisso -€50 | +€4.921,57 | +€14.122,83 |
-| 2 | Chiude 50% a +€50 | -€6.094,78 | +€3.106,48 |
-| 3 | TP +€50 / SL -€50 | -€6.919,91 | +€2.281,36 |
-| 4 | Protegge +€30 dopo +€50 | -€6.921,46 | +€2.279,80 |
-| 5 | Protegge +€20 dopo +€50 | -€8.560,39 | +€640,88 |
-| 6 | Strategia attuale | -€9.201,26 | €0,00 |
-| 7 | Take profit fisso +€200 | -€9.201,26 | €0,00 |
-| 8 | Take profit fisso +€150 | -€9.205,58 | -€4,32 |
-| 9 | Take profit fisso +€100 | -€9.545,78 | -€344,52 |
-| 10 | Trailing 20% dopo +€50 | -€10.706,31 | -€1.505,04 |
-| 11 | Pareggio dopo +€50 | -€11.627,44 | -€2.426,18 |
-| 12 | Take profit fisso +€75 | -€12.977,07 | -€3.775,81 |
-| 13 | Take profit fisso +€50 | -€20.900,11 | -€11.698,85 |
-| 14 | Take profit fisso +€25 | -€24.153,03 | -€14.951,76 |
+| 1 | Stop loss fisso -€50 | +€3.273,00 | +€14.386,32 |
+| 2 | Chiude 50% a +€50 | -€7.585,03 | +€3.528,29 |
+| 3 | TP +€50 / SL -€50 | -€7.736,25 | +€3.377,07 |
+| 4 | Protegge +€30 dopo +€50 | -€8.151,82 | +€2.961,50 |
+| 5 | Protegge +€20 dopo +€50 | -€9.880,75 | +€1.232,58 |
+| 6 | Strategia attuale | -€11.113,32 | €0,00 |
+| 7 | Take profit fisso +€200 | -€11.113,32 | €0,00 |
+| 8 | Take profit fisso +€150 | -€11.117,64 | -€4,32 |
+| 9 | Take profit fisso +€100 | -€11.457,84 | -€344,52 |
+| 10 | Trailing 20% dopo +€50 | -€12.098,20 | -€984,87 |
+| 11 | Pareggio dopo +€50 | -€13.127,80 | -€2.014,48 |
+| 12 | Take profit fisso +€75 | -€14.889,13 | -€3.775,81 |
+| 13 | Take profit fisso +€50 | -€21.968,55 | -€10.855,23 |
+| 14 | Take profit fisso +€25 | -€25.471,47 | -€14.358,15 |
 
 ## Limiti metodologici
 
