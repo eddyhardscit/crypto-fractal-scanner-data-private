@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-08-11T02:59:23+00:00",
+  "generated_utc": "2026-08-11T03:59:44+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 185,
+  "signals_generated": 240,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-11T02:53:39+00:00",
-    "checked_utc": "2026-08-11T02:53:39+00:00",
-    "snapshot_age_minutes": 0.0025285999999999998,
+    "snapshot_generated_utc": "2026-08-11T03:53:29+00:00",
+    "checked_utc": "2026-08-11T03:53:29+00:00",
+    "snapshot_age_minutes": 0.0077101,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -18,8 +18,8 @@
   "research_all_signals": {
     "opened_this_cycle": 0,
     "closed_this_cycle": 0,
-    "open_positions": 526,
-    "closed_trades": 18857
+    "open_positions": 555,
+    "closed_trades": 18861
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 3,
@@ -63,11 +63,11 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
-    "active_groups": 198,
-    "active_scenarios": 8706,
-    "new_results": 0,
-    "completed_results": 125436,
-    "events_written": 0,
+    "active_groups": 239,
+    "active_scenarios": 10490,
+    "new_results": 73,
+    "completed_results": 125611,
+    "events_written": 105,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -76,9 +76,9 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 125436,
+    "raw_results": 125611,
     "evaluation_rows": 18472,
-    "history_events": 0,
+    "history_events": 5,
     "robust_count": 86,
     "eligible_for_mutation": 5,
     "underperforming_count": 225,
@@ -96,7 +96,7 @@
     "level": "NORMAL",
     "direction": "NONE",
     "blocked_signals": 0,
-    "active_simulations": 12,
+    "active_simulations": 14,
     "completed_simulations": 0,
     "avoided_liquidations_total": 0,
     "normal_market_passthrough": true,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-11T02:59:11+00:00",
+    "updated_utc": "2026-08-11T03:59:36+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -209,12 +209,12 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block10-regime-fitness-v1",
-    "current_regime": "HIGH_VOLATILITY",
+    "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 634,
+    "timeline_rows": 635,
     "performance_rows": 614,
-    "preferred": 0,
-    "avoid": 0,
+    "preferred": 7,
+    "avoid": 4,
     "memory_records": 289,
     "candidate_blocks": 0,
     "registry_enriched": 16,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-11T02:54:12+00:00",
+    "generated_utc": "2026-08-11T03:54:32+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 2067,
-    "audit_last_hash": "4106813965478a24b4c7a605c662a9ac7babcc83e96802e60965faa335d8f889",
+    "audit_rows": 2071,
+    "audit_last_hash": "b88eba5c1cda1fd2b3e27932bcd3077ac01cff88376c8b3d013a7c3d66882a72",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -284,58 +284,7 @@
   },
   "opened": [],
   "closed": [],
-  "trailing_updates": [
-    {
-      "portfolio": "SHADOW_COMBO_ADAPTIVE_RUNNER25_V1",
-      "trade_id": "b0984f6a3dda66be92a3",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.50962461498985,
-      "mark_price": 1.28993,
-      "old_stop_price": 1.51367390539155,
-      "new_stop_price": 1.50962461498985
-    },
-    {
-      "portfolio": "SHADOW_COMBO_ADAPTIVE_TP3_V1",
-      "trade_id": "574a15810c9aa3f46b65",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.50962461498985,
-      "mark_price": 1.28993,
-      "old_stop_price": 1.51367390539155,
-      "new_stop_price": 1.50962461498985
-    },
-    {
-      "portfolio": "SHADOW_COMBO_TREND",
-      "trade_id": "ec6c80d94a29b11263ce",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.54342378652675,
-      "mark_price": 1.28993,
-      "old_stop_price": 1.54756373699025,
-      "new_stop_price": 1.54342378652675
-    },
-    {
-      "portfolio": "SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1",
-      "trade_id": "1b45c76d860a75035eff",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.54342378652675,
-      "mark_price": 1.28993,
-      "old_stop_price": 1.54756373699025,
-      "new_stop_price": 1.54342378652675
-    },
-    {
-      "portfolio": "SHADOW_RELATIVE_STRENGTH",
-      "trade_id": "9892c4359100c00bf8fe",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.54342378652675,
-      "mark_price": 1.28993,
-      "old_stop_price": 1.54756373699025,
-      "new_stop_price": 1.54342378652675
-    }
-  ],
+  "trailing_updates": [],
   "risk_alerts": [],
   "risk_recoveries": [],
   "telegram_paper": {
@@ -359,20 +308,13 @@
     "changed": false
   },
   "live_publication": {
-    "configured": true,
-    "published": true,
-    "unchanged": false,
-    "path": "reports/paper_trading_live.md",
-    "branch": "paper-trading-live",
-    "commit_sha": "59ef20cef6fc445a815e914ac01c775ddc4df13d",
-    "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
-    "reasons": [
-      "market_event"
-    ]
+    "configured": false,
+    "published": false,
+    "reasons": []
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-11T02:59:33+00:00",
-    "positions": 1033,
+    "generated_utc": "2026-08-11T03:59:47+00:00",
+    "positions": 1144,
     "strategy_accounts": 347,
     "alerts": 1,
     "status": "OK",
