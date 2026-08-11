@@ -6,64 +6,64 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 
 - Regime: **RANGE**
 - Famiglia: **RANGE**
-- Confidenza: **79,60%**
+- Confidenza: **71,60%**
 - Volatilità: **NORMAL**
 - Rotazione strategie: **SOLO OSSERVAZIONE — nessun peso operativo viene ancora modificato**
-- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 33%, ADX 24.0.
-- BTC trend score: **0,00**; ADX: **24,03**; breadth sopra EMA50: **33,33%**
-- Mediana alt vs BTC: **-0,43%**; dispersione: **21,48%**
+- Motivo: Direzione poco definita: score BTC +0.0, breadth EMA50 42%, ADX 24.1.
+- BTC trend score: **0,00**; ADX: **24,05**; breadth sopra EMA50: **41,67%**
+- Mediana alt vs BTC: **-0,27%**; dispersione: **20,50%**
 
-- Aperti in questo ciclo: **11**
+- Aperti in questo ciclo: **22**
 - Chiusi in questo ciclo: **0**
-- Posizioni research aperte: **523**
-- Trade research chiusi: **19010**
-- Eventi di mercato indipendenti chiusi: **2761**
-- Segnali sovrapposti saltati sullo stesso asset/profilo: **52022**
+- Posizioni research aperte: **494**
+- Trade research chiusi: **19061**
+- Eventi di mercato indipendenti chiusi: **2768**
+- Segnali sovrapposti saltati sullo stesso asset/profilo: **52154**
 - Posizioni Research V1 senza regime scartate durante la migrazione: **28**
 
 ### Risultati complessivi per strategia
 
 | Profilo | Aperte | Chiuse | Eventi indip. | Win rate | PF | Expectancy R | P&L norm. |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | 7 | 273 | 273 | 30,40% | 0,72 | -0,15R | €-400,69 |
-| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | 6 | 244 | 244 | 29,10% | 0,58 | -0,23R | €-555,52 |
+| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | 6 | 274 | 274 | 30,66% | 0,72 | -0,15R | €-398,42 |
+| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | 5 | 246 | 246 | 29,67% | 0,61 | -0,21R | €-505,79 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_L_TP_R200_903364ad | 2 | 161 | 161 | 45,96% | 0,79 | -0,11R | €-176,98 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V_TP_R200_051501d0 | 2 | 163 | 163 | 33,13% | 0,80 | -0,10R | €-166,74 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R200_751e55c4 | 4 | 218 | 218 | 32,11% | 0,80 | -0,10R | €-223,79 |
-| EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | 4 | 190 | 190 | 32,11% | 0,71 | -0,15R | €-277,86 |
+| EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | 4 | 191 | 191 | 32,46% | 0,73 | -0,13R | €-253,00 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_RANGE_ONLY_V_TP_R200_52488eb5 | 1 | 92 | 92 | 32,61% | 0,63 | -0,20R | €-181,75 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_REGIME_GUARD_TP_R200_934590ed | 1 | 192 | 192 | 26,56% | 0,55 | -0,27R | €-522,12 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b | 3 | 291 | 291 | 29,90% | 0,72 | -0,15R | €-440,47 |
-| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | 3 | 259 | 259 | 28,57% | 0,59 | -0,22R | €-578,50 |
+| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | 3 | 260 | 260 | 28,85% | 0,60 | -0,21R | €-553,63 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_LONG_ONL_TP_R200_7bbb9481 | 4 | 218 | 218 | 33,03% | 0,85 | -0,08R | €-164,12 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | 8 | 383 | 383 | 40,47% | 0,81 | -0,09R | €-345,19 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_G_TP_R200_89ab3f19 | 0 | 101 | 101 | 26,73% | 0,47 | -0,36R | €-360,01 |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | 8 | 339 | 339 | 29,20% | 0,71 | -0,15R | €-517,92 |
-| EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | 8 | 343 | 343 | 29,15% | 0,71 | -0,15R | €-518,45 |
-| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | 6 | 307 | 307 | 28,01% | 0,59 | -0,22R | €-662,95 |
-| MAIN | 14 | 201 | 201 | 25,37% | 0,70 | -0,19R | €-372,34 |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | 7 | 340 | 340 | 29,41% | 0,71 | -0,15R | €-515,65 |
+| EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | 7 | 344 | 344 | 29,36% | 0,71 | -0,15R | €-516,18 |
+| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | 6 | 309 | 309 | 28,48% | 0,62 | -0,20R | €-613,22 |
+| MAIN | 15 | 201 | 201 | 25,37% | 0,70 | -0,19R | €-372,34 |
 | RSI_EXTREME_LONG_15M | 0 | 22 | 22 | 36,36% | 0,47 | -0,33R | €-73,68 |
 | RSI_EXTREME_SHORT_15M | 0 | 36 | 36 | 33,33% | 0,44 | -0,33R | €-119,37 |
-| Bilanciata 1H V1 | 16 | 496 | 496 | 34,27% | 0,93 | -0,04R | €-182,87 |
-| Bilanciata 1H V2 | 8 | 193 | 170 | 38,34% | 1,16 | 0,08R | €160,39 |
-| Bilanciata 1H V3 Filtered | 12 | 306 | 306 | 34,31% | 0,93 | -0,04R | €-123,90 |
-| SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | 12 | 227 | 227 | 32,60% | 0,79 | -0,12R | €-269,25 |
+| Bilanciata 1H V1 | 15 | 497 | 497 | 34,21% | 0,93 | -0,04R | €-193,98 |
+| Bilanciata 1H V2 | 8 | 194 | 170 | 38,14% | 1,14 | 0,08R | €149,27 |
+| Bilanciata 1H V3 Filtered | 11 | 307 | 307 | 34,20% | 0,92 | -0,04R | €-135,01 |
+| SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | 11 | 228 | 228 | 32,46% | 0,78 | -0,12R | €-280,36 |
 | Rapida 1H V1 | 0 | 208 | 208 | 38,94% | 0,92 | -0,05R | €-101,45 |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | 1 | 167 | 167 | 37,72% | 0,97 | -0,01R | €-23,09 |
-| SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | 8 | 304 | 304 | 35,20% | 0,84 | -0,08R | €-245,42 |
-| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 8 | 371 | 371 | 36,66% | 0,89 | -0,06R | €-211,08 |
-| SHADOW_1H_FAST_NO_PEPE_V1 | 12 | 491 | 491 | 34,42% | 0,80 | -0,11R | €-539,50 |
-| SHADOW_1H_FAST_SCORE_6_75_V1 | 7 | 297 | 297 | 36,03% | 0,87 | -0,07R | €-197,67 |
-| SHADOW_1H_FAST_TP2_V1 | 11 | 459 | 459 | 31,15% | 0,77 | -0,12R | €-566,45 |
+| SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | 6 | 306 | 306 | 35,29% | 0,84 | -0,08R | €-241,22 |
+| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | 6 | 373 | 373 | 36,73% | 0,89 | -0,06R | €-206,88 |
+| SHADOW_1H_FAST_NO_PEPE_V1 | 10 | 494 | 494 | 34,62% | 0,80 | -0,11R | €-533,03 |
+| SHADOW_1H_FAST_SCORE_6_75_V1 | 5 | 299 | 299 | 36,45% | 0,88 | -0,06R | €-180,53 |
+| SHADOW_1H_FAST_TP2_V1 | 9 | 461 | 461 | 31,24% | 0,77 | -0,12R | €-574,84 |
 | Rapida 1H V2 | 1 | 41 | 35 | 34,15% | 0,58 | -0,24R | €-99,64 |
-| Rapida 1H V3 Filtered | 9 | 490 | 490 | 35,10% | 0,83 | -0,09R | €-445,91 |
-| SHADOW_1H_FAST_V3_CAP75_V1 | 8 | 355 | 355 | 35,21% | 0,83 | -0,09R | €-319,91 |
+| Rapida 1H V3 Filtered | 8 | 492 | 492 | 35,37% | 0,84 | -0,09R | €-428,78 |
+| SHADOW_1H_FAST_V3_CAP75_V1 | 6 | 357 | 357 | 35,57% | 0,84 | -0,08R | €-302,78 |
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_LOCK_V1 | 2 | 202 | 202 | 48,02% | 0,96 | -0,02R | €-40,65 |
 | SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1 | 2 | 205 | 205 | 37,56% | 0,95 | -0,03R | €-54,68 |
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | 4 | 276 | 276 | 36,59% | 0,89 | -0,06R | €-163,26 |
-| SHADOW_1H_FAST_V3_NOHIGH_V1 | 4 | 392 | 392 | 34,44% | 0,80 | -0,11R | €-414,64 |
-| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 9 | 443 | 443 | 33,86% | 0,78 | -0,12R | €-527,87 |
-| SHADOW_4H_WIDE | 30 | 180 | 180 | 21,11% | 0,72 | -0,20R | €-351,55 |
+| SHADOW_1H_FAST_V3_NOHIGH_V1 | 4 | 393 | 393 | 34,61% | 0,81 | -0,10R | €-399,78 |
+| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | 8 | 445 | 445 | 34,16% | 0,79 | -0,11R | €-510,73 |
+| SHADOW_4H_WIDE | 31 | 180 | 180 | 21,11% | 0,72 | -0,20R | €-351,55 |
 | SHADOW_BOLLINGER_MR_1H | 4 | 150 | 150 | 48,00% | 1,11 | 0,05R | €79,47 |
 | SHADOW_BTC_ADAPTIVE_1H | 0 | 9 | 9 | 55,56% | 0,59 | -0,20R | €-18,05 |
 | SHADOW_BTC_ADAPTIVE_4H | 0 | 1 | 1 | 0,00% | 0,00 | -1,07R | €-10,67 |
@@ -73,24 +73,24 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_BTC_DONCHIAN_4H | 1 | 3 | 3 | 0,00% | 0,00 | -1,07R | €-32,12 |
 | SHADOW_BTC_EMA_1H | 1 | 12 | 12 | 41,67% | 0,69 | -0,20R | €-24,31 |
 | SHADOW_BTC_EMA_4H | 0 | 2 | 2 | 0,00% | 0,00 | -1,07R | €-21,35 |
-| SHADOW_COMBO_ADAPTIVE | 11 | 404 | 404 | 37,38% | 1,01 | 0,00R | €13,99 |
+| SHADOW_COMBO_ADAPTIVE | 10 | 405 | 405 | 37,28% | 1,00 | 0,00R | €2,87 |
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | 5 | 221 | 221 | 35,75% | 0,96 | -0,02R | €-51,16 |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | 10 | 416 | 416 | 41,35% | 1,00 | -0,00R | €-5,72 |
-| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 11 | 345 | 345 | 39,13% | 0,94 | -0,03R | €-105,67 |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | 9 | 418 | 418 | 41,39% | 0,99 | -0,00R | €-15,29 |
+| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | 10 | 346 | 346 | 39,02% | 0,94 | -0,03R | €-116,78 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_PARTIAL_1R_V1 | 0 | 43 | 43 | 48,84% | 1,55 | 0,22R | €92,56 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | 0 | 43 | 43 | 37,21% | 1,43 | 0,17R | €72,42 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 0 | 114 | 114 | 32,46% | 0,94 | -0,03R | €-31,75 |
-| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 3 | 156 | 156 | 34,62% | 0,84 | -0,08R | €-127,37 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | 1 | 114 | 114 | 32,46% | 0,94 | -0,03R | €-31,75 |
+| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | 2 | 157 | 157 | 34,39% | 0,83 | -0,09R | €-138,48 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | 0 | 47 | 47 | 19,15% | 0,74 | -0,20R | €-92,41 |
 | SHADOW_COMBO_ADAPTIVE_TP3_V1 | 0 | 47 | 47 | 19,15% | 0,74 | -0,20R | €-92,41 |
 | SHADOW_COMBO_MEAN_REVERSION | 0 | 74 | 74 | 48,65% | 1,21 | 0,09R | €69,51 |
-| SHADOW_COMBO_SCANNER | 7 | 253 | 253 | 35,97% | 1,15 | 0,08R | €210,52 |
+| SHADOW_COMBO_SCANNER | 6 | 254 | 254 | 35,83% | 1,14 | 0,08R | €199,41 |
 | SHADOW_COMBO_TREND | 15 | 328 | 328 | 31,71% | 0,93 | -0,04R | €-139,80 |
 | SHADOW_DOGE_BOLLINGER_1H | 0 | 6 | 6 | 50,00% | 0,84 | -0,09R | €-5,54 |
 | SHADOW_DOGE_DONCHIAN_1H | 0 | 8 | 8 | 37,50% | 0,73 | -0,18R | €-14,80 |
-| SHADOW_DOGE_EMA_1H | 1 | 15 | 15 | 26,67% | 0,48 | -0,35R | €-52,69 |
-| SHADOW_DONCHIAN_1H | 10 | 165 | 165 | 27,27% | 0,76 | -0,16R | €-261,05 |
-| SHADOW_DONCHIAN_1H_GB20_120R_V1 | 10 | 95 | 95 | 28,42% | 0,66 | -0,21R | €-195,97 |
+| SHADOW_DOGE_EMA_1H | 0 | 16 | 16 | 25,00% | 0,43 | -0,40R | €-63,80 |
+| SHADOW_DONCHIAN_1H | 10 | 166 | 166 | 27,71% | 0,79 | -0,14R | €-236,18 |
+| SHADOW_DONCHIAN_1H_GB20_120R_V1 | 10 | 96 | 96 | 29,17% | 0,71 | -0,18R | €-171,10 |
 | SHADOW_EMA_TREND_1H | 14 | 335 | 335 | 30,75% | 0,89 | -0,06R | €-212,38 |
 | SHADOW_ETH_ADAPTIVE_1H | 0 | 12 | 12 | 33,33% | 0,37 | -0,46R | €-55,67 |
 | SHADOW_ETH_BOLLINGER_1H | 0 | 6 | 6 | 66,67% | 1,46 | 0,17R | €10,43 |
@@ -98,20 +98,20 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_ETH_EMA_1H | 0 | 17 | 17 | 35,29% | 0,37 | -0,45R | €-76,84 |
 | SHADOW_ETH_EMA_4H | 0 | 2 | 2 | 0,00% | 0,00 | -1,06R | €-21,23 |
 | SHADOW_GLOBAL_PURE | 1 | 9 | 9 | 55,56% | 1,55 | 0,27R | €24,30 |
-| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 5 | 200 | 200 | 33,00% | 1,03 | 0,02R | €33,63 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 5 | 371 | 371 | 66,31% | 1,40 | 0,13R | €482,32 |
+| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | 6 | 200 | 200 | 33,00% | 1,03 | 0,02R | €33,63 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | 5 | 372 | 372 | 66,40% | 1,41 | 0,13R | €487,17 |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | 5 | 174 | 174 | 33,33% | 1,05 | 0,03R | €54,46 |
 | SHADOW_MASTER_ADAPTIVE_RUNNER25_V1 | 5 | 181 | 181 | 30,94% | 1,01 | 0,01R | €16,37 |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | 5 | 127 | 127 | 32,28% | 0,98 | -0,01R | €-13,10 |
 | SHADOW_MASTER_ADAPTIVE_V1 | 5 | 194 | 194 | 32,47% | 1,00 | -0,00R | €-2,39 |
 | Forza relativa 1H V1 | 12 | 418 | 418 | 29,90% | 0,88 | -0,07R | €-285,92 |
 | Forza relativa 1H V2 | 6 | 181 | 168 | 36,46% | 1,20 | 0,11R | €195,50 |
-| SHADOW_SCANNER_BOTTOM10_SHORT | 9 | 122 | 122 | 27,87% | 0,53 | -0,27R | €-329,43 |
-| SHADOW_SCANNER_BOTTOM15_SHORT | 9 | 122 | 122 | 27,87% | 0,53 | -0,27R | €-329,43 |
-| SHADOW_SCANNER_BOTTOM20_SHORT | 9 | 122 | 122 | 27,87% | 0,53 | -0,27R | €-329,43 |
-| SHADOW_SCANNER_BOTTOM5_SHORT | 9 | 157 | 157 | 31,21% | 0,78 | -0,12R | €-189,15 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | 9 | 137 | 137 | 48,18% | 0,70 | -0,14R | €-197,17 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | 9 | 118 | 118 | 47,46% | 0,70 | -0,15R | €-171,22 |
+| SHADOW_SCANNER_BOTTOM10_SHORT | 8 | 123 | 123 | 27,64% | 0,52 | -0,28R | €-340,54 |
+| SHADOW_SCANNER_BOTTOM15_SHORT | 8 | 123 | 123 | 27,64% | 0,52 | -0,28R | €-340,54 |
+| SHADOW_SCANNER_BOTTOM20_SHORT | 8 | 123 | 123 | 27,64% | 0,52 | -0,28R | €-340,54 |
+| SHADOW_SCANNER_BOTTOM5_SHORT | 8 | 158 | 158 | 31,01% | 0,77 | -0,13R | €-200,26 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | 8 | 141 | 141 | 48,94% | 0,71 | -0,14R | €-193,65 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | 8 | 120 | 120 | 47,50% | 0,69 | -0,15R | €-180,46 |
 | SHADOW_SCANNER_TOP10_LONG | 6 | 190 | 190 | 35,26% | 1,02 | 0,01R | €15,97 |
 | SHADOW_SCANNER_TOP15_LONG | 6 | 191 | 191 | 35,08% | 1,01 | 0,00R | €4,86 |
 | SHADOW_SCANNER_TOP20_LONG | 6 | 191 | 191 | 35,08% | 1,01 | 0,00R | €4,86 |
@@ -142,7 +142,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | ALT_ROTATION_DOWN | 0 | 36 | 36 | 22,22% | 0,48 | -0,32R | €-116,66 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | ALT_ROTATION_UP | 0 | 44 | 44 | 40,91% | 1,30 | 0,14R | €60,32 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | RANGE | 2 | 80 | 80 | 37,50% | 0,74 | -0,13R | €-100,78 |
-| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | RANGE_HIGH_VOL | 4 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,14 |
+| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | RANGE_HIGH_VOL | 3 | 5 | 5 | 20,00% | 0,05 | -0,80R | €-39,87 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | TRANSITION | 0 | 31 | 31 | 35,48% | 1,17 | 0,09R | €26,53 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | TREND_DOWN | 0 | 20 | 20 | 30,00% | 0,42 | -0,36R | €-71,46 |
@@ -151,9 +151,9 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | TREND_UP_HIGH_VOL | 0 | 5 | 5 | 20,00% | 0,09 | -0,19R | €-9,63 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | ALT_ROTATION_DOWN | 0 | 35 | 35 | 20,00% | 0,30 | -0,49R | €-170,51 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | ALT_ROTATION_UP | 0 | 31 | 31 | 41,94% | 1,38 | 0,16R | €48,72 |
-| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | RANGE | 1 | 75 | 75 | 36,00% | 0,56 | -0,22R | €-165,38 |
+| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | RANGE | 1 | 76 | 76 | 36,84% | 0,63 | -0,18R | €-140,52 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | RANGE_HIGH_VOL | 3 | 4 | 4 | 0,00% | 0,00 | -1,05R | €-42,14 |
-| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | TRANSITION | 1 | 29 | 29 | 34,48% | 1,16 | 0,08R | €23,76 |
+| EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | TRANSITION | 0 | 30 | 30 | 36,67% | 1,33 | 0,16R | €48,62 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | TREND_DOWN | 0 | 17 | 17 | 29,41% | 0,38 | -0,37R | €-63,22 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | TREND_DOWN_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -0,02R | €-0,17 |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | TREND_UP | 1 | 48 | 48 | 16,67% | 0,31 | -0,37R | €-177,08 |
@@ -184,9 +184,9 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R200_751e55c4 | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 25,00% | 0,09 | -0,24R | €-9,50 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | ALT_ROTATION_DOWN | 0 | 9 | 9 | 11,11% | 0,18 | -0,48R | €-43,52 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | ALT_ROTATION_UP | 0 | 36 | 36 | 38,89% | 1,19 | 0,09R | €32,59 |
-| EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | RANGE | 0 | 56 | 56 | 33,93% | 0,53 | -0,25R | €-139,93 |
+| EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | RANGE | 1 | 56 | 56 | 33,93% | 0,53 | -0,25R | €-139,93 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | RANGE_HIGH_VOL | 2 | 4 | 4 | 0,00% | 0,00 | -1,08R | €-43,24 |
-| EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | TRANSITION | 1 | 18 | 18 | 33,33% | 1,46 | 0,19R | €33,48 |
+| EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | TRANSITION | 0 | 19 | 19 | 36,84% | 1,81 | 0,31R | €58,34 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | TREND_DOWN | 0 | 13 | 13 | 46,15% | 0,92 | -0,05R | €-6,00 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | TREND_DOWN_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -0,02R | €-0,17 |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R250_bfc04ed6 | TREND_UP | 1 | 49 | 49 | 28,57% | 0,56 | -0,21R | €-101,56 |
@@ -209,7 +209,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b | TREND_UP | 1 | 70 | 70 | 24,29% | 0,66 | -0,17R | €-118,41 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | ALT_ROTATION_DOWN | 0 | 24 | 24 | 8,33% | 0,09 | -0,71R | €-171,17 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | ALT_ROTATION_UP | 0 | 38 | 38 | 36,84% | 1,12 | 0,06R | €21,23 |
-| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | RANGE | 2 | 90 | 90 | 33,33% | 0,56 | -0,23R | €-207,69 |
+| EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | RANGE | 2 | 91 | 91 | 34,07% | 0,62 | -0,20R | €-182,82 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | TRANSITION | 0 | 21 | 21 | 23,81% | 0,77 | -0,11R | €-23,94 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | TREND_DOWN | 0 | 21 | 21 | 38,10% | 0,81 | -0,10R | €-21,13 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R250_c467005a | TREND_UP | 1 | 65 | 65 | 23,08% | 0,47 | -0,27R | €-175,79 |
@@ -243,7 +243,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | ALT_ROTATION_DOWN | 0 | 48 | 48 | 16,67% | 0,31 | -0,43R | €-206,78 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | ALT_ROTATION_UP | 0 | 48 | 48 | 35,42% | 1,09 | 0,04R | €19,39 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | RANGE | 2 | 96 | 96 | 34,38% | 0,70 | -0,16R | €-155,52 |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | RANGE_HIGH_VOL | 5 | 13 | 13 | 7,69% | 0,19 | -0,65R | €-84,46 |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | RANGE_HIGH_VOL | 4 | 14 | 14 | 14,29% | 0,21 | -0,59R | €-82,19 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | RANGE_LOW_VOL | 0 | 3 | 3 | 66,67% | 3,88 | 0,97R | €29,21 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | TRANSITION | 0 | 32 | 32 | 37,50% | 1,50 | 0,21R | €67,69 |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | TREND_DOWN | 0 | 24 | 24 | 37,50% | 0,71 | -0,16R | €-39,37 |
@@ -253,7 +253,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | ALT_ROTATION_DOWN | 0 | 48 | 48 | 16,67% | 0,31 | -0,43R | €-206,78 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | ALT_ROTATION_UP | 0 | 50 | 50 | 36,00% | 1,12 | 0,06R | €29,13 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | RANGE | 2 | 97 | 97 | 34,02% | 0,69 | -0,17R | €-165,65 |
-| EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | RANGE_HIGH_VOL | 5 | 13 | 13 | 7,69% | 0,19 | -0,65R | €-84,46 |
+| EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | RANGE_HIGH_VOL | 4 | 14 | 14 | 14,29% | 0,21 | -0,59R | €-82,19 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | RANGE_LOW_VOL | 0 | 3 | 3 | 66,67% | 3,88 | 0,97R | €29,21 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | TRANSITION | 0 | 32 | 32 | 37,50% | 1,50 | 0,21R | €67,69 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | TREND_DOWN | 0 | 24 | 24 | 37,50% | 0,71 | -0,16R | €-39,37 |
@@ -262,16 +262,16 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | TREND_UP_HIGH_VOL | 0 | 6 | 6 | 16,67% | 0,08 | -0,16R | €-9,76 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | ALT_ROTATION_DOWN | 0 | 48 | 48 | 16,67% | 0,26 | -0,48R | €-230,77 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | ALT_ROTATION_UP | 0 | 38 | 38 | 36,84% | 1,12 | 0,06R | €21,23 |
-| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | RANGE | 0 | 90 | 90 | 33,33% | 0,56 | -0,23R | €-207,69 |
-| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | RANGE_HIGH_VOL | 4 | 10 | 10 | 0,00% | 0,00 | -0,84R | €-84,04 |
-| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | TRANSITION | 1 | 30 | 30 | 36,67% | 1,56 | 0,23R | €69,92 |
+| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | RANGE | 2 | 90 | 90 | 33,33% | 0,56 | -0,23R | €-207,69 |
+| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | RANGE_HIGH_VOL | 3 | 11 | 11 | 9,09% | 0,30 | -0,54R | €-59,18 |
+| EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | TRANSITION | 0 | 31 | 31 | 38,71% | 1,76 | 0,31R | €94,78 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | TREND_DOWN | 0 | 21 | 21 | 38,10% | 0,81 | -0,10R | €-21,13 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | TREND_DOWN_HIGH_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -0,02R | €-0,17 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | TREND_UP | 1 | 64 | 64 | 21,88% | 0,39 | -0,31R | €-200,65 |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | TREND_UP_HIGH_VOL | 0 | 5 | 5 | 20,00% | 0,09 | -0,19R | €-9,63 |
 | MAIN | ALT_ROTATION_DOWN | 1 | 19 | 19 | 31,58% | 0,99 | -0,00R | €-0,53 |
 | MAIN | ALT_ROTATION_UP | 5 | 33 | 33 | 21,21% | 0,40 | -0,41R | €-134,29 |
-| MAIN | RANGE | 3 | 58 | 58 | 20,69% | 0,58 | -0,27R | €-158,24 |
+| MAIN | RANGE | 4 | 58 | 58 | 20,69% | 0,58 | -0,27R | €-158,24 |
 | MAIN | RANGE_HIGH_VOL | 2 | 8 | 8 | 12,50% | 0,48 | -0,27R | €-21,36 |
 | MAIN | RANGE_LOW_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,99R | €19,87 |
 | MAIN | TRANSITION | 0 | 21 | 21 | 23,81% | 0,52 | -0,35R | €-74,24 |
@@ -295,20 +295,20 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Bilanciata 1H V1 | RANGE | 4 | 128 | 128 | 41,41% | 1,19 | 0,10R | €128,96 |
 | Bilanciata 1H V1 | RANGE_HIGH_VOL | 5 | 23 | 23 | 8,70% | 0,21 | -0,66R | €-151,18 |
 | Bilanciata 1H V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| Bilanciata 1H V1 | TRANSITION | 1 | 70 | 70 | 41,43% | 1,28 | 0,15R | €102,79 |
+| Bilanciata 1H V1 | TRANSITION | 0 | 71 | 71 | 40,85% | 1,24 | 0,13R | €91,68 |
 | Bilanciata 1H V1 | TREND_DOWN | 0 | 29 | 29 | 34,48% | 0,78 | -0,11R | €-32,03 |
 | Bilanciata 1H V1 | TREND_DOWN_HIGH_VOL | 0 | 3 | 3 | 66,67% | 2,44 | 0,53R | €15,80 |
 | Bilanciata 1H V1 | TREND_UP | 4 | 105 | 105 | 31,43% | 0,93 | -0,04R | €-39,28 |
 | Bilanciata 1H V1 | TREND_UP_HIGH_VOL | 0 | 18 | 18 | 22,22% | 0,65 | -0,23R | €-41,15 |
 | Bilanciata 1H V2 | ALT_ROTATION_UP | 2 | 45 | 39 | 40,00% | 1,20 | 0,10R | €46,24 |
-| Bilanciata 1H V2 | RANGE | 5 | 94 | 85 | 35,11% | 0,90 | -0,06R | €-56,97 |
-| Bilanciata 1H V2 | TRANSITION | 1 | 54 | 46 | 42,59% | 1,67 | 0,32R | €171,11 |
+| Bilanciata 1H V2 | RANGE | 6 | 94 | 85 | 35,11% | 0,90 | -0,06R | €-56,97 |
+| Bilanciata 1H V2 | TRANSITION | 0 | 55 | 46 | 41,82% | 1,60 | 0,29R | €160,00 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_DOWN | 1 | 41 | 41 | 26,83% | 0,56 | -0,29R | €-117,54 |
 | Bilanciata 1H V3 Filtered | ALT_ROTATION_UP | 0 | 36 | 36 | 33,33% | 1,24 | 0,13R | €45,30 |
 | Bilanciata 1H V3 Filtered | RANGE | 3 | 87 | 87 | 42,53% | 1,13 | 0,07R | €60,05 |
 | Bilanciata 1H V3 Filtered | RANGE_HIGH_VOL | 4 | 4 | 4 | 0,00% | 0,00 | -1,03R | €-41,09 |
 | Bilanciata 1H V3 Filtered | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| Bilanciata 1H V3 Filtered | TRANSITION | 2 | 36 | 36 | 36,11% | 1,15 | 0,09R | €30,74 |
+| Bilanciata 1H V3 Filtered | TRANSITION | 1 | 37 | 37 | 35,14% | 1,09 | 0,05R | €19,63 |
 | Bilanciata 1H V3 Filtered | TREND_DOWN | 0 | 22 | 22 | 31,82% | 0,29 | -0,44R | €-95,77 |
 | Bilanciata 1H V3 Filtered | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 100,00% | ∞ | 1,34R | €26,74 |
 | Bilanciata 1H V3 Filtered | TREND_UP | 2 | 60 | 60 | 31,67% | 1,06 | 0,03R | €19,01 |
@@ -318,7 +318,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | RANGE | 3 | 65 | 65 | 40,00% | 0,85 | -0,09R | €-56,11 |
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | RANGE_HIGH_VOL | 4 | 2 | 2 | 0,00% | 0,00 | -1,01R | €-20,27 |
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | TRANSITION | 2 | 28 | 28 | 35,71% | 1,17 | 0,09R | €25,05 |
+| SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | TRANSITION | 1 | 29 | 29 | 34,48% | 1,09 | 0,05R | €13,94 |
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | TREND_DOWN | 0 | 23 | 23 | 30,43% | 0,27 | -0,46R | €-106,88 |
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 100,00% | ∞ | 1,34R | €26,74 |
 | SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | TREND_UP | 2 | 39 | 39 | 25,64% | 0,78 | -0,11R | €-41,83 |
@@ -339,22 +339,22 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | TREND_UP_HIGH_VOL | 0 | 3 | 3 | 66,67% | 108,55 | 0,48R | €14,34 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | ALT_ROTATION_DOWN | 0 | 19 | 19 | 15,79% | 0,25 | -0,52R | €-99,51 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | ALT_ROTATION_UP | 0 | 52 | 52 | 44,23% | 1,10 | 0,05R | €24,62 |
-| SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | RANGE | 5 | 99 | 99 | 38,38% | 0,90 | -0,05R | €-50,70 |
+| SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | RANGE | 3 | 101 | 101 | 38,61% | 0,91 | -0,05R | €-46,50 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | RANGE_LOW_VOL | 0 | 3 | 3 | 100,00% | ∞ | 1,47R | €44,18 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | TRANSITION | 1 | 28 | 28 | 32,14% | 0,74 | -0,14R | €-38,98 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | TREND_DOWN | 0 | 32 | 32 | 34,38% | 0,76 | -0,13R | €-41,49 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | TREND_UP | 2 | 71 | 71 | 28,17% | 0,74 | -0,12R | €-83,53 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_DOWN | 0 | 37 | 37 | 18,92% | 0,33 | -0,49R | €-181,74 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | ALT_ROTATION_UP | 0 | 53 | 53 | 45,28% | 1,16 | 0,07R | €38,51 |
-| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | RANGE | 5 | 129 | 129 | 43,41% | 1,15 | 0,07R | €94,48 |
+| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | RANGE | 3 | 131 | 131 | 43,51% | 1,16 | 0,08R | €98,69 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | RANGE_LOW_VOL | 0 | 3 | 3 | 100,00% | ∞ | 1,47R | €44,18 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TRANSITION | 1 | 30 | 30 | 36,67% | 0,94 | -0,03R | €-9,29 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TREND_DOWN | 0 | 32 | 32 | 34,38% | 0,76 | -0,13R | €-41,49 |
 | SHADOW_1H_FAST_NOHIGH_CAP75_V1 | TREND_UP | 2 | 87 | 87 | 27,59% | 0,65 | -0,18R | €-155,74 |
 | SHADOW_1H_FAST_NO_PEPE_V1 | ALT_ROTATION_DOWN | 0 | 77 | 77 | 20,78% | 0,38 | -0,43R | €-330,64 |
 | SHADOW_1H_FAST_NO_PEPE_V1 | ALT_ROTATION_UP | 0 | 58 | 58 | 39,66% | 0,95 | -0,03R | €-15,73 |
-| SHADOW_1H_FAST_NO_PEPE_V1 | RANGE | 3 | 149 | 149 | 39,60% | 0,91 | -0,05R | €-70,65 |
-| SHADOW_1H_FAST_NO_PEPE_V1 | RANGE_HIGH_VOL | 6 | 14 | 14 | 28,57% | 0,62 | -0,26R | €-36,42 |
+| SHADOW_1H_FAST_NO_PEPE_V1 | RANGE | 2 | 151 | 151 | 39,74% | 0,92 | -0,04R | €-66,45 |
+| SHADOW_1H_FAST_NO_PEPE_V1 | RANGE_HIGH_VOL | 5 | 15 | 15 | 33,33% | 0,64 | -0,23R | €-34,15 |
 | SHADOW_1H_FAST_NO_PEPE_V1 | RANGE_LOW_VOL | 0 | 3 | 3 | 66,67% | 153,43 | 0,97R | €29,23 |
 | SHADOW_1H_FAST_NO_PEPE_V1 | TRANSITION | 1 | 44 | 44 | 43,18% | 1,30 | 0,13R | €57,03 |
 | SHADOW_1H_FAST_NO_PEPE_V1 | TREND_DOWN | 0 | 38 | 38 | 36,84% | 0,80 | -0,11R | €-41,96 |
@@ -363,8 +363,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_NO_PEPE_V1 | TREND_UP_HIGH_VOL | 0 | 5 | 5 | 60,00% | 110,03 | 0,58R | €29,07 |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | ALT_ROTATION_DOWN | 0 | 44 | 44 | 22,73% | 0,37 | -0,46R | €-202,42 |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | ALT_ROTATION_UP | 0 | 43 | 43 | 37,21% | 0,98 | -0,01R | €-4,78 |
-| SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE | 1 | 90 | 90 | 47,78% | 1,38 | 0,17R | €151,71 |
-| SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE_HIGH_VOL | 4 | 4 | 4 | 25,00% | 0,48 | -0,40R | €-16,02 |
+| SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE | 0 | 91 | 91 | 48,35% | 1,42 | 0,18R | €166,58 |
+| SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE_HIGH_VOL | 3 | 5 | 5 | 40,00% | 0,55 | -0,28R | €-13,75 |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | RANGE_LOW_VOL | 0 | 2 | 2 | 100,00% | ∞ | 1,48R | €29,66 |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | TRANSITION | 1 | 31 | 31 | 41,94% | 1,24 | 0,10R | €32,16 |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | TREND_DOWN | 0 | 22 | 22 | 27,27% | 0,59 | -0,23R | €-50,88 |
@@ -373,8 +373,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_SCORE_6_75_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 0,00% | 0,00 | -0,51R | €-10,27 |
 | SHADOW_1H_FAST_TP2_V1 | ALT_ROTATION_DOWN | 0 | 75 | 75 | 20,00% | 0,42 | -0,40R | €-298,22 |
 | SHADOW_1H_FAST_TP2_V1 | ALT_ROTATION_UP | 0 | 59 | 59 | 40,68% | 1,15 | 0,07R | €43,11 |
-| SHADOW_1H_FAST_TP2_V1 | RANGE | 4 | 132 | 132 | 37,88% | 0,92 | -0,04R | €-54,02 |
-| SHADOW_1H_FAST_TP2_V1 | RANGE_HIGH_VOL | 5 | 14 | 14 | 14,29% | 0,37 | -0,47R | €-65,50 |
+| SHADOW_1H_FAST_TP2_V1 | RANGE | 3 | 133 | 133 | 37,59% | 0,91 | -0,05R | €-64,68 |
+| SHADOW_1H_FAST_TP2_V1 | RANGE_HIGH_VOL | 4 | 15 | 15 | 20,00% | 0,39 | -0,42R | €-63,23 |
 | SHADOW_1H_FAST_TP2_V1 | RANGE_LOW_VOL | 0 | 3 | 3 | 33,33% | 1,89 | 0,31R | €9,20 |
 | SHADOW_1H_FAST_TP2_V1 | TRANSITION | 0 | 43 | 43 | 41,86% | 1,63 | 0,25R | €107,35 |
 | SHADOW_1H_FAST_TP2_V1 | TREND_DOWN | 0 | 32 | 32 | 37,50% | 0,73 | -0,16R | €-50,72 |
@@ -386,8 +386,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Rapida 1H V2 | TRANSITION | 0 | 3 | 3 | 33,33% | 0,53 | -0,19R | €-5,76 |
 | Rapida 1H V3 Filtered | ALT_ROTATION_DOWN | 0 | 74 | 74 | 20,27% | 0,37 | -0,43R | €-315,89 |
 | Rapida 1H V3 Filtered | ALT_ROTATION_UP | 0 | 57 | 57 | 40,35% | 1,06 | 0,03R | €16,05 |
-| Rapida 1H V3 Filtered | RANGE | 1 | 137 | 137 | 39,42% | 0,92 | -0,04R | €-57,87 |
-| Rapida 1H V3 Filtered | RANGE_HIGH_VOL | 6 | 13 | 13 | 23,08% | 0,47 | -0,38R | €-49,44 |
+| Rapida 1H V3 Filtered | RANGE | 1 | 138 | 138 | 39,86% | 0,94 | -0,03R | €-43,01 |
+| Rapida 1H V3 Filtered | RANGE_HIGH_VOL | 5 | 14 | 14 | 28,57% | 0,50 | -0,34R | €-47,17 |
 | Rapida 1H V3 Filtered | RANGE_LOW_VOL | 0 | 3 | 3 | 66,67% | 183,36 | 0,98R | €29,26 |
 | Rapida 1H V3 Filtered | TRANSITION | 1 | 40 | 40 | 42,50% | 1,21 | 0,10R | €38,82 |
 | Rapida 1H V3 Filtered | TREND_DOWN | 0 | 34 | 34 | 32,35% | 0,72 | -0,15R | €-51,64 |
@@ -396,8 +396,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | Rapida 1H V3 Filtered | TREND_UP_HIGH_VOL | 0 | 24 | 24 | 29,17% | 0,60 | -0,24R | €-56,81 |
 | SHADOW_1H_FAST_V3_CAP75_V1 | ALT_ROTATION_DOWN | 0 | 56 | 56 | 23,21% | 0,41 | -0,41R | €-232,01 |
 | SHADOW_1H_FAST_V3_CAP75_V1 | ALT_ROTATION_UP | 0 | 51 | 51 | 41,18% | 1,07 | 0,03R | €17,37 |
-| SHADOW_1H_FAST_V3_CAP75_V1 | RANGE | 1 | 111 | 111 | 42,34% | 1,12 | 0,06R | €62,89 |
-| SHADOW_1H_FAST_V3_CAP75_V1 | RANGE_HIGH_VOL | 5 | 5 | 5 | 20,00% | 0,35 | -0,55R | €-27,28 |
+| SHADOW_1H_FAST_V3_CAP75_V1 | RANGE | 0 | 112 | 112 | 42,86% | 1,15 | 0,07R | €77,75 |
+| SHADOW_1H_FAST_V3_CAP75_V1 | RANGE_HIGH_VOL | 4 | 6 | 6 | 33,33% | 0,41 | -0,42R | €-25,01 |
 | SHADOW_1H_FAST_V3_CAP75_V1 | RANGE_LOW_VOL | 0 | 2 | 2 | 100,00% | ∞ | 1,48R | €29,66 |
 | SHADOW_1H_FAST_V3_CAP75_V1 | TRANSITION | 1 | 32 | 32 | 40,62% | 1,00 | 0,00R | €0,72 |
 | SHADOW_1H_FAST_V3_CAP75_V1 | TREND_DOWN | 0 | 26 | 26 | 26,92% | 0,62 | -0,21R | €-55,77 |
@@ -430,15 +430,15 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_LONG_ONLY_V1 | TREND_UP_HIGH_VOL | 0 | 3 | 3 | 66,67% | 118,27 | 0,52R | €15,64 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | ALT_ROTATION_DOWN | 0 | 46 | 46 | 17,39% | 0,32 | -0,51R | €-234,33 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | ALT_ROTATION_UP | 0 | 54 | 54 | 38,89% | 0,99 | -0,00R | €-1,39 |
-| SHADOW_1H_FAST_V3_NOHIGH_V1 | RANGE | 2 | 138 | 138 | 39,86% | 0,94 | -0,03R | €-43,01 |
+| SHADOW_1H_FAST_V3_NOHIGH_V1 | RANGE | 2 | 139 | 139 | 40,29% | 0,96 | -0,02R | €-28,14 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | RANGE_LOW_VOL | 0 | 3 | 3 | 66,67% | 183,36 | 0,98R | €29,26 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | TRANSITION | 1 | 24 | 24 | 33,33% | 0,91 | -0,04R | €-10,14 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | TREND_DOWN | 0 | 34 | 34 | 32,35% | 0,72 | -0,15R | €-51,64 |
 | SHADOW_1H_FAST_V3_NOHIGH_V1 | TREND_UP | 1 | 93 | 93 | 32,26% | 0,79 | -0,11R | €-103,40 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | ALT_ROTATION_DOWN | 0 | 73 | 73 | 20,55% | 0,38 | -0,42R | €-304,46 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | ALT_ROTATION_UP | 0 | 56 | 56 | 37,50% | 0,91 | -0,04R | €-25,07 |
-| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE | 1 | 135 | 135 | 39,26% | 0,90 | -0,05R | €-72,61 |
-| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE_HIGH_VOL | 6 | 12 | 12 | 25,00% | 0,53 | -0,33R | €-39,31 |
+| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE | 1 | 136 | 136 | 39,71% | 0,92 | -0,04R | €-57,74 |
+| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE_HIGH_VOL | 5 | 13 | 13 | 30,77% | 0,56 | -0,28R | €-37,04 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | RANGE_LOW_VOL | 0 | 3 | 3 | 66,67% | 183,36 | 0,98R | €29,26 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TRANSITION | 1 | 35 | 35 | 42,86% | 1,27 | 0,12R | €41,59 |
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_DOWN | 0 | 34 | 34 | 32,35% | 0,72 | -0,15R | €-51,64 |
@@ -447,7 +447,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 50,00% | 59,13 | 0,39R | €15,50 |
 | SHADOW_4H_WIDE | ALT_ROTATION_DOWN | 4 | 12 | 12 | 33,33% | 1,47 | 0,24R | €29,26 |
 | SHADOW_4H_WIDE | ALT_ROTATION_UP | 8 | 25 | 25 | 24,00% | 0,47 | -0,41R | €-101,53 |
-| SHADOW_4H_WIDE | RANGE | 7 | 50 | 50 | 18,00% | 0,68 | -0,23R | €-117,39 |
+| SHADOW_4H_WIDE | RANGE | 8 | 50 | 50 | 18,00% | 0,68 | -0,23R | €-117,39 |
 | SHADOW_4H_WIDE | RANGE_HIGH_VOL | 3 | 6 | 6 | 16,67% | 0,55 | -0,38R | €-22,80 |
 | SHADOW_4H_WIDE | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_4H_WIDE | TRANSITION | 2 | 21 | 21 | 14,29% | 0,43 | -0,44R | €-92,77 |
@@ -501,7 +501,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE | RANGE | 3 | 106 | 106 | 46,23% | 1,15 | 0,08R | €80,36 |
 | SHADOW_COMBO_ADAPTIVE | RANGE_HIGH_VOL | 4 | 13 | 13 | 23,08% | 0,60 | -0,22R | €-28,46 |
 | SHADOW_COMBO_ADAPTIVE | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| SHADOW_COMBO_ADAPTIVE | TRANSITION | 1 | 52 | 52 | 42,31% | 1,47 | 0,24R | €124,51 |
+| SHADOW_COMBO_ADAPTIVE | TRANSITION | 0 | 53 | 53 | 41,51% | 1,41 | 0,21R | €113,40 |
 | SHADOW_COMBO_ADAPTIVE | TREND_DOWN | 0 | 23 | 23 | 30,43% | 0,49 | -0,30R | €-68,69 |
 | SHADOW_COMBO_ADAPTIVE | TREND_DOWN_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 0,74R | €7,41 |
 | SHADOW_COMBO_ADAPTIVE | TREND_UP | 2 | 92 | 92 | 36,96% | 1,12 | 0,05R | €48,94 |
@@ -517,10 +517,10 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | TREND_UP_HIGH_VOL | 0 | 10 | 10 | 10,00% | 0,23 | -0,66R | €-65,96 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | ALT_ROTATION_DOWN | 0 | 55 | 55 | 30,91% | 0,58 | -0,25R | €-135,11 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | ALT_ROTATION_UP | 0 | 60 | 60 | 41,67% | 1,02 | 0,01R | €6,58 |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE | 2 | 102 | 102 | 44,12% | 1,31 | 0,13R | €132,87 |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE_HIGH_VOL | 5 | 13 | 13 | 38,46% | 0,68 | -0,18R | €-22,97 |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE | 3 | 102 | 102 | 44,12% | 1,31 | 0,13R | €132,87 |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE_HIGH_VOL | 4 | 14 | 14 | 42,86% | 0,70 | -0,15R | €-21,43 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TRANSITION | 1 | 39 | 39 | 43,59% | 1,25 | 0,12R | €45,30 |
+| SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TRANSITION | 0 | 40 | 40 | 42,50% | 1,18 | 0,09R | €34,19 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_DOWN | 0 | 32 | 32 | 34,38% | 0,64 | -0,18R | €-56,64 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_DOWN_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 0,85R | €8,53 |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | TREND_UP | 2 | 94 | 94 | 51,06% | 1,33 | 0,14R | €128,70 |
@@ -530,7 +530,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | RANGE | 3 | 94 | 94 | 48,94% | 1,25 | 0,12R | €113,36 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | RANGE_HIGH_VOL | 4 | 11 | 11 | 36,36% | 0,93 | -0,03R | €-3,52 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TRANSITION | 1 | 35 | 35 | 40,00% | 1,24 | 0,12R | €43,03 |
+| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TRANSITION | 0 | 36 | 36 | 38,89% | 1,17 | 0,09R | €31,92 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_DOWN | 0 | 23 | 23 | 34,78% | 0,55 | -0,26R | €-60,33 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_DOWN_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 1,05R | €10,47 |
 | SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | TREND_UP | 2 | 71 | 71 | 38,03% | 0,74 | -0,12R | €-87,18 |
@@ -543,13 +543,13 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_REGIME_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 149,00 | 0,99R | €19,73 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_DOWN | 0 | 12 | 12 | 8,33% | 0,04 | -0,60R | €-71,62 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | ALT_ROTATION_UP | 0 | 17 | 17 | 23,53% | 0,44 | -0,34R | €-57,94 |
-| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE | 0 | 33 | 33 | 42,42% | 1,36 | 0,18R | €60,23 |
+| SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE | 1 | 33 | 33 | 42,42% | 1,36 | 0,18R | €60,23 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | RANGE_HIGH_VOL | 0 | 6 | 6 | 16,67% | 0,65 | -0,18R | €-10,80 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TRANSITION | 0 | 12 | 12 | 33,33% | 1,27 | 0,14R | €16,81 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_DOWN | 0 | 12 | 12 | 33,33% | 0,75 | -0,15R | €-18,18 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_UP | 0 | 20 | 20 | 40,00% | 1,56 | 0,15R | €30,02 |
 | SHADOW_COMBO_ADAPTIVE_QUALITY7_V1 | TREND_UP_HIGH_VOL | 0 | 2 | 2 | 50,00% | 149,00 | 0,99R | €19,73 |
-| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 1 | 46 | 46 | 39,13% | 1,13 | 0,07R | €33,91 |
+| SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TRANSITION | 0 | 47 | 47 | 38,30% | 1,09 | 0,05R | €22,80 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP | 2 | 97 | 97 | 35,05% | 0,80 | -0,10R | €-92,96 |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | TREND_UP_HIGH_VOL | 0 | 13 | 13 | 15,38% | 0,36 | -0,53R | €-68,31 |
 | SHADOW_COMBO_ADAPTIVE_RUNNER25_V1 | ALT_ROTATION_DOWN | 0 | 10 | 10 | 40,00% | 2,13 | 0,62R | €61,68 |
@@ -577,7 +577,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_COMBO_SCANNER | RANGE | 1 | 63 | 63 | 46,03% | 1,61 | 0,29R | €183,67 |
 | SHADOW_COMBO_SCANNER | RANGE_HIGH_VOL | 2 | 2 | 2 | 0,00% | 0,00 | -1,04R | €-20,83 |
 | SHADOW_COMBO_SCANNER | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
-| SHADOW_COMBO_SCANNER | TRANSITION | 1 | 37 | 37 | 48,65% | 1,84 | 0,38R | €140,56 |
+| SHADOW_COMBO_SCANNER | TRANSITION | 0 | 38 | 38 | 47,37% | 1,73 | 0,34R | €129,44 |
 | SHADOW_COMBO_SCANNER | TREND_DOWN | 0 | 16 | 16 | 18,75% | 0,52 | -0,31R | €-49,15 |
 | SHADOW_COMBO_SCANNER | TREND_UP | 2 | 61 | 61 | 31,15% | 1,02 | 0,01R | €6,58 |
 | SHADOW_COMBO_SCANNER | TREND_UP_HIGH_VOL | 0 | 13 | 13 | 23,08% | 0,74 | -0,17R | €-22,43 |
@@ -598,12 +598,12 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_DOGE_DONCHIAN_1H | TRANSITION | 0 | 1 | 1 | 100,00% | ∞ | 1,88R | €18,76 |
 | SHADOW_DOGE_EMA_1H | ALT_ROTATION_DOWN | 0 | 6 | 6 | 0,00% | 0,00 | -0,75R | €-45,24 |
 | SHADOW_DOGE_EMA_1H | RANGE | 0 | 7 | 7 | 42,86% | 0,98 | -0,01R | €-0,86 |
-| SHADOW_DOGE_EMA_1H | TRANSITION | 1 | 0 | 0 | 0,00% | 0,00 | 0,00R | €0,00 |
+| SHADOW_DOGE_EMA_1H | TRANSITION | 0 | 1 | 1 | 0,00% | 0,00 | -1,11R | €-11,11 |
 | SHADOW_DOGE_EMA_1H | TREND_DOWN | 0 | 2 | 2 | 50,00% | 0,41 | -0,33R | €-6,59 |
 | SHADOW_DONCHIAN_1H | ALT_ROTATION_DOWN | 0 | 27 | 27 | 22,22% | 0,51 | -0,37R | €-98,95 |
 | SHADOW_DONCHIAN_1H | ALT_ROTATION_UP | 1 | 18 | 18 | 16,67% | 0,18 | -0,67R | €-120,83 |
-| SHADOW_DONCHIAN_1H | RANGE | 1 | 44 | 44 | 29,55% | 0,87 | -0,09R | €-39,09 |
-| SHADOW_DONCHIAN_1H | RANGE_HIGH_VOL | 4 | 5 | 5 | 0,00% | 0,00 | -0,81R | €-40,67 |
+| SHADOW_DONCHIAN_1H | RANGE | 2 | 44 | 44 | 29,55% | 0,87 | -0,09R | €-39,09 |
+| SHADOW_DONCHIAN_1H | RANGE_HIGH_VOL | 3 | 6 | 6 | 16,67% | 0,61 | -0,26R | €-15,80 |
 | SHADOW_DONCHIAN_1H | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_DONCHIAN_1H | TRANSITION | 1 | 16 | 16 | 37,50% | 1,58 | 0,31R | €49,09 |
 | SHADOW_DONCHIAN_1H | TREND_DOWN | 0 | 10 | 10 | 30,00% | 0,21 | -0,49R | €-49,11 |
@@ -611,8 +611,8 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_DONCHIAN_1H | TREND_UP_HIGH_VOL | 0 | 7 | 7 | 42,86% | 1,68 | 0,42R | €29,65 |
 | SHADOW_DONCHIAN_1H_GB20_120R_V1 | ALT_ROTATION_DOWN | 0 | 17 | 17 | 17,65% | 0,23 | -0,63R | €-107,43 |
 | SHADOW_DONCHIAN_1H_GB20_120R_V1 | ALT_ROTATION_UP | 1 | 10 | 10 | 20,00% | 0,04 | -0,70R | €-70,41 |
-| SHADOW_DONCHIAN_1H_GB20_120R_V1 | RANGE | 1 | 24 | 24 | 29,17% | 0,66 | -0,23R | €-54,16 |
-| SHADOW_DONCHIAN_1H_GB20_120R_V1 | RANGE_HIGH_VOL | 4 | 3 | 3 | 0,00% | 0,00 | -0,68R | €-20,40 |
+| SHADOW_DONCHIAN_1H_GB20_120R_V1 | RANGE | 2 | 24 | 24 | 29,17% | 0,66 | -0,23R | €-54,16 |
+| SHADOW_DONCHIAN_1H_GB20_120R_V1 | RANGE_HIGH_VOL | 3 | 4 | 4 | 25,00% | 1,22 | 0,11R | €4,47 |
 | SHADOW_DONCHIAN_1H_GB20_120R_V1 | TRANSITION | 1 | 9 | 9 | 55,56% | 3,53 | 0,87R | €78,36 |
 | SHADOW_DONCHIAN_1H_GB20_120R_V1 | TREND_DOWN | 0 | 8 | 8 | 37,50% | 0,25 | -0,49R | €-38,82 |
 | SHADOW_DONCHIAN_1H_GB20_120R_V1 | TREND_UP | 3 | 23 | 23 | 26,09% | 0,92 | -0,03R | €-7,97 |
@@ -657,14 +657,14 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_GLOBAL_PURE | TREND_DOWN | 0 | 1 | 1 | 100,00% | ∞ | 0,02R | €0,21 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | ALT_ROTATION_DOWN | 1 | 15 | 15 | 26,67% | 0,76 | -0,16R | €-24,71 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | ALT_ROTATION_UP | 1 | 28 | 28 | 32,14% | 0,90 | -0,07R | €-20,48 |
-| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | RANGE | 3 | 59 | 59 | 32,20% | 1,03 | 0,02R | €10,71 |
+| SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | RANGE | 4 | 59 | 59 | 32,20% | 1,03 | 0,02R | €10,71 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TRANSITION | 0 | 16 | 16 | 50,00% | 2,19 | 0,53R | €85,35 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TREND_DOWN | 0 | 22 | 22 | 40,91% | 1,55 | 0,28R | €62,57 |
 | SHADOW_MASTER_ADAPTIVE_EXPANDED_V1 | TREND_UP | 0 | 59 | 59 | 28,81% | 0,83 | -0,12R | €-69,67 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_DOWN | 0 | 18 | 18 | 44,44% | 0,85 | -0,08R | €-14,12 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | ALT_ROTATION_UP | 1 | 65 | 65 | 76,92% | 2,21 | 0,29R | €188,84 |
-| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 3 | 113 | 113 | 68,14% | 1,65 | 0,19R | €212,07 |
+| SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE | 3 | 114 | 114 | 68,42% | 1,67 | 0,19R | €216,92 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | RANGE_LOW_VOL | 0 | 1 | 1 | 0,00% | 0,00 | -1,01R | €-10,13 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TRANSITION | 0 | 34 | 34 | 67,65% | 1,36 | 0,11R | €36,89 |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | TREND_DOWN | 0 | 33 | 33 | 63,64% | 1,33 | 0,11R | €37,35 |
@@ -718,7 +718,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_SCANNER_BOTTOM10_SHORT | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 0,94 | -0,03R | €-1,39 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | RANGE | 3 | 31 | 31 | 29,03% | 0,45 | -0,33R | €-101,77 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | RANGE_HIGH_VOL | 2 | 10 | 10 | 20,00% | 0,76 | -0,12R | €-12,01 |
-| SHADOW_SCANNER_BOTTOM10_SHORT | TRANSITION | 1 | 14 | 14 | 50,00% | 1,25 | 0,13R | €18,07 |
+| SHADOW_SCANNER_BOTTOM10_SHORT | TRANSITION | 0 | 15 | 15 | 46,67% | 1,08 | 0,05R | €6,96 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | TREND_DOWN | 0 | 16 | 16 | 43,75% | 0,71 | -0,14R | €-21,73 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 0,63 | -0,20R | €-4,07 |
 | SHADOW_SCANNER_BOTTOM10_SHORT | TREND_UP | 2 | 14 | 14 | 7,14% | 0,29 | -0,33R | €-45,57 |
@@ -727,7 +727,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_SCANNER_BOTTOM15_SHORT | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 0,94 | -0,03R | €-1,39 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | RANGE | 3 | 31 | 31 | 29,03% | 0,45 | -0,33R | €-101,77 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | RANGE_HIGH_VOL | 2 | 10 | 10 | 20,00% | 0,76 | -0,12R | €-12,01 |
-| SHADOW_SCANNER_BOTTOM15_SHORT | TRANSITION | 1 | 14 | 14 | 50,00% | 1,25 | 0,13R | €18,07 |
+| SHADOW_SCANNER_BOTTOM15_SHORT | TRANSITION | 0 | 15 | 15 | 46,67% | 1,08 | 0,05R | €6,96 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | TREND_DOWN | 0 | 16 | 16 | 43,75% | 0,71 | -0,14R | €-21,73 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 0,63 | -0,20R | €-4,07 |
 | SHADOW_SCANNER_BOTTOM15_SHORT | TREND_UP | 2 | 14 | 14 | 7,14% | 0,29 | -0,33R | €-45,57 |
@@ -736,7 +736,7 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_SCANNER_BOTTOM20_SHORT | ALT_ROTATION_UP | 1 | 5 | 5 | 40,00% | 0,94 | -0,03R | €-1,39 |
 | SHADOW_SCANNER_BOTTOM20_SHORT | RANGE | 3 | 31 | 31 | 29,03% | 0,45 | -0,33R | €-101,77 |
 | SHADOW_SCANNER_BOTTOM20_SHORT | RANGE_HIGH_VOL | 2 | 10 | 10 | 20,00% | 0,76 | -0,12R | €-12,01 |
-| SHADOW_SCANNER_BOTTOM20_SHORT | TRANSITION | 1 | 14 | 14 | 50,00% | 1,25 | 0,13R | €18,07 |
+| SHADOW_SCANNER_BOTTOM20_SHORT | TRANSITION | 0 | 15 | 15 | 46,67% | 1,08 | 0,05R | €6,96 |
 | SHADOW_SCANNER_BOTTOM20_SHORT | TREND_DOWN | 0 | 16 | 16 | 43,75% | 0,71 | -0,14R | €-21,73 |
 | SHADOW_SCANNER_BOTTOM20_SHORT | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 0,63 | -0,20R | €-4,07 |
 | SHADOW_SCANNER_BOTTOM20_SHORT | TREND_UP | 2 | 14 | 14 | 7,14% | 0,29 | -0,33R | €-45,57 |
@@ -745,25 +745,25 @@ Registro parallelo senza limite globale di quattro posizioni. Considera soltanto
 | SHADOW_SCANNER_BOTTOM5_SHORT | ALT_ROTATION_UP | 1 | 6 | 6 | 50,00% | 1,83 | 0,31R | €18,48 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | RANGE | 3 | 45 | 45 | 35,56% | 0,87 | -0,07R | €-32,84 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | RANGE_HIGH_VOL | 2 | 11 | 11 | 27,27% | 0,91 | -0,04R | €-4,57 |
-| SHADOW_SCANNER_BOTTOM5_SHORT | TRANSITION | 1 | 29 | 29 | 41,38% | 1,06 | 0,04R | €10,47 |
+| SHADOW_SCANNER_BOTTOM5_SHORT | TRANSITION | 0 | 30 | 30 | 40,00% | 1,00 | -0,00R | €-0,64 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TREND_DOWN | 0 | 14 | 14 | 42,86% | 0,66 | -0,16R | €-22,16 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 0,62 | -0,21R | €-4,24 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP | 2 | 21 | 21 | 4,76% | 0,16 | -0,46R | €-96,61 |
 | SHADOW_SCANNER_BOTTOM5_SHORT | TREND_UP_HIGH_VOL | 0 | 4 | 4 | 25,00% | 0,93 | -0,04R | €-1,51 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | ALT_ROTATION_DOWN | 0 | 27 | 27 | 29,63% | 0,29 | -0,48R | €-128,52 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | ALT_ROTATION_UP | 0 | 3 | 3 | 33,33% | 0,85 | -0,06R | €-1,73 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | RANGE | 3 | 33 | 33 | 54,55% | 0,59 | -0,18R | €-58,30 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | RANGE_HIGH_VOL | 3 | 13 | 13 | 61,54% | 1,41 | 0,16R | €20,70 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | TRANSITION | 1 | 17 | 17 | 64,71% | 1,78 | 0,29R | €49,97 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | RANGE | 5 | 34 | 34 | 55,88% | 0,64 | -0,15R | €-50,97 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | RANGE_HIGH_VOL | 1 | 15 | 15 | 66,67% | 1,55 | 0,19R | €28,00 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | TRANSITION | 0 | 18 | 18 | 61,11% | 1,52 | 0,22R | €38,86 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | TREND_DOWN | 0 | 24 | 24 | 41,67% | 0,58 | -0,21R | €-49,35 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 0,77 | -0,13R | €-2,58 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | TREND_UP | 2 | 17 | 17 | 47,06% | 0,65 | -0,17R | €-29,22 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | TREND_UP_HIGH_VOL | 0 | 1 | 1 | 100,00% | ∞ | 0,19R | €1,87 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | ALT_ROTATION_DOWN | 0 | 24 | 24 | 29,17% | 0,22 | -0,52R | €-124,34 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | ALT_ROTATION_UP | 1 | 4 | 4 | 50,00% | 1,86 | 0,24R | €9,72 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | RANGE | 3 | 26 | 26 | 57,69% | 0,74 | -0,10R | €-25,04 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | RANGE | 3 | 27 | 27 | 59,26% | 0,76 | -0,09R | €-23,17 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | RANGE_HIGH_VOL | 2 | 11 | 11 | 54,55% | 1,03 | 0,01R | €1,43 |
-| SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | TRANSITION | 1 | 16 | 16 | 62,50% | 1,86 | 0,34R | €54,99 |
+| SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | TRANSITION | 0 | 17 | 17 | 58,82% | 1,59 | 0,26R | €43,88 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | TREND_DOWN | 0 | 18 | 18 | 38,89% | 0,65 | -0,17R | €-30,22 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | TREND_DOWN_HIGH_VOL | 0 | 2 | 2 | 50,00% | 0,62 | -0,21R | €-4,24 |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | TREND_UP | 2 | 16 | 16 | 43,75% | 0,34 | -0,35R | €-55,38 |
