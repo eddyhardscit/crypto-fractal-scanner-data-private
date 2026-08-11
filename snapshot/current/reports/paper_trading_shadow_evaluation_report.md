@@ -1,12 +1,12 @@
 # Blocco 4 — Valutazione statistica Shadow
 
-Generato: 2026-08-11T18:25:37+00:00
+Generato: 2026-08-11T19:25:20+00:00
 
 > Modulo esclusivamente valutativo. Non modifica strategie, uscite, posizioni o capitale. Le candidature vengono consegnate al futuro Blocco 5, senza applicazione automatica.
 
 ## Stato
 
-- Risultati Block 3 disponibili: **141159**
+- Risultati Block 3 disponibili: **141346**
 - Valutazioni prodotte: **18683**
 - Candidature al Blocco 5: **32**
 - Mutazioni create automaticamente: **0**
