@@ -128,7 +128,7 @@
     "reports/doge_rejection_short_latest.json",
     "reports/doge_rejection_short_status_state.json"
   ],
-  "asset_id": 509466160,
+  "asset_id": 509520731,
   "permanent_trade_rows": 3662,
-  "permanent_signal_rows": 10237
+  "permanent_signal_rows": 10257
 }

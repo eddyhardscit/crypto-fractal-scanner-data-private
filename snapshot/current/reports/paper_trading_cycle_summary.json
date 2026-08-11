@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-08-11T00:59:50+00:00",
+  "generated_utc": "2026-08-11T02:00:24+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 170,
+  "signals_generated": 202,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-11T00:53:38+00:00",
-    "checked_utc": "2026-08-11T00:53:38+00:00",
-    "snapshot_age_minutes": 0.004036833333333333,
+    "snapshot_generated_utc": "2026-08-11T01:53:33+00:00",
+    "checked_utc": "2026-08-11T01:53:33+00:00",
+    "snapshot_age_minutes": 0.015546116666666667,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
   },
   "research_all_signals": {
     "opened_this_cycle": 0,
-    "closed_this_cycle": 7,
-    "open_positions": 539,
-    "closed_trades": 18770
+    "closed_this_cycle": 59,
+    "open_positions": 481,
+    "closed_trades": 18855
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 3,
@@ -51,10 +51,10 @@
   },
   "signal_diagnostics": {
     "ready": 0,
-    "near_miss": 4,
-    "below_score": 256,
+    "near_miss": 0,
+    "below_score": 216,
     "strategy_filter": 0,
-    "stale": 1179,
+    "stale": 1236,
     "opened": 0
   },
   "shadow_exit": {
@@ -63,8 +63,8 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
-    "active_groups": 161,
-    "active_scenarios": 7432,
+    "active_groups": 171,
+    "active_scenarios": 7519,
     "new_results": 0,
     "completed_results": 125268,
     "events_written": 207,
@@ -96,8 +96,8 @@
     "level": "NORMAL",
     "direction": "NONE",
     "blocked_signals": 0,
-    "active_simulations": 19,
-    "completed_simulations": 4,
+    "active_simulations": 16,
+    "completed_simulations": 0,
     "avoided_liquidations_total": 0,
     "normal_market_passthrough": true,
     "paper_positions_modified": false,
@@ -144,7 +144,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-11T00:59:36+00:00",
+    "updated_utc": "2026-08-11T02:00:12+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -211,7 +211,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "HIGH_VOLATILITY",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 632,
+    "timeline_rows": 633,
     "performance_rows": 614,
     "preferred": 0,
     "avoid": 0,
@@ -253,7 +253,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-11T00:54:44+00:00",
+    "generated_utc": "2026-08-11T01:55:50+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -266,8 +266,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 2059,
-    "audit_last_hash": "013b7228d2db0d324c6ebba01dd9e36831744a05927403167920b086b67b816a",
+    "audit_rows": 2063,
+    "audit_last_hash": "619485e15e4fd815612a3b9e3adc71ecd6ff6e46e44d9d91f8e38a78b31f7ee2",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -286,184 +286,154 @@
   "closed": [],
   "trailing_updates": [
     {
-      "portfolio": "MAIN",
-      "trade_id": "09738a4e2b96d832ed43",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.714657,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.714657
-    },
-    {
-      "portfolio": "MAIN_SIDE_REGIME_GUARD_V1",
-      "trade_id": "c694274fafc8218276f0",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.714657,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.714657
-    },
-    {
-      "portfolio": "SHADOW_4H_WIDE",
-      "trade_id": "fdc95b4dfc0d1c1aea7a",
-      "asset": "BEAT",
-      "side": "SHORT",
-      "stop_price": 1.714657,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.714657
-    },
-    {
       "portfolio": "SHADOW_COMBO_ADAPTIVE",
       "trade_id": "5996c22a517fd19c3258",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6320278760054001,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6320278760054001
+      "stop_price": 1.52249808158485,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5778656910948001,
+      "new_stop_price": 1.52249808158485
     },
     {
       "portfolio": "SHADOW_COMBO_ADAPTIVE_MFE_TRAIL",
       "trade_id": "30e7b66524cb060d0da4",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.5073528,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.66321729,
-      "new_stop_price": 1.5073528
+      "stop_price": 1.4664208,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.4762068,
+      "new_stop_price": 1.4664208
     },
     {
       "portfolio": "SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1",
       "trade_id": "ddc319141a0356fa6a48",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6320278760054001,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6320278760054001
+      "stop_price": 1.52249808158485,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5778656910948001,
+      "new_stop_price": 1.52249808158485
     },
     {
       "portfolio": "SHADOW_COMBO_ADAPTIVE_RUNNER25_V1",
       "trade_id": "b0984f6a3dda66be92a3",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6320278760054001,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6320278760054001
+      "stop_price": 1.52249808158485,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5778656910948001,
+      "new_stop_price": 1.52249808158485
     },
     {
       "portfolio": "SHADOW_COMBO_ADAPTIVE_SIDE_REGIME_GUARD_V1",
       "trade_id": "34de9b0e67ef56a08aec",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6320278760054001,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6320278760054001
+      "stop_price": 1.52249808158485,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5778656910948001,
+      "new_stop_price": 1.52249808158485
     },
     {
       "portfolio": "SHADOW_COMBO_ADAPTIVE_TP3_V1",
       "trade_id": "574a15810c9aa3f46b65",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6320278760054001,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6320278760054001
+      "stop_price": 1.52249808158485,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5778656910948001,
+      "new_stop_price": 1.52249808158485
     },
     {
       "portfolio": "SHADOW_COMBO_TREND",
       "trade_id": "ec6c80d94a29b11263ce",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.668567549237,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.668567549237
+      "stop_price": 1.55658547875175,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.6131927204940002,
+      "new_stop_price": 1.55658547875175
     },
     {
       "portfolio": "SHADOW_COMBO_TREND_SIDE_REGIME_GUARD_V1",
       "trade_id": "1b45c76d860a75035eff",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.668567549237,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.668567549237
+      "stop_price": 1.55658547875175,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.6131927204940002,
+      "new_stop_price": 1.55658547875175
     },
     {
       "portfolio": "SHADOW_RELATIVE_STRENGTH",
       "trade_id": "9892c4359100c00bf8fe",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.668567549237,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.668567549237
+      "stop_price": 1.55658547875175,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.6131927204940002,
+      "new_stop_price": 1.55658547875175
     },
     {
       "portfolio": "SHADOW_SCANNER_BOTTOM10_SHORT",
       "trade_id": "2de6e1c3ee5396cd484d",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6502977126212,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6502977126212
+      "stop_price": 1.5395417801682998,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5955292057944002,
+      "new_stop_price": 1.5395417801682998
     },
     {
       "portfolio": "SHADOW_SCANNER_BOTTOM15_SHORT",
       "trade_id": "0190f0872363f3036985",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6502977126212,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6502977126212
+      "stop_price": 1.5395417801682998,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5955292057944002,
+      "new_stop_price": 1.5395417801682998
     },
     {
       "portfolio": "SHADOW_SCANNER_BOTTOM20_SHORT",
       "trade_id": "7202ae13a611bd5e32e4",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6502977126212,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6502977126212
+      "stop_price": 1.5395417801682998,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5955292057944002,
+      "new_stop_price": 1.5395417801682998
     },
     {
       "portfolio": "SHADOW_SCANNER_BOTTOM5_SHORT",
       "trade_id": "bb775f76b33e4da688a6",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6502977126212,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6502977126212
+      "stop_price": 1.5395417801682998,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5955292057944002,
+      "new_stop_price": 1.5395417801682998
     },
     {
       "portfolio": "SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1",
       "trade_id": "4e4e551393c9b485e7d6",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6502977126212,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6502977126212
+      "stop_price": 1.5395417801682998,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5955292057944002,
+      "new_stop_price": 1.5395417801682998
     },
     {
       "portfolio": "SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1",
       "trade_id": "cdf63530a8dd8e9d5f57",
       "asset": "BEAT",
       "side": "SHORT",
-      "stop_price": 1.6502977126212,
-      "mark_price": 1.39452,
-      "old_stop_price": 1.9204158400000002,
-      "new_stop_price": 1.6502977126212
+      "stop_price": 1.5395417801682998,
+      "mark_price": 1.30093,
+      "old_stop_price": 1.5955292057944002,
+      "new_stop_price": 1.5395417801682998
     }
   ],
   "risk_alerts": [],
@@ -494,15 +464,15 @@
     "unchanged": false,
     "path": "reports/paper_trading_live.md",
     "branch": "paper-trading-live",
-    "commit_sha": "8ee90deb40fe553c215b71dc5c6e5f951635f452",
+    "commit_sha": "f60de1d8777adf54eb8f0a953c4e900c01fbe7d0",
     "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
     "reasons": [
       "market_event"
     ]
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-11T00:59:58+00:00",
-    "positions": 1026,
+    "generated_utc": "2026-08-11T02:00:32+00:00",
+    "positions": 951,
     "strategy_accounts": 347,
     "alerts": 1,
     "status": "OK",
