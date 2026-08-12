@@ -1,34 +1,34 @@
 # Analisi uscite paper trading a leva
 
-Generato: 2026-08-12T19:43:40+00:00
+Generato: 2026-08-12T20:46:03+00:00
 
 > Analisi osservativa: non modifica ingressi, uscite o rischio del paper trading.
 
 ## Verifica del target +€50
 
-- Trade chiusi: **4570**
-- Trade con percorso cronologico utilizzabile: **4516**
-- Trade che hanno raggiunto almeno +€50: **1698**
+- Trade chiusi: **4591**
+- Trade con percorso cronologico utilizzabile: **4537**
+- Trade che hanno raggiunto almeno +€50: **1710**
 - Di questi, chiusi poi in perdita: **350**
 
 ## Confronto simulazioni
 
 | Posizione | Regola di uscita | P&L simulato | Differenza dall'attuale |
 | ---: | --- | ---: | ---: |
-| 1 | Stop loss fisso -€50 | -€8.215,32 | +€16.409,64 |
-| 2 | TP +€50 / SL -€50 | -€17.658,77 | +€6.966,19 |
-| 3 | Chiude 50% a +€50 | -€19.612,63 | +€5.012,33 |
-| 4 | Protegge +€30 dopo +€50 | -€20.126,18 | +€4.498,78 |
-| 5 | Protegge +€20 dopo +€50 | -€22.240,53 | +€2.384,43 |
-| 6 | Strategia attuale | -€24.624,96 | €0,00 |
-| 7 | Take profit fisso +€200 | -€24.624,96 | €0,00 |
-| 8 | Take profit fisso +€150 | -€24.629,28 | -€4,32 |
-| 9 | Take profit fisso +€100 | -€24.969,47 | -€344,52 |
-| 10 | Trailing 20% dopo +€50 | -€25.047,17 | -€422,21 |
-| 11 | Pareggio dopo +€50 | -€26.127,97 | -€1.503,01 |
-| 12 | Take profit fisso +€75 | -€28.276,73 | -€3.651,77 |
-| 13 | Take profit fisso +€50 | -€33.875,70 | -€9.250,74 |
-| 14 | Take profit fisso +€25 | -€36.514,73 | -€11.889,77 |
+| 1 | Stop loss fisso -€50 | -€8.373,29 | +€16.461,49 |
+| 2 | TP +€50 / SL -€50 | -€17.539,86 | +€7.294,92 |
+| 3 | Chiude 50% a +€50 | -€19.668,47 | +€5.166,32 |
+| 4 | Protegge +€30 dopo +€50 | -€20.279,12 | +€4.555,66 |
+| 5 | Protegge +€20 dopo +€50 | -€22.450,35 | +€2.384,43 |
+| 6 | Strategia attuale | -€24.834,78 | €0,00 |
+| 7 | Take profit fisso +€200 | -€24.834,78 | €0,00 |
+| 8 | Take profit fisso +€150 | -€24.839,10 | -€4,32 |
+| 9 | Trailing 20% dopo +€50 | -€25.132,20 | -€297,42 |
+| 10 | Take profit fisso +€100 | -€25.179,30 | -€344,52 |
+| 11 | Pareggio dopo +€50 | -€26.337,79 | -€1.503,01 |
+| 12 | Take profit fisso +€75 | -€28.486,55 | -€3.651,77 |
+| 13 | Take profit fisso +€50 | -€33.808,64 | -€8.973,86 |
+| 14 | Take profit fisso +€25 | -€36.716,59 | -€11.881,80 |
 
 ## Limiti metodologici
 
