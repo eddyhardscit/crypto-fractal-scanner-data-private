@@ -1,15 +1,15 @@
 # Paper vs Shadow — selezione, trade saltati e filtri candidati
 
-Generato: 2026-08-12T02:40:29+00:00
+Generato: 2026-08-12T03:40:51+00:00
 
 > Report esclusivamente osservativo. Non modifica strategie, rischio, capitale o ordini. Qualsiasi filtro candidato deve essere provato in un nuovo conto challenger e validato su dati futuri.
 
 ## Lettura rapida
 
 - Trade Paper chiusi nei conti confrontati: **3882**
-- Trade Shadow/Research chiusi: **20545**
+- Trade Shadow/Research chiusi: **20565**
 - Eventi Shadow già presi dai Paper: **1887**
-- Eventi Shadow saltati dai Paper: **18658**
+- Eventi Shadow saltati dai Paper: **18678**
 - Profili con filtro Paper utile: **18**
 - Profili in cui il Paper potrebbe scartare edge: **6**
 - Profili con campione ancora insufficiente: **67**
@@ -21,27 +21,27 @@ Generato: 2026-08-12T02:40:29+00:00
 
 | Strategia / conto | Paper rif. | Paper chiuse | Shadow chiuse | Presi | Saltati | Exp. presi | Exp. saltati | Δ selezione | Exp. Paper | Δ gestione | Stato |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| Bilanciata 1H V1 | Bilanciata 1H V1 | 84 | 520 | 20 | 500 | 0,13R | -0,05R | +0,17R | 0,04R | -0,09R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 81 | 519 | 39 | 480 | -0,12R | -0,10R | -0,02R | 0,08R | +0,20R | NESSUN EDGE CHIARO |
-| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 110 | 511 | 61 | 450 | -0,02R | -0,09R | +0,07R | 0,03R | +0,04R | NESSUN EDGE CHIARO |
+| Bilanciata 1H V1 | Bilanciata 1H V1 | 84 | 521 | 20 | 501 | 0,13R | -0,05R | +0,17R | 0,04R | -0,09R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_NO_PEPE_V1 | Rapida V1 — senza PEPE | 81 | 520 | 39 | 481 | -0,12R | -0,10R | -0,02R | 0,08R | +0,20R | NESSUN EDGE CHIARO |
+| Rapida 1H V3 Filtered | Rapida 1H V3 Filtered — madre | 110 | 512 | 61 | 451 | -0,02R | -0,09R | +0,07R | 0,03R | +0,04R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_TP2_V1 | Rapida V1 — target pieno 2R | 91 | 485 | 39 | 446 | 0,27R | -0,16R | +0,43R | -0,04R | -0,30R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 84 | 464 | 49 | 415 | -0,08R | -0,11R | +0,03R | -0,02R | +0,06R | NESSUN EDGE CHIARO |
+| SHADOW_1H_FAST_V3_NO_ESPORTS_V1 | Rapida V3 — senza ESPORTS | 84 | 465 | 49 | 416 | -0,08R | -0,11R | +0,03R | -0,02R | +0,06R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_MFE_TRAIL | Combo Adaptive — MFE Trail esistente | 63 | 443 | 27 | 416 | -0,39R | 0,02R | -0,40R | -0,27R | +0,11R | SELEZIONE DA RIVEDERE |
-| Forza relativa 1H V1 | Forza relativa 1H V1 | 64 | 438 | 24 | 414 | -0,18R | -0,08R | -0,11R | -0,22R | -0,04R | NESSUN EDGE CHIARO |
-| SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 49 | 426 | 22 | 404 | 0,25R | -0,02R | +0,27R | 0,12R | -0,13R | FILTRO PAPER UTILE |
-| SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 73 | 408 | 40 | 368 | -0,02R | -0,11R | +0,09R | 0,01R | +0,04R | NESSUN EDGE CHIARO |
-| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 404 | 0 | 404 | 0,00R | -0,08R | +0,08R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 78 | 392 | 45 | 347 | 0,16R | -0,09R | +0,25R | 0,13R | -0,03R | FILTRO PAPER UTILE |
+| Forza relativa 1H V1 | Forza relativa 1H V1 | 64 | 439 | 24 | 415 | -0,18R | -0,08R | -0,11R | -0,22R | -0,04R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_ADAPTIVE | Combo Adaptive — madre | 49 | 427 | 22 | 405 | 0,25R | -0,02R | +0,27R | 0,12R | -0,13R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_V3_NOHIGH_V1 | Rapida V3 — no volatilità HIGH | 73 | 409 | 40 | 369 | -0,02R | -0,11R | +0,09R | 0,01R | +0,04R | NESSUN EDGE CHIARO |
+| EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_MFE_LOCK_TP_R200_6b7c560f | n/a | 0 | 405 | 0 | 405 | 0,00R | -0,08R | +0,08R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
+| SHADOW_1H_FAST_NOHIGH_CAP75_V1 | Rapida V1 — no HIGH + score <7,5 | 78 | 393 | 45 | 348 | 0,16R | -0,09R | +0,25R | 0,13R | -0,03R | FILTRO PAPER UTILE |
 | SHADOW_MASTER_ADAPTIVE_GB20_V1 | Master Adaptive Gb20 V1 | 57 | 383 | 15 | 368 | -0,67R | 0,16R | -0,84R | -0,20R | +0,48R | PAPER SCARTA EDGE |
-| SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 76 | 371 | 52 | 319 | -0,14R | -0,08R | -0,06R | -0,01R | +0,13R | NESSUN EDGE CHIARO |
-| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 50 | 367 | 21 | 346 | 0,22R | -0,05R | +0,27R | -0,22R | -0,43R | FILTRO PAPER UTILE |
+| SHADOW_1H_FAST_V3_CAP75_V1 | Rapida V3 — score <7,5 | 76 | 372 | 52 | 320 | -0,14R | -0,08R | -0,06R | -0,01R | +0,13R | NESSUN EDGE CHIARO |
+| SHADOW_COMBO_ADAPTIVE_PARTIAL_1R_V1 | Combo Adaptive — parziale 1R | 50 | 368 | 21 | 347 | 0,22R | -0,05R | +0,27R | -0,22R | -0,43R | FILTRO PAPER UTILE |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R200_3ee5afb4 | n/a | 0 | 362 | 0 | 362 | 0,00R | -0,15R | +0,15R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_NO_ESPORTS_V1_TP_R200_68f866e1 | n/a | 0 | 358 | 0 | 358 | 0,00R | -0,15R | +0,15R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 52 | 357 | 16 | 341 | -0,50R | -0,05R | -0,45R | -0,19R | +0,31R | SELEZIONE DA RIVEDERE |
-| SHADOW_COMBO_TREND | Combo Trend | 76 | 352 | 29 | 323 | 0,14R | -0,07R | +0,21R | -0,18R | -0,32R | FILTRO PAPER UTILE |
+| SHADOW_EMA_TREND_1H | Benchmark trend following EMA 1H | 52 | 358 | 16 | 342 | -0,50R | -0,05R | -0,45R | -0,19R | +0,31R | SELEZIONE DA RIVEDERE |
+| SHADOW_COMBO_TREND | Combo Trend | 76 | 353 | 29 | 324 | 0,14R | -0,07R | +0,21R | -0,18R | -0,32R | FILTRO PAPER UTILE |
 | EVO_CAND_SHADOW_1H_FAST_V3_TP_R250_6b45fc13 | n/a | 0 | 327 | 0 | 327 | 0,00R | -0,21R | +0,21R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
-| SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | FAST NoHigh <7,5 · SHORT only | 42 | 325 | 25 | 300 | 0,00R | -0,09R | +0,09R | 0,11R | +0,10R | NESSUN EDGE CHIARO |
-| Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 75 | 322 | 33 | 289 | 0,07R | -0,05R | +0,12R | 0,05R | -0,02R | NESSUN EDGE CHIARO |
+| SHADOW_1H_FAST_NOHIGH_CAP75_SHORT_ONLY_V1 | FAST NoHigh <7,5 · SHORT only | 42 | 326 | 25 | 301 | 0,00R | -0,09R | +0,09R | 0,11R | +0,10R | NESSUN EDGE CHIARO |
+| Bilanciata 1H V3 Filtered | Bilanciata 1H V3 Filtered | 75 | 323 | 33 | 290 | 0,07R | -0,05R | +0,12R | 0,05R | -0,02R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_SCORE_6_75_V1 | Rapida V1 — score 6–7,5 | 86 | 311 | 61 | 250 | -0,01R | -0,08R | +0,07R | 0,08R | +0,08R | NESSUN EDGE CHIARO |
 | EVO_CAND_SHADOW_1H_FAST_V3_NOHIGH_V1_TP_R200_8346046b | n/a | 0 | 306 | 0 | 306 | 0,00R | -0,15R | +0,15R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R200_86882aa9 | n/a | 0 | 289 | 0 | 289 | 0,00R | -0,14R | +0,14R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
@@ -52,7 +52,7 @@ Generato: 2026-08-12T02:40:29+00:00
 | EVO_CAND_SHADOW_1H_FAST_V3_CAP75_V1_TP_R250_3b03ece1 | n/a | 0 | 260 | 0 | 260 | 0,00R | -0,21R | +0,21R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_SCANNER_TOP5_BTC_MFE_V1 | Top 5 + BTC — solo MFE | 38 | 260 | 17 | 243 | -0,26R | 0,05R | -0,30R | -0,30R | -0,04R | SELEZIONE DA RIVEDERE |
 | SHADOW_SCANNER_TOP5_BTC | Scanner Top 5 + forza BTC 1H | 45 | 255 | 27 | 228 | 0,10R | 0,05R | +0,05R | 0,02R | -0,09R | NESSUN EDGE CHIARO |
-| SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | Bilanciata V3 · LONG only | 31 | 243 | 17 | 226 | -0,41R | -0,09R | -0,33R | -0,11R | +0,30R | SELEZIONE DA RIVEDERE |
+| SHADOW_1H_BALANCED_V3_LONG_ONLY_V1 | Bilanciata V3 · LONG only | 31 | 244 | 17 | 227 | -0,41R | -0,09R | -0,33R | -0,11R | +0,30R | SELEZIONE DA RIVEDERE |
 | SHADOW_COMBO_ADAPTIVE_LONG_ONLY_V1 | Combo Adaptive — Long Only | 24 | 231 | 12 | 219 | 0,17R | -0,05R | +0,21R | -0,12R | -0,29R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_TOP5_BTC_GUARD_MFE_V1 | Top 5 + BTC — Guard + MFE | 45 | 227 | 22 | 205 | 0,02R | 0,08R | -0,06R | -0,27R | -0,29R | NESSUN EDGE CHIARO |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_ONLY_V1_TP_R200_751e55c4 | n/a | 0 | 225 | 0 | 225 | 0,00R | -0,10R | +0,10R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
@@ -80,16 +80,16 @@ Generato: 2026-08-12T02:40:29+00:00
 | SHADOW_SCANNER_TOP5_BTC_GUARD_BTC_LE3_V1 | Top 5 + BTC — Guard + BTC≤3 | 23 | 183 | 11 | 172 | -0,14R | 0,02R | -0,17R | -0,25R | -0,11R | NESSUN EDGE CHIARO |
 | SHADOW_MASTER_ADAPTIVE_NO_ALT_V1 | Master Adaptive No Alt V1 | 22 | 181 | 10 | 171 | 0,05R | 0,00R | +0,05R | -0,39R | -0,44R | NESSUN EDGE CHIARO |
 | SHADOW_DONCHIAN_1H | Benchmark Donchian breakout 1H | 49 | 177 | 40 | 137 | 0,49R | -0,31R | +0,80R | 0,19R | -0,29R | FILTRO PAPER UTILE |
-| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 58 | 169 | 31 | 138 | -0,20R | -0,09R | -0,11R | -0,12R | +0,08R | NESSUN EDGE CHIARO |
+| SHADOW_SCANNER_BOTTOM5_SHORT | Scanner Bottom 5 Short 1H | 58 | 170 | 31 | 139 | -0,20R | -0,09R | -0,11R | -0,12R | +0,08R | NESSUN EDGE CHIARO |
 | SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1 | Rapida V1 — Long + BTC 1–3 + score <7,5 | 25 | 167 | 21 | 146 | 0,18R | -0,04R | +0,22R | -0,05R | -0,22R | FILTRO PAPER UTILE |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V_TP_R200_051501d0 | n/a | 0 | 166 | 0 | 166 | 0,00R | -0,09R | +0,09R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | EVO_CAND_SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_L_TP_R200_903364ad | n/a | 0 | 164 | 0 | 164 | 0,00R | -0,10R | +0,10R | 0,00R | 0,00R | CAMPIONE INSUFFICIENTE |
 | SHADOW_BOLLINGER_MR_1H | Benchmark Bollinger mean reversion 1H | 57 | 159 | 47 | 112 | 0,05R | 0,04R | +0,00R | -0,11R | -0,15R | NESSUN EDGE CHIARO |
 | SHADOW_COMBO_ADAPTIVE_REGIME_V1 | Combo Adaptive — Trend/Transition | 22 | 157 | 16 | 141 | 0,12R | -0,11R | +0,23R | -0,05R | -0,17R | FILTRO PAPER UTILE |
 | SHADOW_SCANNER_BOTTOM5_SHORT_MFE_TRAIL_V1 | Scanner Bottom5 Short Mfe Trail V1 | 30 | 157 | 13 | 144 | -0,10R | -0,12R | +0,01R | -0,11R | -0,00R | NESSUN EDGE CHIARO |
-| SHADOW_SCANNER_BOTTOM10_SHORT | Scanner Bottom10 Short | 38 | 136 | 18 | 118 | -0,07R | -0,28R | +0,21R | -0,08R | -0,01R | SELEZIONE POSITIVA |
-| SHADOW_SCANNER_BOTTOM15_SHORT | Scanner Bottom15 Short | 38 | 136 | 18 | 118 | -0,07R | -0,28R | +0,21R | -0,08R | -0,01R | SELEZIONE POSITIVA |
-| SHADOW_SCANNER_BOTTOM20_SHORT | Scanner Bottom20 Short | 38 | 136 | 18 | 118 | -0,07R | -0,28R | +0,21R | -0,08R | -0,01R | SELEZIONE POSITIVA |
+| SHADOW_SCANNER_BOTTOM10_SHORT | Scanner Bottom10 Short | 38 | 137 | 18 | 119 | -0,07R | -0,28R | +0,21R | -0,08R | -0,01R | SELEZIONE POSITIVA |
+| SHADOW_SCANNER_BOTTOM15_SHORT | Scanner Bottom15 Short | 38 | 137 | 18 | 119 | -0,07R | -0,28R | +0,21R | -0,08R | -0,01R | SELEZIONE POSITIVA |
+| SHADOW_SCANNER_BOTTOM20_SHORT | Scanner Bottom20 Short | 38 | 137 | 18 | 119 | -0,07R | -0,28R | +0,21R | -0,08R | -0,01R | SELEZIONE POSITIVA |
 | SHADOW_SCANNER_BOTTOM5_SHORT_PROFIT_LOCK_V1 | Scanner Bottom5 Short Profit Lock V1 | 31 | 136 | 15 | 121 | -0,19R | -0,14R | -0,05R | -0,13R | +0,06R | NESSUN EDGE CHIARO |
 | SHADOW_MASTER_ADAPTIVE_STRICT3_V1 | Master Adaptive Strict3 V1 | 31 | 133 | 20 | 113 | -0,25R | 0,00R | -0,25R | -0,59R | -0,34R | SELEZIONE DA RIVEDERE |
 | SHADOW_SCANNER_TOP5_BTC_BTC_2_3_V1 | Top 5 + BTC — BTC 2–3 | 10 | 124 | 9 | 115 | -0,47R | -0,04R | -0,43R | -0,05R | +0,42R | SELEZIONE DA RIVEDERE |
