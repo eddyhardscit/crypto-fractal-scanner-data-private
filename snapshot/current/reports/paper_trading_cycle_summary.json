@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-08-12T16:43:21+00:00",
+  "generated_utc": "2026-08-12T17:43:49+00:00",
   "market_source": "KUCOIN_PUBLIC_API",
   "assets": 12,
   "signals": 0,
-  "signals_generated": 213,
+  "signals_generated": 186,
   "signals_executable": 0,
   "market_freshness": {
     "status": "FRESH",
     "source": "KUCOIN_PUBLIC_API",
-    "snapshot_generated_utc": "2026-08-12T16:38:33+00:00",
-    "checked_utc": "2026-08-12T16:38:33+00:00",
-    "snapshot_age_minutes": 0.0034336,
+    "snapshot_generated_utc": "2026-08-12T17:38:33+00:00",
+    "checked_utc": "2026-08-12T17:38:33+00:00",
+    "snapshot_age_minutes": 0.0033007333333333333,
     "stale_limit_minutes": 25.0,
     "fallback_used": false,
     "new_entries_allowed": true
@@ -18,8 +18,8 @@
   "research_all_signals": {
     "opened_this_cycle": 0,
     "closed_this_cycle": 0,
-    "open_positions": 383,
-    "closed_trades": 20799
+    "open_positions": 417,
+    "closed_trades": 20825
   },
   "strategy_dual_validation": {
     "ready_for_live_review": 0,
@@ -49,11 +49,11 @@
     "error": null
   },
   "signal_diagnostics": {
-    "ready": 10,
-    "near_miss": 318,
-    "below_score": 755,
-    "strategy_filter": 24,
-    "stale": 0,
+    "ready": 0,
+    "near_miss": 263,
+    "below_score": 669,
+    "strategy_filter": 39,
+    "stale": 57,
     "opened": 0
   },
   "shadow_exit": {
@@ -62,11 +62,11 @@
     "engine_version": "block3-shadow-exit-v1",
     "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded",
     "scenario_definitions": 53,
-    "active_groups": 370,
-    "active_scenarios": 8302,
-    "new_results": 5,
-    "completed_results": 169101,
-    "events_written": 122,
+    "active_groups": 366,
+    "active_scenarios": 7801,
+    "new_results": 31,
+    "completed_results": 169144,
+    "events_written": 401,
     "report_path": "reports/paper_trading_shadow_exit_report.md",
     "paper_positions_modified": false,
     "orders_sent": false
@@ -75,10 +75,10 @@
     "enabled": true,
     "status": "OK",
     "engine_version": "block4-shadow-evaluation-v1",
-    "raw_results": 169101,
+    "raw_results": 169144,
     "evaluation_rows": 18740,
-    "history_events": 0,
-    "robust_count": 106,
+    "history_events": 5,
+    "robust_count": 108,
     "eligible_for_mutation": 39,
     "underperforming_count": 290,
     "report_path": "reports/paper_trading_shadow_evaluation_report.md",
@@ -143,7 +143,7 @@
   "evolution_promotion_governance": {
     "schema_version": 1,
     "engine_version": "block7-human-approved-promotion-v1",
-    "updated_utc": "2026-08-12T16:43:09+00:00",
+    "updated_utc": "2026-08-12T17:43:39+00:00",
     "status": "OK",
     "plans": 0,
     "pending_approval": 0,
@@ -210,7 +210,7 @@
     "engine_version": "block10-regime-fitness-v1",
     "current_regime": "RANGE",
     "regime_source": "market_regime_latest.json",
-    "timeline_rows": 672,
+    "timeline_rows": 673,
     "performance_rows": 628,
     "preferred": 3,
     "avoid": 20,
@@ -252,7 +252,7 @@
   "evolution_control_tower": {
     "schema_version": 1,
     "engine_version": "block12-evolution-control-tower-v1",
-    "generated_utc": "2026-08-12T16:39:13+00:00",
+    "generated_utc": "2026-08-12T17:39:10+00:00",
     "enabled": true,
     "status": "OK",
     "mode": "OBSERVE_AUDIT_ONLY",
@@ -265,8 +265,8 @@
     "live_locked": true,
     "storage_complete": true,
     "audit_chain_valid": true,
-    "audit_rows": 2218,
-    "audit_last_hash": "941c7eac442246cd5941d6e9a89fe69cbcb421f103c16a6aa4c4c71972e9577a",
+    "audit_rows": 2222,
+    "audit_last_hash": "5fe69d122e97e96559ed280f80807daeb11971e4955db145ee2c7654eb1a7f98",
     "recovery_status": "READY",
     "missing_outputs": 0,
     "stale_outputs": 0,
@@ -285,84 +285,144 @@
   "closed": [],
   "trailing_updates": [
     {
+      "portfolio": "SHADOW_1H_BALANCED_LONG_NO_RHV_V1",
+      "trade_id": "39969d3eff85be0f1309",
+      "asset": "HYPE",
+      "side": "LONG",
+      "stop_price": 56.324694646026,
+      "mark_price": 56.887,
+      "old_stop_price": 56.024689680432004,
+      "new_stop_price": 56.324694646026
+    },
+    {
+      "portfolio": "SHADOW_1H_FAST_LONG_BTC_1_3_CAP75_V1",
+      "trade_id": "09509b732a405589091a",
+      "asset": "HYPE",
+      "side": "LONG",
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
+    },
+    {
       "portfolio": "SHADOW_1H_FAST_SCORE_6_75_COST_AWARE_V1",
       "trade_id": "bed68c86fe44bce27dd1",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_SCORE_6_75_NO_TREND_UP_V1",
       "trade_id": "2d1bf386343d8a04319b",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_SCORE_6_75_RANGE_ONLY_V1",
       "trade_id": "d599e30e9b59a0820e90",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_SCORE_6_75_V1",
       "trade_id": "0f296c5974c2456ee8fc",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_TP2_V1",
-      "trade_id": "83fd33e9c6f1c4663da2",
-      "asset": "CYS",
+      "trade_id": "ef45d31637c968a558b8",
+      "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 1.3482738505268,
-      "mark_price": 1.5731,
-      "old_stop_price": 1.3299323208076002,
-      "new_stop_price": 1.3482738505268
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_V2",
       "trade_id": "7e16200a9fdba027ff26",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_V3_LONG_NOHIGH_CAP75_V1",
       "trade_id": "2a68114196c4493ffac5",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
     },
     {
       "portfolio": "SHADOW_1H_FAST_V3_NO_ESPORTS_STRESS_GUARD_V1",
       "trade_id": "149bee13783b7a147090",
       "asset": "HYPE",
       "side": "LONG",
-      "stop_price": 55.99552313141599,
-      "mark_price": 56.474,
-      "old_stop_price": 55.965777306896,
-      "new_stop_price": 55.99552313141599
+      "stop_price": 56.405023982308,
+      "mark_price": 56.887,
+      "old_stop_price": 56.104591154656006,
+      "new_stop_price": 56.405023982308
+    },
+    {
+      "portfolio": "SHADOW_SCANNER_TOP10_LONG",
+      "trade_id": "2a47883ef30b9d60316a",
+      "asset": "HYPE",
+      "side": "LONG",
+      "stop_price": 56.324694646026,
+      "mark_price": 56.887,
+      "old_stop_price": 56.024689680432004,
+      "new_stop_price": 56.324694646026
+    },
+    {
+      "portfolio": "SHADOW_SCANNER_TOP15_LONG",
+      "trade_id": "c90ba8ae7cf5f36ebb66",
+      "asset": "HYPE",
+      "side": "LONG",
+      "stop_price": 56.324694646026,
+      "mark_price": 56.887,
+      "old_stop_price": 56.024689680432004,
+      "new_stop_price": 56.324694646026
+    },
+    {
+      "portfolio": "SHADOW_SCANNER_TOP20_LONG",
+      "trade_id": "4b56c679eb38d399c324",
+      "asset": "HYPE",
+      "side": "LONG",
+      "stop_price": 56.324694646026,
+      "mark_price": 56.887,
+      "old_stop_price": 56.024689680432004,
+      "new_stop_price": 56.324694646026
+    },
+    {
+      "portfolio": "SHADOW_SCANNER_TOP5_LONG",
+      "trade_id": "3b7f3caa3d63a66f677b",
+      "asset": "HYPE",
+      "side": "LONG",
+      "stop_price": 56.324694646026,
+      "mark_price": 56.887,
+      "old_stop_price": 56.024689680432004,
+      "new_stop_price": 56.324694646026
     }
   ],
   "risk_alerts": [],
@@ -393,17 +453,17 @@
     "unchanged": false,
     "path": "reports/paper_trading_live.md",
     "branch": "paper-trading-live",
-    "commit_sha": "1e4ea7d48b75c43ba0f5f43653b6dd2689017b33",
+    "commit_sha": "f5a0eab3ef221a5bd3fa6cea5e91f2b077134f01",
     "html_url": "https://github.com/eddyhardscit/crypto-fractal-scanner/blob/paper-trading-live/reports/paper_trading_live.md",
     "reasons": [
       "market_event"
     ]
   },
   "open_pnl_quality": {
-    "generated_utc": "2026-08-12T16:43:29+00:00",
-    "positions": 851,
+    "generated_utc": "2026-08-12T17:43:56+00:00",
+    "positions": 917,
     "strategy_accounts": 347,
-    "alerts": 8,
+    "alerts": 10,
     "status": "OK",
     "error": null
   }
