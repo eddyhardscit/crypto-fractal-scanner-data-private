@@ -1,7 +1,7 @@
 {
   "automatic_mutations_created": 0,
   "automatic_promotions": 0,
-  "candidate_count": 32,
+  "candidate_count": 31,
   "candidates": [
     {
       "asset": "SHIB",
@@ -622,30 +622,10 @@
       "scope_value": "combo_adaptive",
       "status": "ELIGIBLE_FOR_MUTATION",
       "strategy": "combo_adaptive"
-    },
-    {
-      "asset": "SHIB",
-      "average_delta_r": 0.17965191452682136,
-      "bootstrap_ci_low_delta_r": 0.06573520327755313,
-      "decision_summary": "Evidenza robusta: candidatura disponibile al Blocco 5.",
-      "evidence_score": 84.97,
-      "improved_pct": 55.10204081632652,
-      "median_delta_r": 0.20265808829508314,
-      "portfolio": "SHADOW_MASTER_ADAPTIVE_GB20_LOSS_CAP_V1",
-      "rank": 32,
-      "sample_eligible": 196,
-      "scenario_id": "TIME_4H",
-      "scenario_kind": "TIME_EXIT",
-      "scenario_parameters_json": "{\"hours\":4.0}",
-      "scenario_set_version": "strategy-evolution-v1.3-autoresearch-expanded|risk=block4_5_v1",
-      "scope": "STRATEGY",
-      "scope_value": "master_adaptive_consensus",
-      "status": "ELIGIBLE_FOR_MUTATION",
-      "strategy": "master_adaptive_consensus"
     }
   ],
   "engine_version": "block4-shadow-evaluation-v1",
-  "generated_utc": "2026-08-13T04:40:13+00:00",
+  "generated_utc": "2026-08-13T05:40:10+00:00",
   "live_modified": false,
   "paper_exits_modified": false,
   "paper_positions_modified": false,
