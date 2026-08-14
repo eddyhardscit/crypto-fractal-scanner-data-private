@@ -2,14 +2,11 @@
 
 Repository privato aggiornato automaticamente dal VPS Hetzner.
 
-Contiene dati e report di:
-
-- Paper V1, V2 e V3
-- Research / Shadow
-- RSI 5 minuti Paper e Shadow
-- confronto Paper vs Shadow
-- SOL e BTC spot adaptive
-- latest report completo e grafici dello scanner
+The current snapshot is a content-addressed manifest referencing the existing
+Paper and exchange Release assets and the exact scanner publication commit.
+Permanent Paper ledgers, immutable monthly exchange archives, and all historical
+Git commits/refs remain preserved. `snapshot/legacy-last-full` is the final full
+pre-migration Git snapshot; no historical object is pruned.
 
 Sono esclusi file `.env`, chiavi KuCoin, token Telegram,
 chiavi SSH, cache e configurazioni sensibili.
