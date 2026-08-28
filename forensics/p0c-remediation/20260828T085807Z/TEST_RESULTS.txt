@@ -1,0 +1,17 @@
+Tested UTC: 2026-08-28T08:57:09Z through 2026-08-28T08:58:07Z
+
+PASS: python3 -m py_compile forward_shadow_exit_lab.py tests/test_exit_only_cohort_authority_integrity.py
+
+PASS: /root/crypto-fractal-scanner/.venv/bin/python -m unittest -v tests.test_exit_only_cohort_authority_integrity tests.test_forward_shadow_operational_and_gap_v2
+Result: Ran 25 tests; OK.
+
+PASS: /opt/crypto-fractal-scanner-vps/.venv-core/bin/python -m unittest -v tests.test_forward_exit_causal_v2
+Result: Ran 31 tests; OK.
+
+Natural invocation: b1d78ef7c60649258d44cc4cd683f2cc
+Start: 2026-08-28T08:58:00Z
+Exit: 2026-08-28T08:58:07Z
+Result: success, exit status 0, formal read model PUBLISHED.
+New P0C cost payload conflicts since test start: 0.
+
+Audit note: a preliminary invocation of the causal suite with the system Python was rejected at import because that interpreter has no pandas. The authoritative rerun above used the service venv and passed all 31 tests.

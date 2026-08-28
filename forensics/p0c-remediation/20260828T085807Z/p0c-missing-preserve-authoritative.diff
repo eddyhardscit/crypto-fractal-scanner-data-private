@@ -1,0 +1,152 @@
+--- a/forward_shadow_exit_lab.py
++++ b/forward_shadow_exit_lab.py
+@@ -18,6 +18,42 @@
+ OUT=ROOT/'reports/forward_shadow_exit_lab';OP=OUT/'operational_audit';STATE=ROOT/'data/shadow_exit_lab';ACT=STATE/'forward_activation.json';LOCK=STATE/'run_once.lock';CANDLES=STATE/'candles_forward'
+ CONFIG={'mode':'SHADOW_ONLY','variants':['MOTHER_OBSERVED','GB20','GB30','GB40'],'batch_size':250,'max_active_signals':500,'max_symbols_per_cycle':8,'max_pages_per_symbol':1,'public_request_timeout_seconds':3,'single_process':True,'no_daemon':True,'shared_candle_read':True,'ambiguous_intrabar_policy':'CONSERVATIVE_WORST_CASE','forward_confirmed_min_trades':30,'automatic_live_promotion':False,'signal_state':str(DEFAULT_STATE),'close_ledger':str(DEFAULT_LEDGER),'public_market_data_only':True}
+ P0C_MANIFEST=ROOT/'config/official_exit_challenger_mapping_v1.json'
++P0C_COST_FIELDS=('entry_fee','exit_fee','entry_slippage','exit_slippage','funding_policy','funding_amount')
++P0C_NUMERIC_COST_FIELDS=frozenset({'entry_fee','exit_fee','entry_slippage','exit_slippage','funding_amount'})
++
++def _p0c_cost_value_equal(field,existing,incoming):
++ if field in P0C_NUMERIC_COST_FIELDS:
++  try:return float(existing)==float(incoming)
++  except (TypeError,ValueError):return False
++ return existing==incoming
++
++def _p0c_merge_authoritative_costs(existing,incoming,*,incoming_can_fill_missing=False):
++ """Preserve known immutable costs while keeping concrete conflicts fail-closed."""
++ existing=dict(existing or {});merged=dict(incoming or {})
++ for field in P0C_COST_FIELDS:
++  old=existing.get(field);new=merged.get(field)
++  if new is None:
++   merged[field]=old
++  elif old is None:
++   if not incoming_can_fill_missing:raise ValueError('COST_BACKFILL_NON_AUTHORITATIVE_ENRICHMENT_FAIL_CLOSED')
++  elif _p0c_cost_value_equal(field,old,new):
++   merged[field]=old
++  else:
++   raise ValueError('COST_PAYLOAD_CONFLICT_FAIL_CLOSED')
++ return merged
++
++def _p0c_backfill_costs(conn,outcome_id,incoming=None):
++ """Hydrate backfill omissions from the existing authoritative certification."""
++ cols=','.join(P0C_COST_FIELDS)
++ row=conn.execute(f'SELECT {cols},provenance_json,cost_contract_version FROM p0c_cost_certification WHERE outcome_id=?',(outcome_id,)).fetchone()
++ if not row:return _p0c_merge_authoritative_costs({},incoming)
++ existing=dict(zip(P0C_COST_FIELDS,row[:len(P0C_COST_FIELDS)]))
++ merged=_p0c_merge_authoritative_costs(existing,incoming)
++ try:merged['cost_provenance']=json.loads(row[len(P0C_COST_FIELDS)] or '{}')
++ except (TypeError,json.JSONDecodeError):raise ValueError('COST_PROVENANCE_INVALID_FAIL_CLOSED')
++ merged['cost_model_version']=row[len(P0C_COST_FIELDS)+1]
++ return merged
++
+ def _p0c_mapping(stream):
+  try:return next((x for x in load_manifest(P0C_MANIFEST)['challengers'] if x['source_signal_stream']==stream),None)
+  except (OSError,ValueError):return None
+@@ -112,7 +148,9 @@
+   for identity in rows:
+    hit=conn.execute('SELECT * FROM p0c_outcomes WHERE signal_id=? AND variant_id=?',(signal_id,identity['variant_id'])).fetchone()
+    if hit:
+-    outcome=dict(zip(ocols,hit));record_formal_outcome_authority(conn,identity,outcome,created_at=outcome.get('created_at_utc') or now,costs={'cost_provenance':{'historical':'UNKNOWN_UNLESS_PERSISTED','historical_values_fabricated':False}})
++    outcome=dict(zip(ocols,hit));incoming={'cost_provenance':{'historical':'UNKNOWN_UNLESS_PERSISTED','historical_values_fabricated':False}}
++    costs=_p0c_backfill_costs(conn,outcome['outcome_id'],incoming)
++    record_formal_outcome_authority(conn,identity,outcome,created_at=outcome.get('created_at_utc') or now,costs=costs)
+   for child in children:_p0c_reconcile_pair(conn,signal_id,child['challenger_id'],now)
+  conn.commit()
+ 
+--- a/tests/test_exit_only_cohort_authority_integrity.py
++++ b/tests/test_exit_only_cohort_authority_integrity.py
+@@ -21,7 +21,12 @@
+     register_exit_only_cohort,
+ )
+ from exit_shadow_trade_store import add_instances, connect, insert_signal, save_instance, save_outcome
+-from forward_shadow_exit_lab import _p0c_reconcile_pair
++from forward_shadow_exit_lab import (
++    P0C_COST_FIELDS,
++    _p0c_backfill_integrity_metadata,
++    _p0c_merge_authoritative_costs,
++    _p0c_reconcile_pair,
++)
+ 
+ 
+ NOW = "2026-08-23T00:00:00+00:00"
+@@ -127,6 +132,79 @@
+         with self.assertRaisesRegex(ValueError, "FORMAL_OUTCOME_CONFLICT_FAIL_CLOSED"):
+             record_formal_outcome_authority(self.conn, child, changed, created_at=NOW)
+         self.assertEqual(self.conn.execute("SELECT COUNT(*) FROM p0c_outcome_authority").fetchone()[0], 1)
++
++    def test_backfill_missing_preserves_existing_authoritative_costs_parametrically(self):
++        values = {
++            "entry_fee": 1.25, "exit_fee": 2.5,
++            "entry_slippage": 0.1, "exit_slippage": 0.2,
++            "funding_policy": "OBSERVED_INTERVALS_ONLY", "funding_amount": -0.5,
++        }
++        for field in P0C_COST_FIELDS:
++            with self.subTest(field=field):
++                existing = {name: None for name in P0C_COST_FIELDS}
++                existing[field] = values[field]
++                merged = _p0c_merge_authoritative_costs(existing, {})
++                self.assertEqual(merged[field], values[field])
++                self.assertTrue(all(merged[name] is None for name in P0C_COST_FIELDS if name != field))
++
++    def test_cost_merge_idempotence_authoritative_fill_and_true_conflict(self):
++        existing = {name: None for name in P0C_COST_FIELDS}
++        existing["entry_fee"] = 1.25
++        self.assertEqual(
++            _p0c_merge_authoritative_costs(existing, {"entry_fee": 1.25})["entry_fee"],
++            1.25,
++        )
++        self.assertEqual(
++            _p0c_merge_authoritative_costs(existing, {"entry_fee": "1.25"})["entry_fee"],
++            1.25,
++        )
++        with self.assertRaisesRegex(ValueError, "COST_PAYLOAD_CONFLICT_FAIL_CLOSED"):
++            _p0c_merge_authoritative_costs(existing, {"entry_fee": 1.5})
++        with self.assertRaisesRegex(ValueError, "COST_BACKFILL_NON_AUTHORITATIVE_ENRICHMENT_FAIL_CLOSED"):
++            _p0c_merge_authoritative_costs({}, {"entry_fee": 1.25})
++        self.assertEqual(
++            _p0c_merge_authoritative_costs(
++                {}, {"entry_fee": 1.25}, incoming_can_fill_missing=True,
++            )["entry_fee"],
++            1.25,
++        )
++        self.assertTrue(all(
++            _p0c_merge_authoritative_costs({}, {})[field] is None
++            for field in P0C_COST_FIELDS
++        ))
++
++    def test_backfill_preserves_real_ena_fee_shape_and_all_economic_rows(self):
++        _, _, child = self.cohort()
++        outcome = self.outcome(child, "SHADOW_1H_FAST_V3_GB20_R100", -2.8130786769266356)
++        outcome["outcome_id"] = "out-00b0745cd501dff36393326e7daa4537"
++        insert_new_outcome(self.conn, outcome)
++        costs = {
++            "entry_fee": 0.03684708029561503,
++            "cost_model_version": "FORWARD_EXIT_COSTS_V2",
++            "cost_provenance": {
++                "entry": "source_signal_payload",
++                "exit": "UNKNOWN_NOT_FABRICATED",
++                "historical_values_fabricated": False,
++            },
++        }
++        record_formal_outcome_authority(self.conn, child, outcome, created_at=NOW, costs=costs)
++        self.conn.commit()
++        before = self.conn.execute(
++            "SELECT * FROM p0c_cost_certification ORDER BY outcome_id"
++        ).fetchall()
++        _p0c_backfill_integrity_metadata(self.conn, "2026-08-23T00:01:00+00:00")
++        after = self.conn.execute(
++            "SELECT * FROM p0c_cost_certification ORDER BY outcome_id"
++        ).fetchall()
++        self.assertEqual(after, before)
++        self.assertEqual(
++            self.conn.execute(
++                "SELECT entry_fee FROM p0c_cost_certification WHERE outcome_id=?",
++                (outcome["outcome_id"],),
++            ).fetchone()[0],
++            0.03684708029561503,
++        )
++        self.assertEqual(self.conn.execute("PRAGMA integrity_check").fetchone()[0], "ok")
+ 
+     def test_authority_digest_is_stable_across_sqlite_numeric_coercion(self):
+         _, _, child = self.cohort()
