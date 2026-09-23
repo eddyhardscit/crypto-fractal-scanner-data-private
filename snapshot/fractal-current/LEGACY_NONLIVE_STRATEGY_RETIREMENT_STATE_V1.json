@@ -1,0 +1,895 @@
+{
+  "retirement_timestamp_utc": "2026-09-23T10:30:58.557512+00:00",
+  "permanent_retire_timers": [
+    "crypto-ai-review-telegram-summary.timer",
+    "crypto-btc-40k-shadow.timer",
+    "crypto-btc-spot-shadow.timer",
+    "crypto-challenger-telegram-report.timer",
+    "crypto-combo-adaptive-family-daily.timer",
+    "crypto-comparative.timer",
+    "crypto-discovery-incremental.timer",
+    "crypto-donchian-family-shadow.timer",
+    "crypto-donchian-family-telegram.timer",
+    "crypto-e2e-acceptance-daily-report.timer",
+    "crypto-e2e-acceptance.timer",
+    "crypto-forward-shadow-exit-lab.timer",
+    "crypto-futures-dual-dry-run.timer",
+    "crypto-inverse-shadow-daily-report.timer",
+    "crypto-inverse-shadow-prospective.timer",
+    "crypto-master-adaptive-family-daily.timer",
+    "crypto-monthly-snapshot.timer",
+    "crypto-paper-main.timer",
+    "crypto-paper-shadow-edge.timer",
+    "crypto-rapid-v1-family-daily.timer",
+    "crypto-rapid-v3-family-daily.timer",
+    "crypto-research-excursion-backfill.timer",
+    "crypto-rsi25-reclaim-btc-guard-paper.timer",
+    "crypto-rsi5-telegram.timer",
+    "crypto-rsi5.timer",
+    "crypto-scanner-top5-btc-family-daily.timer",
+    "crypto-sol-spot-paper.timer",
+    "crypto-strategy-10k-ledger.timer",
+    "crypto-strategy-evolution-diagnostics.timer",
+    "crypto-strategy-inverse-backtest.timer",
+    "crypto-strategy-inverse-dynamic-selector.timer",
+    "crypto-strategy-inverse-prospective-shadow.timer",
+    "crypto-strategy-inverse-regime-audit.timer",
+    "crypto-strategy-lifecycle-manager.timer",
+    "crypto-strategy-milestones.timer",
+    "crypto-strategy-review.timer",
+    "crypto-strategy-rotation-shadow.timer",
+    "crypto-strategy-top5.timer",
+    "strategy-confidence-score.timer"
+  ],
+  "permanent_retire_services": [
+    "crypto-ai-review-telegram-summary.service",
+    "crypto-btc-40k-shadow.service",
+    "crypto-btc-spot-shadow.service",
+    "crypto-challenger-telegram-report.service",
+    "crypto-combo-adaptive-family-daily.service",
+    "crypto-comparative.service",
+    "crypto-discovery-incremental.service",
+    "crypto-donchian-family-shadow.service",
+    "crypto-donchian-family-telegram.service",
+    "crypto-e2e-acceptance-daily-report.service",
+    "crypto-e2e-acceptance.service",
+    "crypto-forward-shadow-exit-lab.service",
+    "crypto-futures-dual-dry-run.service",
+    "crypto-inverse-shadow-daily-report.service",
+    "crypto-inverse-shadow-prospective.service",
+    "crypto-master-adaptive-family-daily.service",
+    "crypto-monthly-snapshot.service",
+    "crypto-paper-main.service",
+    "crypto-paper-shadow-edge.service",
+    "crypto-rapid-v1-family-daily.service",
+    "crypto-rapid-v3-family-daily.service",
+    "crypto-research-excursion-backfill.service",
+    "crypto-rsi25-reclaim-btc-guard-paper.service",
+    "crypto-rsi5-telegram.service",
+    "crypto-rsi5.service",
+    "crypto-scanner-top5-btc-family-daily.service",
+    "crypto-sol-spot-paper.service",
+    "crypto-strategy-10k-ledger.service",
+    "crypto-strategy-evolution-diagnostics.service",
+    "crypto-strategy-inverse-backtest.service",
+    "crypto-strategy-inverse-dynamic-selector.service",
+    "crypto-strategy-inverse-prospective-shadow.service",
+    "crypto-strategy-inverse-regime-audit.service",
+    "crypto-strategy-lifecycle-manager.service",
+    "crypto-strategy-milestones.service",
+    "crypto-strategy-rankings-bot.service",
+    "crypto-strategy-review.service",
+    "crypto-strategy-rotation-shadow.service",
+    "crypto-strategy-top5.service",
+    "strategy-confidence-score.service"
+  ],
+  "old_mixed_daily_timer": "crypto-daily-scanner.timer",
+  "disabled_timer_count_including_old_mixed": 40,
+  "disabled_persistent_service": [
+    "crypto-strategy-rankings-bot.service"
+  ],
+  "kept_units": {
+    "KEEP_FRACTAL": [
+      "crypto-fractal-daily.service",
+      "crypto-fractal-daily.timer"
+    ],
+    "KEEP_SHARED_DATA": [
+      "crypto-data-git-pack-lossless.service",
+      "crypto-data-git-pack-lossless.timer",
+      "crypto-exchange.service",
+      "crypto-exchange.timer"
+    ],
+    "KEEP_BACKUP": [
+      "crypto-data-backup.service",
+      "crypto-data-backup.timer",
+      "crypto-data-git-pack-lossless-backup.service",
+      "crypto-data-git-pack-lossless-backup.timer"
+    ],
+    "RETIRE_LIVE_IF_ZERO": [
+      "crypto-futures-dual-live-guard.service",
+      "crypto-futures-dual-live-guard.timer",
+      "crypto-futures-dual-live.service",
+      "crypto-futures-dual-live.timer",
+      "crypto-futures-live-account-a.service",
+      "crypto-futures-live-account-b.service",
+      "crypto-futures-live-accounts.service",
+      "crypto-futures-live-accounts.timer"
+    ],
+    "UNKNOWN_DO_NOT_TOUCH": [
+      "crypto-daily-status.service",
+      "crypto-daily-status.timer",
+      "crypto-futures-live-summary.service",
+      "crypto-futures-live-summary.timer",
+      "crypto-futures-live-telegram-commands.service",
+      "crypto-futures-missed-daily.service",
+      "crypto-futures-missed-daily.timer",
+      "crypto-futures-unified-summary.service",
+      "crypto-futures-unified-summary.timer",
+      "crypto-report-health.service",
+      "crypto-sol-long-term-cone-telegram.service",
+      "crypto-sol-long-term-cone-telegram.timer",
+      "crypto-sol-long-term-cone.service",
+      "crypto-sol-long-term-cone.timer",
+      "crypto-telegram-failure@.service"
+    ]
+  },
+  "fractal_timer": {
+    "Id": "crypto-fractal-daily.timer",
+    "Triggers": "crypto-fractal-daily.service",
+    "TriggeredBy": "",
+    "ActiveState": "active",
+    "SubState": "waiting",
+    "UnitFileState": "enabled",
+    "NextElapseUSecRealtime": "Thu 2026-09-24 05:30:20 UTC"
+  },
+  "market_data_timer": {
+    "Id": "crypto-exchange.timer",
+    "Triggers": "crypto-exchange.service",
+    "TriggeredBy": "",
+    "ActiveState": "active",
+    "SubState": "waiting",
+    "UnitFileState": "enabled",
+    "NextElapseUSecRealtime": "Wed 2026-09-23 10:37:15 UTC"
+  },
+  "frozen_data_counts": {
+    "captured_utc": "2026-09-23T10:30:58.557512+00:00",
+    "core_files": {
+      "paper_trading_trade_log.csv": {
+        "path": "/opt/crypto-fractal-scanner-vps/reports/paper_trading_trade_log.csv",
+        "size": 14737060,
+        "mtime_ns": 1790154616220933757,
+        "rows_excluding_header": 15271
+      },
+      "paper_trading_signal_log.csv": {
+        "path": "/opt/crypto-fractal-scanner-vps/reports/paper_trading_signal_log.csv",
+        "size": 20746272,
+        "mtime_ns": 1790154616232933831,
+        "rows_excluding_header": 80695
+      },
+      "paper_rsi5_challengers_state.json": {
+        "path": "/opt/crypto-fractal-scanner-vps/reports/paper_rsi5_challengers_state.json",
+        "size": 78522,
+        "mtime_ns": 1784980226944121958,
+        "top_level_items": 6
+      },
+      "paper_trading_shadow_exit_events.csv": {
+        "path": "/opt/crypto-fractal-scanner-vps/reports/paper_trading_shadow_exit_events.csv",
+        "size": 232396265,
+        "mtime_ns": 1790154737374682454,
+        "rows_excluding_header": 722432
+      },
+      "paper_trading_shadow_evaluation_history.csv": {
+        "path": "/opt/crypto-fractal-scanner-vps/reports/paper_trading_shadow_evaluation_history.csv",
+        "size": 15435850,
+        "mtime_ns": 1790093722780017148,
+        "rows_excluding_header": 47841
+      },
+      "paper_trading_evolution_candidate_events.csv": {
+        "path": "/opt/crypto-fractal-scanner-vps/reports/paper_trading_evolution_candidate_events.csv",
+        "size": 7436,
+        "mtime_ns": 1789679175438515878,
+        "rows_excluding_header": 28
+      }
+    },
+    "inventory_path_counts": {
+      "discovery": 2779,
+      "challenger": 451,
+      "shadow": 1903,
+      "evolution": 690,
+      "ranking": 28,
+      "registry": 20
+    },
+    "frozen_inventory_file_count": 5643,
+    "active_nonlive_writer_processes": []
+  },
+  "archive_preservation_status": "LOCAL_PRELIMINARY_NON_AUTHORITATIVE; content-addressed manifest exists",
+  "offhost_status": "NO; missing_offhost_bytes=29438073604; storage_layout_required=YES",
+  "live_status": "UNTOUCHED; retirement gate CLOSED; exchange read 401/400003",
+  "scanner2_status": "UNTOUCHED",
+  "hidden_reactivation_paths": [],
+  "all_retired_timer_states": {
+    "crypto-ai-review-telegram-summary.timer": {
+      "Id": "crypto-ai-review-telegram-summary.timer",
+      "Triggers": "crypto-ai-review-telegram-summary.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-btc-40k-shadow.timer": {
+      "Id": "crypto-btc-40k-shadow.timer",
+      "Triggers": "crypto-btc-40k-shadow.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-btc-spot-shadow.timer": {
+      "Id": "crypto-btc-spot-shadow.timer",
+      "Triggers": "crypto-btc-spot-shadow.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-challenger-telegram-report.timer": {
+      "Id": "crypto-challenger-telegram-report.timer",
+      "Triggers": "crypto-challenger-telegram-report.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-combo-adaptive-family-daily.timer": {
+      "Id": "crypto-combo-adaptive-family-daily.timer",
+      "Triggers": "crypto-combo-adaptive-family-daily.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-comparative.timer": {
+      "Id": "crypto-comparative.timer",
+      "Triggers": "crypto-comparative.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-discovery-incremental.timer": {
+      "Id": "crypto-discovery-incremental.timer",
+      "Triggers": "crypto-discovery-incremental.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-donchian-family-shadow.timer": {
+      "Id": "crypto-donchian-family-shadow.timer",
+      "Triggers": "crypto-donchian-family-shadow.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-donchian-family-telegram.timer": {
+      "Id": "crypto-donchian-family-telegram.timer",
+      "Triggers": "crypto-donchian-family-telegram.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-e2e-acceptance-daily-report.timer": {
+      "Id": "crypto-e2e-acceptance-daily-report.timer",
+      "Triggers": "crypto-e2e-acceptance-daily-report.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-e2e-acceptance.timer": {
+      "Id": "crypto-e2e-acceptance.timer",
+      "Triggers": "crypto-e2e-acceptance.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-forward-shadow-exit-lab.timer": {
+      "Id": "crypto-forward-shadow-exit-lab.timer",
+      "Triggers": "crypto-forward-shadow-exit-lab.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-futures-dual-dry-run.timer": {
+      "Id": "crypto-futures-dual-dry-run.timer",
+      "Triggers": "crypto-futures-dual-dry-run.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-inverse-shadow-daily-report.timer": {
+      "Id": "crypto-inverse-shadow-daily-report.timer",
+      "Triggers": "crypto-inverse-shadow-daily-report.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-inverse-shadow-prospective.timer": {
+      "Id": "crypto-inverse-shadow-prospective.timer",
+      "Triggers": "crypto-inverse-shadow-prospective.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-master-adaptive-family-daily.timer": {
+      "Id": "crypto-master-adaptive-family-daily.timer",
+      "Triggers": "crypto-master-adaptive-family-daily.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-monthly-snapshot.timer": {
+      "Id": "crypto-monthly-snapshot.timer",
+      "Triggers": "crypto-monthly-snapshot.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-paper-main.timer": {
+      "Id": "crypto-paper-main.timer",
+      "Triggers": "crypto-paper-main.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-paper-shadow-edge.timer": {
+      "Id": "crypto-paper-shadow-edge.timer",
+      "Triggers": "crypto-paper-shadow-edge.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-rapid-v1-family-daily.timer": {
+      "Id": "crypto-rapid-v1-family-daily.timer",
+      "Triggers": "crypto-rapid-v1-family-daily.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-rapid-v3-family-daily.timer": {
+      "Id": "crypto-rapid-v3-family-daily.timer",
+      "Triggers": "crypto-rapid-v3-family-daily.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-research-excursion-backfill.timer": {
+      "Id": "crypto-research-excursion-backfill.timer",
+      "Triggers": "crypto-research-excursion-backfill.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-rsi25-reclaim-btc-guard-paper.timer": {
+      "Id": "crypto-rsi25-reclaim-btc-guard-paper.timer",
+      "Triggers": "crypto-rsi25-reclaim-btc-guard-paper.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-rsi5-telegram.timer": {
+      "Id": "crypto-rsi5-telegram.timer",
+      "Triggers": "crypto-rsi5-telegram.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-rsi5.timer": {
+      "Id": "crypto-rsi5.timer",
+      "Triggers": "crypto-rsi5.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-scanner-top5-btc-family-daily.timer": {
+      "Id": "crypto-scanner-top5-btc-family-daily.timer",
+      "Triggers": "crypto-scanner-top5-btc-family-daily.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-sol-spot-paper.timer": {
+      "Id": "crypto-sol-spot-paper.timer",
+      "Triggers": "crypto-sol-spot-paper.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-10k-ledger.timer": {
+      "Id": "crypto-strategy-10k-ledger.timer",
+      "Triggers": "crypto-strategy-10k-ledger.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-evolution-diagnostics.timer": {
+      "Id": "crypto-strategy-evolution-diagnostics.timer",
+      "Triggers": "crypto-strategy-evolution-diagnostics.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-inverse-backtest.timer": {
+      "Id": "crypto-strategy-inverse-backtest.timer",
+      "Triggers": "crypto-strategy-inverse-backtest.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-inverse-dynamic-selector.timer": {
+      "Id": "crypto-strategy-inverse-dynamic-selector.timer",
+      "Triggers": "crypto-strategy-inverse-dynamic-selector.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-inverse-prospective-shadow.timer": {
+      "Id": "crypto-strategy-inverse-prospective-shadow.timer",
+      "Triggers": "crypto-strategy-inverse-prospective-shadow.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-inverse-regime-audit.timer": {
+      "Id": "crypto-strategy-inverse-regime-audit.timer",
+      "Triggers": "crypto-strategy-inverse-regime-audit.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-lifecycle-manager.timer": {
+      "Id": "crypto-strategy-lifecycle-manager.timer",
+      "Triggers": "crypto-strategy-lifecycle-manager.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-milestones.timer": {
+      "Id": "crypto-strategy-milestones.timer",
+      "Triggers": "crypto-strategy-milestones.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-review.timer": {
+      "Id": "crypto-strategy-review.timer",
+      "Triggers": "crypto-strategy-review.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-rotation-shadow.timer": {
+      "Id": "crypto-strategy-rotation-shadow.timer",
+      "Triggers": "crypto-strategy-rotation-shadow.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-strategy-top5.timer": {
+      "Id": "crypto-strategy-top5.timer",
+      "Triggers": "crypto-strategy-top5.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "strategy-confidence-score.timer": {
+      "Id": "strategy-confidence-score.timer",
+      "Triggers": "strategy-confidence-score.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    },
+    "crypto-daily-scanner.timer": {
+      "Id": "crypto-daily-scanner.timer",
+      "Triggers": "crypto-daily-scanner.service",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled",
+      "NextElapseUSecRealtime": ""
+    }
+  },
+  "all_retired_service_states": {
+    "crypto-ai-review-telegram-summary.service": {
+      "Id": "crypto-ai-review-telegram-summary.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-btc-40k-shadow.service": {
+      "Id": "crypto-btc-40k-shadow.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-btc-spot-shadow.service": {
+      "Id": "crypto-btc-spot-shadow.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-challenger-telegram-report.service": {
+      "Id": "crypto-challenger-telegram-report.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-combo-adaptive-family-daily.service": {
+      "Id": "crypto-combo-adaptive-family-daily.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-comparative.service": {
+      "Id": "crypto-comparative.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-discovery-incremental.service": {
+      "Id": "crypto-discovery-incremental.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "UnitFileState": "disabled"
+    },
+    "crypto-donchian-family-shadow.service": {
+      "Id": "crypto-donchian-family-shadow.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "UnitFileState": "static"
+    },
+    "crypto-donchian-family-telegram.service": {
+      "Id": "crypto-donchian-family-telegram.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "UnitFileState": "static"
+    },
+    "crypto-e2e-acceptance-daily-report.service": {
+      "Id": "crypto-e2e-acceptance-daily-report.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-e2e-acceptance.service": {
+      "Id": "crypto-e2e-acceptance.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-forward-shadow-exit-lab.service": {
+      "Id": "crypto-forward-shadow-exit-lab.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "UnitFileState": "static"
+    },
+    "crypto-futures-dual-dry-run.service": {
+      "Id": "crypto-futures-dual-dry-run.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-inverse-shadow-daily-report.service": {
+      "Id": "crypto-inverse-shadow-daily-report.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-inverse-shadow-prospective.service": {
+      "Id": "crypto-inverse-shadow-prospective.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-master-adaptive-family-daily.service": {
+      "Id": "crypto-master-adaptive-family-daily.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "UnitFileState": "static"
+    },
+    "crypto-monthly-snapshot.service": {
+      "Id": "crypto-monthly-snapshot.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-paper-main.service": {
+      "Id": "crypto-paper-main.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "UnitFileState": "static"
+    },
+    "crypto-paper-shadow-edge.service": {
+      "Id": "crypto-paper-shadow-edge.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-rapid-v1-family-daily.service": {
+      "Id": "crypto-rapid-v1-family-daily.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-rapid-v3-family-daily.service": {
+      "Id": "crypto-rapid-v3-family-daily.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-research-excursion-backfill.service": {
+      "Id": "crypto-research-excursion-backfill.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-rsi25-reclaim-btc-guard-paper.service": {
+      "Id": "crypto-rsi25-reclaim-btc-guard-paper.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-rsi5-telegram.service": {
+      "Id": "crypto-rsi5-telegram.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-rsi5.service": {
+      "Id": "crypto-rsi5.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-scanner-top5-btc-family-daily.service": {
+      "Id": "crypto-scanner-top5-btc-family-daily.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-sol-spot-paper.service": {
+      "Id": "crypto-sol-spot-paper.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-strategy-10k-ledger.service": {
+      "Id": "crypto-strategy-10k-ledger.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-evolution-diagnostics.service": {
+      "Id": "crypto-strategy-evolution-diagnostics.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-inverse-backtest.service": {
+      "Id": "crypto-strategy-inverse-backtest.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-inverse-dynamic-selector.service": {
+      "Id": "crypto-strategy-inverse-dynamic-selector.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-inverse-prospective-shadow.service": {
+      "Id": "crypto-strategy-inverse-prospective-shadow.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-inverse-regime-audit.service": {
+      "Id": "crypto-strategy-inverse-regime-audit.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-lifecycle-manager.service": {
+      "Id": "crypto-strategy-lifecycle-manager.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-strategy-milestones.service": {
+      "Id": "crypto-strategy-milestones.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "crypto-strategy-rankings-bot.service": {
+      "Id": "crypto-strategy-rankings-bot.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-review.service": {
+      "Id": "crypto-strategy-review.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-rotation-shadow.service": {
+      "Id": "crypto-strategy-rotation-shadow.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "disabled"
+    },
+    "crypto-strategy-top5.service": {
+      "Id": "crypto-strategy-top5.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    },
+    "strategy-confidence-score.service": {
+      "Id": "strategy-confidence-score.service",
+      "Triggers": "",
+      "TriggeredBy": "",
+      "ActiveState": "inactive",
+      "SubState": "dead",
+      "UnitFileState": "static"
+    }
+  },
+  "files_deleted": 0
+}

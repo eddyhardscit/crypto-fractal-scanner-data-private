@@ -1,0 +1,14 @@
+[Unit]
+Description=Fractal-only daily market and forecast publisher
+Wants=network-online.target
+After=network-online.target
+ConditionPathExists=/etc/crypto-fractal-scanner/paper.env
+OnFailure=crypto-telegram-failure@%n.service
+
+[Service]
+Type=oneshot
+User=cryptobot
+Group=cryptobot
+ExecStart=/usr/local/sbin/crypto-fractal-daily-cycle
+TimeoutStartSec=100min
+Nice=10

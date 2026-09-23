@@ -1,0 +1,70 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+umask 027
+
+PUB=/opt/crypto-fractal-scanner-publisher
+PYTHON=/opt/crypto-fractal-scanner-vps/.venv-core/bin/python
+ENV_FILE=/etc/crypto-fractal-scanner/paper.env
+
+exec 9>/run/lock/crypto-publisher.lock
+flock -n 9 || exit 0
+cd "$PUB"
+
+set -a
+. "$ENV_FILE"
+set +a
+unset PAPER_DIRECTIONAL_PIPELINE_TELEMETRY_V1 PAPER_DIRECTIONAL_PIPELINE_TELEMETRY_V1_PATH _legacy_directional_requested
+export PYTHONUTF8=1 PYTHONIOENCODING=utf-8 PYTHONUNBUFFERED=1
+export GIT_SSH_COMMAND='ssh -i /var/lib/crypto-fractal-scanner/.ssh/id_ed25519 -o IdentitiesOnly=yes -o BatchMode=yes'
+
+if ! git diff --quiet || ! git diff --cached --quiet || [ -n "$(git ls-files --others --exclude-standard)" ]; then
+    echo 'Publisher worktree not clean; daily fractal run refused.' >&2
+    exit 1
+fi
+
+"$PYTHON" market_snapshot.py
+"$PYTHON" scanner.py
+"$PYTHON" daily_change_report.py
+"$PYTHON" bounce_after_drawdown_report.py
+"$PYTHON" market_regime_match_report.py
+"$PYTHON" scanner_forecast_tracker.py
+"$PYTHON" extreme_cases_path_report.py
+"$PYTHON" classic_technical_confirmation_report.py
+"$PYTHON" btc_2022_vs_sol_2026_report.py
+"$PYTHON" fractal_path_tracker.py
+"$PYTHON" sol_onchain_metrics_report.py
+"$PYTHON" major_alt_lifecycle_squeeze_report.py
+"$PYTHON" technical_structure_report.py
+"$PYTHON" classic_technical_visual_report.py
+"$PYTHON" price_coherence_sync.py
+
+export EXCHANGE_STORAGE_RELEASE_TAG=exchange-data-v2-1
+"$PYTHON" exchange_persistent_storage.py restore
+"$PYTHON" exchange_persistent_storage.py audit
+"$PYTHON" exchange_persistent_storage.py archive-completed-months
+"$PYTHON" exchange_microstructure_report.py
+"$PYTHON" relative_strength_btc_report.py
+"$PYTHON" btc_macro_cycle_report.py
+"$PYTHON" data_quality_coherence_report.py
+
+if [ -f sol_long_term_history_publish.py ]; then
+    "$PYTHON" sol_long_term_history_publish.py --best-effort || echo LONG_TERM_HISTORY_RETAINED_LAST_VALID
+fi
+"$PYTHON" market_forecast_lab.py --mode OFFICIAL_DAILY || echo MARKET_FORECAST_LAB_FAILED
+
+git config user.name hetzner-crypto-bot
+git config user.email hetzner-crypto-bot@users.noreply.github.com
+if git status --porcelain --untracked-files=all -- reports/ | rg -i 'paper_|paper-|strategy_|strategy-|challenger|discovery|evolution|promotion|btc_spot_adaptive_shadow|paper_shadow|inverse_shadow|donchian.*shadow'; then
+    echo 'Strategy-like publisher artifact changed; publication refused.' >&2
+    exit 1
+fi
+git add reports/
+if git diff --cached --quiet; then exit 0; fi
+git commit -m 'Update daily fractal and market reports from Hetzner'
+for attempt in 1 2 3; do
+    git fetch origin main
+    git merge-base --is-ancestor origin/main HEAD || exit 1
+    if git push origin HEAD:main; then exit 0; fi
+    [ "$attempt" -lt 3 ] && sleep 5
+done
+exit 1
