@@ -17,10 +17,34 @@ unset PAPER_DIRECTIONAL_PIPELINE_TELEMETRY_V1 PAPER_DIRECTIONAL_PIPELINE_TELEMET
 export PYTHONUTF8=1 PYTHONIOENCODING=utf-8 PYTHONUNBUFFERED=1
 export GIT_SSH_COMMAND='ssh -i /var/lib/crypto-fractal-scanner/.ssh/id_ed25519 -o IdentitiesOnly=yes -o BatchMode=yes'
 
+run_retry() {
+    local attempt=1 max_attempts=3
+    while true; do
+        if "$@"; then return 0; fi
+        if [ "$attempt" -ge "$max_attempts" ]; then return 1; fi
+        echo "Transient command failure; retry $attempt/$max_attempts: $*" >&2
+        sleep $((attempt * 5))
+        attempt=$((attempt + 1))
+    done
+}
+
 if ! git diff --quiet || ! git diff --cached --quiet || [ -n "$(git ls-files --others --exclude-standard)" ]; then
     echo 'Publisher worktree not clean; daily fractal run refused.' >&2
     exit 1
 fi
+
+START_HEAD="$(git rev-parse HEAD)"
+cleanup_failed_run() {
+    local rc=$?
+    trap - EXIT
+    if [ "$rc" -ne 0 ] && [ "$(git rev-parse HEAD 2>/dev/null || true)" = "$START_HEAD" ]; then
+        echo 'Daily run failed before commit; restoring clean publisher worktree.' >&2
+        git reset --hard "$START_HEAD" >/dev/null 2>&1 || true
+        git clean -fd -- reports/ >/dev/null 2>&1 || true
+    fi
+    exit "$rc"
+}
+trap cleanup_failed_run EXIT
 
 "$PYTHON" market_snapshot.py
 "$PYTHON" scanner.py
@@ -49,7 +73,7 @@ fi
 
 export EXCHANGE_STORAGE_RELEASE_TAG=exchange-data-v2-1
 "$PYTHON" exchange_persistent_storage.py restore
-"$PYTHON" exchange_persistent_storage.py audit
+run_retry "$PYTHON" exchange_persistent_storage.py audit
 "$PYTHON" exchange_persistent_storage.py archive-completed-months
 "$PYTHON" exchange_microstructure_report.py
 "$PYTHON" exchange_signal_tracker.py
