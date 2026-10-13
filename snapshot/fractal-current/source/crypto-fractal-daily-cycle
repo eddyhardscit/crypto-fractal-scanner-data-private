@@ -138,6 +138,7 @@ if [ -f sol_long_term_history_publish.py ]; then
     "$PYTHON" sol_long_term_history_publish.py --best-effort || echo LONG_TERM_HISTORY_RETAINED_LAST_VALID
 fi
 "$PYTHON" market_forecast_lab.py --mode OFFICIAL_DAILY || echo MARKET_FORECAST_LAB_FAILED
+"$PYTHON" lab_reduction.py
 
 git config user.name hetzner-crypto-bot
 git config user.email hetzner-crypto-bot@users.noreply.github.com
