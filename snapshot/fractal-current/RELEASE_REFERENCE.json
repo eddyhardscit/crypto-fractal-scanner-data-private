@@ -2,55 +2,55 @@
   "architecture": "FRACTAL_ONLY_RELEASE_REFERENCE_MANIFEST",
   "exchange_release": {
     "archive_policy": "one yearly release, one immutable asset per completed UTC month",
-    "last_timestamp_utc": "2026-10-14T04:37:33+00:00",
+    "last_timestamp_utc": "2026-10-14T05:37:33+00:00",
     "state_assets": [
       {
-        "id": 639232663,
+        "id": 639361009,
         "name": "exchange_state_B.tar.gz",
-        "size": 2829552,
-        "updated_at": "2026-10-14T04:37:41Z",
-        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/639232663"
+        "size": 2830899,
+        "updated_at": "2026-10-14T05:37:41Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/639361009"
       },
       {
-        "id": 639170070,
+        "id": 639296666,
         "name": "exchange_state_A.tar.gz",
-        "size": 2828726,
-        "updated_at": "2026-10-14T04:07:41Z",
-        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/639170070"
+        "size": 2830161,
+        "updated_at": "2026-10-14T05:07:41Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/639296666"
       }
     ],
-    "status_sha256": "9c9ff080e6af246214d05b12496470c1bea6d019edf9307ec12615929d9f8ddc"
+    "status_sha256": "82039fd6f4dfa2ad5a89b95c057145a2f757f85d5748ecd911a4bbb6efcac1de"
   },
   "fractal_outputs": [
     {
-      "bytes": 11250,
+      "bytes": 11085,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/BTC_matches.csv",
-      "sha256": "e4b3c03e28c59debd981dc557a0e337505f5279313d6d7e700e55437e34bf35c"
+      "sha256": "8faaadc7e86bb37fb8913a0376ca482f1aeba5f4060b0d444e61477ad3e16f19"
     },
     {
-      "bytes": 833,
+      "bytes": 835,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/BTC_percentiles.csv",
-      "sha256": "54ee66174372ce3c470caee70c4da30edaf7d71b253ccd13991d1da6d053b05b"
+      "sha256": "859b014e643849e893b3d0d83395ab3439119d5a4d3a939fb1d3cfd9bdeee3f2"
     },
     {
-      "bytes": 11129,
+      "bytes": 10891,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/SOL_matches.csv",
-      "sha256": "e073150bbe6a26a0d20f65bf65e8e729702cce369e4ca9f7d6f08cf269e70d12"
+      "sha256": "7084f9e434bb5247fbe8473e18e5f35559eda4f38a3a8f28b6b704c8303f9715"
     },
     {
-      "bytes": 836,
+      "bytes": 822,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/SOL_percentiles.csv",
-      "sha256": "1223aabd0692d2486a4e87296d8d927d2c65df18308d89c9621eba75d2dbbed1"
+      "sha256": "efd206290cbc87bc860e97b2a01c6888e683aacce170d95e31d42874021b1545"
     },
     {
-      "bytes": 11034,
+      "bytes": 10825,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/DOGE_matches.csv",
-      "sha256": "695a736c3b0ec47584b99fcb398cba0607305bc2ea823ad436753351c13fe224"
+      "sha256": "1f4c390779b6e04d6063cfe22cd51a958c879bbf3dd4780e802c4d6ca40434f4"
     },
     {
-      "bytes": 841,
+      "bytes": 840,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/DOGE_percentiles.csv",
-      "sha256": "82bf691e857108bed3394bceeac0aede4897693e993814ad2a3e7745784a170c"
+      "sha256": "5978e1581d1f5fd6b2425fe2a41881f9d904a441962fc1a539688e976a9d938c"
     },
     {
       "bytes": 257436,
@@ -78,19 +78,19 @@
       "sha256": "2662160425fe1ce96e7ce1b71e95ba363c3ec73e49ee13cba06ffe92b3cb056a"
     },
     {
-      "bytes": 218568,
+      "bytes": 219535,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/latest_report.md",
-      "sha256": "8187a9df9693388650edc65321338b941d6a73ea141328dc66fd628cbad679e0"
+      "sha256": "cffe79f1a94c664dcb4da19ffc5d3c76208c89ab74c2f5a79c52487df9969c44"
     }
   ],
   "frozen_strategy_archive": {
     "offhost_bulk_archive": "PENDING_SEPARATE_GATE",
     "retirement_state_sha256": "a2cc9318ae10edccff7b8d7f2435de85d1845551773fb503e732ebbdb742d5b6"
   },
-  "generated_utc": "2026-10-14T04:45:01.915990+00:00",
+  "generated_utc": "2026-10-14T05:45:02.094739+00:00",
   "legacy_mode": "FRACTAL_ONLY_WITH_FROZEN_STRATEGY_ARCHIVE",
   "paper_release": "RETIRED_NOT_REQUIRED",
-  "publisher_head": "768897a6b34def86896a3c30b1e8d7aaab0d477f",
+  "publisher_head": "3a69eda3e2510eca75fb8d67650c42d470174184",
   "schema_version": "2.0",
   "source_and_config": [
     {
