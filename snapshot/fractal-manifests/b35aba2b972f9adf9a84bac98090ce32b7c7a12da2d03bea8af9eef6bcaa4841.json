@@ -1,0 +1,157 @@
+{
+  "architecture": "FRACTAL_ONLY_RELEASE_REFERENCE_MANIFEST",
+  "exchange_release": {
+    "archive_policy": "one yearly release, one immutable asset per completed UTC month",
+    "last_timestamp_utc": "2026-10-15T18:37:34+00:00",
+    "state_assets": [
+      {
+        "id": 644798647,
+        "name": "exchange_state_B.tar.gz",
+        "size": 2878943,
+        "updated_at": "2026-10-15T18:37:42Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/644798647"
+      },
+      {
+        "id": 644720968,
+        "name": "exchange_state_A.tar.gz",
+        "size": 2878418,
+        "updated_at": "2026-10-15T18:07:42Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/644720968"
+      }
+    ],
+    "status_sha256": "65275f8f81e577bb5bc3eb00ce60ab3f53f1ff314a255239e06f6f3e710b6c41"
+  },
+  "fractal_outputs": [
+    {
+      "bytes": 10852,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/BTC_matches.csv",
+      "sha256": "6d61184e369fafe32513c0034e51e06c98fca6c07c773bbfc1b1e88b59df1864"
+    },
+    {
+      "bytes": 808,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/BTC_percentiles.csv",
+      "sha256": "2b36d846082cb26177be00802dc889a21a839c924aa96510987851afc37c5849"
+    },
+    {
+      "bytes": 10641,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/SOL_matches.csv",
+      "sha256": "523cdc6519569eefa681795bbf32f7e44e7751dd0516d39bc6d1af99a5b1169b"
+    },
+    {
+      "bytes": 806,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/SOL_percentiles.csv",
+      "sha256": "ef833ca6f44be4a6b5ccd9ec10b5ab6e705865d0fa831f6a7eae47a20b203ab4"
+    },
+    {
+      "bytes": 10736,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/DOGE_matches.csv",
+      "sha256": "637a1df2658a58c42e1232ec3f88cb38805515de883f351e18a4842d540440ef"
+    },
+    {
+      "bytes": 824,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/DOGE_percentiles.csv",
+      "sha256": "8f96f159ad243313ffbd513c28793193b06d05982826f7a5ab412bbd1cea4a02"
+    },
+    {
+      "bytes": 255970,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/market_forecast_lab/forecast_latest.csv",
+      "sha256": "f033a179d445caf043dd4a91ae8a1b6024c516d85b4f660096789b1be408c2dc"
+    },
+    {
+      "bytes": 334381,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/market_forecast_lab/rotation_latest.csv",
+      "sha256": "2db3db27edac7491cca18b75f75debe9ce2a3b224136b3aa04273a037124847f"
+    },
+    {
+      "bytes": 39385678,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/market_forecast_lab/forecast_vintages.jsonl",
+      "sha256": "8cd431a8867f2366030821e12d55e6bdf7e5123fcf07eef1b7523997d15f5c50"
+    },
+    {
+      "bytes": 302,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/fractal_path_tracker.md",
+      "sha256": "1cc0c6b3d4084de0c9f2ca030eb67d8e1661ddd78fc2eb7569f3f4ccd80226d3"
+    },
+    {
+      "archive_path": "/opt/crypto-fractal-scanner-publisher/reports/lab_reduction_archive_20261013/fractal_path_tracker_metrics.csv",
+      "bytes": 721,
+      "freshness_policy": "FROZEN_ARCHIVE_HASH_VERIFIED",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/fractal_path_tracker_metrics.csv",
+      "sha256": "2662160425fe1ce96e7ce1b71e95ba363c3ec73e49ee13cba06ffe92b3cb056a"
+    },
+    {
+      "bytes": 220123,
+      "freshness_policy": "ACTIVE_MAX_36H",
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/latest_report.md",
+      "sha256": "6be8c7f9690fe8dff38ce50213ba7c8e4830a547ce1119940fab394605704253"
+    }
+  ],
+  "frozen_strategy_archive": {
+    "offhost_bulk_archive": "PENDING_SEPARATE_GATE",
+    "retirement_state_sha256": "a2cc9318ae10edccff7b8d7f2435de85d1845551773fb503e732ebbdb742d5b6"
+  },
+  "generated_utc": "2026-10-15T18:45:02.163938+00:00",
+  "legacy_mode": "FRACTAL_ONLY_WITH_FROZEN_STRATEGY_ARCHIVE",
+  "paper_release": "RETIRED_NOT_REQUIRED",
+  "publisher_head": "18914b065250d73b9dcee05d37953c571b00cc39",
+  "schema_version": "2.0",
+  "source_and_config": [
+    {
+      "bytes": 83896,
+      "path": "/opt/crypto-fractal-scanner-publisher/scanner.py",
+      "sha256": "d6a80616b7e4c01358e8061b2077c36f2707564e72e1c1347f3fde4ed91ed088"
+    },
+    {
+      "bytes": 27962,
+      "path": "/opt/crypto-fractal-scanner-publisher/market_forecast_lab.py",
+      "sha256": "7f698f8fc7221570836351cf79d38e26d0c693cb31c5825979a2345430df28f7"
+    },
+    {
+      "bytes": 5612,
+      "path": "/usr/local/sbin/crypto-fractal-daily-cycle",
+      "sha256": "e4bd4ee9832d71a526ad7a82136e07ab0466966b3689e058996e30b37f3cc49d"
+    },
+    {
+      "bytes": 366,
+      "path": "/etc/systemd/system/crypto-fractal-daily.service",
+      "sha256": "d95b5ced4bcf0f20c2b5a094b44b0ead614fe9217fd1a82f09b5677c0d849a20"
+    },
+    {
+      "bytes": 239,
+      "path": "/etc/systemd/system/crypto-fractal-daily.timer",
+      "sha256": "9d90050ac4b95c85af16842aae271b41a433a81061c52bc9fd53ace070ca7a81"
+    },
+    {
+      "bytes": 30613,
+      "path": "/var/lib/crypto-fractal-scanner/fractal-only-backup-authority/LEGACY_NONLIVE_STRATEGY_RETIREMENT_STATE_V1.json",
+      "sha256": "a2cc9318ae10edccff7b8d7f2435de85d1845551773fb503e732ebbdb742d5b6"
+    }
+  ],
+  "suspension_authority": [
+    {
+      "bytes": 1203,
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/lab_reduction_status.json",
+      "sha256": "a5dd88e6a035dcc9a00c4d13b9eacc873b0b1daebece32389523549c86e9e8ef"
+    },
+    {
+      "bytes": 7258,
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/lab_reduction_archive_20261013/manifest.json",
+      "sha256": "d084db35714d92ff0b0c5743572b736f15e7ccef7209d15f339035e3411ba477"
+    },
+    {
+      "bytes": 721,
+      "path": "/opt/crypto-fractal-scanner-publisher/reports/lab_reduction_archive_20261013/fractal_path_tracker_metrics.csv",
+      "sha256": "2662160425fe1ce96e7ce1b71e95ba363c3ec73e49ee13cba06ffe92b3cb056a"
+    }
+  ]
+}
