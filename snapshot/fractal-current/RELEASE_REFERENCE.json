@@ -2,24 +2,24 @@
   "architecture": "FRACTAL_ONLY_RELEASE_REFERENCE_MANIFEST",
   "exchange_release": {
     "archive_policy": "one yearly release, one immutable asset per completed UTC month",
-    "last_timestamp_utc": "2026-10-19T03:37:33+00:00",
+    "last_timestamp_utc": "2026-10-19T04:37:34+00:00",
     "state_assets": [
       {
-        "id": 655147216,
+        "id": 655247519,
         "name": "exchange_state_B.tar.gz",
-        "size": 2965088,
-        "updated_at": "2026-10-19T03:37:41Z",
-        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/655147216"
+        "size": 2966233,
+        "updated_at": "2026-10-19T04:37:41Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/655247519"
       },
       {
-        "id": 655094270,
+        "id": 655199985,
         "name": "exchange_state_A.tar.gz",
-        "size": 2964471,
-        "updated_at": "2026-10-19T03:07:41Z",
-        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/655094270"
+        "size": 2965675,
+        "updated_at": "2026-10-19T04:07:41Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/655199985"
       }
     ],
-    "status_sha256": "b760bec236c453db5c48acd3a622163f709b48af6b4b3a1b01a4c462d2f90ba3"
+    "status_sha256": "e4d871e4f8fb68f47abdba8c7d0f7394333d81138b361e07753b975ed5c5b2f1"
   },
   "fractal_outputs": [
     {
@@ -100,7 +100,7 @@
     "offhost_bulk_archive": "PENDING_SEPARATE_GATE",
     "retirement_state_sha256": "a2cc9318ae10edccff7b8d7f2435de85d1845551773fb503e732ebbdb742d5b6"
   },
-  "generated_utc": "2026-10-19T03:45:01.959428+00:00",
+  "generated_utc": "2026-10-19T04:45:02.033889+00:00",
   "legacy_mode": "FRACTAL_ONLY_WITH_FROZEN_STRATEGY_ARCHIVE",
   "paper_release": "RETIRED_NOT_REQUIRED",
   "publisher_head": "baa3cf4beb15b54f5493d18a105102de927166d9",
