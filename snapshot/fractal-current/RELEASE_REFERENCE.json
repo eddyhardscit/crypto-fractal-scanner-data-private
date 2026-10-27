@@ -2,79 +2,79 @@
   "architecture": "FRACTAL_ONLY_RELEASE_REFERENCE_MANIFEST",
   "exchange_release": {
     "archive_policy": "one yearly release, one immutable asset per completed UTC month",
-    "last_timestamp_utc": "2026-10-27T05:37:34+00:00",
+    "last_timestamp_utc": "2026-10-27T06:37:34+00:00",
     "state_assets": [
       {
-        "id": 680583387,
+        "id": 680703031,
         "name": "exchange_state_A.tar.gz",
-        "size": 3219689,
-        "updated_at": "2026-10-27T05:37:42Z",
-        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/680583387"
+        "size": 3221095,
+        "updated_at": "2026-10-27T06:37:42Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/680703031"
       },
       {
-        "id": 680517257,
+        "id": 680641192,
         "name": "exchange_state_B.tar.gz",
-        "size": 3219086,
-        "updated_at": "2026-10-27T05:07:42Z",
-        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/680517257"
+        "size": 3220401,
+        "updated_at": "2026-10-27T06:07:42Z",
+        "url": "https://api.github.com/repos/eddyhardscit/crypto-fractal-scanner/releases/assets/680641192"
       }
     ],
-    "status_sha256": "2891c56bf26d95db79bd430b12ef3abee141d288d2a88bef7a42b54ab896719e"
+    "status_sha256": "630c70e519220d82a793f3b715187ec0c0f748ee8bdee9d3d0fa79e22499634f"
   },
   "fractal_outputs": [
     {
-      "bytes": 11168,
+      "bytes": 11075,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/BTC_matches.csv",
-      "sha256": "f31b2cc63c3f439e449fdabff2fd13c21d79177e9ebadb1082798c99913a77b8"
+      "sha256": "6440f65df9d6f2fb46ecbb2a8ed19c32b98fc06997ef946bb3d6dfdf2d27db4c"
     },
     {
       "bytes": 830,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/BTC_percentiles.csv",
-      "sha256": "f1410062cfb6047dc78b6991363f9af1bc9feb45529ceed5955633a1c4891c21"
+      "sha256": "c23db62da5b16b8845948866c2eafc6e06cfc267ed825b9d0da3c9c9533f148e"
     },
     {
-      "bytes": 11104,
+      "bytes": 11216,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/SOL_matches.csv",
-      "sha256": "d3f2080e118bdf5e019df5f98d8934d9e60049daba62af20d6b3c5012147409f"
+      "sha256": "f3fc572f6c8fb5426d3d58910db725d0bea21bf338bce6b6fa2385e692b6904a"
     },
     {
-      "bytes": 838,
+      "bytes": 835,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/SOL_percentiles.csv",
-      "sha256": "3c05203c8a9ae2e45d7e7997fae9e56431a9f0931b17a1ba4ace83c75109d0c6"
+      "sha256": "6212ecebd0420cbf17b47c5127426f266e470074393b224099fa4627985dd9a8"
     },
     {
-      "bytes": 10854,
+      "bytes": 10999,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/DOGE_matches.csv",
-      "sha256": "08ca79f9cb105607c86d7d4af6f7ee0ccf2cead9128d6c3c7458a15b4be30474"
+      "sha256": "7063eadf1bfa313b86d472dfb795cb9b36956e289602eb05897d8697af5f054d"
     },
     {
-      "bytes": 844,
+      "bytes": 845,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/DOGE_percentiles.csv",
-      "sha256": "85ad1b20ee371b00dba7fa1a423e1f822d8de6e2ab18659e69a6cabd0e61520b"
+      "sha256": "3ebbefd0def602c853bc09462f6b4a098c3e810df30d0139a3d6dc8bbbdafe1b"
     },
     {
-      "bytes": 257009,
+      "bytes": 257119,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/market_forecast_lab/forecast_latest.csv",
-      "sha256": "32456e94d036d470d4de6a8a56162564a9cb61078ad00ca46269e9d4ff6da5e8"
+      "sha256": "4a2cfbc350e4806313d9246e9a2282b72e6bae40a93902ee6d2349f2fc00fb19"
     },
     {
-      "bytes": 363150,
+      "bytes": 363106,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/market_forecast_lab/rotation_latest.csv",
-      "sha256": "387796607944cfadd6e48f079e7ae06217648876a692136de58992af765f9290"
+      "sha256": "cc360fe08cbd67c46f7b71b2ce0809928456e73401749eed89b3192b4630dc4b"
     },
     {
-      "bytes": 61262476,
+      "bytes": 63452958,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/market_forecast_lab/forecast_vintages.jsonl",
-      "sha256": "69c76af12bbf810bbe7d03bc92c7160ab8e985fc2598a60188c82ee404801437"
+      "sha256": "02953ea1068e1e00ced7c4449daa97562ed428a5d92934c98439f0f549302157"
     },
     {
       "bytes": 302,
@@ -90,20 +90,20 @@
       "sha256": "2662160425fe1ce96e7ce1b71e95ba363c3ec73e49ee13cba06ffe92b3cb056a"
     },
     {
-      "bytes": 219888,
+      "bytes": 219234,
       "freshness_policy": "ACTIVE_MAX_36H",
       "path": "/opt/crypto-fractal-scanner-publisher/reports/latest_report.md",
-      "sha256": "ecc614e522015fb4efa480b61a00bbe4ec963376f59226ad0b1bf80fcb719830"
+      "sha256": "3c9fc5af60d38d9f8f74c728841a5bb463b6a6675dcb7fe64cbe846f71203d81"
     }
   ],
   "frozen_strategy_archive": {
     "offhost_bulk_archive": "PENDING_SEPARATE_GATE",
     "retirement_state_sha256": "a2cc9318ae10edccff7b8d7f2435de85d1845551773fb503e732ebbdb742d5b6"
   },
-  "generated_utc": "2026-10-27T05:45:01.695001+00:00",
+  "generated_utc": "2026-10-27T06:45:01.719491+00:00",
   "legacy_mode": "FRACTAL_ONLY_WITH_FROZEN_STRATEGY_ARCHIVE",
   "paper_release": "RETIRED_NOT_REQUIRED",
-  "publisher_head": "872ac01c4726e7ef1056219c2c97df88ca7bffb9",
+  "publisher_head": "aafd45696e68fbc4beb96a5f6cfaf936660f916f",
   "schema_version": "2.0",
   "source_and_config": [
     {
@@ -141,7 +141,7 @@
     {
       "bytes": 1205,
       "path": "/opt/crypto-fractal-scanner-publisher/reports/lab_reduction_status.json",
-      "sha256": "d4f56cb457905d18eda29e12792eb93c0f409e06e68ecaf4f8639cd539c65776"
+      "sha256": "e354996a79846dc4289187aef0c1ca5a491e96447329837053c1dbe4205a74c3"
     },
     {
       "bytes": 7258,
